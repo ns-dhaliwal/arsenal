@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T00:22:09.239894+00:00",
+  "lastUpdated": "2026-06-19T06:12:09.306317+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,11 +363,35 @@
     },
     {
       "source": "sky",
+      "title": "Today at Royal Ascot: O’Brien pair star in Coronation clash",
+      "link": "https://www.skysports.com/racing/news/12040/13555245/today-at-royal-ascot-aidan-obrien-pair-precise-and-true-love-star-in-coronation-stakes-clash",
+      "summary": "Day four at Royal Ascot features two top class Group One contests as the Coronation Stakes and the Commonwealth Cup take centre stage, all live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-precise-horse-racing_7257236.jpg?20260524170611"
+    },
+    {
+      "source": "sky",
+      "title": "Mexico beat South Korea to earn first World Cup knockout spot",
+      "link": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
+      "summary": "Mexico became the first nation to secure a spot in the World Cup round of 32  and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-romo-south-korea_7277344.jpg?20260619032135"
+    },
+    {
+      "source": "sky",
       "title": "West Indies edge out Scotland for seven-run win",
       "link": "https://www.skysports.com/cricket/news/12040/13555547/t20-world-cup-west-indies-claim-seven-run-victory-over-scotland-in-thrilling-contest-at-headingley",
       "summary": "The West Indies overcame Scotland by seven runs and stayed unbeaten at the Women's T20 World Cup after a madcap match at Headingley.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ailsa-lister-scotland_7277209.jpg?20260618224819"
+    },
+    {
+      "source": "sky",
+      "title": "Austrian GP: UK schedule and how to watch on Sky Sports",
+      "link": "https://www.skysports.com/f1/news/12040/13554922/austrian-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-red-bull-ring-live-on-sky-sports",
+      "summary": "Formula 1's European summer swing continues with the Austrian Grand Prix on June 26-28, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mclaren-austria-red-bull-ring_7275705.jpg?20260617105731"
     },
     {
       "source": "sky",
@@ -379,7 +403,7 @@
     },
     {
       "source": "sky",
-      "title": "Canada vs Qatar: The key moments and rate the playres",
+      "title": "Canada vs Qatar: The key moments and rate the players",
       "link": "https://www.skysports.com/football/canada-vs-qatar/live/549792",
       "summary": "",
       "published": null,
@@ -395,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Joyce insists Dubois rematch is 'an attractive option'",
+      "link": "https://www.skysports.com/boxing/news/12040/13555569/joe-joyce-insists-a-rematch-with-former-rival-and-now-wbo-world-champion-daniel-dubois-is-an-attractive-option",
+      "summary": "Joe Joyce insists a rematch with Daniel Dubois is &#8220;an attractive option&#8221;.",
+      "published": null,
+      "image": "https://e0.365dm.com/20/11/1920x1080/skysports-joe-joyce-daniel-dubois_5188275.jpg?20201128233204"
+    },
+    {
+      "source": "sky",
       "title": "Scotland's chance to re-write painful Morocco memories and make history",
       "link": "https://www.skysports.com/football/news/12040/13555557/scotland-vs-morocco-steve-clarkes-side-can-rewrite-painful-memories-of-10000-day-world-cup-wait-by-making-history",
       "summary": "Morocco. A country, a team mentioned so much by Scotland fans despite only playing them once.",
@@ -403,7 +435,7 @@
     },
     {
       "source": "sky",
-      "title": "McIlroy makes fast start at windy US Open despite expensive finish",
+      "title": "'Anything under par is good!' - McIlroy upbeat despite expensive finish",
       "link": "https://www.skysports.com/golf/news/12040/13555389/us-open-rory-mcilroy-makes-strong-start-as-scottie-scheffler-stays-in-grand-slam-hunt-at-windy-shinnecock-hills",
       "summary": "Rory McIlroy missed out on a chance to grab the early clubhouse lead during a challenging opening round at the US Open, where Scottie Scheffler made a mixed start to his Grand Slam bid.",
       "published": null,
@@ -427,11 +459,51 @@
     },
     {
       "source": "sky",
+      "title": "Guest to make ONE Championship debut against Fitzgerald live on Sky",
+      "link": "https://www.skysports.com/mma/news/12040/13555515/charlie-guest-to-make-one-championship-debut-against-sam-fitzgerald-on-june-27-as-he-begins-title-pursuit-live-on-sky-sports",
+      "summary": "Britain&#8217;s Charlie Guest will make his ONE Championship debut against Sam Fitzgerald on June 27, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-charlie-guest-one-championship_7277105.png?20260618204326"
+    },
+    {
+      "source": "sky",
+      "title": "London Marathon to expand to two-day record-setting event in 2027",
+      "link": "https://www.skysports.com/athletics/news/12040/13555499/london-marathon-to-expand-to-two-days-for-one-off-record-setting-event-next-year-our-most-ambitious-evolution-to-date",
+      "summary": "The London Marathon for the first time will be held across two days next year.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-london-marathon-tower-bridge_7277060.jpg?20260618195042"
+    },
+    {
+      "source": "sky",
+      "title": "Clark surges ahead as McIlroy starts strong after brutal day at Shinnecock",
+      "link": "https://www.skysports.com/watch/video/13555590/us-open-round-one-highlights",
+      "summary": "Highlights from the opening round of the 2026 US Open at Shinnecock Hills, where strong winds made for a brutal test of golf.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-us-open-highlights_7277300.jpg?20260619013209"
+    },
+    {
+      "source": "sky",
+      "title": "Clark builds big US Open lead after McIlroy impresses at windy Shinnecock",
+      "link": "https://www.skysports.com/golf/news/12040/13555595/us-open-wyndham-clark-builds-four-shot-lead-at-windy-shinnecock-hills-with-rory-mcilroy-scottie-scheffler-chasing",
+      "summary": "Wyndham Clark charged into a four-shot lead after a weather-disrupted first day of the US Open, as Rory McIlroy made a solid start and Scottie Scheffler stayed in career Grand Slam contention.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-wyndham-clark-us-open_7277292.jpg?20260619010212"
+    },
+    {
+      "source": "sky",
       "title": "Scheffler enjoys 'great battle' as stars struggle at 'brutal' major test",
       "link": "https://www.skysports.com/golf/news/12040/13555393/us-open-scottie-scheffler-enjoys-great-battle-as-worlds-best-praise-brutal-major-test-at-windy-shinnecock-hills",
       "summary": "Scottie Scheffler insisted Shinnecock Hills provided a &#8216;good battle&#8217; during a windy opening round at the US Open, where many of the world&#8217;s best struggled in another tough major test.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-scottie-scheffler_7277237.jpg?20260618232541"
+    },
+    {
+      "source": "sky",
+      "title": "David scores hat-trick as Canada thrash NINE-man Qatar",
+      "link": "https://www.skysports.com/football/canada-vs-qatar/report/549792",
+      "summary": "Canada are on the brink of qualifying for the World Cup knockout stages after a Jonathan David hat-trick inspired a 6-0 win over woeful nine-man Qatar - in a result marred by a serious leg injury for midfielder Ismael Kone.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277256.jpg?20260618235349"
     },
     {
       "source": "sky",
@@ -443,83 +515,11 @@
     },
     {
       "source": "sky",
-      "title": "David scores hat-trick as Canada thrash NINE-man Qatar",
-      "link": "https://www.skysports.com/football/canada-vs-qatar/report/549792",
-      "summary": "Canada are on the brink of qualifying for the World Cup knockout stages after a Jonathan David treble inspired 6-0 win over woeful nine-man Qatar - in a result marred by a serious leg injury for midfielder Ismael Kone.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-canada-qatar_7277256.jpg?20260618235349"
-    },
-    {
-      "source": "sky",
       "title": "EFL latest: Wrexham interested in departing Newcastle chief",
       "link": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-peter-cklamovski_7276452.png?20260618091856"
-    },
-    {
-      "source": "sky",
-      "title": "'Inept' and 'brainless' bouncer barrage leaves England on the back foot",
-      "link": "https://www.skysports.com/cricket/news/12040/13555473/england-pay-price-for-inept-and-brainless-morning-session-as-new-zealand-take-control-of-second-test",
-      "summary": "England began day two of the Oval Test hoping to polish off the New Zealand innings pronto.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-sonny-baker-england-test-cricket_7277028.jpg?20260618192057"
-    },
-    {
-      "source": "sky",
-      "title": "Mercedes withdraw appeal of Gasly Monaco podium reinstatement",
-      "link": "https://www.skysports.com/f1/news/12040/13555495/monaco-gp-mercedes-withdraw-appeal-of-pierre-gasly-podium-reinstatement-following-speeding-penalty-controversy",
-      "summary": "Mercedes have withdrawn their request for a right of review into the Monaco Grand Prix result after Alpine's successful appeal saw Pierre Gasly reinstated to the podium.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-george-russell-mercedes_7277061.jpg?20260618195253"
-    },
-    {
-      "source": "sky",
-      "title": "Late penalty gifts South Africa first point against wasteful Czech Republic",
-      "link": "https://www.skysports.com/football/czech-republic-vs-south-africa/report/549790",
-      "summary": "Teboho Mokoena's late penalty gifted South Africa their first point of the World Cup after wasteful Czech Republic failed to make their chances pay in a 1-1 draw in Atlanta.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-teboho-mokoena-south-africa_7277002.jpg?20260618190224"
-    },
-    {
-      "source": "sky",
-      "title": "US Open: Full R2 groupings and tee times for Friday's second round",
-      "link": "https://www.skysports.com/golf/news/12040/13555394/us-open-2026-tee-times-full-r2-groupings-and-uk-and-ireland-start-times-for-second-round-at-shinnecock-hills-in-new-york",
-      "summary": "Groupings and tee times for the second round of the 126th US Open, held at Shinnecock Hills Golf Club in Southampton, New York.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-matt-fitzpatrick_7277198.jpg?20260618223556"
-    },
-    {
-      "source": "sky",
-      "title": "'I'm Lord Hall now!' | How has Ryan Hall ended up with a lordship?!",
-      "link": "https://www.skysports.com/watch/video/13555535/how-has-leeds-rhinos-ryan-hall-ended-up-with-a-lordship",
-      "summary": "Leeds Rhinos' Ryan Hall explains why he now has a Lord!",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-league-leeds-rhinos_7277171.jpg?20260618221136"
-    },
-    {
-      "source": "sky",
-      "title": "Super sub Manzambi helps Switzerland close on knockout stages with thumping win",
-      "link": "https://www.skysports.com/football/switzerland-vs-bosnia-and-herzegovina/report/549791",
-      "summary": "Switzerland took a giant leap towards qualifying for the World Cup knockout stages with an emphatic 4-1 win over Bosnia-Herzegovina in Los Angeles.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-switzerland_7277151.jpg?20260618214643"
-    },
-    {
-      "source": "sky",
-      "title": "Clarke: Underdog tag will bring best out of Scotland vs Morocco",
-      "link": "https://www.skysports.com/football/news/12040/13555452/scotland-at-world-cup-steve-clarke-says-his-side-are-more-comfortable-as-underdogs-ahead-of-morocco-match",
-      "summary": "Steve Clarke believes Scotland are often at their best when expectations are against them as they prepare for a World Cup showdown with Morocco.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-steve-clarke_7277020.jpg?20260618191811"
-    },
-    {
-      "source": "sky",
-      "title": "Brighton latest: Why van Hecke's Spurs move suits everyone",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936"
     }
   ]
 }
