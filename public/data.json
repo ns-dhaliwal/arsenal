@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-22T09:43:57.803871+00:00",
+  "lastUpdated": "2026-06-22T15:20:03.301021+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Madueke's remarkable season - from petition to World Cup starter",
+      "link": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
+      "published": "2026-06-22T10:47:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b4/live/8b578340-6dc1-11f1-99a1-adc31e23373a.jpg"
+    },
     {
       "source": "guardian",
       "title": "Declan Rice reveals he has played through hamstring nerve pain for six months",
@@ -346,14 +354,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec9/live/a1503ae0-5d07-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal 'pain' will fuel fire after Champions League heartbreak",
-      "link": "https://www.bbc.com/sport/football/articles/c072l8mkp92o?at_medium=RSS&at_campaign=rss",
-      "summary": "On Sunday, Arsenal will get on an open bus parade to celebrate their Premier League title less than 24 hours after their Champions League final heartbreak.",
-      "published": "2026-05-30T22:46:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb0/live/f99450f0-5c72-11f1-b6be-17904d66ae7d.jpg"
-    },
-    {
       "source": "arsenal",
       "title": "‘Lacazette is going to score goals for this club’",
       "link": "https://www.arsenal.com/news/lacazette-going-score-goals-club",
@@ -363,11 +363,59 @@
     },
     {
       "source": "sky",
-      "title": "Cape Verde are the story of this World Cup - they are everyone's second team",
+      "title": "Ex-Wimbledon champ given four-year ban for refusing anti-doping test",
+      "link": "https://www.skysports.com/tennis/news/12040/13556775/former-wimbledon-champion-marketa-vondrousova-banned-for-four-years-for-refusing-anti-doping-test-last-year",
+      "summary": "Former Wimbledon champion Marketa Vondrousova has been suspended from tennis for four years for refusing an anti-doping test.",
+      "published": null,
+      "image": "https://e2.365dm.com/23/07/1920x1080/skysports-tennis-vondrousova_6219988.jpg?20230716072846"
+    },
+    {
+      "source": "sky",
+      "title": "Maresca set to travel to Manchester to complete City move",
+      "link": "https://www.skysports.com/football/news/12040/13545794/enzo-maresca-to-man-city-pep-guardiolas-successor-lined-up-as-former-chelsea-boss-agrees-to-take-over-at-etihad-stadium",
+      "summary": "Manchester City are close to completing a deal to appoint Enzo Maresca as head coach, according to Sky in Italy.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-enzo-maresca_7253099.jpg?20260519131305"
+    },
+    {
+      "source": "sky",
+      "title": "Norris: Ferrari would 'embarrass' everyone with better engine",
+      "link": "https://www.skysports.com/f1/news/12040/13554290/lando-norris-mclaren-driver-says-ferrari-would-embarrass-everyone-with-better-f1-engine-after-barcelona-win",
+      "summary": "Lando Norris believes Ferrari would \"embarrass\" the rest of the Formula 1 field if they had a better engine.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-charles-leclerc_7274092.jpg?20260615122902"
+    },
+    {
+      "source": "sky",
+      "title": "Spygate reunion, derbies & the biggest mismatch ever?! 10 EFL games to get excited about",
+      "link": "https://www.skysports.com/football/news/12040/13550733/efl-2026-27-spygate-reunion-derbies-galore-the-biggest-mismatch-ever-10-games-to-get-excited-about-this-season",
+      "summary": "The 2026/27 EFL season fixtures will be announced on Thursday, June 25.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-west-ham-millwall_7268911.jpg?20260609103526"
+    },
+    {
+      "source": "sky",
+      "title": "Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
+      "link": "https://www.skysports.com/football/news/12040/13556733/england-world-cup-latest-jamie-carragher-says-thomas-tuchel-cant-afford-to-drop-declan-rice-against-ghana-despite-fitness-concerns",
+      "summary": "Jamie Carragher says England can't afford to drop Declan Rice against Ghana despite concerns over his fitness, but believes Bukayo Saka should not be risked.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-declan-rice-england_7276366.jpg?20260618072807"
+    },
+    {
+      "source": "sky",
+      "title": "Cape Verde are the story of this World Cup - are they everyone's second team?",
       "link": "https://www.skysports.com/football/news/12040/13556552/cape-verde-at-the-world-cup-african-nation-have-gained-the-hearts-of-the-world-as-everyones-second-team-after-brave-draw-with-uruguay",
       "summary": "Those waking up on Monday morning in the UK will look at one particular result and be stunned. \"Cape Verde did it again?!\" was probably your reaction.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cape-verde_7279636.jpg?20260622015903"
+    },
+    {
+      "source": "sky",
+      "title": "Could Eubank Jr launch comeback in Nigeria?",
+      "link": "https://www.skysports.com/boxing/news/12040/13556069/chris-eubank-jr-british-boxer-in-nigeria-as-he-considers-options-for-return-to-ring-for-first-fight-since-conor-benn-defeat",
+      "summary": "Chris Eubank Jr has travelled to Nigeria as he considers options for his return to boxing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-boxing-2026-chris-eubank-jr_7278472.jpg?20260620112817"
     },
     {
       "source": "sky",
@@ -379,11 +427,19 @@
     },
     {
       "source": "sky",
-      "title": "Go for Guehi? Tuchel's centre-back dilemma after Croatia concerns",
+      "title": "Go for Guehi? Tuchel's centre-back dilemma",
       "link": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia",
       "summary": "England's attack caught fire against Croatia but their defence in Dallas was far less convincing.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-guehi-marc-john-stones_7277814.jpg?20260619145223"
+    },
+    {
+      "source": "sky",
+      "title": "George to captain England in Nations Championship as Itoje rested",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13556776/england-rugby-berhard-janse-van-rensburg-set-to-make-debut-as-maro-itoje-rested-for-nations-championship",
+      "summary": "England head coach Steve Borthwick has rested captain Maro Itoje for the inaugural Nations Championship, with Jamie George set to take the armband for the fixtures against South Africa, Fiji, and Argentina.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-maro-itoje-england_7170865.jpg?20260221134543"
     },
     {
       "source": "sky",
@@ -408,6 +464,30 @@
       "summary": "Mercedes boss Toto Wolff says the team will discuss how Kimi Antonelli and George Russell race each other going forward due to the possible championship threat from Lewis Hamilton.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-george-russell-kimi-antonelli_7276411.jpg?20260618082728"
+    },
+    {
+      "source": "sky",
+      "title": "Stokes and Atkinson cleared by Cricket Regulator over nightclub incident",
+      "link": "https://www.skysports.com/cricket/news/12040/13556753/ben-stokes-england-captain-and-gus-atkinson-cleared-of-charges-by-cricket-regulator-after-investigation-into-nightclub-incident",
+      "summary": "The independent Cricket Regulator has taken no action against Ben Stokes and Gus Atkinson over the nightclub incident which led to them missing last week&#8217;s Test against New Zealand, finding \"insufficient evidence\" against the pair.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ben-stokes_7269854.jpg?20260610105622"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd secure land to build new 100,000-seater stadium",
+      "link": "https://www.skysports.com/football/news/12040/13556750/man-utd-secure-land-to-build-new-100000-seater-stadium",
+      "summary": "Manchester United have secured the majority of the land required to build their new 100,000-seater stadium as the club ramps up plans to create the largest facility in the United Kingdom.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-man-utd-old-trafford_7280128.jpg?20260622144650"
+    },
+    {
+      "source": "sky",
+      "title": "England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
+      "link": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
+      "summary": "As we head towards the final World Cup group games, it's time to start looking ahead to the knockout stages and potential routes to the final in July 19.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup_7271107.jpg?20260611193140"
     },
     {
       "source": "sky",
@@ -440,86 +520,6 @@
       "summary": "Highlights of the Super League match between Hull Kingston Rovers and Leigh Leopards.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/super-league-rugby-league-hull-kr_7278204.jpg?20260619221512"
-    },
-    {
-      "source": "sky",
-      "title": "They've done it again! Cape Verde claim another draw with Uruguay",
-      "link": "https://www.skysports.com/football/uruguay-vs-cape-verde/report/549805",
-      "summary": "Cape Verde continued their fairytale World Cup campaign as the African group of islands claimed a 2-2 draw with two-time winners Uruguay in Miami.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-uruguay-cape-verde_7279626.jpg?20260622003123"
-    },
-    {
-      "source": "sky",
-      "title": "Uruguay 2-2 Cape Verde THRILLER - the key moments and rate the players!",
-      "link": "https://www.skysports.com/football/uruguay-vs-cape-verde/live/549805",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-uruguay-cape-verde_7279598.jpg?20260621232716"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Mesaafi and Glamorous Breeze clash at Windsor",
-      "link": "https://www.skysports.com/racing/news/12040/13556359/today-on-sky-sports-racing-brighton-and-windsor-feature-live-on-monday",
-      "summary": "We have a busy day's racing on Monday with Flat action from Brighton and Windsor, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7254785.jpg?20260521135548"
-    },
-    {
-      "source": "sky",
-      "title": "Iran earn battling draw vs frustrated 10-man Belgium",
-      "link": "https://www.skysports.com/football/belgium-vs-iran/report/549802",
-      "summary": "Iran battled to a well-deserved point against 10-man Belgium with a 0-0 draw in Los Angeles.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kevin-de-bruyne-belgium_7279542.jpg?20260621211045"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Liverpool knock back Inter's Jones offer",
-      "link": "https://www.skysports.com/football/news/12040/13556527/paper-talk-liverpool-reject-21m-curtis-jones-offer-from-inter-milan-which-falls-considerably-short-of-valuation",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "England latest: Tuchel ‘demands high standards’, says Spence after viral training clip",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
-    },
-    {
-      "source": "sky",
-      "title": "Women's World Matchplay field confirmed with Greaves, Ashton, Sherrock",
-      "link": "https://www.skysports.com/darts/news/12040/13556487/womens-world-matchplay-field-confirmed-with-beau-greaves-lisa-ashton-and-fallon-sherrock-leading-the-way-at-blackpools-winter-gardens",
-      "summary": "The field and draw for the Women's World Matchplay have been confirmed with Lisa Ashton set to defend her title.",
-      "published": null,
-      "image": "https://e0.365dm.com/25/11/1920x1080/skysports-fallon-sherrock-beau-greaves_7094202.jpg?20251128080927"
-    },
-    {
-      "source": "sky",
-      "title": "Clark hangs on to win dramatic US Open!",
-      "link": "https://www.skysports.com/watch/video/13556549/us-open-round-four-highlights",
-      "summary": "Highlights from the final round of the US Open at Shinnecock Hills Golf Club.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-golfa-a_7279629.jpg?20260622004500"
-    },
-    {
-      "source": "sky",
-      "title": "'He's got no friends out here!' | Clark subjected to taunts at US Open",
-      "link": "https://www.skysports.com/watch/video/13556538/us-open-wyndham-clark-targeted-by-hecklers-at-shinnecock-hills-hes-got-no-friends-out-here",
-      "summary": "Wyndham Clark was the subject of heckles from the crowd at Shinnecock Hills during the final round of the US Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-wyndham-clark-clark_7279592.jpg?20260621231241"
-    },
-    {
-      "source": "sky",
-      "title": "From potential eagle to bogey! | Clark blows US Open wide open",
-      "link": "https://www.skysports.com/watch/video/13556519/us-open-wyndham-clark-falters-with-sloppy-bogey-after-poor-club-selection",
-      "summary": "Wyndham Clark made bogey from the middle of the fairway at the par-five fifth hole at Shinnecock Hills as his US Open lead slid to just one shot.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-wyndham-clark-clark_7279540.jpg?20260621210837"
     }
   ]
 }
