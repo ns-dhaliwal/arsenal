@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T02:44:30.162058+00:00",
+  "lastUpdated": "2026-06-24T06:42:35.045684+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,7 +363,15 @@
     },
     {
       "source": "sky",
-      "title": "Munoz goal ruled out as Colombia push for opener vs DR Congo LIVE!",
+      "title": "Can Hamilton win again to turbocharge a Ferrari title bid?",
+      "link": "https://www.skysports.com/f1/news/12040/13557055/lewis-hamilton-can-ferrari-win-again-at-austrian-gp-to-accelerate-mercedes-challenge-as-scuderia-ready-first-engine-upgrade",
+      "summary": "No driver has won more grands prix in Formula 1 than Lewis Hamilton, while no team has won more often than Ferrari, but the combination's long-awaited first success together at the Barcelona-Catalunya Grand Prix acted as a historic moment in the sport.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lewis-hamilton-ferrari_7281173.jpg?20260623185013"
+    },
+    {
+      "source": "sky",
+      "title": "Colombia vs DR Congo: All the big moments and rate the players",
       "link": "https://www.skysports.com/football/colombia-vs-dr-congo/live/549811",
       "summary": "",
       "published": null,
@@ -395,6 +403,14 @@
     },
     {
       "source": "sky",
+      "title": "Munoz strike ends DR Congo resistance and sends Colombia into last 32",
+      "link": "https://www.skysports.com/football/colombia-vs-dr-congo/report/549811",
+      "summary": "Daniel Munoz's second-half strike was enough to see a dominant Colombia beat DR Congo 1-0 as the South Americans secured their place in the World Cup last 32.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-colombia-munoz_7281387.jpg?20260624044630"
+    },
+    {
+      "source": "sky",
       "title": "'He drove four hours to see me fight' | McKenna's friendship with Kendrick Lamar",
       "link": "https://www.skysports.com/watch/video/13557104/boxing-aaron-mckenna-discusses-his-unlikely-friendship-with-kendrick-lamar",
       "summary": "Aaron McKenna talks about his unlikely friendship with Kendrick Lamar after meeting at a training session with his brother.",
@@ -416,6 +432,22 @@
       "summary": "The PGA Tour will feature promotion and relegation from the 2028 season as part of a two-tier series format after a major shake-up of its structure was approved.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-rory-mcilroy-scottie-scheffler_7280977.jpg?20260623145602"
+    },
+    {
+      "source": "sky",
+      "title": "England's razor-sharp attack missing in lacklustre draw against Ghana | The Verdict",
+      "link": "https://www.skysports.com/watch/video/13557259/world-cup-englands-razor-sharp-attack-missing-in-lacklustre-draw-against-ghana",
+      "summary": "Rob Dorsett gives his verdict on England's 0-0 draw with Ghana in their tricky second match in Group L at the World Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-verdict-england-world-cup_7281415.jpg?20260624062624"
+    },
+    {
+      "source": "sky",
+      "title": "McKenna eyes Canelo and Eubank Jr after world championship fight",
+      "link": "https://www.skysports.com/boxing/news/12040/13557258/aaron-mckenna-eyes-canelo-alvarez-and-chris-eubank-jr-after-world-championship-fight-against-etinosa-oliha-in-dublin",
+      "summary": "Aaron McKenna gets his dream world title fight against Etinosa Oliha in Dublin on August 8, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-aaron-mckenna-mickey-ellison_7281407.jpg?20260624061314"
     },
     {
       "source": "sky",
@@ -488,38 +520,6 @@
       "summary": "Djed Spence appeared to not shake hands with Thomas Partey before England's match against Ghana.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-partey-ghana_7281319.jpg?20260623220948"
-    },
-    {
-      "source": "sky",
-      "title": "He has arrived! Ronaldo scores two as Portugal thrash Uzbekistan",
-      "link": "https://www.skysports.com/football/portugal-vs-uzbekistan/report/549810",
-      "summary": "Cristiano Ronaldo scored twice as Portugal reaffirmed their World Cup credentials with a rousing 5-0 victory over Uzbekistan.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7281214.jpg?20260623193024"
-    },
-    {
-      "source": "sky",
-      "title": "Why Sao Paulo is one of football's biggest talent factories",
-      "link": "https://www.skysports.com/football/news/12040/13550006/sao-paulo-is-brazils-great-talent-factory-and-now-europe-wants-in-on-the-varzea-culture-that-helps-create-wonderkids",
-      "summary": "What makes football in Sao Paulo special? It is a question that the city&#8217;s great football clubs have been asking themselves almost as much as the European scouts who visit. By embracing the past, the aim to ensure that they keep creating talent in the future.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-palmeiras-brazil_7281161.jpg?20260623183752"
-    },
-    {
-      "source": "sky",
-      "title": "England latest: 'I saw the Ghana result coming,' says Tuchel",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
-    },
-    {
-      "source": "sky",
-      "title": "Dart bows out of Eastbourne Open as Fery among Brits making history",
-      "link": "https://www.skysports.com/tennis/news/12040/13557235/harriet-dart-bows-out-of-eastbourne-open-as-arthur-fery-among-six-brits-to-make-history-at-wimbledon-tune-up-event",
-      "summary": "Harriet Dart bowed out of the first round of the Eastbourne Open on Tuesday after suffering a 4-6 6-2 7-5 defeat by Zeynep S&#246;nmez.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harriet-dart_7281350.jpg?20260623232110"
     }
   ]
 }
