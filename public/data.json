@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-25T08:53:01.266072+00:00",
+  "lastUpdated": "2026-06-25T11:36:30.376199+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Club World Cup likely to expand for 2029 with more Premier League clubs involved",
+      "link": "https://www.theguardian.com/football/2026/jun/25/fifa-agrees-club-world-cup-joint-venture-efc-boost-premier-league-clubs",
+      "summary": "Fifa agrees joint venture with lobby group EFCNext edition poised to expand from 32 to 48 clubsFifa has agreed to create a joint venture with the lobby group European Football Clubs (EFC) to operate the Club World Cup that is likely to see more Premier League clubs enter the lucrative competition.Chelsea earned around £84m from winning last year’s inaugural 32-team tournament, leading other big Eu",
+      "published": "2026-06-25T09:44:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/4e730f6b180b8ed636f73d5d7918cb0cdf908479/161_0_3428_2742/master/3428.jpg?width=140&quality=85&auto=format&fit=max&s=86c6448f184e7d65444a44df5ee7e2ad"
+    },
     {
       "source": "bbc",
       "title": "'Tierney is my guy' says Brazil's Martinelli",
@@ -314,14 +322,6 @@
       "image": "https://i.guim.co.uk/img/media/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/master/3223.jpg?width=140&quality=85&auto=format&fit=max&s=0f69c83201fc381e855ac6e1e35c8fd2"
     },
     {
-      "source": "guardian",
-      "title": "Sixteen people arrested and 75 rescued from height during Arsenal bus parade",
-      "link": "https://www.theguardian.com/football/2026/may/31/people-arrested-and-rescued-from-height-during-arsenal-bus-parade",
-      "summary": "Fans estimated at hundreds of thousands fill north London streets to celebrate women’s and men’s teams’ triumphsAbout 75 people had to be rescued from height and 16 people were arrested during Arsenal’s victory bus parade on Sunday, emergency services said.What were estimated as hundreds of thousands of fans lined the streets around the Emirates stadium in north London to celebrate the Gunners win",
-      "published": "2026-05-31T22:30:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/b636d22e2aea434272bcf40913878ae6b39541e3/394_0_6356_5085/master/6356.jpg?width=140&quality=85&auto=format&fit=max&s=5f1f2945279cce672ca300b555fd7199"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal fans turn streets red for victory parade",
       "link": "https://www.bbc.co.uk/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
@@ -371,11 +371,51 @@
     },
     {
       "source": "sky",
-      "title": "Stokes, Atkinson return for England vs NZ Test series-decider LIVE!",
+      "title": "West Ham latest: Hammers start Championship campaign with trip to Burnley",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+    },
+    {
+      "source": "sky",
+      "title": "Littler: 'What's the point in paying money for tickets and then coming to boo?'",
+      "link": "https://www.skysports.com/darts/news/12040/13557554/luke-littler-world-no-1-discusses-his-battle-with-hostile-crowds-and-says-people-are-bored-of-seeing-him-win",
+      "summary": "World No 1 Luke Littler has opened up about his battle with hostile crowds and admits people are \"bored\" of seeing him win.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260608.jpg?20260528200225"
+    },
+    {
+      "source": "sky",
+      "title": "West Ham visit Burnley on opening Championship weekend - every game live on Sky",
+      "link": "https://www.skysports.com/football/news/12040/13552248/championship-2026-27-season-fixtures-dates-schedule-and-how-to-watch",
+      "summary": "West Ham and Burnley will go head to head on the opening weekend of the new Championship season after Wolves kick off the new campaign at home to Blackburn - live on Sky Sports+.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-efl-fixtures-championship_7277462.jpg?20260619080034"
+    },
+    {
+      "source": "sky",
+      "title": "L1 fixtures: Leicester start at Notts County with every opening game live on Sky",
+      "link": "https://www.skysports.com/football/news/12040/13552244/league-one-2026-27-season-fixtures-dates-schedule-how-to-watch",
+      "summary": "Leicester City will start their first season in Sky Bet League One since 2008/09 with a trip to Notts County, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-efl-league-one-fixtures_7277459.jpg?20260619075851"
+    },
+    {
+      "source": "sky",
+      "title": "Scorecard: England vs New Zealand, third Test",
+      "link": "https://www.skysports.com/cricket/england-v-new-zealand/scorecard/1f23e721-b6af-5b60-97f9-a4e15cc65696",
+      "summary": "Latest score from the third and final Test between England and New Zealand at Trent Bridge, with the two teams tied at 1-1. Watch on Sky Sports Cricket.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gus-atkinson-england-mens-test-cricket_7265939.jpg?20260605101338"
+    },
+    {
+      "source": "sky",
+      "title": "New Zealand make strong start with bat in third Test vs England LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13557526/england-vs-new-zealand-third-test-day-one-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ben-stokes-ben-stokes_7269840.jpg?20260621121937"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-devon-conway-new-zealand_7282558.jpg?20260625115126"
     },
     {
       "source": "sky",
@@ -395,6 +435,22 @@
     },
     {
       "source": "sky",
+      "title": "L2 fixtures: York, Rochdale return to EFL with every opening game live on Sky",
+      "link": "https://www.skysports.com/football/news/12040/13552231/league-two-2026-27-season-fixtures-dates-schedule-how-to-watch",
+      "summary": "Newly-promoted Rochdale's game at Newport will kick off the new 2026/27 Sky Bet League Two season on Saturday August 15, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-efl-league-two-fixtures_7277458.jpg?20260619075812"
+    },
+    {
+      "source": "sky",
+      "title": "EVERY EFL game LIVE on Sky Sports on opening weekend",
+      "link": "https://www.skysports.com/football/news/12040/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times",
+      "summary": "All the live EFL matches from the Championship, League One and League Two on Sky Sports this season...",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-efl-efl-fixtures_7277457.jpg?20260619075719"
+    },
+    {
+      "source": "sky",
       "title": "Humphries and Littler take centre stage at US Darts Masters in New York",
       "link": "https://www.skysports.com/darts/news/12040/13557552/luke-littler-world-no-1-bids-for-maiden-us-darts-masters-crown-with-luke-humphries-set-to-defend-his-title-at-madison-square-garden-in-new-york",
       "summary": "Luke Humphries will open the defence of his bet365 US Darts Masters title against former North American champion Leonard Gates, while Luke Littler faces David Cameron in his opener.",
@@ -411,7 +467,7 @@
     },
     {
       "source": "sky",
-      "title": "Scotland's hopes of progressing to last 32 hanging by a thread",
+      "title": "What do Scotland need to make the World Cup last 32?",
       "link": "https://www.skysports.com/football/news/12040/13546376/scotlands-world-cup-2026-fixtures-schedule-plus-routes-to-knock-out-stage-and-beyond-can-steve-clarkes-side-make-history",
       "summary": "Scotland's World Cup dreams and hopes of progressing to the last 32 are hanging by a thread after their heavy 3-0 defeat to Brazil.",
       "published": null,
@@ -453,7 +509,7 @@
       "source": "sky",
       "title": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
       "link": "https://www.skysports.com/football/czech-republic-vs-mexico/report/549815",
-      "summary": "Guillermo Ochoa appeared at a record sixth World Cup and 17-year-old Gilberto Mora shone as the youngest player to start in the competition for 24 years as co-hosts Mexico eliminated Czech Republic with a third consecutive win in Group A.",
+      "summary": "Guillermo Ochoa appeared at his sixth World Cup and 17-year-old Gilberto Mora shone as the youngest player to start in the competition for 24 years as co-hosts Mexico eliminated Czech Republic with a third consecutive win in Group A.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexip-mexico-fidalgo_7282213.jpg?20260625041347"
     },
@@ -464,62 +520,6 @@
       "summary": "Sky Sports' Luke Shanley gives the latest after Scotland's hopes for knockout football at the World Cup took a huge dent, following defeat to Brazil.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-football-scotland_7282316.jpg?20260625073307"
-    },
-    {
-      "source": "sky",
-      "title": "Scotland face anxious wait after punishing loss to Brazil",
-      "link": "https://www.skysports.com/football/scotland-vs-brazil/report/549819",
-      "summary": "Scotland face a nervous wait to learn their World Cup fate after they were beaten 3-0 by Brazil.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-vinicius-junior-brazil_7282157.jpg?20260624232121"
-    },
-    {
-      "source": "sky",
-      "title": "Who could play who in the last 32: Every potential knockout-stage fixture!",
-      "link": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
-      "summary": "As the World Cup group stage draws to a close, it's time to start looking ahead to the knockout rounds and potential routes to the final on July 19.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-2026-bracket_7280764.jpg?20260623105714"
-    },
-    {
-      "source": "sky",
-      "title": "South Africa reach knockout stages for first time with win over South Korea",
-      "link": "https://www.skysports.com/football/south-africa-vs-korea-republic/report/549814",
-      "summary": "South Africa have reached the World Cup knockout rounds for the first time in their history by finishing second in Group A with a 1-0 victory over South Korea.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thapelo-maseko-south-africa_7282211.jpg?20260625033939"
-    },
-    {
-      "source": "sky",
-      "title": "England latest: Rice and James being assessed ahead of Panama clash",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-declan-rice-england_7281378.jpg?20260624004247"
-    },
-    {
-      "source": "sky",
-      "title": "Morocco late show beats Haiti and secures second in Group C",
-      "link": "https://www.skysports.com/football/morocco-vs-haiti/report/549818",
-      "summary": "Two late goals earned Morocco a hard-fought 4-2 win against Haiti in their final World Cup Group C game, which saw them finish as runners-up.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-morocco-gessime-yassine_7282181.jpg?20260625011238"
-    },
-    {
-      "source": "sky",
-      "title": "Golf leaderboards: US Open, LPGA Tour, Ladies European Tour and more",
-      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "summary": "Latest golf scores and results from around the world, including the US Open, the LPGA Tour, Ladies European Tour and much more.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-golf-scottie-scheffler_7250935.jpg?20260516233331"
-    },
-    {
-      "source": "sky",
-      "title": "Bosnia keep hopes of maiden knockouts appearance alive with win over Qatar",
-      "link": "https://www.skysports.com/football/bosnia-and-herzegovina-vs-qatar/report/549816",
-      "summary": "Bosnia-Herzegovina kept their hopes of progressing into the World Cup knockouts for the first time in their history as one of the best third-place finishers alive after beating Qatar 3-1 in Washington.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-bosnia-goal_7282038.jpg?20260624204335"
     }
   ]
 }
