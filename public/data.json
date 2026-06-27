@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-27T19:22:10.344414+00:00",
+  "lastUpdated": "2026-06-27T20:56:11.632787+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Could you complete this England player's challenge?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d3g2vzz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport takes on the Rocky steps",
+      "published": "2026-06-27T20:13:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce81/live/a20e8ca0-7262-11f1-8e1d-bbbb1017d210.jpg"
+    },
     {
       "source": "bbc",
       "title": "Performance coach Wilson set to leave Arsenal",
@@ -346,14 +354,6 @@
       "image": "https://i.guim.co.uk/img/media/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/master/3223.jpg?width=140&quality=85&auto=format&fit=max&s=0f69c83201fc381e855ac6e1e35c8fd2"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal fans turn streets red for victory parade",
-      "link": "https://www.bbc.co.uk/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.",
-      "published": "2026-05-31T22:02:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f90/live/52d34570-5d15-11f1-8b93-bf943d3c7bfa.jpg"
-    },
-    {
       "source": "arsenal",
       "title": "‘Lacazette is going to score goals for this club’",
       "link": "https://www.arsenal.com/news/lacazette-going-score-goals-club",
@@ -363,11 +363,27 @@
     },
     {
       "source": "sky",
-      "title": "Quansah 'set to start' for England vs Panama LIVE!",
+      "title": "Group L finale as England take on Panama with Croatia vs Ghana LIVE!",
       "link": "https://www.skysports.com/football/panama-vs-england/live/549837",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-group-l_7275568.jpg?20260617083426"
+    },
+    {
+      "source": "sky",
+      "title": "Ireland take shock win but West Indies still progress to semi-finals",
+      "link": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
+      "summary": "Ireland secured their first win at a Women's T20 World Cup as they beat semi-final hopefuls West Indies by six wickets with 11 balls to spare in Bristol.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-rebecca-stokell-louise-little_7284514.jpg?20260627201916"
+    },
+    {
+      "source": "sky",
+      "title": "Two wickets in three deliveries for England's Bell!",
+      "link": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
+      "summary": "Brooke Halliday (20) goes after brilliant fielding from skipper Dean with Lauren Bell grabbing the wicket of Sophie Devine (30) in England's ICC Women's T20 World Cup match with New Zealand.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-lauren-bell-wickets_7284508.jpg?20260627195634"
     },
     {
       "source": "sky",
@@ -387,7 +403,15 @@
     },
     {
       "source": "sky",
-      "title": "Scot Prem latest: Rangers in talks over ex-Everton defender",
+      "title": "Gakpo to stay with Netherlands squad after loss of unborn son",
+      "link": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
+      "summary": "Cody Gakpo will stay with the Netherlands squad at the World Cup following the loss of his unborn son.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cody-gakpo-netherlands_7284527.jpg?20260627204131"
+    },
+    {
+      "source": "sky",
+      "title": "Scot Prem latest: Godfrey completes Rangers medical",
       "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "summary": "",
       "published": null,
@@ -416,6 +440,14 @@
       "summary": "Lewis Hamilton hopes strategy can see Ferrari secure back-to-back grand prix victories - but admits stopping Mercedes in Austria will be a \"tall order\".",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-lewis-hamilton-ferrari_7284458.jpg?20260627175928"
+    },
+    {
+      "source": "sky",
+      "title": "England on brink of defeat, says Broad - but never write off Stokes in chase",
+      "link": "https://www.skysports.com/cricket/news/12040/13558350/england-vs-new-zealand-stuart-broad-believes-black-caps-can-put-series-to-bed-with-strong-day-four-performance-in-series-deciding-test",
+      "summary": "Stuart Broad believes New Zealand can \"put the game to bed\" against England on day four of the series-deciding third Test after they opened up a commanding 204-run second-innings lead.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-stokes-england_7284209.jpg?20260627124501"
     },
     {
       "source": "sky",
@@ -488,38 +520,6 @@
       "summary": "Formula 1's European summer swing continues with the Austrian Grand Prix this weekend, live on Sky Sports.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mclaren-austria-red-bull-ring_7275705.jpg?20260617105731"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen perplexed by 'odd' qualifying crash in Austria",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-max-verstappen-red-bull_7284475.jpg?20260627182435"
-    },
-    {
-      "source": "sky",
-      "title": "Huge Verstappen crash causes CHAOS at end of qualifying",
-      "link": "https://www.skysports.com/watch/video/13558337/austrian-grand-prix-qualifying-highlights",
-      "summary": "Highlights from qualifying at the Austrian Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-motorsport-f1_7284365.jpg?20260627162433"
-    },
-    {
-      "source": "sky",
-      "title": "Russell finds late pace to top Antonelli, Hamilton in final Austria practice",
-      "link": "https://www.skysports.com/f1/news/12040/13558224/austrian-gp-george-russell-tops-practice-three-from-kimi-antonelli-and-lewis-hamilton-to-set-up-thrilling-qualifying",
-      "summary": "George Russell produced a late burst of pace to top final practice at the Austrian Grand Prix from his Mercedes team-mate Kimi Antonelli.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-george-russell-mercedes_7284214.jpg?20260627124639"
-    },
-    {
-      "source": "sky",
-      "title": "Broad: 'Tall ask' for England if New Zealand post over 300",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-jofra-archer-cricket_7284339.jpg?20260627160949"
     }
   ]
 }
