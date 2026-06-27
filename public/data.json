@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T14:25:02.747270+00:00",
+  "lastUpdated": "2026-06-27T16:00:39.359512+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,11 +363,35 @@
     },
     {
       "source": "sky",
-      "title": "Austrian GP: Big names look to avoid early elimination in Q1 LIVE!",
+      "title": "Russell snatches Austria pole amid confusion after Verstappen crash",
+      "link": "https://www.skysports.com/f1/news/12040/13558227/austrian-gp-george-russell-takes-controversial-pole-as-max-verstappen-crashes-in-dramatic-qualifying",
+      "summary": "George Russell claimed pole position for the Austrian Grand Prix after a confusing finish to qualifying when Max Verstappen crashed.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-george-russell_7284379.jpg?20260627163431"
+    },
+    {
+      "source": "sky",
+      "title": "Raducanu ends Wimbledon practice session early to add to injury fears",
+      "link": "https://www.skysports.com/tennis/news/12040/13558318/emma-raducanu-wimbledon-fitness-concerns-grow-as-british-no-1-cuts-short-practice-session",
+      "summary": "Emma Raducanu cut short her practice session at Wimbledon before cancelling a scheduled press conference as concerns about her fitness deepened.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-emma-raducanu-tennis_7284325.jpg?20260627154609"
+    },
+    {
+      "source": "sky",
+      "title": "Austrian GP: Reaction to dramatic Russell pole after Verstappen's big crash LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13557412/f1-austrian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-f1-race-weekend-at-red-bull-ring",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-lewis-hamilton_7284256.jpg?20260627134431"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-f1-max-verstappen_7284374.jpg?20260627163355"
+    },
+    {
+      "source": "sky",
+      "title": "Huge Verstappen crash causes CHAOS at end of qualifying",
+      "link": "https://www.skysports.com/watch/video/13558337/austrian-grand-prix-qualifying-highlights",
+      "summary": "Highlights from qualifying at the Austrian Grand Prix.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-motorsport-f1_7284365.jpg?20260627162433"
     },
     {
       "source": "sky",
@@ -376,6 +400,14 @@
       "summary": "George Russell produced a late burst of pace to top final practice at the Austrian Grand Prix from his Mercedes team-mate Kimi Antonelli.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-george-russell-mercedes_7284214.jpg?20260627124639"
+    },
+    {
+      "source": "sky",
+      "title": "New Zealand three down but lead England LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-jofra-archer-cricket_7284339.jpg?20260627160949"
     },
     {
       "source": "sky",
@@ -395,14 +427,6 @@
     },
     {
       "source": "sky",
-      "title": "England post 354 all out, trail New Zealand by 84 LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13558157/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-new-zealand-cricket_7284273.jpg?20260627141216"
-    },
-    {
-      "source": "sky",
       "title": "Leeds thrash Hull KR in statement win",
       "link": "https://www.skysports.com/watch/video/13558176/leeds-rhinos-34-8-hull-kr-super-league-highlights",
       "summary": "Highlights of the Super League match between Leeds Rhinos and Hull KR.",
@@ -416,6 +440,14 @@
       "summary": "England were stifled creatively against Ghana as the Three Lions' second-game curse struck again in perhaps its most frustrating iteration - but do Thomas Tuchel's biggest worries lie at the other end of the pitch?",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ezri-konsa-marc-guehi_7283827.jpg?20260626181936"
+    },
+    {
+      "source": "sky",
+      "title": "Archer gets two early wickets as Latham and Conway depart!",
+      "link": "https://www.skysports.com/watch/video/13558324/england-vs-new-zealand-jofra-archer-gets-early-wicket-as-tom-latham-walks",
+      "summary": "Jofra Archer takes two early wickets in New Zealand's second innings on day three of the third Test, reducing the visitors to 12-2.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-cricket-england-cricket_7284335.jpg?20260627160516"
     },
     {
       "source": "sky",
@@ -488,38 +520,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-marcelo-bielsa-uruguay_7283986.jpg?20260627011841"
-    },
-    {
-      "source": "sky",
-      "title": "Historic Cape Verde reach knockout rounds to set up Argentina tie",
-      "link": "https://www.skysports.com/football/cape-verde-vs-saudi-arabia/report/549828",
-      "summary": "Cape Verde continued their fairy tale run at the 2026 World Cup by making the round of 32 in their first appearance, finishing second in Group H after a 0-0 draw with Saudi Arabia.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cape-verde-saudi-arabia_7283994.jpg?20260627031633"
-    },
-    {
-      "source": "sky",
-      "title": "Tuchel: Saka pain free and ready to start against Panama",
-      "link": "https://www.skysports.com/football/news/12040/13558175/england-vs-panama-bukayo-saka-fit-and-ready-to-start-in-three-lions-final-group-game-plus-reece-james-elliot-anderson-declan-rice-injury-news",
-      "summary": "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions' final group game with Panama  - amid an injury blow to defender Reece James.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-saka-england_7283982.jpg?20260626235852"
-    },
-    {
-      "source": "sky",
-      "title": "Connor shines as leaders Leeds produce 'brave' win for Burrow and family",
-      "link": "https://www.skysports.com/rugby-league/leeds-vs-hull-k-r/report/63262",
-      "summary": "Leeds strengthened their position at the Betfred Super League summit after delivering another crushing win over defending champions Hull KR at Headingley.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jake-connor-leeds_7283943.jpg?20260627083712"
-    },
-    {
-      "source": "sky",
-      "title": "Sri Lanka keep Women's T20 World Cup semi-finals hopes alive with Scotland win",
-      "link": "https://www.skysports.com/cricket/news/12040/13558169/sri-lanka-keep-alive-womens-t20-world-cup-semi-finals-hopes-after-beating-scotland-at-old-trafford",
-      "summary": "Sri Lanka kept alive their slim hopes of making the Women's T20 World Cup semi-finals for the first time after a dramatic last-over win over Scotland at Old Trafford.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sri-lanka-t20-world-cup_7283947.jpg?20260627111235"
     }
   ]
 }
