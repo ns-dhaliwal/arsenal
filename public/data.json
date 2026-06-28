@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-28T07:46:13.520546+00:00",
+  "lastUpdated": "2026-06-28T10:23:21.990389+00:00",
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Could you complete this England player's challenge?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d3g2vzz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport takes on the Rocky steps",
-      "published": "2026-06-27T20:13:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce81/live/a20e8ca0-7262-11f1-8e1d-bbbb1017d210.jpg"
-    },
     {
       "source": "bbc",
       "title": "Performance coach Wilson set to leave Arsenal",
@@ -354,6 +346,14 @@
       "image": "https://i.guim.co.uk/img/media/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/master/3223.jpg?width=140&quality=85&auto=format&fit=max&s=0f69c83201fc381e855ac6e1e35c8fd2"
     },
     {
+      "source": "bbc",
+      "title": "Arsenal fans turn streets red for victory parade",
+      "link": "https://www.bbc.co.uk/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.",
+      "published": "2026-05-31T22:02:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f90/live/52d34570-5d15-11f1-8b93-bf943d3c7bfa.jpg"
+    },
+    {
       "source": "arsenal",
       "title": "‘Lacazette is going to score goals for this club’",
       "link": "https://www.arsenal.com/news/lacazette-going-score-goals-club",
@@ -363,11 +363,27 @@
     },
     {
       "source": "sky",
+      "title": "England chase early wickets to keep series alive vs New Zealand LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13558492/england-vs-new-zealand-third-test-day-three-live-score-updates-video-and-analysis-as-ben-stokes-returns-as-captain-at-trent-bridge",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-england-cricket-new-zealand_7282679.jpg?20260625143733"
+    },
+    {
+      "source": "sky",
       "title": "Overnight heads Prix Eugene Adam field at Saint-Cloud",
       "link": "https://www.skysports.com/racing/news/12040/13558018/today-on-sky-sports-racing-uttoxeter-wolverhampton-and-saint-cloud",
       "summary": "We have a busy day&#8217;s racing on Sunday with action from Uttoxeter, Wolverhampton and Saint-Cloud live on Sky Sports Racing...",
       "published": null,
       "image": "https://e0.365dm.com/24/06/1920x1080/skysports-horseracing-grand-prix-de-saint-cloud_6593370.jpg?20240628141012"
+    },
+    {
+      "source": "sky",
+      "title": "'Welcome to America!' | Whittaker STOPS Rivera in second round in sensational US debut!",
+      "link": "https://www.skysports.com/watch/video/13558466/ben-whittaker-vs-richard-rivera-boxing-highlights",
+      "summary": "Highlights of Ben Whittaker's fight against Richard Rivera. Courtesy of DAZN.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-boxing-whittaker_7284734.jpg?20260628072932"
     },
     {
       "source": "sky",
@@ -381,7 +397,7 @@
       "source": "sky",
       "title": "Austria survive huge scare to progress with Algeria and knock Iran out",
       "link": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
-      "summary": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3 draw, which saw both sides progress to the last-32 and Iran knocked out.",
+      "summary": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3 draw, which saw both sides progress to the last 32 and Iran knocked out.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sasa-kalajdzic-austria_7284694.jpg?20260628050941"
     },
@@ -392,6 +408,14 @@
       "summary": "Appy days! Everyone can stream the semi-finals and final of the ICC Women's T20 World Cup live for FREE on the Sky Sports App.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-womens-t20-world_7265426.jpg?20260605133153"
+    },
+    {
+      "source": "sky",
+      "title": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
+      "link": "https://www.skysports.com/football/news/12040/13558044/world-cup-2026-knockout-rounds-predictor-have-your-say-and-plot-englands-route-to-the-final",
+      "summary": "England are through to the knockout rounds of the World Cup - and you can predict how the rest of the tournament will play out!",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-usa_7265628.jpg?20260604202240"
     },
     {
       "source": "sky",
@@ -421,7 +445,7 @@
       "source": "sky",
       "title": "Colombia finish as Group K winners with Portugal second after entertaining draw",
       "link": "https://www.skysports.com/football/news/12040/13556705/world-cup-2026-colombia-0-0-portugal-davinson-sanchezs-late-goal-ruled-out-for-offside-as-colombia-finish-top-of-group-k-with-portugal-runners-up",
-      "summary": "Colombia secured top spot in Group K after an entertaining 0-0 draw against Portugal in their final group game, as Roberto Martinez's side finish as runners-up.",
+      "summary": "Colombia secured top spot in Group K after an entertaining 0-0 draw against Portugal in their final group game, as Roberto Martinez's side finished runners-up.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-davinson-sanchez_7284673.jpg?20260628030219"
     },
@@ -443,9 +467,9 @@
     },
     {
       "source": "sky",
-      "title": "Ennis KOs Zayas to unify WBA and WBO titles as Whittaker stops Riviera",
-      "link": "https://www.skysports.com/boxing/news/12040/13558467/jarod-ennis-pulls-off-knockout-win-over-xander-zayas-to-unify-wba-and-wbo-junior-middleweight-titles-as-ben-whittaker-stops-richard-riviera",
-      "summary": "Jarod Ennis was dominant as he claimed a seventh-round knockout victory over Xander Zayas to unify the WBA and WBO junior middleweight titles at the Brooklyn Center in New York.",
+      "title": "Ennis KOs Zayas to unify WBA and WBO titles as Whittaker stops Rivera",
+      "link": "https://www.skysports.com/boxing/news/12040/13558467/jaron-ennis-pulls-off-knockout-win-over-xander-zayas-to-unify-wba-and-wbo-junior-middleweight-titles-as-ben-whittaker-stops-richard-rivera",
+      "summary": "Jaron Ennis was dominant as he claimed a seventh-round knockout victory over Xander Zayas to unify the WBA and WBO junior middleweight titles at the Brooklyn Center in New York.",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-boxing-jaord-ennis_7284738.jpg?20260628074126"
     },
@@ -485,7 +509,7 @@
       "source": "sky",
       "title": "DR Congo to face England in last 32 after Wissa stars in comeback win over Uzbekistan",
       "link": "https://www.skysports.com/football/news/12040/13556707/world-cup-2026-dr-congo-3-1-uzbekistan-yoane-wissa-stars-as-the-leopards-complete-comeback-win-to-set-up-last-32-clash-against-england",
-      "summary": "Yoane Wissa scored two as the Democratic Republic of Congo fought from behind to beat Uzbekistan 3-1 in Atlanta and book a round of 32 clash against England.",
+      "summary": "Yoane Wissa scored two as the Democratic Republic of Congo fought from behind to beat Uzbekistan 3-1 in Atlanta and book a round-of-32 clash against England.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-wissa-congo_7284675.jpg?20260628030637"
     },
@@ -496,30 +520,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
-    },
-    {
-      "source": "sky",
-      "title": "Key moments and rate the players from Jordan vs Argentina, Algeria vs Austria",
-      "link": "https://www.skysports.com/football/jordan-vs-argentina/live/549833",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-austria-kalajdzic_7284696.jpg?20260628051146"
-    },
-    {
-      "source": "sky",
-      "title": "Wigan seize late win over Hull FC as St Helens overwhelm Bradford Bulls",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13558378/betfred-super-league-wigan-warriors-seize-late-win-over-hull-fc-as-st-helens-overwhelm-bradford-bulls",
-      "summary": "Wigan Warriors and St Helens are third and fourth in the Betfred Super League table after their respective victories over Hull FC and Bradford Bulls.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-wigan-zach-eckersley_7284549.jpg?20260627215445"
-    },
-    {
-      "source": "sky",
-      "title": "Croatia overcome Ghana to finish as runners-up to England",
-      "link": "https://www.skysports.com/football/croatia-vs-ghana/report/549836",
-      "summary": "Croatia sealed their spot as Group L runners-up after a 2-1 win over Ghana in Philadelphia.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-nikola-vlasic-croatia_7284631.jpg?20260628001000"
     }
   ]
 }
