@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-29T12:27:13.271762+00:00",
+  "lastUpdated": "2026-06-29T16:36:11.931666+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal head of sports science and performance departs",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgzqwe0p3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal head of sports science performance Tom Allen is the latest member of the club's backroom team set to leave the club.",
+      "published": "2026-06-29T14:56:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0919/live/534caa30-73c9-11f1-8546-8f19e4fe30f4.jpg"
+    },
     {
       "source": "bbc",
       "title": "Performance coach Wilson set to leave Arsenal",
@@ -346,14 +354,6 @@
       "image": "https://i.guim.co.uk/img/media/bcd7c855e15d9e7c65603064177852c0ef55b144/346_0_3223_2579/master/3223.jpg?width=140&quality=85&auto=format&fit=max&s=0f69c83201fc381e855ac6e1e35c8fd2"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal fans turn streets red for victory parade",
-      "link": "https://www.bbc.co.uk/news/articles/cq5px7jv92eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands of fans turned out to celebrate the Premier League title after a 22-year wait.",
-      "published": "2026-05-31T22:02:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f90/live/52d34570-5d15-11f1-8b93-bf943d3c7bfa.jpg"
-    },
-    {
       "source": "arsenal",
       "title": "‘Lacazette is going to score goals for this club’",
       "link": "https://www.arsenal.com/news/lacazette-going-score-goals-club",
@@ -363,163 +363,163 @@
     },
     {
       "source": "sky",
-      "title": "Sanchez expects to fight Itauma for IBF heavyweight title",
-      "link": "https://www.skysports.com/boxing/news/12040/13558713/frank-sanchez-eyes-moses-itauma-next-for-vacant-ibf-world-heavyweight-title-fight-sanchez-probably-a-hair-too-soon-for-him",
-      "summary": "Frank Sanchez expects to face Britain's unbeaten contender Moses Itauma for the vacant IBF world heavyweight title.",
+      "title": "McCullum: England commitment has 'never wavered' despite NZ series defeat",
+      "link": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
+      "summary": "Brendon McCullum told Sky Sports he has no plans to quit as England head coach following the shock international retirement of captain Ben Stokes.",
       "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-moses-itauma-frank-sanchez_7285570.jpg?20260629111004"
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brendon-mccullum_7285505.jpg?20260629094853"
     },
     {
       "source": "sky",
-      "title": "Liverpool consider Barcola as PSG advance with move for Diomande",
-      "link": "https://www.skysports.com/football/news/12040/13558837/liverpool-transfer-news-bradley-barcola-among-alternative-targets-with-psg-in-talks-to-sign-yan-diomande",
-      "summary": "Paris Saint-Germain winger Bradley Barcola features highly among the options Liverpool are considering as an alternative to their top winger target Yan Diomande.",
+      "title": "Q&A: What next for Scotland in Clarke successor search?",
+      "link": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
+      "summary": "Scotland are home from the World Cup and searching for a new head coach.",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-yan-diomande-bradley-barcola_7285561.jpg?20260629110245"
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-steve-clarke-scotland_7261687.jpg?20260530152647"
     },
     {
       "source": "sky",
-      "title": "Wimbledon Day One LIVE! Sinner, Sabalenka, Djokovic and Norrie in action",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13558132/wimbledon-day-one-live-scores-updates-news-results-with-emma-raducanu-jannik-sinner-aryna-sabalenka-novak-djokovic-in-action",
+      "title": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
+      "link": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
+      "summary": "Former Sheffield United player Maddy Cusack was \"dismayed\" that her previous coach was joining her football club months before she died, her father has told an inquest.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610"
+    },
+    {
+      "source": "sky",
+      "title": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "link": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "summary": "Gary Neville has labelled Enzo Maresca's job of succeeding Pep Guardiola at Manchester City as the \"ultimate test\" - because the club will accept \"nothing less than winning\" from the new manager.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014"
+    },
+    {
+      "source": "sky",
+      "title": "'Remarkable Raducanu deserves celebration not cynicism'",
+      "link": "https://www.skysports.com/tennis/news/12040/13558852/emma-raducanu-briton-deserves-celebration-not-cynicism-after-wimbledon-withdrawal-says-jonathan-overend",
+      "summary": "Did Emma Raducanu's run to the Queen's Club final break her? Jonathan Overend examines what went wrong for the British No 1 on the eve of Wimbledon.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-emma-raducanu-tennis_7285630.jpg?20260629121136"
+    },
+    {
+      "source": "sky",
+      "title": "England limp to series defeat to New Zealand in anti-climactic finish for Stokes",
+      "link": "https://www.skysports.com/cricket/news/12040/13558845/england-vs-new-zealand-ben-stokes-finish-with-series-defeat-as-hosts-limp-to-third-test-loss-in-captains-final-game",
+      "summary": "England limped to a tame series defeat to New Zealand as they were beaten by 160 runs on an anti-climactic final day at Trent Bridge - Ben Stokes' last as an England cricketer.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-josh-tongue-england_7285738.jpg?20260629141823"
+    },
+    {
+      "source": "sky",
+      "title": "Barcelona interested in England captain Kane",
+      "link": "https://www.skysports.com/football/news/12040/13558939/harry-kane-transfer-news-barcelona-interested-in-signing-bayern-munich-forward-and-england-captain",
+      "summary": "Barcelona are interested in signing England captain Harry Kane.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7284785.jpg?20260628103419"
+    },
+    {
+      "source": "sky",
+      "title": "Draper out of Wimbledon in nightmare 24 hours for British tennis",
+      "link": "https://www.skysports.com/tennis/news/12040/13558853/wimbledon-british-star-jack-draper-out-of-grand-slam-due-to-recurrence-of-arm-injury",
+      "summary": "British star Jack Draper has been ruled out of Wimbledon due to a recurrence of an arm injury.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-wimbledon_7285269.jpg?20260628204738"
+    },
+    {
+      "source": "sky",
+      "title": "Hovland wins Travelers Championship in play-off as Scheffler botches short putt",
+      "link": "https://www.skysports.com/golf/news/12040/13558913/travelers-championship-viktor-hovland-beats-scottie-scheffler-in-play-off-as-world-no-1-botches-short-birdie-putt",
+      "summary": "Viktor Hovland beat Scottie Scheffler in a Monday play-off at the Travelers Championship as the world No 1 fluffed a short birdie putt on the first extra hole.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-viktor-hovland-pga-tour-golf_7285745.jpg?20260629142535"
+    },
+    {
+      "source": "sky",
+      "title": "Bigger than Botham? English cricket 'less interesting' as Stokes bows out",
+      "link": "https://www.skysports.com/cricket/news/12040/13558900/ben-stokes-englands-serious-entertainer-bows-out-as-cricket-becomes-less-interesting-and-far-worse",
+      "summary": "He was never going to go quietly, was he?",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-stokes-feature_7285775.jpg?20260629145020"
+    },
+    {
+      "source": "sky",
+      "title": "Highlights: England lose by 160 runs after incredible New Zealand fielding",
+      "link": "https://www.skysports.com/watch/video/13558930/england-vs-new-zealand-3rd-test-day-five-highlights",
+      "summary": "Highlights from day five of the third Test between England and New Zealand.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-a-d_7285773.jpg?20260629144817"
+    },
+    {
+      "source": "sky",
+      "title": "Scheffler misses short putt in play-off as Hovland claims Travelers Championship",
+      "link": "https://www.skysports.com/watch/video/13558927/viktor-hovland-beats-scottie-scheffler-in-travelers-championship-play-off",
+      "summary": "Viktor Hovland made birdie to beat Scottie Scheffler on the first play-off hole at the Travelers Championship.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-viktor-hovland-scottie-scheffler_7285760.jpg?20260629143512"
+    },
+    {
+      "source": "sky",
+      "title": "Brazil name unchanged team for Japan knockout game LIVE!",
+      "link": "https://www.skysports.com/football/brazil-vs-japan/live/549839",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-wimbledon-tennis_7284422.jpg?20260627172548"
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-last-32_7284216.jpg?20260627124729"
     },
     {
       "source": "sky",
-      "title": "England three wickets from series defeat as NZ close on victory LIVE!",
+      "title": "How Haeran Ryu won her first major title at the KPMG Women's PGA Championship",
+      "link": "https://www.skysports.com/watch/video/13558766/the-moments-that-defined-haeran-ryu-first-major-title",
+      "summary": "A look back at the defining moments of the KPMG Women's PGA Championship, which saw Haeran Ryu win her first major.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-golf-ryu_7285456.jpg?20260629083417"
+    },
+    {
+      "source": "sky",
+      "title": "Nasser wants honesty from McCullum amid England's attention-to-detail crisis",
+      "link": "https://www.skysports.com/cricket/news/12040/13558959/england-beaten-by-new-zealand-nasser-hussain-wants-more-honesty-from-brendon-mccullum-amid-attention-to-detail-crisis",
+      "summary": "Nasser Hussain has called for more honesty from Brendon McCullum after the Test series defeat to New Zealand further highlighted England's attention-to-detail crisis.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brendon-mccullum_7285851.jpg?20260629173227"
+    },
+    {
+      "source": "sky",
+      "title": "Verstappen to McLaren? Why there could be truth behind the rumours",
+      "link": "https://www.skysports.com/f1/news/12040/13558905/max-verstappen-rumours-linking-mclaren-with-four-time-world-champion-assessed-as-f1-driver-transfer-market-heats-up",
+      "summary": "Speculation over the possibility of Max Verstappen leaving Red Bull has been a near constant in the Formula 1 paddock for the last couple of years, but the story has taken a new twist over the last week with McLaren emerging as his most likely destination.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-max-verstappen-red-bull_7285699.jpg?20260629134522"
+    },
+    {
+      "source": "sky",
+      "title": "'Lack of attention to detail' | Nas' scathing review of McCullum's Test record",
+      "link": "https://www.skysports.com/watch/video/13558952/england-v-new-zealand-nasser-hussains-scathing-review-of-brendon-mccullums-test-series-record",
+      "summary": "Following England's Test series defeat to New Zealand, Nasser Hussain gave a scathing review of Brendon McCullum's Test series record.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-nasser-england_7285822.jpg?20260629152841"
+    },
+    {
+      "source": "sky",
+      "title": "'There's a lot of emotion but I am proud!' | Stokes' final farewell to England fans",
+      "link": "https://www.skysports.com/watch/video/13558937/ill-look-back-on-fond-memories-despite-the-controversy-stokes-final-farewell-to-england-fans",
+      "summary": "Ben Stokes reflected on his England career after his final Test match.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-cricket-rt_7285814.jpg?20260629151610"
+    },
+    {
+      "source": "sky",
+      "title": "'Moment to savour' - Root, McCullum defend Stokes retirement timing",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13558691/england-vs-new-zealand-third-test-day-five-live-score-updates-video-and-analysis-as-ben-stokes-retires-from-international-cricket",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-joe-root-england_7285587.jpg?20260629114223"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ben-stokes-england_7285759.jpg?20260629143332"
     },
     {
       "source": "sky",
-      "title": "Boyd: Clarke criticism an absolute disgrace",
-      "link": "https://www.skysports.com/football/news/12040/13558536/kris-boyd-labels-steve-clarke-criticism-an-absolute-disgrace-after-he-steps-down-as-scotland-head-coach",
-      "summary": "Kris Boyd has labelled criticism of Steve Clarke an \"absolute disgrace\" after he stepped down as Scotland head coach.",
+      "title": "Maresca apologises to Chelsea and will pay compensation for 'unexpected' exit",
+      "link": "https://www.skysports.com/football/news/12040/13558915/enzo-maresca-former-chelsea-boss-apologises-for-stamford-bridge-exit-and-will-pay-compensation-as-man-city-confirm-appointment",
+      "summary": "New Manchester City manager Enzo Maresca will pay Chelsea compensation and has apologised to the club as the Blues released an explosive statement criticising his unexpected exit last season.",
       "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-steve-clarke-scotland_7282192.jpg?20260625020440"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Regal Envoy chases Windsor double",
-      "link": "https://www.skysports.com/racing/news/12040/13558375/today-on-sky-sports-racing-ffos-las-and-windsor",
-      "summary": "We have a busy day's racing on Monday with Flat action from Ffos Las and Windsor, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7254785.jpg?20260521135548"
-    },
-    {
-      "source": "sky",
-      "title": "Last-leg decider! Humphries retains US Darts Masters against Littler",
-      "link": "https://www.skysports.com/watch/video/13558279/humphries-retains-us-darts-masters-title-after-last-leg-decider-against-littler",
-      "summary": "Luke Humphries retained the US Darts Masters title after a last-leg decider against Luke Littler.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-humphries-littler_7284203.jpg?20260627124354"
-    },
-    {
-      "source": "sky",
-      "title": "Hovland and Scheffler set for play off after thrilling final round",
-      "link": "https://www.skysports.com/watch/video/13558739/travelers-championship-day-four-highlights",
-      "summary": "Highlights from day four of the Travelers Championship at TPC River Highlands.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-golf-hovland-scheffler_7285381.jpg?20260629063944"
-    },
-    {
-      "source": "sky",
-      "title": "Qualification and format confirmed for cricket's return at 2028 Olympics in LA",
-      "link": "https://www.skysports.com/cricket/news/12040/13558869/cricket-at-2028-olympics-in-los-angeles-qualification-and-format-confirmed-with-great-britain-qualified-in-womens-event",
-      "summary": "The International Cricket Council (ICC) and the International Olympic Committee (IOC) have confirmed the qualification pathway for cricket's historic return to the Olympics at the 2028 games in Los Angeles, with Great Britain qualified for the women's event.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-la-2028-olympics_7285656.jpg?20260629123907"
-    },
-    {
-      "source": "sky",
-      "title": "Toulouse Olympique 16-40 Leigh Leopards",
-      "link": "https://www.skysports.com/watch/video/13558686/toulouse-olympique-16-40-leigh-leopards-super-league-highlights",
-      "summary": "Highlights of the Super League clash between Toulouse Olympique and Leigh Leopards.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/sky-sports-rugby-league-rugby_7285266.jpg?20260628204121"
-    },
-    {
-      "source": "sky",
-      "title": "Wakefield Trinity 29-23 Huddersfield Giants",
-      "link": "https://www.skysports.com/watch/video/13558695/wakefield-trinity-29-23-huddersfield-giants-super-league-highlights",
-      "summary": "Highlights of the Super League match between Wakefield Trinity and Huddersfield Giants.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-rugby-rugby-league_7285281.jpg?20260628212633"
-    },
-    {
-      "source": "sky",
-      "title": "'I have all the info!' | Dana White teases AJ-Fury location",
-      "link": "https://www.skysports.com/watch/video/13558753/will-usyk-v-wilder-end-up-on-zuffa-anything-is-possible",
-      "summary": "Dana White did not dismiss suggestions that Oleksandr Usyk's farewell fight against Deontay Wilder could be promoted by Zuffa.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dana-white-boxing_7285458.jpg?20260629083553"
-    },
-    {
-      "source": "sky",
-      "title": "SEPTUPLE-BOGEY?! JT Poston loses it on disastrous 13th",
-      "link": "https://www.skysports.com/watch/video/13558747/jt-poston-loses-his-cool-on-the-13th-after-septuble-bogey",
-      "summary": "A moment JT Poston will hope to forget as soon as possible on the 13th at the Travelers Championship after recording a septuple bogey!",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-golf-jt-poston_7285408.jpg?20260629072538"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers sign ex-Everton defender Godfrey on loan from Atalanta",
-      "link": "https://www.skysports.com/football/news/12040/13558797/ben-godfrey-rangers-sign-ex-everton-defender-on-season-long-loan-from-atalanta",
-      "summary": "Rangers have signed ex-Everton defender Ben Godfrey from Atalanta on a season-long loan, with an option to make the deal permanent next summer.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ben-godfrey-everton_7284455.jpg?20260627175636"
-    },
-    {
-      "source": "sky",
-      "title": "Heavyweight Zokirov drops and stops opponent in just two rounds!",
-      "link": "https://www.skysports.com/watch/video/13558711/heavyweight-jakhongir-zokirov-drops-and-stops-opponent-in-just-two-rounds",
-      "summary": "Heavyweight Jakhongir Zokirov dropped his opponent then proceeded to stop him in just two rounds.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-boxing-zuffa_7285321.jpg?20260628231750"
-    },
-    {
-      "source": "sky",
-      "title": "Nations Championship: Pressure on England as depleted Ireland seek history",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
-      "summary": "We look at some of the major talking points ahead of the summer's inaugural Nations Championship Tests...",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-russell-pollock-sheehan_7284106.jpg?20260627102112"
-    },
-    {
-      "source": "sky",
-      "title": "Scheffler's clutch putt sets up Monday play-off vs Hovland at Travelers Championship",
-      "link": "https://www.skysports.com/golf/news/12040/13558715/travelers-championship-scottie-scheffler-makes-clutch-putt-to-set-up-monday-play-off-vs-viktor-hovland-at-travelers-championship",
-      "summary": "Scottie Scheffler showcased why he is the world No 1 on Sunday evening at a rain-soaked Travellers Championship, as the American drained a clutch eight-foot par putt to force a Monday play-off against Viktor Hovland.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-scottie-scheffler_7285326.jpg?20260629120216"
-    },
-    {
-      "source": "sky",
-      "title": "British GP: Schedule and how to watch for free on Sky",
-      "link": "https://www.skysports.com/f1/news/12040/13558236/british-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-silverstone-live-on-sky-sports",
-      "summary": "Formula 1 heads to Silverstone for a Sprint weekend at the British Grand Prix, which will be live and free on Sky.",
-      "published": null,
-      "image": "https://e0.365dm.com/25/07/1920x1080/skysports-f1-british-gp-lewis-hamilton_6969821.jpg?20250721113936"
-    },
-    {
-      "source": "sky",
-      "title": "Castleford 14-20 York",
-      "link": "https://www.skysports.com/watch/video/13558183/castleford-tigers-14-20-york-knights-super-league-highlights",
-      "summary": "Highlights of the Super League match between Castleford Tigers and York Knights.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-york-knights-super-league_7283981.jpg?20260626235559"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Barcelona explore deal to sign Kane",
-      "link": "https://www.skysports.com/football/news/12040/13558706/harry-kane-barcelona-explore-deal-to-sign-bayern-munich-striker-after-world-cup-paper-talk",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-premier-league-chelsea_7123687.jpg?20260101144540"
     }
   ]
 }
