@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-29T19:01:47.866060+00:00",
+  "lastUpdated": "2026-06-29T21:20:50.151430+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Bournemouth reject Arsenal interest in Scott",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8mgmr732do?at_medium=RSS&at_campaign=rss",
+      "summary": "Bournemouth reject an enquiry from Arsenal for Alex Scott and say the midfielder is not for sale this summer.",
+      "published": "2026-06-29T20:19:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb8/live/3c8452d0-73f6-11f1-bb7f-e5226e63ffb3.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal head of sports science and performance departs",
@@ -314,14 +322,6 @@
       "image": "https://i.guim.co.uk/img/media/862cb99517933e63950f454374a7754b0889e5c3/1010_0_6261_5009/master/6261.jpg?width=140&quality=85&auto=format&fit=max&s=86f577e26c27c7cbad101ca76953fe84"
     },
     {
-      "source": "bbc",
-      "title": "Six people stabbed after Arsenal victory parade",
-      "link": "https://www.bbc.co.uk/news/articles/c78qpe866pxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Metropolitan Police said 24 people were arrested on Sunday along or near the parade route.",
-      "published": "2026-06-01T13:27:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5787/live/298a9670-5db8-11f1-8b6d-5b89cbb85786.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal have shown me nothing brings joy, pain and community like football | Suzanne Wrack",
       "link": "https://www.theguardian.com/football/2026/jun/01/arsenal-fans-joy-pain-football-premier-league-title-win",
@@ -360,6 +360,22 @@
       "summary": "‘Lacazette is going to score goals for this club’\nmaxjones\nSun, 06/08/2017 - 18:24\n\n\n            Alexandre Lacazette may not have scored in our Community Shield triumph over Chelsea, but he still made a big impact.\nStarting his first match at Wembley, the France international linked up well with Danny Welbeck and Alex Iwobi in attack, and even curled a stunning strike off the woodwork.\nLacazette r",
       "published": "2017-08-06T17:24:21+00:00",
       "image": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/lacazette.jpg?h=6dff888f&amp;auto=webp&amp;itok=IBazUiYw"
+    },
+    {
+      "source": "sky",
+      "title": "Gardner: Australia must be wary of Matthews in T20 World Cup semi-final",
+      "link": "https://www.skysports.com/cricket/news/12040/13559035/icc-womens-t20-world-cup-ashleigh-gardner-says-australia-must-be-wary-of-west-indies-captain-hayley-matthews-firepower-in-semi-final",
+      "summary": "Ashleigh Gardner says Australia must be cautious of a dangerous West Indies side containing Hayley Matthews and Deandra Dottin as they prepare for the first ICC Women's T20 World Cup semi-final at The Oval on Tuesday, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ash-gardner_7286070.jpg?20260629211452"
+    },
+    {
+      "source": "sky",
+      "title": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
+      "link": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
+      "summary": "Gabriel Martinelli's 95th-minute winner saw Brazil dramatically come from behind to win 2-1 and advance to the World Cup last 16, cruelly denying Japan a first-ever knockout stage victory in the competition.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gabriel-martinelli_7286028.jpg?20260629200345"
     },
     {
       "source": "sky",
@@ -427,6 +443,22 @@
     },
     {
       "source": "sky",
+      "title": "'How seriously are you taking penalties?' | Madueke: I'm always ready",
+      "link": "https://www.skysports.com/watch/video/13559026/england-at-the-world-cup-noni-madueke-says-hes-always-ready-to-take-penalties",
+      "summary": "A reporter asks Noni Madueke how seriously England are taking penalties as the side move to the knockout stage of the World Cup - facing DR Congo on Wednesday.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-world-cup_7286043.jpg?20260629201706"
+    },
+    {
+      "source": "sky",
+      "title": "Enciso gives Paraguay lead after Germany dominate possession LIVE!",
+      "link": "https://www.skysports.com/football/germany-vs-paraguay/live/549840",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-julio-enciso-world-cup_7286103.jpg?20260629221737"
+    },
+    {
+      "source": "sky",
       "title": "'Remarkable Raducanu deserves celebration not cynicism'",
       "link": "https://www.skysports.com/tennis/news/12040/13558852/emma-raducanu-briton-deserves-celebration-not-cynicism-after-wimbledon-withdrawal-says-jonathan-overend",
       "summary": "Did Emma Raducanu's run to the Queen's Club final break her? Jonathan Overend examines what went wrong for the British No 1 on the eve of Wimbledon.",
@@ -483,43 +515,11 @@
     },
     {
       "source": "sky",
-      "title": "SCENES! Martinelli scores 90+6 goal for Brazil vs Japan LIVE!",
+      "title": "Brazil vs Japan: All the action and rate the players",
       "link": "https://www.skysports.com/football/brazil-vs-japan/live/549839",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-brazil-gabriel-martinelli_7286026.jpg?20260629200037"
-    },
-    {
-      "source": "sky",
-      "title": "How Haeran Ryu won her first major title at the KPMG Women's PGA Championship",
-      "link": "https://www.skysports.com/watch/video/13558766/the-moments-that-defined-haeran-ryu-first-major-title",
-      "summary": "A look back at the defining moments of the KPMG Women's PGA Championship, which saw Haeran Ryu win her first major.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-golf-ryu_7285456.jpg?20260629083417"
-    },
-    {
-      "source": "sky",
-      "title": "Nasser wants honesty from McCullum amid England's attention-to-detail crisis",
-      "link": "https://www.skysports.com/cricket/news/12040/13558959/england-beaten-by-new-zealand-nasser-hussain-wants-more-honesty-from-brendon-mccullum-amid-attention-to-detail-crisis",
-      "summary": "Nasser Hussain has called for more honesty from Brendon McCullum after the Test series defeat to New Zealand further highlighted England's attention-to-detail crisis.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brendon-mccullum_7285851.jpg?20260629173227"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen to McLaren? Why there could be truth behind the rumours",
-      "link": "https://www.skysports.com/f1/news/12040/13558905/max-verstappen-rumours-linking-mclaren-with-four-time-world-champion-assessed-as-f1-driver-transfer-market-heats-up",
-      "summary": "Speculation over the possibility of Max Verstappen leaving Red Bull has been a near constant in the Formula 1 paddock for the last couple of years, but the story has taken a new twist over the last week with McLaren emerging as his most likely destination.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-max-verstappen-red-bull_7285699.jpg?20260629134522"
-    },
-    {
-      "source": "sky",
-      "title": "'Lack of attention to detail' | Nas' scathing review of McCullum's Test record",
-      "link": "https://www.skysports.com/watch/video/13558952/england-v-new-zealand-nasser-hussains-scathing-review-of-brendon-mccullums-test-series-record",
-      "summary": "Following England's Test series defeat to New Zealand, Nasser Hussain gave a scathing review of Brendon McCullum's Test series record.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-nasser-england_7285822.jpg?20260629152841"
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-casemiro_7286018.jpg?20260629192821"
     }
   ]
 }
