@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:23:48.931256+00:00",
+  "lastUpdated": "2026-06-30T23:05:53.958477+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,22 @@
     },
     {
       "source": "sky",
+      "title": "Rangers sign Pandur from Hull as Butland nears Tigers move",
+      "link": "https://www.skysports.com/football/news/12040/13559364/ivor-pandur-rangers-sign-croatia-goalkeeper-from-hull-city-with-jack-butland-close-to-joining-tigers",
+      "summary": "Rangers have signed goalkeeper Ivor Pandur from Hull City in a &#163;6m deal.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-ivor-ivor-pandur_7285612.jpg?20260629115157"
+    },
+    {
+      "source": "sky",
+      "title": "Garcia fails to qualify for Open; Nicholas leads Burnham & Berrow",
+      "link": "https://www.skysports.com/watch/video/13559365/golf-sergio-garcia-fails-to-qualify-for-154th-golf-open-james-nicholas-finishes-top-in-burnham-berrow",
+      "summary": "Sergio Garcia says he fell ill during qualifying for The Open, hindering his chance of qualifying for the tournament next month. James Nicholas qualifies by finishing top of the leaderboard in Burnham & Berrow.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-the-open-golf_7286946.jpg?20260630221618"
+    },
+    {
+      "source": "sky",
       "title": "Haaland scores late winner to set up Norway vs Brazil",
       "link": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
       "summary": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
@@ -387,19 +403,35 @@
     },
     {
       "source": "sky",
-      "title": "LeBron to compete in 24th NBA season elsewhere with Lakers return ruled out",
+      "title": "LeBron confirms Lakers exit with search for new club for 24th season under way",
       "link": "https://www.skysports.com/nba/news/12040/13559154/lebron-james-to-leave-la-lakers-but-will-compete-in-record-24th-nba-season-elsewhere-with-golden-state-warriors-an-option",
-      "summary": "LeBron James will play a record-extending 24th NBA season with a new team after it was confirmed he would not be returning to the Los Angeles Lakers.",
+      "summary": "LeBron James will play a record-extending 24th NBA season with a new team after he confirmed he would not be returning to the Los Angeles Lakers.",
       "published": null,
       "image": "https://e0.365dm.com/26/02/1920x1080/skysports-lebron-james-nba_7155046.jpg?20260204064034"
     },
     {
       "source": "sky",
-      "title": "France vs Sweden LIVE!",
+      "title": "Koeman parts ways with Netherlands after World Cup exit",
+      "link": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
+      "summary": "Ronald Koeman has left his role as head coach of the Netherlands.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ronald-koeman-netherlands_7286346.jpg?20260630095152"
+    },
+    {
+      "source": "sky",
+      "title": "France dismiss Sweden to set up last 16 tie with Paraguay LIVE!",
       "link": "https://www.skysports.com/football/france-vs-sweden/live/549844",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-william-saliba-viktor-gyokeres_7286938.jpg?20260630220833"
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-bradley-barcola-france_7286988.jpg?20260630233452"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Klopp frontrunner for Germany job if Nagelsmann sacked",
+      "link": "https://www.skysports.com/football/news/12040/13559341/jurgen-klopp-frontrunner-for-germany-job-if-julian-nagelsmann-is-sacked-paper-talk",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "published": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
     },
     {
       "source": "sky",
@@ -411,11 +443,11 @@
     },
     {
       "source": "sky",
-      "title": "McLaren reveal VERY different British GP livery in 60-year tribute",
+      "title": "McLaren reveal VERY different British GP livery",
       "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mclaren-livery-2026_7286741.jpg?20260630164840"
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mclaren-2026-british-gp_7286976.jpg?20260630230550"
     },
     {
       "source": "sky",
@@ -424,6 +456,14 @@
       "summary": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-frank-lampard-coventry-city_7286832.jpg?20260630183545"
+    },
+    {
+      "source": "sky",
+      "title": "'Tuchel is starting to run out of options' | Will injuries hamper England's WC ambitions?",
+      "link": "https://www.skysports.com/watch/video/13559368/kaveh-solhekol-looks-at-the-injuries-headache-facing-thomas-tuchel-ahead-of-englands-world-cup-clash-with-dr-congo",
+      "summary": "Sky Sports' chief correspondent Kaveh Solhekol discusses England's injury woes ahead of their World Cup match against DR Congo.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-world-cup_7286951.jpg?20260630222314"
     },
     {
       "source": "sky",
@@ -480,46 +520,6 @@
       "summary": "Take a look at Wednesday's singles Order of Play in the Wimbledon Championships at the All England Club.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-novak-djokovic-wimbledon_7285996.jpg?20260629185133"
-    },
-    {
-      "source": "sky",
-      "title": "What will happen to Usyk's heavyweight world titles?",
-      "link": "https://www.skysports.com/boxing/news/12040/13559207/heavyweight-boxing-what-will-happen-to-oleksandr-usyks-world-titles-and-will-moses-itauma-take-over-the-division",
-      "summary": "Oleksandr Usyk has dominated the heavyweight scene in recent years. He established himself as the pre-eminent boxer in the division with victories over Tyson Fury, Anthony Joshua and Daniel Dubois.",
-      "published": null,
-      "image": "https://e0.365dm.com/24/04/1920x1080/skysports-oleksandr-usyk-boxing_6530051.jpg?20240422155344"
-    },
-    {
-      "source": "sky",
-      "title": "Fury to fight Wach in Thailand on July 24 before AJ showdown",
-      "link": "https://www.skysports.com/boxing/news/12040/13559322/tyson-fury-to-fight-mariusz-wach-in-thailand-on-july-24-before-anthony-joshua-showdown",
-      "summary": "Tyson Fury will finalise preparations for his proposed November showdown with Anthony Joshua by fighting Mariusz Wach in Thailand on July 24.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-tottenham_7217590.jpg?20260411220503"
-    },
-    {
-      "source": "sky",
-      "title": "Fernandes set for medical after Spurs beat Man Utd to £85m deal",
-      "link": "https://www.skysports.com/football/news/12040/13559281/mateus-fernandes-transfer-news-tottenham-agree-85m-deal-ahead-of-manchester-united-for-west-ham-midfielder",
-      "summary": "Tottenham have agreed a deal to sign Mateus Fernandes from West Ham United.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mateus-fernandes_7257986.jpg?20260525105836"
-    },
-    {
-      "source": "sky",
-      "title": "Cusack's Sheff Utd coach called her a 'psycho', inquest hears",
-      "link": "https://www.skysports.com/football/news/12040/13559236/maddy-cusack-sheffield-united-coach-jonathan-morgan-called-midfielder-a-psycho-inquest-hears",
-      "summary": "Former Sheffield United midfielder Maddy Cusack's coach had called her a \"psycho\" and was playing mind games with her before her death, an inquest has heard.",
-      "published": null,
-      "image": "https://e1.365dm.com/23/09/1920x1080/skysports-maddy-cusack-sheffield-united_6293097.jpg?20230921185104"
-    },
-    {
-      "source": "sky",
-      "title": "Australia thrash West Indies to race into Women's T20 World Cup final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559192/icc-womens-t20-world-cup-australia-thrash-west-indies-to-reach-another-final-as-ash-gardner-beth-mooney-impress",
-      "summary": "Australia breezed into the ICC Women's T20 World Cup final with a convincing eight-wicket win over West Indies at The Oval.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-beth-mooney-ash-gardner_7286770.jpg?20260630172349"
     }
   ]
 }
