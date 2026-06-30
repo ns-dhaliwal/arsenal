@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:58:41.410051+00:00",
+  "lastUpdated": "2026-06-30T04:01:15.525933+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,22 @@
     },
     {
       "source": "sky",
+      "title": "Morocco beat Netherlands on penalties to set up Canada clash LIVE!",
+      "link": "https://www.skysports.com/football/netherlands-vs-morocco/live/549841",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-bart-verbruggen-netherlands_7286199.jpg?20260630041655"
+    },
+    {
+      "source": "sky",
+      "title": "Germany crash out of World Cup on penalties to Paraguay",
+      "link": "https://www.skysports.com/football/germany-vs-paraguay/report/549840",
+      "summary": "Germany lost a World Cup penalty shoot-out for the first time as they crashed out of the last 32 to underdogs Paraguay.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-paraguay-germany_7286144.jpg?20260630003610"
+    },
+    {
+      "source": "sky",
       "title": "Djokovic and Sinner survive first-round scares to progress at Wimbledon",
       "link": "https://www.skysports.com/tennis/news/12040/13558903/wimbledon-novak-djokovic-and-jannik-sinner-survive-scares-while-aryna-sabalenka-strolls-into-second-round",
       "summary": "Seven-time winner Novak Djokovic and defending champion Jannik Sinner both came through first-round scares to progress at Wimbledon on a day where 10 Brits were sent tumbling.",
@@ -483,11 +499,11 @@
     },
     {
       "source": "sky",
-      "title": "SCENES! Germany knocked out of World Cup by Paraguay on pens LIVE!",
+      "title": "SCENES! How Germany lost their first ever World Cup shoot-out...",
       "link": "https://www.skysports.com/football/germany-vs-paraguay/live/549840",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-germany-paraguay_7286141.jpg?20260630003140"
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-germany-paraguay_7286141.jpg?20260630015442"
     },
     {
       "source": "sky",
@@ -504,22 +520,6 @@
       "summary": "England limped to a tame series defeat to New Zealand as they were beaten by 160 runs on an anti-climactic final day at Trent Bridge - Ben Stokes' last as an England cricketer.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-josh-tongue-england_7285738.jpg?20260629141823"
-    },
-    {
-      "source": "sky",
-      "title": "Draper out of Wimbledon in nightmare 24 hours for British tennis",
-      "link": "https://www.skysports.com/tennis/news/12040/13558853/wimbledon-british-star-jack-draper-out-of-grand-slam-due-to-recurrence-of-arm-injury",
-      "summary": "British star Jack Draper has been ruled out of Wimbledon due to a recurrence of an arm injury.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-wimbledon_7285269.jpg?20260628204738"
-    },
-    {
-      "source": "sky",
-      "title": "Hovland wins Travelers Championship in play-off as Scheffler botches short putt",
-      "link": "https://www.skysports.com/golf/news/12040/13558913/travelers-championship-viktor-hovland-beats-scottie-scheffler-in-play-off-as-world-no-1-botches-short-birdie-putt",
-      "summary": "Viktor Hovland beat Scottie Scheffler in a Monday play-off at the Travelers Championship as the world No 1 fluffed a short birdie putt on the first extra hole.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-viktor-hovland-pga-tour-golf_7285745.jpg?20260629142535"
     }
   ]
 }
