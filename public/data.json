@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T02:44:44.597308+00:00",
+  "lastUpdated": "2026-07-02T06:36:03.251718+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,38 @@
     },
     {
       "source": "sky",
+      "title": "Musical Times looks to make it two from two at Yarmouth",
+      "link": "https://www.skysports.com/racing/news/12040/13559438/today-on-sky-sports-racing-newbury-and-yarmouth",
+      "summary": "We have a busy day&#8217;s racing on Thursday with flat action from Newbury and Yarmouth, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-yarmouth-racing_7246305.jpg?20260512100808"
+    },
+    {
+      "source": "sky",
+      "title": "British GP storylines to look out for as Sprint weekend returns",
+      "link": "https://www.skysports.com/f1/news/12040/13559495/british-gp-silverstone-storylines-to-look-out-for-as-kimi-antonelli-vs-george-russell-battle-continues-on-sprint-weekend",
+      "summary": "As Formula 1's European summer run continues at the home of the first World Championship event - the British Grand Prix at Silverstone - Sky Sports F1 takes a look at the key talking points ahead of Sunday's race.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7287375.jpg?20260701154138"
+    },
+    {
+      "source": "sky",
+      "title": "England out to end semi-final hoodoo against bogey side South Africa",
+      "link": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
+      "summary": "England have been perfect at the Women's T20 World Cup so far, chalking up five wins from five.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-women-t20-cricket_7287228.jpg?20260701121924"
+    },
+    {
+      "source": "sky",
+      "title": "USA reach last 16 as Balogun scores but then sees red",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
+      "summary": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Folarin Balogun for their clash with Belgium after his red card.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251"
+    },
+    {
+      "source": "sky",
       "title": "Belgium produce stunning comeback win against Senegal to reach last 16",
       "link": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
       "summary": "Youri Tielemans scored a controversial last-gasp extra-time penalty winner for Belgium to complete an incredible 3-2 comeback victory against Senegal in the last 32 of the World Cup.",
@@ -383,7 +415,7 @@
       "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
       "summary": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-harry-kane_7287590.jpg?20260701201511"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kane-harry-england_7287772.jpg?20260702071825"
     },
     {
       "source": "sky",
@@ -403,6 +435,22 @@
     },
     {
       "source": "sky",
+      "title": "The Verdict: Kane saves England again with stunning brace",
+      "link": "https://www.skysports.com/watch/video/13559693/the-verdict-harry-kane-saves-england-again-with-stunning-brace",
+      "summary": "Sky Sports News' Rob Dorsett reflects on England's Round of 32 win over DR Congo as Harry Kane lifts England into the next round with a brilliant brace.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-verdict-kane_7287722.jpg?20260702004545"
+    },
+    {
+      "source": "sky",
+      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
+      "link": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
+      "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sciver-brunt-england_7287318.jpg?20260701143018"
+    },
+    {
+      "source": "sky",
       "title": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
       "link": "https://www.skysports.com/tennis/news/12040/13559611/wimbledon-jannik-sinner-and-aryna-sabalenka-overcome-tough-tests-as-novak-djokovic-cruises-through",
       "summary": "The big names at Wimbledon all tasted victory on Wednesday, with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Coco Gauff and Naomi Osaka each booking third round places.",
@@ -411,7 +459,7 @@
     },
     {
       "source": "sky",
-      "title": "USA beat Bosnia despite Balogun red card LIVE!",
+      "title": "USA beat Bosnia to face Belgium - All the key moments!",
       "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/live/549845",
       "summary": "",
       "published": null,
@@ -459,67 +507,19 @@
     },
     {
       "source": "sky",
+      "title": "Leigh to show they are play-off ready in Magic Weekend clash vs Warrington",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13559451/leigh-leopards-to-show-they-are-play-off-contenders-in-magic-weekend-clash-with-warrington-wolves",
+      "summary": "Leigh Leopards head into Magic Weekend just two points outside of the top six and want to pick up a win over Warrington Wolves to send the statement that they are play-off ready.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leigh-leopards-rugby-league_7287605.jpg?20260701203354"
+    },
+    {
+      "source": "sky",
       "title": "Pereira confirms 'surprise' Forest exit with Glasner in talks to replace him",
       "link": "https://www.skysports.com/football/news/12040/13559590/oliver-glasner-nottingham-forest-in-talks-to-replace-vitor-pereira-as-head-coach-with-ex-crystal-palace-boss",
       "summary": "Vitor Pereira said he was taken by \"complete surprise and without any warning\" after confirming his time as head coach of Nottingham Forest is over, with Oliver Glasner in talks to replace him.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vitor-pereira-oliver-glasner_7287432.jpg?20260701172751"
-    },
-    {
-      "source": "sky",
-      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
-      "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sciver-brunt-england_7287318.jpg?20260701143018"
-    },
-    {
-      "source": "sky",
-      "title": "Rain robs England of run chase as India series opener washed out",
-      "link": "https://www.skysports.com/cricket/news/12040/13559573/england-vs-india-first-t20-international-abandoned-after-rain-in-durham",
-      "summary": "England&#8217;s first T20 international against India was abandoned due to rain before the hosts&#8217; had the chance to chase down 190 for victory in Durham.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-saqib-mahmood-england_7287468.jpg?20260701175446"
-    },
-    {
-      "source": "sky",
-      "title": "Cusack 'would still be here' if girlfriend did not move away, inquest told",
-      "link": "https://www.skysports.com/football/news/12040/13559635/maddy-cusack-former-sheffield-united-midfielder-would-still-be-here-if-girlfriend-did-not-move-away-inquest-told",
-      "summary": "The former captain of Sheffield United Women told an inquest that she believes the main reason for Maddy Cusack's decline in mental health was her girlfriend moving away.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610"
-    },
-    {
-      "source": "sky",
-      "title": "F1 Sprint format: How does it work in 2026?",
-      "link": "https://www.skysports.com/f1/news/12040/13518235/f1-sprint-schedule-points-results-format-explained-qualifying-race-and-venues-for-2026-season",
-      "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-lando-norris-miami-gp_7237288.jpg?20260502171832"
-    },
-    {
-      "source": "sky",
-      "title": "White eyes Commonwealth Games gold after Team England call-up",
-      "link": "https://www.skysports.com/boxing/news/12040/13559680/ruby-white-poised-for-commonwealth-games-breakthrough-as-19-year-old-targets-boxing-gold",
-      "summary": "British boxing rising star Ruby White has her sights set on one thing: winning.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-ruby-else-white-boxing_7188801.jpg?20260311103303"
-    },
-    {
-      "source": "sky",
-      "title": "England latest: VOTE! How far will England go after DR Congo win?",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea sign Palestra from Atalanta",
-      "link": "https://www.skysports.com/football/news/12040/13557367/chelsea-transfer-news-marco-palestra-signs-from-serie-a-side-atalanta-in-deal-worth-43m",
-      "summary": "Chelsea have completed the signing of Marco Palestra from Atalanta in a deal worth &#163;43m.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-marco-palestra-chelsea_7281709.jpg?20260624133635"
     }
   ]
 }
