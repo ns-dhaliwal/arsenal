@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T09:57:17.312424+00:00",
+  "lastUpdated": "2026-07-02T12:12:36.412729+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,11 +363,91 @@
     },
     {
       "source": "sky",
+      "title": "Hull City latest: Butland completes £3m move from Rangers",
+      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515"
+    },
+    {
+      "source": "sky",
+      "title": "Rahm announces Irish Open return alongside Ryder Cup team-mates",
+      "link": "https://www.skysports.com/golf/news/12040/13559764/irish-open-jon-rahm-announces-return-to-dp-world-tour-event-at-doonbeg-alongside-ryder-cup-team-mates",
+      "summary": "Jon Rahm has been announced as part of the field for the Irish Open at Doonbeg.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-jon-rahm-golf-us-open_7278027.jpg?20260619184304"
+    },
+    {
+      "source": "sky",
+      "title": "F1 drivers to drive Lego cars at Silverstone before British GP",
+      "link": "https://www.skysports.com/f1/news/12040/13559722/british-gp-f1-drivers-to-drive-lego-minicars-before-silverstone-race-on-spectacular-track-parade",
+      "summary": "F1 drivers will drive 22 Lego minicars ahead of Sunday's British Grand Prix in a spectacular - and likely chaotic - track parade at Silverstone.",
+      "published": null,
+      "image": "https://e0.365dm.com/25/05/1920x1080/skysports-f1-lando-norris-oscar-piastri_6907474.jpg?20250505200227"
+    },
+    {
+      "source": "sky",
+      "title": "Spurs' record spending spree not done - but how are they pulling this off?",
+      "link": "https://www.skysports.com/football/news/12040/13559531/tottenham-transfer-spending-not-over-with-mateus-fernandes-and-sandro-tonali-signings-as-roberto-de-zerbi-influence-takes-hold",
+      "summary": "It feels like things are changing in N17. Tottenham's spending is set to surpass their record for a single window with the signings of Mateus Fernandes and Sandro Tonali &#8211; and they are not done yet.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tonali-spurs-fernandes_7288035.jpg?20260702123137"
+    },
+    {
+      "source": "sky",
       "title": "Dettori injured in Newmarket car crash",
       "link": "https://www.skysports.com/racing/news/12040/13559752/frankie-dettori-former-champion-jockey-suffers-broken-ribs-and-thumb-in-newmarket-car-crash-on-wednesday",
       "summary": "Frankie Dettori sustained several broken ribs and a broken thumb after being involved in a car accident in Newmarket on Wednesday evening.",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dettori-racing_7285044.jpg?20260628155332"
+    },
+    {
+      "source": "sky",
+      "title": "The qualities 'elite' Tonali can bring to Spurs",
+      "link": "https://www.skysports.com/football/news/12040/13559772/sandro-tonali-to-spurs-italy-midfielders-speed-dynamism-and-technical-quality-could-be-key-for-roberto-de-zerbi",
+      "summary": "Tottenham's deal to sign Sandro Tonali from Newcastle continues an exhaustive overhaul under head coach Roberto De Zerbi. At &#163;100m, he will become the most expensive, and the most important, of six summer signings so far.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sandro-tonali-newcastle_7274644.jpg?20260616091428"
+    },
+    {
+      "source": "sky",
+      "title": "Tonali: De Zerbi played huge role in Tottenham move",
+      "link": "https://www.skysports.com/football/news/12040/13559789/sandro-tonali-roberto-de-zerbi-played-huge-role-in-tottenham-transfer-says-midfielder-ahead-of-100m-newcastle-switch",
+      "summary": "Sandro Tonali has revealed the \"huge role\" Roberto De Zerbi had in his impending &#163;100m move to Tottenham from Newcastle.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-tottenham-hotspur_7288051.jpg?20260702124018"
+    },
+    {
+      "source": "sky",
+      "title": "'A huge advantage for Mexico' - England face an Azteca altitude problem",
+      "link": "https://www.skysports.com/football/news/12040/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7000-feet",
+      "summary": "\"It is one of the most beautiful fixtures you can have playing Mexico in the Azteca,\" said Thomas Tuchel after England booked their World Cup last 16 spot. But it is also one of the hardest fixtures in football.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-mexico-azteca-stadium_7288006.jpg?20260702120417"
+    },
+    {
+      "source": "sky",
+      "title": "Wimbledon Day Four LIVE! Britain's Swan faces Keys for third round place",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13559608/wimbledon-day-four-live-scores-updates-news-results-with-iga-swiatek-and-taylor-fritz-as-katie-swan-leads-british-hopes",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-katie-swan-wimbledon_7288049.jpg?20260702123916"
+    },
+    {
+      "source": "sky",
+      "title": "Merse: Mexico is heads-or-tails match - they could run England off their feet",
+      "link": "https://www.skysports.com/football/news/12040/13559758/mexico-vs-england-world-cup-last-16-tie-is-heads-or-tails-match-they-could-run-us-off-our-feet-says-paul-merson",
+      "summary": "Sky Sports' Paul Merson looks ahead to England's last-16 World Cup encounter with co-hosts Mexico on Monday, a game he thinks is too close to call.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-merson-says_7287983.jpg?20260702115239"
+    },
+    {
+      "source": "sky",
+      "title": "Brown to 76ers, George to Celtics as NBA summer madness continues",
+      "link": "https://www.skysports.com/nba/news/12040/13559799/nba-jaylen-brown-traded-to-76ers-paul-george-to-celtics-as-kawhi-leonard-traded-back-to-raptors-in-dizzying-summer",
+      "summary": "Celtics star Jaylen Brown has been traded to the 76ers for Paul George, two first round picks and two second round picks as the NBA's dizzying summer of moves rages on.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-brown-celtics_7288030.jpg?20260702122530"
     },
     {
       "source": "sky",
@@ -391,7 +471,7 @@
       "link": "https://www.skysports.com/football/news/12040/13559023/hayden-hackney-transfer-news-everton-sign-midfielder-from-middlesbrough-in-24m-deal",
       "summary": "Everton&#160;have completed the signing of&#160;midfielder Hayden Hackney from Middlesbrough in a &#163;24m deal.",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hayden-hackney-middlesbrough_7263485.jpg?20260602093435"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-hayden-hackney-everton_7287885.jpg?20260702101633"
     },
     {
       "source": "sky",
@@ -440,86 +520,6 @@
       "summary": "Today is gonna be the day that they&#8217;re gonna throw it back to... well, Harry Kane, hopefully. England's soundtrack of this summer's World Cup, Oasis hit Wonderwall, can be many different things to many people. At this tournament, it's been the unifier. A moment shared between players and fans.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-declan-rice_7287866.jpg?20260702092736"
-    },
-    {
-      "source": "sky",
-      "title": "Belgium produce stunning comeback win against Senegal to reach last 16",
-      "link": "https://www.skysports.com/football/belgium-vs-senegal/report/549846",
-      "summary": "Youri Tielemans scored a controversial last-gasp extra-time penalty winner for Belgium to complete an incredible 3-2 comeback victory against Senegal in the last 32 of the World Cup.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-belgium-senegal-youri-tielemans_7287703.jpg?20260701230357"
-    },
-    {
-      "source": "sky",
-      "title": "What next for England Test team - and 'why the lack of leaders?'",
-      "link": "https://www.skysports.com/cricket/news/12040/13559663/harry-brook-the-front-runner-as-england-test-captain-says-eoin-morgan-as-michael-atherton-ponders-why-the-lack-of-leaders",
-      "summary": "With England's first T20I against India abandoned due to rain, attention turned to the uncertainty surrounding the England Test team with Michael Atherton left pondering, 'why have we got so few potential leaders?'",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-harry-brook-england_7287660.jpg?20260701213653"
-    },
-    {
-      "source": "sky",
-      "title": "Harry Kane: England's greatest and Ballon D'Or contender",
-      "link": "https://www.skysports.com/football/news/12040/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo",
-      "summary": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kane-harry-england_7287772.jpg?20260702071825"
-    },
-    {
-      "source": "sky",
-      "title": "Kane keeps England's World Cup dream alive as DR Congo beaten",
-      "link": "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
-      "summary": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-kane-jude-bellingham_7287509.jpg?20260701185441"
-    },
-    {
-      "source": "sky",
-      "title": "'My worry is the Mexico game' | Merse concerned about England's prospects",
-      "link": "https://www.skysports.com/watch/video/13559746/world-cup-paul-merson-concerned-about-englands-prospects-vs-mexico",
-      "summary": "Paul Merson doesn't believe England were fortunate to beat DR Congo but he does admit he's nervous about their prospects of beating Mexico at the Azteca Stadium.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-football-worldcup_7287862.jpg?20260702092458"
-    },
-    {
-      "source": "sky",
-      "title": "Music acts, start times announced for ICC Women's T20 World Cup final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
-      "summary": "Australia are awaiting a potential clash with England in the ICC Women's T20 World Cup final in what is set to be a blockbuster event at Lord's on Sunday.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-womens-t20-world-cup_7267736.jpg?20260607182954"
-    },
-    {
-      "source": "sky",
-      "title": "'I still can't understand why it wasn't given' | Should Kane have been awarded penalty?",
-      "link": "https://www.skysports.com/watch/video/13559734/world-cup-should-harry-kane-have-been-awarded-penalty-vs-dr-congo",
-      "summary": "Ex-Premier League referee Dermot Gallagher was left perplexed as to why England's Harry Kane wasn't awarded a penalty against DR Congo.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-football-worldcup_7287843.jpg?20260702085526"
-    },
-    {
-      "source": "sky",
-      "title": "Is Rice the solution to England's right-back problem?",
-      "link": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
-      "summary": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thomas Tuchel will be aware of the need for improvement if they are to go the distance.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-decln-rice-jude-bellingham_7287647.jpg?20260701212812"
-    },
-    {
-      "source": "sky",
-      "title": "The Verdict: Kane saves England again with stunning brace",
-      "link": "https://www.skysports.com/watch/video/13559693/the-verdict-harry-kane-saves-england-again-with-stunning-brace",
-      "summary": "Sky Sports News' Rob Dorsett reflects on England's Round of 32 win over DR Congo as Harry Kane lifts England into the next round with a brilliant brace.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-verdict-kane_7287722.jpg?20260702004545"
-    },
-    {
-      "source": "sky",
-      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
-      "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sciver-brunt-england_7287318.jpg?20260702092052"
     }
   ]
 }
