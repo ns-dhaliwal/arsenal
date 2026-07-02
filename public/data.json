@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-02T12:12:36.412729+00:00",
+  "lastUpdated": "2026-07-02T15:10:25.416960+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Former Arsenal midfielder Cazorla retires at 41",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy4e1n409zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Arsenal midfielder Santi Cazorla retires from playing at the age of 41.",
+      "published": "2026-07-02T14:44:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26be/live/5cc62090-7622-11f1-9cba-11a4f8930054.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal consider Barcola as alternative to Rogers",
@@ -266,14 +274,6 @@
       "image": "https://i.guim.co.uk/img/media/dab55144d8320609c8568419443174c039e80b38/841_435_6588_5270/master/6588.jpg?width=140&quality=85&auto=format&fit=max&s=0a88665958ee22ac61dd6ac0ed7257bd"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal eye Kroupi & Rogers - and a new Arteta deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwy2rkgnlpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "After their long-awaited Premier League title triumph, senior football correspondent Sami Mokbel assesses Arsenal's to-do list for this summer.",
-      "published": "2026-06-01T19:12:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/371d/live/25833d30-5df3-11f1-b682-cf91850925ea.png"
-    },
-    {
       "source": "guardian",
       "title": "The Guardian view on a gripping season of British football: the best may be yet to come | Editorial",
       "link": "https://www.theguardian.com/commentisfree/2026/jun/01/the-guardian-view-on-a-gripping-season-of-british-football-the-best-may-be-yet-to-come",
@@ -363,11 +363,59 @@
     },
     {
       "source": "sky",
+      "title": "Liverpool latest: Jacquet has joined, but do Reds have enough options at the back?",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916"
+    },
+    {
+      "source": "sky",
+      "title": "Hollie Doyle blog: Ballydoyle to dominate the Coral Eclipse",
+      "link": "https://www.skysports.com/racing/news/12040/13559873/hollie-doyle-blog-constitution-river-can-enhance-his-reputation-in-the-eclipse",
+      "summary": "Our ambassador Hollie Doyle reveals her thoughts on the key races at Sandown and Newmarket on Saturday, including the Coral-Eclipse &#8211; live on Sky Sports Racing - and highlights her horses to follow on a Classic weekend in Ireland.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-doyle_7229472.png?20260424164426"
+    },
+    {
+      "source": "sky",
+      "title": "Soumillon ruled to aided Gstaad at Royal Ascot but ban reduced on appeal",
+      "link": "https://www.skysports.com/racing/news/12040/13559860/royal-ascot-christophe-soumillon-ban-reduced-on-appeal-but-panel-finds-he-did-benefit-gstaad-in-st-jamess-palace-stakes",
+      "summary": "Christophe Soumillon has been partially successful in his appeal against the eight-day suspension handed out by the stewards at Royal Ascot following his ride on Puerto Rico in the St James&#8217;s Palace Stakes, having it reduced to five.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-christophe-soumillon_7288178.jpg?20260702150019"
+    },
+    {
+      "source": "sky",
+      "title": "Anderson's record-breaking £116m Man City move announced",
+      "link": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
+      "summary": "Elliot Anderson's record-breaking &#163;116m transfer to Manchester City from Nottingham Forest has been announced.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-transfer_7229004.jpg?20260424090044"
+    },
+    {
+      "source": "sky",
+      "title": "Pollock remains on bench as Furbank makes England XV to face South Africa",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13559721/england-vs-south-africa-henry-pollock-remains-on-bench-as-george-furbank-returns-for-nations-championship-clash-in-johannesburg",
+      "summary": "George Furbank will make his first England start since 2024 after being selected for Saturday's Nations Championship opener against South Africa, while Henry Pollock remains on the bench.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-henry-pollock-rugby_7288114.jpg?20260702135002"
+    },
+    {
+      "source": "sky",
       "title": "Hull City latest: Butland completes £3m move from Rangers",
       "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-hull-city_7259338.jpg?20260527081515"
+    },
+    {
+      "source": "sky",
+      "title": "Everton latest: It was always going to be Toffees, says new boy Hackney",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124"
     },
     {
       "source": "sky",
@@ -379,11 +427,19 @@
     },
     {
       "source": "sky",
-      "title": "F1 drivers to drive Lego cars at Silverstone before British GP",
+      "title": "Chaos ahead?! F1 stars to drive Lego cars at Silverstone before British GP!",
       "link": "https://www.skysports.com/f1/news/12040/13559722/british-gp-f1-drivers-to-drive-lego-minicars-before-silverstone-race-on-spectacular-track-parade",
       "summary": "F1 drivers will drive 22 Lego minicars ahead of Sunday's British Grand Prix in a spectacular - and likely chaotic - track parade at Silverstone.",
       "published": null,
       "image": "https://e0.365dm.com/25/05/1920x1080/skysports-f1-lando-norris-oscar-piastri_6907474.jpg?20250505200227"
+    },
+    {
+      "source": "sky",
+      "title": "Shearer at £237m? Where Anderson transfer stands in adjusted rankings",
+      "link": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
+      "summary": "Elliot Anderson becomes the third-most expensive signing in Premier League history after Alexander Isak and Florian Wirtz with his &#163;116m transfer from Nottingham Forest to Manchester City.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-elliot-anderson-nottingham-forest_7265026.jpg?20260604083120"
     },
     {
       "source": "sky",
@@ -411,11 +467,27 @@
     },
     {
       "source": "sky",
+      "title": "How to survive England's 1am World Cup tie with Mexico...",
+      "link": "https://www.skysports.com/football/news/12040/13559769/world-cup-2026-mexico-vs-england-how-to-survive-three-lions-1am-last-16-tie-on-monday",
+      "summary": "England face Mexico for a place in the World Cup quarter-finals, but with the tie not kicking off until 1am UK time on Monday, we have a handy guide for you on how best to prep for the early-morning start.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-last-16_7287902.jpg?20260702103256"
+    },
+    {
+      "source": "sky",
       "title": "Tonali: De Zerbi played huge role in Tottenham move",
       "link": "https://www.skysports.com/football/news/12040/13559789/sandro-tonali-roberto-de-zerbi-played-huge-role-in-tottenham-transfer-says-midfielder-ahead-of-100m-newcastle-switch",
       "summary": "Sandro Tonali has revealed the \"huge role\" Roberto De Zerbi had in his impending &#163;100m move to Tottenham from Newcastle.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-tottenham-hotspur_7288051.jpg?20260702124018"
+    },
+    {
+      "source": "sky",
+      "title": "Man City’s £824m rebuild topped by British-record Anderson move",
+      "link": "https://www.skysports.com/football/news/12040/13557947/man-city-transfer-spending-explained-elliot-anderson-move-smashes-british-record-transfer-fee",
+      "summary": "Manchester City&#8217;s transfer spending has hit &#163;824m in three years after signing Elliot Anderson in a British-record &#163;116m deal.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-man-city-graphic_7286277.jpg?20260630075253"
     },
     {
       "source": "sky",
@@ -427,11 +499,19 @@
     },
     {
       "source": "sky",
-      "title": "Wimbledon Day Four LIVE! Britain's Swan faces Keys for third round place",
+      "title": "Bronze extends Chelsea stay by another year",
+      "link": "https://www.skysports.com/football/news/12040/13559807/lucy-bronze-england-defender-extends-chelsea-stay-by-a-year-to-continue-helping-club-move-forward",
+      "summary": "Defender Lucy Bronze has signed a one-year contract extension with Chelsea until 2027, the club has announced.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lucy-bronze-chelsea_7288045.jpg?20260702123618"
+    },
+    {
+      "source": "sky",
+      "title": "Wimbledon Day Four LIVE! Britain's Fery into round three but Swan beaten",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13559608/wimbledon-day-four-live-scores-updates-news-results-with-iga-swiatek-and-taylor-fritz-as-katie-swan-leads-british-hopes",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-katie-swan-wimbledon_7288049.jpg?20260702123916"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fery-wimbledon-tennis_7288142.jpg?20260702142810"
     },
     {
       "source": "sky",
@@ -440,86 +520,6 @@
       "summary": "Sky Sports' Paul Merson looks ahead to England's last-16 World Cup encounter with co-hosts Mexico on Monday, a game he thinks is too close to call.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-merson-says_7287983.jpg?20260702115239"
-    },
-    {
-      "source": "sky",
-      "title": "Brown to 76ers, George to Celtics as NBA summer madness continues",
-      "link": "https://www.skysports.com/nba/news/12040/13559799/nba-jaylen-brown-traded-to-76ers-paul-george-to-celtics-as-kawhi-leonard-traded-back-to-raptors-in-dizzying-summer",
-      "summary": "Celtics star Jaylen Brown has been traded to the 76ers for Paul George, two first round picks and two second round picks as the NBA's dizzying summer of moves rages on.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-brown-celtics_7288030.jpg?20260702122530"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs complete club-record £85m Fernandes signing",
-      "link": "https://www.skysports.com/football/news/12040/13559479/mateus-fernandes-transfer-news-midfielder-set-for-medical-after-spurs-beat-man-utd-to-85m-deal",
-      "summary": "Tottenham have completed the signing of Mateus Fernandes from West Ham United.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mateus-fernandes_7257986.jpg?20260701125333"
-    },
-    {
-      "source": "sky",
-      "title": "Leaderboards: PGA Tour, DP World Tour, Ladies European Tour and more",
-      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "summary": "Latest golf scores and results from around the world, including the PGA Tour's John Deere Classic, the DP World Tour's BMW International Open and the Ladies European Tour's Hulencourt Women's Open.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-patrick-reed-masters_7217534.jpg?20260411205745"
-    },
-    {
-      "source": "sky",
-      "title": "Hackney joins Everton in £24m deal",
-      "link": "https://www.skysports.com/football/news/12040/13559023/hayden-hackney-transfer-news-everton-sign-midfielder-from-middlesbrough-in-24m-deal",
-      "summary": "Everton&#160;have completed the signing of&#160;midfielder Hayden Hackney from Middlesbrough in a &#163;24m deal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-hayden-hackney-everton_7287885.jpg?20260702101633"
-    },
-    {
-      "source": "sky",
-      "title": "Sunderland and Palace hunting Real and PSG in WC goal charts!",
-      "link": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
-      "summary": "Which teams' players have scored the most goals at the World Cup so far?",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-graphic-world-cup_7287057.jpg?20260701072559"
-    },
-    {
-      "source": "sky",
-      "title": "Musical Times looks to make it two from two at Yarmouth",
-      "link": "https://www.skysports.com/racing/news/12040/13559438/today-on-sky-sports-racing-newbury-and-yarmouth",
-      "summary": "We have a busy day&#8217;s racing on Thursday with flat action from Newbury and Yarmouth, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-yarmouth-racing_7246305.jpg?20260512100808"
-    },
-    {
-      "source": "sky",
-      "title": "British GP storylines to look out for as Sprint weekend returns",
-      "link": "https://www.skysports.com/f1/news/12040/13559495/british-gp-silverstone-storylines-to-look-out-for-as-kimi-antonelli-vs-george-russell-battle-continues-on-sprint-weekend",
-      "summary": "As Formula 1's European summer run continues at the home of the first World Championship event - the British Grand Prix at Silverstone - Sky Sports F1 takes a look at the key talking points ahead of Sunday's race.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7287375.jpg?20260701154138"
-    },
-    {
-      "source": "sky",
-      "title": "England out to end semi-final hoodoo against bogey side South Africa",
-      "link": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
-      "summary": "England have been perfect at the Women's T20 World Cup so far, chalking up five wins from five.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-women-t20-cricket_7287228.jpg?20260701121924"
-    },
-    {
-      "source": "sky",
-      "title": "USA reach last 16 as Balogun scores but then sees red",
-      "link": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
-      "summary": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Folarin Balogun for their clash with Belgium after his red card.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-balogun-world-cup_7287724.jpg?20260702015251"
-    },
-    {
-      "source": "sky",
-      "title": "How has Wonderwall become England's World Cup soundtrack?",
-      "link": "https://www.skysports.com/football/news/12040/13559743/englands-wonderwall-anthem-how-oasis-hit-became-new-world-cup-soundtrack-as-harry-kane-and-jude-bellingham-lead-singalongs",
-      "summary": "Today is gonna be the day that they&#8217;re gonna throw it back to... well, Harry Kane, hopefully. England's soundtrack of this summer's World Cup, Oasis hit Wonderwall, can be many different things to many people. At this tournament, it's been the unifier. A moment shared between players and fans.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-declan-rice_7287866.jpg?20260702092736"
     }
   ]
 }
