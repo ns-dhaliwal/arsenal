@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T20:58:18.582063+00:00",
+  "lastUpdated": "2026-07-03T22:07:44.428749+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,17 +363,25 @@
     },
     {
       "source": "sky",
-      "title": "Messi starts for Argentina vs Cape Verde LIVE!",
+      "title": "Egypt eliminate Australia from World Cup after penalty shoot-out drama",
+      "link": "https://www.skysports.com/football/australia-vs-egypt/report/549851",
+      "summary": "Egypt are into the last 16 of the World Cup after beating Australia in a dramatic penalty shoot-out in Dallas.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mohamed-salah-egypt_7289210.jpg?20260703221214"
+    },
+    {
+      "source": "sky",
+      "title": "Argentina vs Cape Verde LIVE!",
       "link": "https://www.skysports.com/football/argentina-vs-cape-verde/live/549852",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7284698.jpg?20260628052201"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7289236.jpg?20260703230415"
     },
     {
       "source": "sky",
       "title": "Sabalenka sets up mouth-watering Wimbledon clash with Osaka",
       "link": "https://www.skysports.com/tennis/news/12040/13560155/wimbledon-aryna-sabalenka-sets-up-naomi-osaka-showdown-as-novak-djokovic-and-jannik-sinner-advance",
-      "summary": "Aryna Sabalenka set up a mouth-watering Wimbledon clash with Naomi Osaka clash as Coco Gauff matched her best run, while Novak Djokovic and Jannik Sinner continue their title pursuit.",
+      "summary": "Aryna Sabalenka set up a mouth-watering Wimbledon clash with Naomi Osaka as Coco Gauff matched her best run, while Novak Djokovic and Jannik Sinner continue their title pursuit.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-aryna-sabalenka-naomi-osaka_7289163.jpg?20260703203949"
     },
@@ -512,14 +520,6 @@
       "summary": "Australia booked their place in the Women's T20 World Cup final with a dominant eight-wicket victory to make it six wins out of six at the tournament - and the smart money would be on them to make it seven in a row in the final.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ash-gardner-georgia-wareham_7285226.jpg?20260628191637"
-    },
-    {
-      "source": "sky",
-      "title": "A Boy Named Susie fancied to upset Constitution River at Sandown",
-      "link": "https://www.skysports.com/racing/news/12040/13560078/sandown-tips-a-boy-named-susie-fancied-to-upset-constitution-river-in-eclipse-clash",
-      "summary": "All eyes will be on Sandown on Saturday afternoon when French Derby hero Constitution River goes in search of Coral-Eclipse success.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-weekend-winners-racing_7170076.jpg?20260220115915"
     }
   ]
 }
