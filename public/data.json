@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T00:00:30.482642+00:00",
+  "lastUpdated": "2026-07-03T04:37:40.829777+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,22 @@
     },
     {
       "source": "sky",
+      "title": "Ndoye doubles Switzerland's lead vs Algeria LIVE!",
+      "link": "https://www.skysports.com/football/switzerland-vs-algeria/live/549848",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-dan-ndoye-switzerland_7288565.jpg?20260703051316"
+    },
+    {
+      "source": "sky",
+      "title": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dreams alive",
+      "link": "https://www.skysports.com/football/portugal-vs-croatia/report/549850",
+      "summary": "Cristiano Ronaldo's World Cup dreams were kept alive in controversial fashion as he helped his Portugal side fight back from a goal down to beat Croatia 2-1 and set up a mouth-watering last-16 tie with Spain.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7288555.jpg?20260703030020"
+    },
+    {
+      "source": "sky",
       "title": "Spain ease past Austria and are growing into this World Cup",
       "link": "https://www.skysports.com/football/spain-vs-austria/report/549849",
       "summary": "Spain eased into the round of 16 of the World Cup with a comfortable 3-0 win over Austria in Los Angeles.",
@@ -387,11 +403,11 @@
     },
     {
       "source": "sky",
-      "title": "Portugal pushing to find opener vs Croatia LIVE!",
+      "title": "VOTE: Should Croatia's late equalising goal vs Portugal have stood?",
       "link": "https://www.skysports.com/football/portugal-vs-croatia/live/549850",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-bruno-fernandes-mateo-kovacic_7288549.jpg?20260703001800"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luka-modric-portugal_7288556.jpg?20260703031318"
     },
     {
       "source": "sky",
@@ -504,22 +520,6 @@
       "summary": "Christophe Soumillon has been partially successful in his appeal against the eight-day suspension handed out by the stewards at Royal Ascot following his ride on Puerto Rico in the St James&#8217;s Palace Stakes, having it reduced to five.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-christophe-soumillon_7288178.jpg?20260702150019"
-    },
-    {
-      "source": "sky",
-      "title": "Anderson's record-breaking £116m Man City move announced",
-      "link": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
-      "summary": "Elliot Anderson's record-breaking &#163;116m transfer to Manchester City from Nottingham Forest has been announced.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-transfer_7229004.jpg?20260424090044"
-    },
-    {
-      "source": "sky",
-      "title": "Pollock remains on bench as Furbank makes England XV to face South Africa",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13559721/england-vs-south-africa-henry-pollock-remains-on-bench-as-george-furbank-returns-for-nations-championship-clash-in-johannesburg",
-      "summary": "George Furbank will make his first England start since 2024 after being selected for Saturday's Nations Championship opener against South Africa, while Henry Pollock remains on the bench.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-henry-pollock-rugby_7288114.jpg?20260702135002"
     }
   ]
 }
