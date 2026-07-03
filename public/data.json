@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T04:37:40.829777+00:00",
+  "lastUpdated": "2026-07-03T07:57:55.330832+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,19 +363,131 @@
     },
     {
       "source": "sky",
-      "title": "Ndoye doubles Switzerland's lead vs Algeria LIVE!",
+      "title": "'I knew it was over' - Froome retires almost a year after near-fatal crash",
+      "link": "https://www.skysports.com/cycling/news/12040/13560042/chris-froome-four-time-tour-de-france-champion-retires-from-cycling-almost-a-year-on-from-near-fatal-crash",
+      "summary": "Four-time Tour de France winner Chris Froome has called time on his professional cycling career.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-froome-cycling_7288632.jpg?20260703080924"
+    },
+    {
+      "source": "sky",
+      "title": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
+      "link": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276226.jpg?20260617222704"
+    },
+    {
+      "source": "sky",
+      "title": "'A dream come true' - F1 Academy making history at Silverstone",
+      "link": "https://www.skysports.com/f1/news/12040/13560034/f1-academy-makes-history-with-first-races-at-silverstone-with-home-drivers-in-field-on-bumper-british-gp-weekend",
+      "summary": "F1 Academy breaks new ground this weekend as the series makes its racing debut at Silverstone as part of a bumper British Grand Prix programme.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-f1-academy-2026-british-gp_7288613.jpg?20260703073500"
+    },
+    {
+      "source": "sky",
+      "title": "Johnson one shot off John Deere Classic lead with Wallace in contention",
+      "link": "https://www.skysports.com/golf/news/12040/13560028/pga-tour-zach-johnson-one-shot-off-john-deere-classic-lead-with-englands-matt-wallace-in-contention-after-first-round",
+      "summary": "Zach Johnson is skipping three majors for the John Deere Classic, and the Iowa native made the decision pay off on Thursday with an eagle-birdie finish for a seven-under 64 that left him one shot off the lead in Illinois.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-johnson-golf_7288587.jpg?20260703081125"
+    },
+    {
+      "source": "sky",
+      "title": "South Africans lead the way on opening day of BMW International Open",
+      "link": "https://www.skysports.com/watch/video/13559938/bmw-international-open-opening-round-highlights",
+      "summary": "Highlights from the opening round of the BMW International Open at the Golfclub Munchen Eichenried in Germany.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-bmw-international-open_7288341.jpg?20260702182212"
+    },
+    {
+      "source": "sky",
+      "title": "Highlights: England reach Women's T20 World Cup final with win over South Africa",
+      "link": "https://www.skysports.com/watch/video/13559988/england-vs-south-africa-semi-final-t20-highlights",
+      "summary": "Highlights of the Women's T20 World Cup semi-final between England and South Africa.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cricket-e_7288502.jpg?20260702220127"
+    },
+    {
+      "source": "sky",
+      "title": "Nagelsmann quits Germany with Klopp 'ready' to take over",
+      "link": "https://www.skysports.com/football/news/12040/13559137/julian-nagelsmann-resigns-as-germany-head-coach-after-shock-world-cup-exit-with-jurgen-klopp-ready-to-take-over",
+      "summary": "Julian Nagelsmann has left his role as head coach of Germany with Jurgen Klopp ready to replace him, according to Sky Germany.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-germany_7286318.jpg?20260630091239"
+    },
+    {
+      "source": "sky",
+      "title": "Nations Championship: Pressure on England as depleted Ireland seek history",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13558222/nations-championship-steve-borthwicks-england-under-pressure-ahead-of-tough-south-africa-argentina-tests-depleted-ireland-seek-eden-park-history",
+      "summary": "We look at some of the major talking points ahead of the summer's inaugural Nations Championship Tests...",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-russell-pollock-sheehan_7284106.jpg?20260627102112"
+    },
+    {
+      "source": "sky",
+      "title": "'Can we have our car back?' | Norris and Piastri get mischievous ahead of British GP",
+      "link": "https://www.skysports.com/watch/video/13559947/british-gp-chaos-on-track-lando-norris-and-oscar-piastri-steal-sky-sports-f1-kart",
+      "summary": "Lando Norris and Oscar Piastri take on Sky Sports F1's karting challenge at Silverstone and then get up to some hi-jinks afterwards!",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lando-norris-oscar-piastri_7288369.jpg?20260702190232"
+    },
+    {
+      "source": "sky",
+      "title": "'We are a new England!' | Can hosts shock Australia to become world champions?",
+      "link": "https://www.skysports.com/watch/video/13559995/will-home-advantage-help-england-beat-favourites-australia-and-lift-the-world-cup",
+      "summary": "Tash Farrant and Nasser Hussain explain why they believe England can come out on top against Australia despite being underdogs in Sunday's Women's T20 World Cup final.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-australia-womens-cricket_7288543.jpg?20260702230555"
+    },
+    {
+      "source": "sky",
+      "title": "Emerald Harmony looks to follow up at Doncaster",
+      "link": "https://www.skysports.com/racing/news/12040/13559783/today-on-sky-sports-racing-chepstow-doncaster-and-newton-abbot",
+      "summary": "We have a busy day&#8217;s racing on Friday with action from Chepstow, Doncaster and Newton Abbot, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-a-bear-affair-doncaster_7205592.jpg?20260328174035"
+    },
+    {
+      "source": "sky",
+      "title": "Newcastle latest: Toon target Manzambi shows worth in Switzerland win",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-newcastle-news-club_7039263.jpg?20251002160522"
+    },
+    {
+      "source": "sky",
+      "title": "Hussain: England must take no 'mental baggage' into Australia final",
+      "link": "https://www.skysports.com/cricket/news/12040/13560007/womens-t20-world-cup-final-nasser-hussain-says-england-must-take-no-mental-baggage-into-sundays-clash-with-australia-at-lords",
+      "summary": "Nasser Hussain says England must take no \"mental baggage\" into the Women's T20 World Cup final if they are to stand a chance of toppling favourites Australia.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-england-cricket_7282161.jpg?20260625074329"
+    },
+    {
+      "source": "sky",
+      "title": "Switzerland vs Algeria - All the key moments and rate the players!",
       "link": "https://www.skysports.com/football/switzerland-vs-algeria/live/549848",
       "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-breel-embolo-switzerland_7288557.jpg?20260703041817"
+    },
+    {
+      "source": "sky",
+      "title": "Switzerland beat Algeria to secure first World Cup knockout win in 88 years",
+      "link": "https://www.skysports.com/football/switzerland-vs-algeria/report/549848",
+      "summary": "Switzerland finally ended their World Cup knockout hoodoo by beating Algeria 2-0 to set up a last-16 meeting with either Colombia or Ghana.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-dan-ndoye-switzerland_7288565.jpg?20260703051316"
     },
     {
       "source": "sky",
-      "title": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dreams alive",
+      "title": "Late VAR drama as Portugal beat Croatia to keep Ronaldo's World Cup dream alive",
       "link": "https://www.skysports.com/football/portugal-vs-croatia/report/549850",
-      "summary": "Cristiano Ronaldo's World Cup dreams were kept alive in controversial fashion as he helped his Portugal side fight back from a goal down to beat Croatia 2-1 and set up a mouth-watering last-16 tie with Spain.",
+      "summary": "Cristiano Ronaldo's World Cup dreams were kept alive in controversial fashion as he helped Portugal fight back from a goal down to beat Croatia 2-1 and set up a mouth-watering last-16 tie with Spain.",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7288555.jpg?20260703030020"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-portugal_7288581.jpg?20260703063206"
     },
     {
       "source": "sky",
@@ -403,123 +515,11 @@
     },
     {
       "source": "sky",
-      "title": "VOTE: Should Croatia's late equalising goal vs Portugal have stood?",
+      "title": "'VAR has gone too far!' - How 'Snicko' helped rule out Croatia's dramatic equaliser",
       "link": "https://www.skysports.com/football/portugal-vs-croatia/live/549850",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luka-modric-portugal_7288556.jpg?20260703031318"
-    },
-    {
-      "source": "sky",
-      "title": "'I won't stop until we get there!' - Hamilton makes eighth title promise to fans",
-      "link": "https://www.skysports.com/f1/news/12040/13559728/lewis-hamilton-ferrari-driver-wont-stop-in-formula-1-until-he-wins-record-eighth-world-title",
-      "summary": "Lewis Hamilton has promised the Silverstone crowd he \"won't stop until we get there\" in pursuit of a record eighth world title in Formula 1 ahead of this weekend's British Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7288352.jpg?20260702184033"
-    },
-    {
-      "source": "sky",
-      "title": "Antonelli: I still have momentum in title battle with Russell",
-      "link": "https://www.skysports.com/f1/news/12040/13559726/kimi-antonelli-mercedes-driver-says-he-still-has-championship-momentum-against-george-russell-ahead-of-british-gp",
-      "summary": "Kimi Antonelli still believes he has momentum in the title race against Mercedes team-mate George Russell, despite losing ground in the last two races.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7288313.jpg?20260702174819"
-    },
-    {
-      "source": "sky",
-      "title": "Norris: A good thing if Verstappen wants to join McLaren",
-      "link": "https://www.skysports.com/f1/news/12040/13559724/lando-norris-says-max-verstappen-wanting-to-join-mclaren-from-red-bull-would-be-a-good-thing",
-      "summary": "Lando Norris says it would be \"a good thing\" if rival Max Verstappen wanted to leave Red Bull to join him at McLaren.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lando-norris-max_7288193.jpg?20260702152320"
-    },
-    {
-      "source": "sky",
-      "title": "Pubs allowed to stay open until 5am for England's World Cup clash vs Mexico",
-      "link": "https://www.skysports.com/football/news/12040/13559749/england-bank-holiday",
-      "summary": "England are through to the last-16 of the 2026 World Cup - but their clash against Mexico will not kick-off until 1am UK time.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-fans-world-cup_7288255.jpg?20260702163410"
-    },
-    {
-      "source": "sky",
-      "title": "Spain vs Austria - key moments and rate the players!",
-      "link": "https://www.skysports.com/football/spain-vs-austria/live/549849",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spain-austria-pedro-porro_7288483.jpg?20260702213629"
-    },
-    {
-      "source": "sky",
-      "title": "'Nervous' Sciver-Brunt revels as 'close to complete' England reach home final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559887/womens-t20-world-cup-nat-sciver-brunt-overcomes-nerves-as-close-to-complete-england-book-final-against-australia",
-      "summary": "Nat Sciver-Brunt was delighted to be able to overcome pre-match nerves and guide England to the Women&#8217;s T20 World Cup final with a &#8216;close to complete&#8217; 40-run victory over South Africa.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nat-sciver-brunt_7288535.jpg?20260702225531"
-    },
-    {
-      "source": "sky",
-      "title": "Mickelson's representatives refute allegations of inappropriate behaviour",
-      "link": "https://www.skysports.com/golf/news/12040/13559896/phil-mickelson-refutes-allegations-of-inappropriate-behaviour-in-statement-released-by-his-representatives",
-      "summary": "Six-time major champion Phil Mickelson's representatives have described allegations of inappropriate behaviour levelled at him as an \"anonymously sourced drive-by shooting\".",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-phil-mickelson-golf_7288265.jpg?20260702164610"
-    },
-    {
-      "source": "sky",
-      "title": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
-      "link": "https://www.skysports.com/football/news/12040/13559827/rangers-transfer-news-derek-mcinnes-talks-new-signings-possible-departures-lewis-ferguson-links-and-more",
-      "summary": "Rangers manager Derek McInnes says the club are working on making more summer signings after adding five players in the opening weeks of the transfer window.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Man City set to beat Arsenal to teenage winger signing",
-      "link": "https://www.skysports.com/football/news/12040/13559952/man-city-set-to-beat-arsenal-to-leicester-winger-jeremy-monga-as-move-closes-in-paper-talk",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "Sciver-Brunt stars as England beat South Africa to reach T20 World Cup final",
-      "link": "https://www.skysports.com/cricket/news/12040/13559884/womens-t20-world-cup-england-beat-south-africa-to-reach-final-as-captain-nat-sciver-brunt-stars-on-return-from-injury",
-      "summary": "England are through to the ICC Women&#8217;s T20 World Cup final for the first time in eight years after an impressive 40-run victory over South Africa at The Oval.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lauren-bell-nat-sciver-brunt_7288482.jpg?20260702213515"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916"
-    },
-    {
-      "source": "sky",
-      "title": "Cusack ‘would still be alive if coach did not join Sheff Utd’, inquest told",
-      "link": "https://www.skysports.com/football/news/12040/13559959/maddy-cusack-former-sheffield-united-midfielder-would-still-be-alive-if-coach-did-not-join-club-inquest-told",
-      "summary": "Former Sheffield United player Maddy Cusack would still be alive if the coach of the women's team had not been employed by the club, her mother has told an inquest.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610"
-    },
-    {
-      "source": "sky",
-      "title": "Hollie Doyle blog: Ballydoyle to dominate the Coral Eclipse",
-      "link": "https://www.skysports.com/racing/news/12040/13559873/hollie-doyle-blog-constitution-river-can-enhance-his-reputation-in-the-eclipse",
-      "summary": "Our ambassador Hollie Doyle reveals her thoughts on the key races at Sandown and Newmarket on Saturday, including the Coral-Eclipse &#8211; live on Sky Sports Racing - and highlights her horses to follow on a Classic weekend in Ireland.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-doyle_7229472.png?20260424164426"
-    },
-    {
-      "source": "sky",
-      "title": "Soumillon ruled to aided Gstaad at Royal Ascot but ban reduced on appeal",
-      "link": "https://www.skysports.com/racing/news/12040/13559860/royal-ascot-christophe-soumillon-ban-reduced-on-appeal-but-panel-finds-he-did-benefit-gstaad-in-st-jamess-palace-stakes",
-      "summary": "Christophe Soumillon has been partially successful in his appeal against the eight-day suspension handed out by the stewards at Royal Ascot following his ride on Puerto Rico in the St James&#8217;s Palace Stakes, having it reduced to five.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-christophe-soumillon_7288178.jpg?20260702150019"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luka-modric-portugal_7288556.jpg?20260703075254"
     }
   ]
 }
