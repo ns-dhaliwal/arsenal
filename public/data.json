@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T03:54:07.443106+00:00",
+  "lastUpdated": "2026-07-04T06:43:08.848635+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,14 @@
     },
     {
       "source": "sky",
+      "title": "Elmonjed seeks Deauville riches",
+      "link": "https://www.skysports.com/racing/news/12040/13560076/today-on-sky-sports-racing-deauville-and-saratoga",
+      "summary": "We have a busy day&#8217;s racing on Saturday with flat action from Deauville and Saratoga, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/25/08/1920x1080/skysports-miss-attitude-deauville_6987498.jpg?20250810174510"
+    },
+    {
+      "source": "sky",
       "title": "Arias strike sends Colombia into World Cup last 16",
       "link": "https://www.skysports.com/football/colombia-vs-ghana/report/549853",
       "summary": "Colombia reached the last 16 of the World Cup for the third time in their last three appearances at the tournament with a 1-0 win over Ghana.",
@@ -371,7 +379,7 @@
     },
     {
       "source": "sky",
-      "title": "Colombia beat Ghana to reach last 16 LIVE!",
+      "title": "Colombia 1-0 Ghana: All the key moments and rate the players",
       "link": "https://www.skysports.com/football/colombia-vs-ghana/live/549853",
       "summary": "",
       "published": null,
@@ -512,14 +520,6 @@
       "summary": "Captain Granit Xhaka&#160;will be staying at&#160;Sunderland, Sky Sports News can exclusively confirm.",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-granit-xhaka-sunderland_7259944.jpg?20260528003713"
-    },
-    {
-      "source": "sky",
-      "title": "'Better we don't speak' - Vasseur unhappy with Wolff over 'cheating' accusation",
-      "link": "https://www.skysports.com/f1/news/12040/13560061/frederic-vasseur-ferrari-team-principal-unhappy-with-toto-wolff-over-cheating-accusation-at-british-grand-prix",
-      "summary": "Team principal Frederic Vasseur has hit back at Mercedes' Toto Wolff over Ferrari's upgrade rate, calling his comments \"quite ironic\".",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-frederic-vasseur_7288940.jpg?20260703155026"
     }
   ]
 }
