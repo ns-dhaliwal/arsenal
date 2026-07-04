@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T00:00:05.525648+00:00",
+  "lastUpdated": "2026-07-04T03:54:07.443106+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,30 @@
     },
     {
       "source": "sky",
+      "title": "Arias strike sends Colombia into World Cup last 16",
+      "link": "https://www.skysports.com/football/colombia-vs-ghana/report/549853",
+      "summary": "Colombia reached the last 16 of the World Cup for the third time in their last three appearances at the tournament with a 1-0 win over Ghana.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-colombia-world-cup_7289260.jpg?20260704044334"
+    },
+    {
+      "source": "sky",
+      "title": "Colombia beat Ghana to reach last 16 LIVE!",
+      "link": "https://www.skysports.com/football/colombia-vs-ghana/live/549853",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-colombia-world-cup_7289259.jpg?20260704025349"
+    },
+    {
+      "source": "sky",
+      "title": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
+      "link": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
+      "summary": "Argentina avoided the biggest upset in World Cup history after Diney Borges' own-goal in extra-time rescued a 3-2 win over Cape Verde to book their place in the last 16 of the tournament.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7289258.jpg?20260704020701"
+    },
+    {
+      "source": "sky",
       "title": "England vs Mexico WILL kick-off at 1am Monday",
       "link": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
       "summary": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move.",
@@ -387,11 +411,11 @@
     },
     {
       "source": "sky",
-      "title": "Cape Verde sensationally equalise against Argentina LIVE!",
+      "title": "Key moments and rate the players in Cape Verde's classic with Argentina",
       "link": "https://www.skysports.com/football/argentina-vs-cape-verde/live/549852",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cape-verde-deroy-duarte_7289248.jpg?20260704004216"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-diney-borges-cape-verde_7289257.jpg?20260704015915"
     },
     {
       "source": "sky",
@@ -496,30 +520,6 @@
       "summary": "Team principal Frederic Vasseur has hit back at Mercedes' Toto Wolff over Ferrari's upgrade rate, calling his comments \"quite ironic\".",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-frederic-vasseur_7288940.jpg?20260703155026"
-    },
-    {
-      "source": "sky",
-      "title": "YouTube sensation Dalke within TWO of the lead at BMW International Open!",
-      "link": "https://www.skysports.com/watch/video/13560240/bmw-international-open-second-round-highlights",
-      "summary": "Highlights from the second round of the BMW International Open at the Golfclub Munchen Eichenried in Germany where YouTube star Brad Dalke finds himself in contention for the title.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/e-a-aa_7289119.jpg?20260703183618"
-    },
-    {
-      "source": "sky",
-      "title": "Flying Hamilton fastest at Silverstone ahead of Sprint Qualifying",
-      "link": "https://www.skysports.com/f1/news/12040/13560057/british-gp-lewis-hamilton-fastest-from-kimi-antonelli-at-silverstone-ahead-of-sprint-qualifying",
-      "summary": "Lewis Hamilton was unexpectedly fastest after a blistering lap in the only practice session at the British Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7288841.jpg?20260703133831"
-    },
-    {
-      "source": "sky",
-      "title": "Crowd erupts as Hamilton goes fastest in P1 at Silverstone!",
-      "link": "https://www.skysports.com/watch/video/13560123/british-gp-lewis-hamilton-goes-fastest-in-p1-at-silverstone",
-      "summary": "Lewis Hamilton goes fastest in the first practice session at the British Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-formula-one-hamilton_7288848.jpg?20260703134522"
     }
   ]
 }
