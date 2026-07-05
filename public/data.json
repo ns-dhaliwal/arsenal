@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T16:02:20.297261+00:00",
+  "lastUpdated": "2026-07-05T17:57:47.958706+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,11 +363,51 @@
     },
     {
       "source": "sky",
+      "title": "Australia romp past England to secure seventh Women's T20 World Cup title",
+      "link": "https://www.skysports.com/cricket/news/12040/13560599/womens-t20-world-cup-final-england-overpowered-by-australia-at-lords-as-southern-stars-win-record-extending-seventh-title",
+      "summary": "Australia dashed England's hopes of a first ICC Women's T20 World Cup win in 17 years and second overall as they romped to a seven-wicket victory at a packed-out Lord's to secure a record-extending seventh title.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sophie-ecclestone_7290517.jpg?20260705183857"
+    },
+    {
+      "source": "sky",
+      "title": "Chacarra claims maiden LET title at Hulencourt Women's Open",
+      "link": "https://www.skysports.com/golf/news/12040/13560705/ladies-european-tour-carolina-chacarra-wins-hulencourt-womens-open-as-bronte-law-hannah-screen-record-top-10-finishes",
+      "summary": "Carolina Chacarra won her maiden Ladies European Tour title by finishing on 12 under at the Hulencourt Women's Open in Belgium.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-chacarra-golf_7290488.jpg?20260705180712"
+    },
+    {
+      "source": "sky",
+      "title": "Handley stars as Leeds run riot against Bradford at Magic Weekend",
+      "link": "https://www.skysports.com/rugby-league/leeds-vs-bradford/report/63273",
+      "summary": "Ash Handley scored a hat-trick of tries and set up two others as Leeds Rhinos ran riot against rivals Bradford Bulls to secure a 50-16 victory at Hill Dickinson Stadium.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ash-handley_7290423.jpg?20260705171426"
+    },
+    {
+      "source": "sky",
       "title": "Leclerc wins chaotic British GP as Antonelli suffers late failure",
       "link": "https://www.skysports.com/f1/news/12040/13560559/british-gp-charles-leclerc-wins-chaotic-race-as-championship-leader-kimi-antonelli-finishes-outside-points-after-late-failure",
       "summary": "Charles Leclerc won a chaotic British Grand Prix for Ferrari as Kimi Antonelli's world championship lead was dramatically reduced after a technical issue left him outside the points.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-charles-leclerc-ferrari_7290399.jpg?20260705165344"
+    },
+    {
+      "source": "sky",
+      "title": "Calandagan bounces back in style at Saint-Cloud",
+      "link": "https://www.skysports.com/racing/news/12040/13560716/calandagan-bounces-back-in-style-at-saint-cloud",
+      "summary": "Calandagan went from last to first to win the Grand Prix de Saint-Cloud for the second year in a row.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-calandagan-saint-cloud_7290428.jpg?20260705171930"
+    },
+    {
+      "source": "sky",
+      "title": "Leeds Rhinos continue winning ways with 50-16 victory over Bradford Bulls",
+      "link": "https://www.skysports.com/watch/video/13560704/leeds-rhinos-50-16-bradford-bulls-super-league-highlights",
+      "summary": "Highlights of the Super League match between Leeds Rhinos and Bradford Bulls.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-super-league-leeds-rhinos_7290413.jpg?20260705170606"
     },
     {
       "source": "sky",
@@ -379,14 +419,6 @@
     },
     {
       "source": "sky",
-      "title": "England chase big finish after early wickets against Australia LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-nat-sciver-brunt_7290355.jpg?20260705162301"
-    },
-    {
-      "source": "sky",
       "title": "Absolute CHAOS! Best bits from a hilarious F1 Lego race",
       "link": "https://www.skysports.com/watch/video/13560631/absolute-carnage-best-bits-from-a-chaotic-f1-lego-race",
       "summary": "Watch the best bits of the chaotic Lego parade at the British Grand Prix.",
@@ -395,11 +427,35 @@
     },
     {
       "source": "sky",
-      "title": "British GP: Leclerc wins after Verstappen crashes in wild finale LIVE!",
+      "title": "Australia beat England by seven wickets in T20 World Cup final LIVE",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-beth-mooney-cricket_7286735.jpg?20260630163605"
+    },
+    {
+      "source": "sky",
+      "title": "Wimbledon Day Seven LIVE! Osaka takes first set in huge Sabalenka contest",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-naomi-osaka-aryna-sabalenka_7290497.jpg?20260705180730"
+    },
+    {
+      "source": "sky",
+      "title": "British GP: Hamilton keeps podium after avoiding second penalty LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13559571/f1-british-gp-live-race-updates-results-stream-highlights-video-from-ninth-round-of-2026-formula-1-season-at-silverstone",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-charles-leclerc-ferrari_7290372.jpg?20260705163101"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7290432.jpg?20260705172303"
+    },
+    {
+      "source": "sky",
+      "title": "Tchouameni, Bouaddi and Santos being eyed by Man Utd",
+      "link": "https://www.skysports.com/watch/video/13560731/transfer-talk-chelseas-andrey-santos-emerges-on-man-united-radar-as-they-look-to-bolster-midfield-options",
+      "summary": "Chelsea's Andrey Santos has become a transfer target for Manchester United, who are looking to add more players to their midfield this summer transfer window.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-football_7290485.jpg?20260705175017"
     },
     {
       "source": "sky",
@@ -411,11 +467,11 @@
     },
     {
       "source": "sky",
-      "title": "Wimbledon Day Seven LIVE! Djokovic into fourth set, Osaka vs Sabalenka next",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing",
-      "summary": "",
+      "title": "Newcastle sign winger Toure for £42m",
+      "link": "https://www.skysports.com/football/news/12040/13560722/bazoumana-toure-newcastle-sign-ivory-coast-winger-for-42m",
+      "summary": "Newcastle have signed Bazoumana Toure from Bundesliga club Hoffenheim for &#163;42m.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-novak-djokovic-wimbledon_7290107.jpg?20260705114515"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-bazoumana-toure-ivory-coast_7290473.jpg?20260705174307"
     },
     {
       "source": "sky",
@@ -464,62 +520,6 @@
       "summary": "South African Michael Hollick sinks an eagle to win his maiden DP World Tour event at the BMW International Open in Munich.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-golf-dp-world-tour_7290292.jpg?20260705153214"
-    },
-    {
-      "source": "sky",
-      "title": "Hollick wins BMW International Open after stunning eagle on final hole",
-      "link": "https://www.skysports.com/watch/video/13560674/bmw-international-open-day-four-highlights",
-      "summary": "Highlights of the BMW International Open held in Golf club M&#252;nchen Eichenried, Munich, Germany.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-golf-bmw-international-open_7290321.jpg?20260705155350"
-    },
-    {
-      "source": "sky",
-      "title": "Scorecard: Australia vs England, Women's T20 World Cup final",
-      "link": "https://www.skysports.com/cricket/australia-women-v-england-women/scorecard/0e7ebf13-4c9e-5d53-b446-6baf21e92eb5",
-      "summary": "Latest score from the Women's T20 World Cup final between Australia and England at Lord's. Watch for FREE on Sky Sports' digital platforms.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kim-garth-cricket_7290380.jpg?20260705163935"
-    },
-    {
-      "source": "sky",
-      "title": "Calandagan looks to defend Grand Prix de Saint-Cloud crown",
-      "link": "https://www.skysports.com/racing/news/12040/13560174/today-on-sky-sports-racing-calandagan-looks-to-defend-grand-prix-de-saint-cloud-crown",
-      "summary": "Calandagan goes in search of back-to-back Grand Prix de Saint-Cloud victories in today's feature race from France.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-calandagan-racing_7289065.jpg?20260703174324"
-    },
-    {
-      "source": "sky",
-      "title": "Wakefield score nine tries in Magic Weekend demolition of Castleford",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13560109/super-league-magic-weekend-wakefield-trinity-score-nine-tries-and-pull-off-48-6-demolition-of-castleford-tigers",
-      "summary": "Wakefield Trinity scored nine tries in a 48-6 routing of Castleford Tigers in the opening match of day two of Magic Weekend at Hill Dickinson Stadium.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rugby-league-super-league_7290172.jpg?20260705132229"
-    },
-    {
-      "source": "sky",
-      "title": "Wimbledon Day 6 wrap: Swiatek crashes out, as Fritz, Keys & Dimitrov advance",
-      "link": "https://www.skysports.com/watch/video/13560549/wimbledon-day-6-wrap-defending-champ-swiatek-crashes-out-whilst-fritz-tiafoe-dimitrov-advance",
-      "summary": "All the action from day six of Wimbledon where stars such as Iga Swiatek, Taylor Fritz and Frances Tiafoe were on display. Credit: AELTC.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tennis-wimbledon_7289996.jpg?20260705073418"
-    },
-    {
-      "source": "sky",
-      "title": "Mbappe scores again to send France past stubborn Paraguay",
-      "link": "https://www.skysports.com/football/paraguay-vs-france/report/549855",
-      "summary": "Kylian Mbappe's 70th-minute penalty gave France a 1-0 victory over Paraguay in an ill-tempered World Cup last-16 tie in Philadelphia to set up a quarter-final meeting with Morocco.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kylian-mbappe_7289927.jpg?20260704235400"
-    },
-    {
-      "source": "sky",
-      "title": "Magic Weekend 2026 LIVE! Leeds cementing place at top of table vs Bulls",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13558512/magic-weekend-2026-live-commentary-videos-analysis-updates-scores-results-with-wigan-warriors-vs-st-helens-leeds-rhinos-vs-bradford-bulls",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rugby-league-super-league_7290284.jpg?20260705152619"
     }
   ]
 }
