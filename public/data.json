@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-05T07:19:44.808586+00:00",
+  "lastUpdated": "2026-07-05T10:06:36.922025+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Stay humble - the Premier League feud about to hit world stage",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup.",
+      "published": "2026-07-05T09:25:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7962/live/81b353d0-7723-11f1-aaf8-ff8f387d83a0.jpg"
+    },
     {
       "source": "bbc",
       "title": "Gabriel v Haaland, the best battle at the World Cup?",
@@ -242,14 +250,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4236/live/dd8fb4b0-61ba-11f1-bd2b-bf85d34aede9.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal trio among six on player of the year shortlist",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
-      "published": "2026-06-05T08:56:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/843f0e90-60b8-11f1-9b5a-5531746793c9.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
       "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
@@ -363,6 +363,14 @@
     },
     {
       "source": "sky",
+      "title": "Brazil vs Norway preview: 'No anti-Haaland plan', says Ancelotti",
+      "link": "https://www.skysports.com/football/brazil-vs-norway/live/549856",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-haaland-norway_7275412.jpg?20260617092009"
+    },
+    {
+      "source": "sky",
       "title": "Highlights: Glover & Hodges share lead as John Deere Classic heads into final day",
       "link": "https://www.skysports.com/watch/video/13560548/john-deere-classic-third-round-highlights",
       "summary": "Highlights from the third round of the John Deere Classic from TPC Deere Run, Illinois.",
@@ -387,9 +395,9 @@
     },
     {
       "source": "sky",
-      "title": "Wimbledon Day 6 wrap: Defending champ Swiatek crashes out, whilst Fritz, Tiafoe & Dimitrov advance",
+      "title": "Wimbledon Day 6 wrap: Swiatek crashes out, as Fritz, Keys & Dimitrov advance",
       "link": "https://www.skysports.com/watch/video/13560549/wimbledon-day-6-wrap-defending-champ-swiatek-crashes-out-whilst-fritz-tiafoe-dimitrov-advance",
-      "summary": "All the action from day five of Wimbledon where stars such as Iga Swiatek, Taylor Fritz and Frances Tiafoe were on display. Credit: AELTC.",
+      "summary": "All the action from day six of Wimbledon where stars such as Iga Swiatek, Taylor Fritz and Frances Tiafoe were on display. Credit: AELTC.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tennis-wimbledon_7289996.jpg?20260705073418"
     },
@@ -411,7 +419,7 @@
     },
     {
       "source": "sky",
-      "title": "Toulouse thrash Catalans in all-French clash to dent Dragons' play-off hopes",
+      "title": "Toulouse thrash Catalans in all-French Magic Weekend clash in Castres",
       "link": "https://www.skysports.com/rugby-league/catalans-vs-toulouse/report/63268",
       "summary": "Toulouse Olympique claimed bragging rights in the French derby by scoring 10 tries in a 60-18 thrashing of Catalans Dragons.",
       "published": null,
@@ -419,7 +427,7 @@
     },
     {
       "source": "sky",
-      "title": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle amid transfer interest",
+      "title": "Papers: Bruno Guimaraes considered 'priceless' by Newcastle",
       "link": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "published": null,
@@ -432,6 +440,30 @@
       "summary": "Scotland banished any lingering demons from November as they kicked off their Nations Championship with an impressive 47-38 away win over Argentina.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rory-hutchinson-scotland_7289893.jpg?20260704221623"
+    },
+    {
+      "source": "sky",
+      "title": "Will storms delay England vs Mexico? Tuchel 'confused' by kick-off reports",
+      "link": "https://www.skysports.com/watch/video/13560553/england-vs-mexico-tuchel-not-concerned-about-expected-stormy-weather-in-mexico",
+      "summary": "Sky Sports' Rob Dorsett reports from Mexico City regarding the expected stormy weather surrounding England's clash with Mexico, whilst Three Lions boss Thomas Tuchel says there was 'confusion' over possible kick-off time changes.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-tuchel_7290008.jpg?20260705082133"
+    },
+    {
+      "source": "sky",
+      "title": "Heavy security outside England hotel ahead of Mexico clash",
+      "link": "https://www.skysports.com/watch/video/13560500/heavy-security-outside-england-hotel-crowds-of-mexico-fans-surround-team-hq",
+      "summary": "An army of Mexican police gathered to supervise crowds of local fans outside England's team hotel.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rob-dorsett-mexico_7289868.jpg?20260704211701"
+    },
+    {
+      "source": "sky",
+      "title": "Furbank misery for Borthwick and England as poor discipline bites again",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13560573/england-boss-steve-borthwick-rules-george-furbank-out-of-summer-matches-and-defends-poor-discipline-in-loss-to-south-africa",
+      "summary": "George Furbank will miss the rest of England's summer internationals after he was withdrawn from the team to face South Africa because of appendicitis.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-steve-borthwick-england_7290038.jpg?20260705094641"
     },
     {
       "source": "sky",
@@ -488,38 +520,6 @@
       "summary": "Hull KR completed a 26-12 victory over rivals Hull FC at Hill Dickinson Stadium on the opening day of Magic Weekend 2026.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rugby-league-super-league_7289587.jpg?20260704154614"
-    },
-    {
-      "source": "sky",
-      "title": "Bethell blasts England to victory to spoil Sooryavanshi's historic debut",
-      "link": "https://www.skysports.com/cricket/news/12040/13560414/england-spoil-vaibhav-sooryavanshis-debut-as-jacob-bethell-fires-hosts-to-four-wicket-win-over-india-in-second-t20i",
-      "summary": "Jacob Bethell fired an unbeaten 76 off 46 balls as England beat India by four wickets in the second T20I at Old Trafford, spoiling Vaibhav Sooryavanshi's international debut as the 15-year-old made history in Manchester.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-jacob-bethell-england_7289692.jpg?20260704173422"
-    },
-    {
-      "source": "sky",
-      "title": "Britain's Fery wins five-set thriller after nose-bleed delays",
-      "link": "https://www.skysports.com/tennis/news/12040/13560349/wimbledon-britains-arthur-fery-overcomes-nose-bleed-delays-to-beat-zizou-bergs-in-five-set-thriller-and-reach-fourth-round",
-      "summary": "Britain's Arthur Fery overcame a series of nose bleeds to reach the fourth round of Wimbledon with a stunning five-set victory over Eastbourne champion Zizou Bergs.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-arthur-fery-wimbledon_7289863.jpg?20260704205442"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton plots Ferrari teamwork to 'topple' Antonelli in British GP",
-      "link": "https://www.skysports.com/f1/news/12040/13560322/british-gp-lewis-hamilton-plots-ferrari-teamwork-with-charles-leclerc-to-topple-kimi-antonelli-at-silverstone",
-      "summary": "Lewis Hamilton hopes he can work together with Ferrari team-mate Charles Leclerc to \"topple\" Kimi Antonelli at the British Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7289829.jpg?20260704194442"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen: No point racing in British GP if Red Bull can't fix top-speed issue",
-      "link": "https://www.skysports.com/f1/news/12040/13560320/max-verstappen-says-there-is-no-point-competing-in-british-gp-if-red-bull-cant-fix-top-speed-issue",
-      "summary": "Max Verstappen says there is \"no point competing\" in Sunday's British Grand Prix if his Red Bull team cannot fix an issue that limited his top speed during qualifying.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-max-verstappen-red-bull_7289782.jpg?20260704185625"
     }
   ]
 }
