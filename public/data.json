@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T14:21:34.981593+00:00",
+  "lastUpdated": "2026-07-06T17:38:49.175124+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,54 @@
     },
     {
       "source": "sky",
+      "title": "Joyce misses out on heavyweight title shot as Gassiev opponent confirmed",
+      "link": "https://www.skysports.com/boxing/news/12040/13561073/joe-joyce-misses-out-on-wba-heavyweight-title-shot-as-murat-gassiev-gets-new-opponent-for-first-defence",
+      "summary": "Murat Gassiev's first defence of his WBA heavyweight title will go ahead on Saturday after a replacement opponent was found for the Russian.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-joe-joyce-boxing_7291437.jpg?20260706181800"
+    },
+    {
+      "source": "sky",
+      "title": "Wimbledon order of play: Gauff, Djokovic, Sinner and Osaka all in action Tuesday",
+      "link": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more",
+      "summary": "Take a look at Tuesday's singles Order of Play in the Wimbledon Championships at the All England Club.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-novak-djokovic-wimbledon_7286116.jpg?20260630092143"
+    },
+    {
+      "source": "sky",
+      "title": "Portugal vs Spain team news LIVE!",
+      "link": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-portugal-spain_7291358.jpg?20260706170726"
+    },
+    {
+      "source": "sky",
+      "title": "Eleven players fined by Wimbledon - but Kyrgios isn't one of them!",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-build-up-live-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-preparing-for-grand-slam",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-nick-kyrgios-tennis_7291323.jpg?20260706161931"
+    },
+    {
+      "source": "sky",
+      "title": "Brundle's verdict on 'immense' British GP - but the F1 rule he'd change",
+      "link": "https://www.skysports.com/f1/news/12040/13560978/british-gp-martin-brundle-on-immense-silverstone-2026-charles-leclercs-win-and-a-safety-car-rule-hed-change",
+      "summary": "Silverstone's British Grand Prix 2026 was an immense event, and it could have been truly epic without a regulation which I have been complaining about for years.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-george-russell-lewis-hamilton_7291319.jpg?20260706161532"
+    },
+    {
+      "source": "sky",
+      "title": "Everton latest: George completes permanent move from Chelsea",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124"
+    },
+    {
+      "source": "sky",
       "title": "Lingfield, Wolverhampton and Ripon feature today",
       "link": "https://www.skysports.com/racing/news/12040/13560958/today-on-sky-sports-racing-lingfield-wolverhampton-and-ripon-feature",
       "summary": "Lingfield, Wolverhampton and Ripon are the venues for today's Flat action - live on Sky Sports Racing.",
@@ -371,11 +419,27 @@
     },
     {
       "source": "sky",
-      "title": "Wimbledon Day Eight LIVE! Swiatek conqueror Eala in action before GB's Fery",
+      "title": "Wimbledon Day Eight LIVE! Last British hope Fery losing to former semi-finalist Dimitrov",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13560664/wimbledon-day-eight-live-scores-updates-news-results-with-arthur-fery-facing-grigor-dimitrov-second-on-centre-court-as-part-of-the-last-16",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-roger-federer-wimbledon_7291245.jpg?20260706144416"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-arthur-fery-tennis_7291439.jpg?20260706182618"
+    },
+    {
+      "source": "sky",
+      "title": "Balogun cleared to play for USA as Belgium 'leave all actions open'",
+      "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956"
+    },
+    {
+      "source": "sky",
+      "title": "Henderson to miss rest of World Cup after freak injury",
+      "link": "https://www.skysports.com/football/news/12040/13560940/world-cup-2026-englands-jordan-henderson-out-of-tournament-after-freak-injury-against-mexico",
+      "summary": "England midfielder Jordan Henderson has been ruled out for the remainder of the World Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-mexico_7290952.jpg?20260706092650"
     },
     {
       "source": "sky",
@@ -395,6 +459,14 @@
     },
     {
       "source": "sky",
+      "title": "Trump boasts, Infantino hits back and Belgium vow action as Balogun furore rages on",
+      "link": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
+      "summary": "President Donald Trump says he asked FIFA boss Gianni Infantino to \"review\" Folarin Balogun's red card and World Cup ban, which has since been suspended, allowing the USA striker to play in the last-16 tie with Belgium.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831"
+    },
+    {
+      "source": "sky",
       "title": "Spurs smash transfer record again to sign Tonali in £100m deal",
       "link": "https://www.skysports.com/football/news/12040/13559730/sandro-tonali-tottenham-sign-italy-midfielder-in-club-record-100m-deal-from-newcastle",
       "summary": "Tottenham have signed Sandro Tonali from Newcastle United in a club-record &#163;100m deal.",
@@ -403,19 +475,19 @@
     },
     {
       "source": "sky",
-      "title": "'Crossed a red line': UEFA hits out at FIFA call to allow banned Balogun to play",
-      "link": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
-      "summary": "UEFA says FIFA has \"crossed a red line\" and has put the \"integrity of the game at stake\" in allowing USA striker Folarin Balogun to play in their World Cup tie against Belgium on Tuesday.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831"
-    },
-    {
-      "source": "sky",
       "title": "Ref Watch: Quansah's red card and penalty against Kane analysed",
       "link": "https://www.skysports.com/football/live-blog/12040/13560892/ref-watch-live-world-cup-2026-incidents-analysed-by-former-premier-league-referee-dermot-gallagher",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290964.jpg?20260706093315"
+    },
+    {
+      "source": "sky",
+      "title": "Cusack's coach told FA she was 'generally a liar', inquest hears",
+      "link": "https://www.skysports.com/football/news/12040/13561043/maddy-cusack-former-sheffield-united-midfielder-would-still-be-alive-if-coach-did-not-join-club-inquest-told",
+      "summary": "The coach of former Sheffield United player Maddy Cusack called her a liar in an account to the Football Association after her death, an inquest has heard.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610"
     },
     {
       "source": "sky",
@@ -448,78 +520,6 @@
       "summary": "Was that England's greatest World Cup win on foreign soil? Sir Geoff Hurst has asked the question himself, suggesting that the 3-2 win over Mexico in the round of 16 might be the best performance since the Wembley final in 1966.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7291130.jpg?20260706123454"
-    },
-    {
-      "source": "sky",
-      "title": "When are the next big events in women's cricket?",
-      "link": "https://www.skysports.com/cricket/news/12040/13560928/test-matches-champions-trophy-ashes-series-when-are-the-next-big-events-in-womens-cricket",
-      "summary": "Following Australia's seven-wicket win over England in the T20 World Cup final at Lord's, here is what is coming up in women's cricket&#8230;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lauren-bell-england-women_7291052.jpg?20260706110135"
-    },
-    {
-      "source": "sky",
-      "title": "Nottingham Forest confirm Glasner's appointment as head coach",
-      "link": "https://www.skysports.com/football/news/12040/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground",
-      "summary": "Nottingham Forest have appointed Oliver Glasner as the club's new head coach.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-crystal-palace-boss_7170411.jpg?20260220174636"
-    },
-    {
-      "source": "sky",
-      "title": "Why England should take the positives as road to Ashes begins",
-      "link": "https://www.skysports.com/cricket/news/12040/13560872/england-should-take-positives-from-t20-world-cup-final-defeat-to-australia-but-have-big-decisions-to-make-before-ashes",
-      "summary": "Taking the positives is probably quite a hard thing to do when you have just been emphatically dispatched in your home T20 World Cup final by your oldest rivals.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sophie-molineux-charlotte-edwards_7290901.jpg?20260706084552"
-    },
-    {
-      "source": "sky",
-      "title": "Gotterup wins by ONE shot after Kohles mishap at John Deere Classic",
-      "link": "https://www.skysports.com/watch/video/13560891/john-deere-classic-day-one-highlights",
-      "summary": "Highlights from day four of the John Deere Classic as Chris Gotterup produced a stunning final round to claim the title",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-golf-gotterup_7290948.jpg?20260706092515"
-    },
-    {
-      "source": "sky",
-      "title": "Three Lions roar at alti-Jude! Bellingham and Kane send 10-man England to QFs after thriller",
-      "link": "https://www.skysports.com/football/mexico-vs-england/report/549857",
-      "summary": "England are through to the World Cup quarter-finals after earning one of their greatest knockout results by eliminating co-hosts Mexico with a gutsy 3-2 victory in an extraordinary tie at the Azteca.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bellingham-jude-england_7290716.jpg?20260706030311"
-    },
-    {
-      "source": "sky",
-      "title": "Ronaldo: This World Cup will be my last - but I hope Spain clash isn't my farewell",
-      "link": "https://www.skysports.com/football/news/12040/13560011/cristiano-ronaldo-portugal-legend-announces-retirement-from-international-duty-following-world-cup-exit",
-      "summary": "Cristiano Ronaldo has confirmed the 2026 World Cup will be his last as a player.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-cristiano-ronaldo_7276226.jpg?20260617222704"
-    },
-    {
-      "source": "sky",
-      "title": "FOUR wickets in FOUR balls! Absolute scenes as bowler strikes in final over!",
-      "link": "https://www.skysports.com/watch/video/13560870/four-wickets-in-four-balls-absolute-scenes-as-dasun-shanaka-stars-in-major-league-cricket",
-      "summary": "Dasun Shanaka created history as he became the first player in Major League Cricket history to take four wickets in four consecutive balls during Seattle Orcas' win over Texas Super Kings.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-major-league-cricket_7290898.jpg?20260706084412"
-    },
-    {
-      "source": "sky",
-      "title": "Magic Weekend delivers a grudge match, a statement and England hopefuls",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13560907/magic-weekend-2026-delivers-with-a-wigan-and-st-helens-grudge-match-leigh-leopards-statement-and-shining-performances-from-england-hopefuls",
-      "summary": "Magic Weekend 2026 was action-packed, dramatic, and the biggest ever- but what did we learn at Hill Dickinson Stadium?",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rugby-league-super-league_7291057.jpg?20260706115710"
-    },
-    {
-      "source": "sky",
-      "title": "Brazil stunned as Haaland's masterclass sends Norway into last eight",
-      "link": "https://www.skysports.com/football/brazil-vs-norway/report/549856",
-      "summary": "Erling Haaland dumped Brazil out of the World Cup at the last-16 stage as his brilliant late double secured a 2-1 win for Norway to set up a quarter-final against England.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-erling-haaland-goal_7290669.jpg?20260705230226"
     }
   ]
 }
