@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T02:35:05.053437+00:00",
+  "lastUpdated": "2026-07-07T06:41:11.717574+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,11 +363,19 @@
     },
     {
       "source": "sky",
-      "title": "Balogun reprieve ends in anti-climax as US dumped out by Belgium",
+      "title": "Sunray Shadow chases the four-timer at Uttoxeter",
+      "link": "https://www.skysports.com/racing/news/12040/13560977/today-on-sky-sports-racing-brighton-wolverhampton-and-uttoxeter",
+      "summary": "We have a busy day&#8217;s racing on Tuesday with flat action from Brighton, Wolverhampton and Uttoxeter, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e0.365dm.com/24/05/1920x1080/skysports-racing-uttoxeter_6542543.jpg?20240504080156"
+    },
+    {
+      "source": "sky",
+      "title": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
       "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859",
       "summary": "Folarin Balogun's red card reprieve appeared to hinder rather than help his country as an out-of-sorts USA side were thrashed 4-1 by Belgium to end the co-hosts' World Cup dreams.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-folarin-balogun-belgium_7291627.jpg?20260707032417"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-de-ketelaere-belgium_7291624.jpg?20260707014220"
     },
     {
       "source": "sky",
@@ -379,9 +387,9 @@
     },
     {
       "source": "sky",
-      "title": "Ronaldo bows out and Martinez steps down as Spain beat Portugal",
+      "title": "Ronaldo bows out and Martinez steps down as Portugal beaten by Spain",
       "link": "https://www.skysports.com/football/portugal-vs-spain/report/549858",
-      "summary": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with the winners of USA vs Belgium.",
+      "summary": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with resurgent Belgium.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-mikel-merino-spain_7291571.jpg?20260706221423"
     },
@@ -392,6 +400,14 @@
       "summary": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portugal.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ronaldo-portugal_7291618.jpg?20260707002643"
+    },
+    {
+      "source": "sky",
+      "title": "England trying to fast track James' recovery ahead of Norway",
+      "link": "https://www.skysports.com/football/news/12040/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis",
+      "summary": "England&#8217;s medics are working hard on Reece James in the hope that he may be able to help England&#8217;s right-back crisis and play some part in the World Cup quarter-final against Norway on Saturday.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-reece-james-england_7284048.jpg?20260627073312"
     },
     {
       "source": "sky",
@@ -411,7 +427,7 @@
     },
     {
       "source": "sky",
-      "title": "Belgium cruise to victory amid Balogun drama to eliminate USA LIVE!",
+      "title": "All the key moments and rate the players as Belgium eliminate USA",
       "link": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859",
       "summary": "",
       "published": null,
@@ -504,22 +520,6 @@
       "summary": "Silverstone's British Grand Prix 2026 was an immense event, and it could have been truly epic without a regulation which I have been complaining about for years.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-george-russell-lewis-hamilton_7291319.jpg?20260706161532"
-    },
-    {
-      "source": "sky",
-      "title": "Everton latest: George completes permanent move from Chelsea",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-everton-news-club_7039252.jpg?20251002160124"
-    },
-    {
-      "source": "sky",
-      "title": "Lingfield, Wolverhampton and Ripon feature today",
-      "link": "https://www.skysports.com/racing/news/12040/13560958/today-on-sky-sports-racing-lingfield-wolverhampton-and-ripon-feature",
-      "summary": "Lingfield, Wolverhampton and Ripon are the venues for today's Flat action - live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-racing-lingfield_7139844.jpg?20260119165037"
     }
   ]
 }
