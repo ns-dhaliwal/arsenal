@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:16:53.706125+00:00",
+  "lastUpdated": "2026-07-08T10:59:26.416316+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,14 @@
     },
     {
       "source": "sky",
+      "title": "Former world champion Moloney signs with Zuffa Boxing",
+      "link": "https://www.skysports.com/boxing/news/12040/13561599/jason-moloney-former-bantamweight-world-champion-signs-zuffa-boxing-multi-fight-contract",
+      "summary": "Former bantamweight world champion Jason Moloney has signed a multi-fight deal with Zuffa Boxing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-moloney-boxing_7292820.jpg?20260708111203"
+    },
+    {
+      "source": "sky",
       "title": "Waterford Castle chases first success at Yarmouth",
       "link": "https://www.skysports.com/racing/news/12040/13561076/today-on-sky-sports-racing-chepstow-and-yarmouth",
       "summary": "We have a busy day's racing on Wednesday with flat action from Chepstow and Yarmouth live on Sky Sports Racing...",
@@ -403,6 +411,14 @@
     },
     {
       "source": "sky",
+      "title": "Brentford latest: Wilson set for medical ahead of free transfer",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849"
+    },
+    {
+      "source": "sky",
       "title": "Brundle and Lewis Capaldi reunite with 'man hug' after viral handshake swerve!",
       "link": "https://www.skysports.com/watch/video/13560995/martin-brundle-and-lewis-capaldi-share-man-hug-on-grid-at-british-gp-after-viral-handshake-swerve",
       "summary": "Martin Brundle and singer-songwriter Lewis Capaldi share 'man hug' on the grid before the British GP after viral handshake swerve in Singapore 2025.",
@@ -427,6 +443,30 @@
     },
     {
       "source": "sky",
+      "title": "O'Neill confident Duran deal will only be start of Celtic summer signings",
+      "link": "https://www.skysports.com/football/news/12040/13561591/celtic-transfer-news-martin-oneill-confident-camilo-duran-deal-will-only-be-start-of-summer-signings",
+      "summary": "Martin O&#8217;Neill is anticipating Celtic's transfer business to accelerate with Camilo Duran on the verge of becoming the club's first new summer signing.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-celtic-rangers-martin_7244539.jpg?20260510152409"
+    },
+    {
+      "source": "sky",
+      "title": "Lord's braced for historic Test as England and India face off",
+      "link": "https://www.skysports.com/cricket/news/12040/13561258/england-vs-india-nat-sciver-brunts-side-set-for-historic-first-lords-test-after-heartbreaking-t20-world-cup-final-loss",
+      "summary": "England suffered a heartbreaking seven-wicket defeat to Australia in the ICC Women's T20 World Cup final at Lord's, but they have the chance to write new headlines at the 'Home of Cricket' less than a week later.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-nat-sciver-brunt_7292688.jpg?20260708091233"
+    },
+    {
+      "source": "sky",
+      "title": "State of Origin decider LIVE! New South Wales leading in battle vs Queensland",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13561512/state-of-origin-live-updates-commentary-video-score-as-queensland-maroons-take-on-new-south-wales-blues-in-decider",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-state-of-origin-new-souith-wales_7292849.jpg?20260708114241"
+    },
+    {
+      "source": "sky",
       "title": "Newcastle latest: Teenager arrives for medical ahead of move from Ajax",
       "link": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
@@ -443,19 +483,19 @@
     },
     {
       "source": "sky",
-      "title": "Anderson praises England fighting spirit as Norway await",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
-    },
-    {
-      "source": "sky",
       "title": "Duran set to become Celtic’s first summer signing",
       "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-camilo-duran-qarabag_7288786.jpg?20260703122128"
+    },
+    {
+      "source": "sky",
+      "title": "Four England players run risk of World Cup suspension - but NOT Kane",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147"
     },
     {
       "source": "sky",
@@ -475,51 +515,11 @@
     },
     {
       "source": "sky",
-      "title": "Aston Villa latest: Onana's ACL rupture confirmed",
+      "title": "Aston Villa latest: Juventus remain interested in Martinez",
       "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027"
-    },
-    {
-      "source": "sky",
-      "title": "F1 Show: Where will Verstappen end up in 2027?",
-      "link": "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-the-f1-show-formula-one_7179666.png?20260302111438"
-    },
-    {
-      "source": "sky",
-      "title": "Brook hails England's 'perfect' communication in India hammering",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13561292/england-vs-india-third-t20i-live-score-updates-video-and-analysis-from-trent-bridge",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england-mens-t20i-cricket_7291683.jpg?20260707071746"
-    },
-    {
-      "source": "sky",
-      "title": "Arbeloa appointed new Fulham boss",
-      "link": "https://www.skysports.com/football/news/12040/13553985/alvaro-arbeloa-fulham-appoint-ex-real-madrid-boss-as-new-head-coach-following-marco-silvas-departure",
-      "summary": "Alvaro Arbeloa has been appointed as Fulham's new head coach.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fulham-alvaro-arbeloa_7292556.jpg?20260708001005"
-    },
-    {
-      "source": "sky",
-      "title": "Djokovic wins marathon battle to set up Wimbledon semi-final vs Sinner",
-      "link": "https://www.skysports.com/tennis/news/12040/13561395/wimbledon-novak-djokovic-ekes-out-epic-fifth-set-tiebreak-win-over-felix-auger-aliassime-to-set-up-jannik-sinner-semi-final",
-      "summary": "Novak Djokovic won a gruelling five-set battle with Felix Auger-Aliassime to set up a semi-final with reigning Wimbledon champion Jannik Sinner.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-novak-djokovic-felix-auger-aliassime_7292538.jpg?20260707231225"
-    },
-    {
-      "source": "sky",
-      "title": "Egypt boss slams 'unfair' officiating and claims World Cup 'directed towards Argentina'",
-      "link": "https://www.skysports.com/football/news/12040/13561467/argentina-3-2-egypt-hossam-hassan-says-officiating-unfair-and-world-cup-directed-towards-reigning-champions",
-      "summary": "Egypt head coach Hossam Hassan said the referee was \"unfair\" and claimed the World Cup was \"directed towards Argentina\" following their dramatic 3-2 defeat in the last 16.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-egypt-world-cup_7292467.jpg?20260707213919"
     }
   ]
 }
