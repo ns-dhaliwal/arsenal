@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-08T17:24:10.537801+00:00",
+  "lastUpdated": "2026-07-08T19:16:33.419678+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal target Guimaraes asks to leave Newcastle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Newcastle midfielder Bruno Guimaraes asks to leave the club with Arsenal accelerating their interest in the 28-year-old.",
+      "published": "2026-07-08T17:52:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b8/live/4b62f700-7af1-11f1-94d8-c95634a95d3e.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal set to sign Meslier on free transfer after Leeds exit",
@@ -242,14 +250,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c69/live/e36c4490-636b-11f1-b400-a9a3aa116c11.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Rice to be England's vice-captain at World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
-      "published": "2026-06-07T21:23:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c5/live/7fab2040-62b5-11f1-8a13-59dc424d6dbf.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
       "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
@@ -363,11 +363,27 @@
     },
     {
       "source": "sky",
-      "title": "Leeds United sign free agent Wilson",
+      "title": "Leeds sign free agent Wilson after Fulham exit",
       "link": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
-      "summary": "Leeds United have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.&#160;",
+      "summary": "Leeds have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.&#160;",
       "published": null,
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-wilson-fulham_7281593.jpg?20260624114945"
+    },
+    {
+      "source": "sky",
+      "title": "Fury vs AJ must start at 1am if fight is staged at Wembley",
+      "link": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-1am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster",
+      "summary": "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua  would need to take place at 1am if it is to be held at Wembley Stadium.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wembley-stadium-night_7293093.jpg?20260708161303"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd agree £50m deal for Chelsea midfielder Santos",
+      "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
+      "summary": "Manchester United have agreed a &#163;50m deal to sign Chelsea midfielder Andrey Santos.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554"
     },
     {
       "source": "sky",
@@ -387,23 +403,7 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd agree £50m deal for Chelsea midfielder Santos",
-      "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
-      "summary": "Manchester United have agreed a &#163;50m deal to sign Chelsea midfielder Andrey Santos.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554"
-    },
-    {
-      "source": "sky",
-      "title": "Fury vs AJ must start at 1am if fight is staged at Wembley",
-      "link": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-1am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster",
-      "summary": "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua  would need to take place at 1am if it is to be held at Wembley Stadium.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wembley-stadium-night_7293093.jpg?20260708161303"
-    },
-    {
-      "source": "sky",
-      "title": "Superstars, politics & hydration breaks: Themes of the World Cup so far",
+      "title": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
       "link": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
       "summary": "A rest day at the World Cup provides the opportunity to take stock of how the biggest-ever edition has gone so far.",
       "published": null,
@@ -432,6 +432,14 @@
       "summary": "An extremely frustrating British Grand Prix weekend for Max Verstappen has done little to calm speculation around the four-time world champion making a potential exit from Red Bull at the end of the season.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-max-verstappen-red-bull_7292986.jpg?20260708142911"
+    },
+    {
+      "source": "sky",
+      "title": "Can Fery emulate Raducanu with run to major title?",
+      "link": "https://www.skysports.com/tennis/news/12040/13561766/wimbledon-can-arthur-fery-follow-in-emma-raducanus-footsteps-and-become-the-latest-brit-to-win-a-grand-slam-title-as-a-rank-outsider",
+      "summary": "Given Britain's Arthur Fery is now only two victories away from achieving what looked to be mission impossible before Wimbledon started, it is only fair to draw comparisons.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-arthur-fery-wimbledon_7293211.jpg?20260708191317"
     },
     {
       "source": "sky",
@@ -512,14 +520,6 @@
       "summary": "Scottie Scheffler insists he will be &#8216;fighting like heck&#8217; to defend this title at The Open after being left &#8216;frustrated&#8217; by his multiple near-misses on the PGA Tour this season.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-scottie-scheffler_7292850.jpg?20260708114340"
-    },
-    {
-      "source": "sky",
-      "title": "England's right-back crisis continues - what are the options vs Norway?",
-      "link": "https://www.skysports.com/football/news/12040/13561537/englands-right-back-crisis-reece-james-djed-spence-ezri-konsa-who-starts-in-world-cup-quarter-final-against-norway",
-      "summary": "England&#8217;s defensive defiance in Mexico City was magnificent. But next comes the reality check: Norway in Miami with a patched-up back-line.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-england_7292749.jpg?20260708100111"
     }
   ]
 }
