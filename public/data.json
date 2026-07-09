@@ -1,11 +1,19 @@
 {
-  "lastUpdated": "2026-07-09T11:52:09.244710+00:00",
+  "lastUpdated": "2026-07-09T14:45:02.278679+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Meslier joins Arsenal on free transfer after Leeds exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq51xj4pjwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal seal the signing of former Leeds United goalkeeper Illan Meslier on a free transfer.",
+      "published": "2026-07-09T14:33:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b76f/live/029fdd00-7b99-11f1-88df-c98554e5b30c.jpg"
+    },
     {
       "source": "guardian",
       "title": "Newcastle agree £51.5m Johan Manzambi deal and insist Bruno Guimarães not for sale",
       "link": "https://www.theguardian.com/football/2026/jul/09/newcastle-agree-johan-manzambi-deal-and-insist-bruno-guimaraes-not-for-sale-transfer-window",
-      "summary": "Switzerland international poised to sign from FreiburgGuimarães wants to leave and is target for ArsenalNewcastle have agreed a £51.5m deal with Freiburg that should see the Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League.The 20-year-old, who has shone during this summer’s World Cup, is expected to sign a long-term contract at St James’ Park but the transfer will n",
+      "summary": "Switzerland international poised to sign from FreiburgGuimarães wants to leave and is target for ArsenalNewcastle have agreed a £51.5m deal with Freiburg that should see the versatile Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League.The 20-year-old, who has shone during this summer’s World Cup, is expected to sign a long-term contract at St James’ Park but the trans",
       "published": "2026-07-09T11:30:12+00:00",
       "image": "https://i.guim.co.uk/img/media/d761a42f908b6ed93a8aa36c269734595b5878a9/67_0_1294_1035/master/1294.jpg?width=140&quality=85&auto=format&fit=max&s=0fee9e8a6d5ca015745bb6aaae2a0ac5"
     },
@@ -258,14 +266,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca02/live/b5fbe850-6373-11f1-b400-a9a3aa116c11.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Netherlands' Timber out of World Cup with injury",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyrpve234o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal defender Jurrien Timber is ruled out of the Netherlands' World Cup campaign with a groin injury, while Brazil's Neymar is making good progress from injury.",
-      "published": "2026-06-08T19:21:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c69/live/e36c4490-636b-11f1-b400-a9a3aa116c11.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
       "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
@@ -363,6 +363,46 @@
     },
     {
       "source": "sky",
+      "title": "Is Man Utd's midfield rebuild going to plan?",
+      "link": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
+      "summary": "Manchester United had plans to rebuild their midfield with top signings this summer and despite falling short in the search for a number of targets, progress is now being made on arrivals.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-michael-carrick-man-utd_7232744.jpg?20260427233553"
+    },
+    {
+      "source": "sky",
+      "title": "Caluori, Janse van Rensburg set for England debuts against Fiji",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13561859/fiji-vs-england-noah-caluori-and-benhard-janse-van-rensburg-set-to-make-debuts-from-bench-at-hill-dickinson-stadium",
+      "summary": "Teenager Noah Caluori and fellow back Benhard Janse van Rensburg are set to make their England debuts after being named on the bench for Saturday's Nations Championship clash with Fiji.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-noah-caluori-benhard_7293661.jpg?20260709123925"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal sign former Leeds goalkeeper Meslier",
+      "link": "https://www.skysports.com/football/news/12040/13561962/illan-meslier-to-arsenal-gunners-sign-former-leeds-goalkeeper-on-free-transfer",
+      "summary": "Illan Meslier has joined Arsenal on a free transfer after being released by Leeds United last week.&#160;",
+      "published": null,
+      "image": "https://e2.365dm.com/21/08/1920x1080/skysports-illan-meslier-leeds-united_5477315.jpg?20210813110227"
+    },
+    {
+      "source": "sky",
+      "title": "Wimbledon LIVE! Gauff, Muchova locked in deciding set in semi-final",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13561696/wimbledon-day-11-live-womens-semi-finals-scores-updates-news-results-with-coco-gauff-marta-kostyuk-karolina-muchova-linda-noskova-playing",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-coco-gauff-wimbledon_7293773.jpg?20260709145056"
+    },
+    {
+      "source": "sky",
+      "title": "British South Asians in football: Team of the Season 2025/26",
+      "link": "https://www.skysports.com/football/news/12040/13561828/x",
+      "summary": "It has been another breakthrough campaign for British South Asians in football, but who makes it into the 2025/26 Team of the Season?",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-dilan-markanday-millie_7293632.jpg?20260709121016"
+    },
+    {
+      "source": "sky",
       "title": "Draper set to make swift return from injury at DC Open",
       "link": "https://www.skysports.com/tennis/news/12040/13561930/jack-draper-brit-set-to-make-swift-return-from-injury-at-dc-open-in-washington-after-missing-wimbledon-with-arm-issue",
       "summary": "Jack Draper is poised to make a swift return to action at the DC Open in Washington after missing Wimbledon through injury.",
@@ -376,6 +416,22 @@
       "summary": "Ben Stokes appears to have made light of the International Cricket Council (ICC) contacting the England and Wales Cricket Board (ECB) over a potential rule breach linked to his retirement announcement.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ben-stokes-england_7293538.jpg?20260709102625"
+    },
+    {
+      "source": "sky",
+      "title": "Newcastle sign Ajax teenager Steur",
+      "link": "https://www.skysports.com/football/news/12040/13561944/sean-steur-newcastle-sign-midfielder-from-ajax-for-23m-on-five-year-deal-after-sandro-tonali-exit",
+      "summary": "Newcastle have signed midfielder Sean Steur from Ajax in a transfer worth &#163;23m.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sean-steur-ajax_7292040.jpg?20260709130927"
+    },
+    {
+      "source": "sky",
+      "title": "Bellingham unlocked? How Tuchel has helped him find a new level",
+      "link": "https://www.skysports.com/football/news/12040/13561683/how-thomas-tuchel-has-helped-unlock-jude-bellinghams-attacking-potential-for-england-8211-between-the-lines",
+      "summary": "England's strength lies in the collective according to Thomas Tuchel. \"If any team has heart and belief, then it's this team,\" he said after the victory over Mexico. But Jude Bellingham, together with Harry Kane, is showing the value of star quality too.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jude-bellingham-between-the-lines_7293130.jpg?20260708170145"
     },
     {
       "source": "sky",
@@ -443,83 +499,27 @@
     },
     {
       "source": "sky",
+      "title": "Woad impresses as Korda makes nightmare start to major",
+      "link": "https://www.skysports.com/golf/news/12040/13561900/evian-championship-lottie-woad-makes-strong-start-to-major-as-world-no-1-nelly-korda-struggles-on-opening-day-in-france",
+      "summary": "Lottie Woad made a strong start to her bid for a maiden major title at the Amundi Evian Championship, as Nelly Korda struggled on the opening day in France.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-evian-championship_7293647.jpg?20260709130000"
+    },
+    {
+      "source": "sky",
+      "title": "Inquest into death of Sheff Utd player Cusack adjourned again",
+      "link": "https://www.skysports.com/football/news/12040/13561931/maddy-cusack-inquest-into-death-of-sheffield-united-midfielder-adjourned-again",
+      "summary": "The inquest into the death of Maddy Cusack has been adjourned until December 7.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-cusack-maddy-sheffield_7127622.png?20260105235610"
+    },
+    {
+      "source": "sky",
       "title": "How do England stop Haaland and Norway's other threats?",
       "link": "https://www.skysports.com/football/news/12040/13561872/norway-vs-england-how-thomas-tuchels-side-stop-erling-haaland-and-other-threats-in-world-cup-semi-final-bid",
       "summary": "Erling Haaland is one of the principle stars of this summer's World Cup. He is the headline act of Norway's surprise advances. On Saturday against England in Miami, it's he they will look to. The leader of vikings.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-norway-nusa-odegaard_7293666.jpg?20260709124839"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd agree £50m deal for Chelsea midfielder Santos",
-      "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
-      "summary": "Manchester United have agreed a &#163;50m deal to sign Chelsea midfielder Andrey Santos.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554"
-    },
-    {
-      "source": "sky",
-      "title": "Location revealed for Man Utd's new 100,000-seater stadium",
-      "link": "https://www.skysports.com/football/news/12040/13561864/man-utds-new-stadium-location-for-100000-seater-ground-revealed-as-plans-for-largest-uk-stadium-gathers-pace",
-      "summary": "Manchester United have revealed the location for their proposed new 100,000 seater stadium.",
-      "published": null,
-      "image": "https://e2.365dm.com/25/03/1920x1080/skysports-man-utd-stadium_6852928.jpg?20250311152941"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: England set to get bank holiday IF Three Lions win World Cup",
-      "link": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "'Unbelievable!' - Britain's Fery stuns Cobolli to reach Wimbledon semi-finals",
-      "link": "https://www.skysports.com/tennis/news/12040/13561729/wimbledon-2026-arthur-fery-stuns-flavio-cobolli-to-set-up-semi-final-against-alexander-zverev",
-      "summary": "Britain's Arthur Fery stunned Flavio Cobolli in straight sets to continue his remarkable wild-card run and reach the semi-finals of Wimbledon.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tennis-arthur-fery_7293113.jpg?20260708163626"
-    },
-    {
-      "source": "sky",
-      "title": "Britain's Fery on stunning Centre Court success - 'I've never felt emotions like it!'",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13561351/wimbledon-day-10-live-scores-updates-news-results-as-arthur-fery-faces-flavio-cobolli-in-centre-court-quarter-final",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tennis-arthur-fery_7293096.jpg?20260708161419"
-    },
-    {
-      "source": "sky",
-      "title": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
-      "link": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
-      "summary": "A rest day at the World Cup provides the opportunity to take stock of how the biggest-ever edition has gone so far.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-world-cup-2026-harry-kane_7293120.jpg?20260708165044"
-    },
-    {
-      "source": "sky",
-      "title": "Putellas has power to change the WSL - why is she joining London City?",
-      "link": "https://www.skysports.com/football/news/12040/13556749/alexia-putellas-transfer-barcelona-and-spain-star-completes-womens-super-league-move-why-london-city-lionesses",
-      "summary": "London City Lionesses made a sensational bid for Alexia Putellas earlier this summer, and finally, a deal has been struck. The two-time Ballon d&#8217;Or winner is theirs. How have they managed to pull off one of the biggest shock signings of, well, ever?",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-alexia-putellas-london-city-lionesses_7293081.jpg?20260708155528"
-    },
-    {
-      "source": "sky",
-      "title": "London City Lionesses complete landmark signing of Putellas",
-      "link": "https://www.skysports.com/football/news/12040/13548205/alexia-putellas-news-barcelona-and-spain-midfielder-joins-london-city-lionesses-on-a-free-transfer",
-      "summary": "London City Lionesses have completed the landmark signing of free agent Alexia Putellas following her departure from Barcelona.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-alexia-putellas-london-city-lionesses_7292885.jpg?20260708121709"
-    },
-    {
-      "source": "sky",
-      "title": "Can Fery emulate Raducanu with run to major title?",
-      "link": "https://www.skysports.com/tennis/news/12040/13561766/wimbledon-can-arthur-fery-follow-in-emma-raducanus-footsteps-and-become-the-latest-brit-to-win-a-grand-slam-title-as-a-rank-outsider",
-      "summary": "Given Britain's Arthur Fery is now only two victories away from achieving what looked to be mission impossible before Wimbledon started, it is only fair to draw comparisons.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-arthur-fery-emma-raducanu_7293362.jpg?20260708230343"
     }
   ]
 }
