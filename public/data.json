@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-09T08:29:00.882928+00:00",
+  "lastUpdated": "2026-07-09T11:52:09.244710+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Newcastle agree £51.5m Johan Manzambi deal and insist Bruno Guimarães not for sale",
+      "link": "https://www.theguardian.com/football/2026/jul/09/newcastle-agree-johan-manzambi-deal-and-insist-bruno-guimaraes-not-for-sale-transfer-window",
+      "summary": "Switzerland international poised to sign from FreiburgGuimarães wants to leave and is target for ArsenalNewcastle have agreed a £51.5m deal with Freiburg that should see the Switzerland midfielder Johan Manzambi swap the Bundesliga for the Premier League.The 20-year-old, who has shone during this summer’s World Cup, is expected to sign a long-term contract at St James’ Park but the transfer will n",
+      "published": "2026-07-09T11:30:12+00:00",
+      "image": "https://i.guim.co.uk/img/media/d761a42f908b6ed93a8aa36c269734595b5878a9/67_0_1294_1035/master/1294.jpg?width=140&quality=85&auto=format&fit=max&s=0fee9e8a6d5ca015745bb6aaae2a0ac5"
+    },
     {
       "source": "guardian",
       "title": "Arsenal on alert after Bruno Guimarães tells Newcastle he wants to leave",
@@ -346,20 +354,28 @@
       "image": "https://i.guim.co.uk/img/media/afe2c85c9c4ee063d7f7d4c8239cea6b1fd7d1c2/896_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=113aa6f404ecb1e644c59fc747e0665b"
     },
     {
-      "source": "guardian",
-      "title": "Champions League team of the season: Lamine Yamal, Harry Kane … and a Spurs player",
-      "link": "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane",
-      "summary": "To better highlight the whole field among Europe’s elite, we chose an XI that couldn’t feature more than one player from any one teamThis year we are picking a team of the season with a difference: I am allowed only one player per team. Of course, as finalists Paris Saint-Germain and Arsenal have players with claims to all of these positions, so apologies to Willian Pacho and Declan Rice, among ot",
-      "published": "2026-06-01T08:00:11+00:00",
-      "image": "https://i.guim.co.uk/img/media/6d7e039f85de3b9fa592739c8018eecfebc0b527/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ebdb7d9419909033dc5e24a75580f2db"
-    },
-    {
       "source": "arsenal",
       "title": "‘Lacazette is going to score goals for this club’",
       "link": "https://www.arsenal.com/news/lacazette-going-score-goals-club",
       "summary": "‘Lacazette is going to score goals for this club’\nmaxjones\nSun, 06/08/2017 - 18:24\n\n\n            Alexandre Lacazette may not have scored in our Community Shield triumph over Chelsea, but he still made a big impact.\nStarting his first match at Wembley, the France international linked up well with Danny Welbeck and Alex Iwobi in attack, and even curled a stunning strike off the woodwork.\nLacazette r",
       "published": "2017-08-06T17:24:21+00:00",
       "image": "https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/lacazette.jpg?h=6dff888f&amp;auto=webp&amp;itok=IBazUiYw"
+    },
+    {
+      "source": "sky",
+      "title": "Draper set to make swift return from injury at DC Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13561930/jack-draper-brit-set-to-make-swift-return-from-injury-at-dc-open-in-washington-after-missing-wimbledon-with-arm-issue",
+      "summary": "Jack Draper is poised to make a swift return to action at the DC Open in Washington after missing Wimbledon through injury.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jack-draper-eastbourne_7293633.jpg?20260709121457"
+    },
+    {
+      "source": "sky",
+      "title": "'Sack him' - Stokes reacts as ICC look into possible retirement video rule breach",
+      "link": "https://www.skysports.com/cricket/news/12040/13561890/ben-stokes-former-england-captain-reacts-as-icc-contact-ecb-over-possible-retirement-video-rule-breach",
+      "summary": "Ben Stokes appears to have made light of the International Cricket Council (ICC) contacting the England and Wales Cricket Board (ECB) over a potential rule breach linked to his retirement announcement.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ben-stokes-england_7293538.jpg?20260709102625"
     },
     {
       "source": "sky",
@@ -387,6 +403,14 @@
     },
     {
       "source": "sky",
+      "title": "The World Cup quarter-finals are here! Your guide to every tie",
+      "link": "https://www.skysports.com/football/news/12040/13561566/world-cup-2026-quarter-finals-france-vs-morocco-spain-vs-belgium-norway-vs-england-argentina-vs-switzerland-team-by-team-preview",
+      "summary": "From 48, we're now down to just eight. The World Cup quarter-finals begin today - and we're one step closer to knowing who will lift the trophy on July 19.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-world-cup-quarter-final_7293514.jpg?20260709100322"
+    },
+    {
+      "source": "sky",
       "title": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13561780/bruno-guimaraes-transfer-news-newcastle-captain-tells-club-he-wants-to-join-arsenal-after-world-cup-exit-with-brazil",
       "summary": "Newcastle captain Bruno Guimaraes has told the club he wants to join Arsenal, it has been confirmed to Sky Sports News.",
@@ -407,7 +431,7 @@
       "link": "https://www.skysports.com/tennis/news/12040/13561767/wimbledon-2026-arthur-fery-plans-to-use-crowd-to-my-advantage-against-alexander-zverev-in-mens-singles-semi-final",
       "summary": "Britain's Arthur Fery says he will use the crowd to \"my advantage\" against Germany's Alexander Zverev in their Wimbledon semi-final on Friday.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-arthur-fery-tennis_7291484.jpg?20260706200638"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-arthur-fery-tennis_7293547.jpg?20260709103447"
     },
     {
       "source": "sky",
@@ -419,6 +443,14 @@
     },
     {
       "source": "sky",
+      "title": "How do England stop Haaland and Norway's other threats?",
+      "link": "https://www.skysports.com/football/news/12040/13561872/norway-vs-england-how-thomas-tuchels-side-stop-erling-haaland-and-other-threats-in-world-cup-semi-final-bid",
+      "summary": "Erling Haaland is one of the principle stars of this summer's World Cup. He is the headline act of Norway's surprise advances. On Saturday against England in Miami, it's he they will look to. The leader of vikings.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-norway-nusa-odegaard_7293666.jpg?20260709124839"
+    },
+    {
+      "source": "sky",
       "title": "Man Utd agree £50m deal for Chelsea midfielder Santos",
       "link": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
       "summary": "Manchester United have agreed a &#163;50m deal to sign Chelsea midfielder Andrey Santos.",
@@ -427,19 +459,19 @@
     },
     {
       "source": "sky",
-      "title": "Papers: England set to get bank holiday IF Three Lions win World Cup",
-      "link": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
       "title": "Location revealed for Man Utd's new 100,000-seater stadium",
       "link": "https://www.skysports.com/football/news/12040/13561864/man-utds-new-stadium-location-for-100000-seater-ground-revealed-as-plans-for-largest-uk-stadium-gathers-pace",
       "summary": "Manchester United have revealed the location for their proposed new 100,000 seater stadium.",
       "published": null,
       "image": "https://e2.365dm.com/25/03/1920x1080/skysports-man-utd-stadium_6852928.jpg?20250311152941"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: England set to get bank holiday IF Three Lions win World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13561845/world-cup-2026-england-set-to-get-bank-holiday-if-three-lions-win-world-cup-paper-talk",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "published": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
     },
     {
       "source": "sky",
@@ -488,38 +520,6 @@
       "summary": "Given Britain's Arthur Fery is now only two victories away from achieving what looked to be mission impossible before Wimbledon started, it is only fair to draw comparisons.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-arthur-fery-emma-raducanu_7293362.jpg?20260708230343"
-    },
-    {
-      "source": "sky",
-      "title": "Button: Verstappen has to be ruthless over 2027 decision",
-      "link": "https://www.skysports.com/f1/news/12040/13561664/max-verstappen-red-bull-drivers-options-for-2027-switch-assessed-after-frustrating-british-gp-weekend",
-      "summary": "An extremely frustrating British Grand Prix weekend for Max Verstappen has done little to calm speculation around the four-time world champion making a potential exit from Red Bull at the end of the season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-max-verstappen-red-bull_7292986.jpg?20260708142911"
-    },
-    {
-      "source": "sky",
-      "title": "Cleary stars as New South Wales win State of Origin decider",
-      "link": "https://www.skysports.com/rugby-league/queensland-vs-nsw/report/62577",
-      "summary": "New South Wales pulled off a remarkable 30-12 victory over Queensland in the State of Origin decider at Brisbane's Suncorp Stadium.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rugby-league-nrl_7292897.jpg?20260708123708"
-    },
-    {
-      "source": "sky",
-      "title": "R&A issues new fan conduct guidelines to avoid bad behaviour at The Open",
-      "link": "https://www.skysports.com/golf/news/12040/13561713/the-open-commitment-ra-to-launch-new-fan-code-of-conduct-at-royal-birkdale-to-avoid-crowd-behaviour-impacting-major",
-      "summary": "The R&A has launched a new fan code of conduct ahead of The Open at Royal Birkdale, with spectators at risk of being removed from the course for serious or repeated breaches.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-scottie-scheffler_7293105.jpg?20260708161815"
-    },
-    {
-      "source": "sky",
-      "title": "Why Kane is safe from missing World Cup semi... but Bellingham is NOT",
-      "link": "https://www.skysports.com/watch/video/13561651/explained-why-harry-kane-is-safe-from-missing-world-cup-semi-final-but-jude-bellingham-is-not",
-      "summary": "Sky Sports' Dave Reed explains which FOUR England players need to watch their step in the World Cup quarter-final against Norway and why one of them is NOT captain Harry Kane.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/sky-sports-harry-kane-jude_7292950.jpg?20260708133140"
     }
   ]
 }
