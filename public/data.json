@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T21:42:48.744120+00:00",
+  "lastUpdated": "2026-07-11T22:41:22.119966+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -435,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "Rory falters as Fitzpatrick shares lead at fog-disrupted Scottish Open",
+      "link": "https://www.skysports.com/watch/video/13562655/genesis-scottish-open-day-three-highlights",
+      "summary": "Highlights from day three of the Genesis Scottish Open held in The Renaissance Club in North Berwick, Scotland.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-golf-scottishopen_7295585.jpg?20260711233248"
+    },
+    {
+      "source": "sky",
       "title": "Joyce suffers stoppage loss in Moscow",
       "link": "https://www.skysports.com/boxing/news/12040/13562593/joe-joyce-suffers-stoppage-loss-to-artem-suslenkov-as-40-year-old-british-contender-endures-another-huge-setback",
       "summary": "Joe Joyce could be forced to consider retirement after he suffered a stoppage loss to Artem Suslenkov in Moscow.",
@@ -483,6 +491,14 @@
     },
     {
       "source": "sky",
+      "title": "Wales fail to build on strong start in defeat to Argentina",
+      "link": "https://www.skysports.com/rugby-union/argentina-vs-wales/report/111675",
+      "summary": "Wales failed to build on a strong start as Argentina ran out comfortable 35-21 winners in their Nations Championship encounter in San Juan.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-joaquin-oviedo-argentina_7295552.jpg?20260711224514"
+    },
+    {
+      "source": "sky",
       "title": "Ryu makes history at Amundi Evian Championship with record-breaking round",
       "link": "https://www.skysports.com/watch/video/13562570/haeran-ryu-makes-history-at-the-amundi-evian-championship-after-shooting-lowest-ever-round-in-a-mens-or-womens-major",
       "summary": "Haeran Ryu makes history after shooting the lowest-ever round in a men's or women's major at the Amundi Evian Championship.",
@@ -504,22 +520,6 @@
       "summary": "Highlights of the morning and afternoon sessions on day two of the Women's Test between England and India.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/cricket-test-women_7295341.jpg?20260711154956"
-    },
-    {
-      "source": "sky",
-      "title": "'We won't stop' - McCullum demands more after England reach T20 summit",
-      "link": "https://www.skysports.com/cricket/news/12040/13562628/brendon-mccullum-declares-england-wont-stop-after-reaching-summit-of-world-t20-cricket-with-india-series-sweep",
-      "summary": "Brendon McCullum hailed England for drowning out the noise throughout their dominant T20 series victory over India but insisted that moving to the top of the world rankings was just the start.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england_7295502.jpg?20260711203919"
-    },
-    {
-      "source": "sky",
-      "title": "Britain's Patten wins second Wimbledon doubles title and hits out at proposed cuts",
-      "link": "https://www.skysports.com/tennis/news/12040/13562549/wimbledon-2026-henry-patten-and-harri-heliovaara-win-second-mens-doubles-title-after-beating-marcelo-arevalo-and-mate-pavic",
-      "summary": "Britain's Henry Patten and Finland's Harri Heliovaara won their second Wimbledon men's doubles title with a straight-sets victory.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-henry-patten-harri-heliovaara_7295280.jpg?20260711145554"
     }
   ]
 }
