@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T18:53:23.359344+00:00",
+  "lastUpdated": "2026-07-11T20:02:55.731486+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -435,7 +435,31 @@
     },
     {
       "source": "sky",
-      "title": "England seal 56-run victory vs India and overtake visitors at top of world rankings LIVE!",
+      "title": "Former captain Knight announces England retirement",
+      "link": "https://www.skysports.com/cricket/news/12040/13562634/englands-heather-knight-announces-retirement-from-international-cricket-after-rothesay-test-match-vs-india-at-lords",
+      "summary": "Heather Knight will retire from international cricket after the Rothesay Test match between England and India at Lord's this week.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-heather-knight-england_7288413.jpg?20260702200652"
+    },
+    {
+      "source": "sky",
+      "title": "Joyce suffers stoppage loss in Moscow",
+      "link": "https://www.skysports.com/boxing/news/12040/13562593/joe-joyce-suffers-stoppage-loss-to-artem-suslenkov-as-40-year-old-british-contender-endures-another-huge-setback",
+      "summary": "Joe Joyce could be forced to consider retirement after he suffered a stoppage loss to Artem Suslenkov in Moscow.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-joe-joyce-boxing_7291437.jpg?20260706181800"
+    },
+    {
+      "source": "sky",
+      "title": "McIlroy loses ground as fog halts play with Fitzpatrick sharing lead",
+      "link": "https://www.skysports.com/golf/news/12040/13562631/genesis-scottish-open-rory-mcilroy-loses-ground-as-fog-halts-play-with-matt-fitzpatrick-sharing-lead",
+      "summary": "Rory McIlroy was slipping out of contention as Matt Fitzpatrick took a share of the lead when play was suspended due to fog in the third round of the Genesis Scottish Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-genesis-scottish-open_7295488.jpg?20260711200829"
+    },
+    {
+      "source": "sky",
+      "title": "'Time to celebrate' - Brook and Buttler blast England to top of the world",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13562229/england-vs-india-fifth-t20-international-cricket-score-updates-video-and-analysis-as-harry-brooks-side-chase-world-no-1-spot",
       "summary": "",
       "published": null,
@@ -483,43 +507,19 @@
     },
     {
       "source": "sky",
+      "title": "'We won't stop' - McCullum demands more after England reach T20 summit",
+      "link": "https://www.skysports.com/cricket/news/12040/13562628/brendon-mccullum-declares-england-wont-stop-after-reaching-summit-of-world-t20-cricket-with-india-series-sweep",
+      "summary": "Brendon McCullum hailed England for drowning out the noise throughout their dominant T20 series victory over India but insisted that moving to the top of the world rankings was just the start.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england_7295502.jpg?20260711203919"
+    },
+    {
+      "source": "sky",
       "title": "Britain's Patten wins second Wimbledon doubles title and hits out at proposed cuts",
       "link": "https://www.skysports.com/tennis/news/12040/13562549/wimbledon-2026-henry-patten-and-harri-heliovaara-win-second-mens-doubles-title-after-beating-marcelo-arevalo-and-mate-pavic",
       "summary": "Britain's Henry Patten and Finland's Harri Heliovaara won their second Wimbledon men's doubles title with a straight-sets victory.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-henry-patten-harri-heliovaara_7295280.jpg?20260711145554"
-    },
-    {
-      "source": "sky",
-      "title": "Much-changed Ireland beat Japan in Nations Championship as debutants impress",
-      "link": "https://www.skysports.com/rugby-union/japan-vs-ireland/report/111671",
-      "summary": "A much-changed Ireland side overcame Japan 36-20 to make it two wins from two in the Nations Championship.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-bryn-ward-ireland_7295216.jpg?20260711131723"
-    },
-    {
-      "source": "sky",
-      "title": "Incredible sequence! Comical drop catch, huge Brook six AND superb fan catch!",
-      "link": "https://www.skysports.com/watch/video/13562575/comical-drop-catch-followed-by-incredible-six-and-wonderful-crowd-catch",
-      "summary": "Shivam Dube fails to make a catch in comical fashion, which is then followed by a six by captain Harry Brook, and topped off with a superb catch from the crowd!",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-t20-cricket_7295344.jpg?20260711155030"
-    },
-    {
-      "source": "sky",
-      "title": "Hewett and Reid win seventh Wimbledon wheelchair doubles title",
-      "link": "https://www.skysports.com/tennis/news/12040/13562486/wimbledon-alfie-hewett-and-gordon-reid-win-seventh-wheelchair-doubles-title-defeating-gustavo-fernandez-and-tokito-oda-in-three-sets",
-      "summary": "Britain's Alfie Hewett and Gordon Reid won their seventh wheelchair doubles title together at Wimbledon on Saturday.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-alfie-hewett-gordon-reid_7295213.jpg?20260711131047"
-    },
-    {
-      "source": "sky",
-      "title": "Morning session highlights: India take four wickets to stay on top of England",
-      "link": "https://www.skysports.com/watch/video/13562534/england-vs-india-afternoon-session-highlights",
-      "summary": "Highlights of the morning session on day two of the Women's Test between England and India.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/cricket-women-test_7295214.jpg?20260711131144"
     }
   ]
 }
