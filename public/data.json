@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-12T13:06:54.085456+00:00",
+  "lastUpdated": "2026-07-12T14:51:00.791526+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug.",
+      "published": "2026-07-12T11:15:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d2/live/1ef90aa0-7de0-11f1-91f9-abeb669686c2.jpg"
+    },
     {
       "source": "guardian",
       "title": "Rice and Ødegaard put club union on hold in decisive duel between England and Norway",
@@ -274,14 +282,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/a92078a0-6443-11f1-b2d1-a5b179e0f0d4.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal head of sports medicine to leave club",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp369xgwy2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal's head of sports medicine Dr Zafar Iqbal is leaving after two years at the club.",
-      "published": "2026-06-08T20:12:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca02/live/b5fbe850-6373-11f1-b400-a9a3aa116c11.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
       "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
@@ -363,7 +363,15 @@
     },
     {
       "source": "sky",
-      "title": "McCullum to leave as England Test coach",
+      "title": "Wimbledon men's final LIVE! Defending champion Sinner meets Zverev from 4pm",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13562479/wimbledon-mens-final-live-scores-updates-news-results-with-jannik-sinner-and-alexander-zverev-playing",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-jannik-sinner-alexander-zverev_7294979.jpg?20260710231515"
+    },
+    {
+      "source": "sky",
+      "title": "'Gutted' McCullum to leave as England Test coach",
       "link": "https://www.skysports.com/cricket/news/12040/13562770/brendon-mccullum-to-leave-role-as-england-test-coach-but-continue-to-lead-white-ball-sides",
       "summary": "Brendon McCullum will leave his role as England's Test head coach but continue to lead the white-ball teams.",
       "published": null,
@@ -371,11 +379,11 @@
     },
     {
       "source": "sky",
-      "title": "Bhatia hits first hundred in women's Test at Lord's as India boss England LIVE!",
+      "title": "Beaumont out for duck in final innings as England slip to 6-2 vs India LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13562693/england-vs-india-womens-test-day-three-live-cricket-score-updates-video-and-analysis-from-game-at-lords",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-yastika-bhatia-india-women-teats-cricket_7295931.jpg?20260712134728"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-sophie-ecclestone_7294845.jpg?20260710180015"
     },
     {
       "source": "sky",
@@ -427,6 +435,46 @@
     },
     {
       "source": "sky",
+      "title": "Ryu holds off surging Henderson in play-off to win second consecutive major",
+      "link": "https://www.skysports.com/golf/news/12040/13562747/evian-championship-haeran-ryu-holds-off-surging-brooke-henderson-in-play-off-to-claim-second-successive-major",
+      "summary": "Haeran Ryu held off a spirited fightback from Brooke Henderson to win her second consecutive major title at the Amundi Evian Championship after a dramatic play-off.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-haeran-ryu-evian-championship_7295953.jpg?20260712142546"
+    },
+    {
+      "source": "sky",
+      "title": "McIlroy on birdie charge to close on Scottish Open leaders LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13562765/genesis-scottish-open-live-latest-scores-updates-highlights-as-rory-mcilroy-matt-fitzpatrick-robert-macintyre-chase-win",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rory-mcilroy_7293911.jpg?20260709171844"
+    },
+    {
+      "source": "sky",
+      "title": "Hewett 'extremely disappointed' after wheelchair final defeat by Oda",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13556471/wimbledon-news-updates-with-emma-raducanu-jack-draper-jannik-sinner-aryna-sabalenka-serena-williams-at-the-grand-slam",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tokito-oda-tennis_7295952.jpg?20260712142155"
+    },
+    {
+      "source": "sky",
+      "title": "What's different at The Open? New events, big changes and all you need to know",
+      "link": "https://www.skysports.com/golf/news/12040/13562122/the-open-whats-new-ahead-of-royal-birkdale-bonus-events-course-changes-different-features-and-all-you-need-to-know",
+      "summary": "The world&#8217;s best players head to Royal Birkdale for The Open, with plenty of new additions &#8211; on and off the course &#8211; to look out for during one of the biggest events in the sporting calendar.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-golf-the-open-open-championship_7294331.jpg?20260710085621"
+    },
+    {
+      "source": "sky",
+      "title": "Hussain: Flower should replace McCullum - but 'lucky' Key has questions to answer",
+      "link": "https://www.skysports.com/cricket/news/12040/13562794/nasser-hussain-feels-andy-flower-should-replace-brendon-mccullum-as-test-head-coach-but-lucky-rob-key-has-questions-to-answer",
+      "summary": "Nasser Hussain has backed former England head coach Andy Flower to replace Brendon McCullum as Test head coach.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-andy-flower-cricket-coach_7198920.jpg?20260321093441"
+    },
+    {
+      "source": "sky",
       "title": "'Naive' England toil in Women's Test as India dominate at Lord's",
       "link": "https://www.skysports.com/cricket/news/12040/13562491/england-toil-on-day-two-of-womens-test-at-lords-as-dominant-india-extend-lead-to-269",
       "summary": "England are facing an almighty battle to avoid defeat in the first Women's Test at Lord's after India dominated day two of the four-day fixture.",
@@ -472,54 +520,6 @@
       "summary": "Highlights of the Super League match between Leigh Leopards and Castleford Tigers.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/leigh-castleford-rugby-league_7295431.jpg?20260711184340"
-    },
-    {
-      "source": "sky",
-      "title": "Noskova recovers to win maiden Wimbledon title after six Championship points",
-      "link": "https://www.skysports.com/tennis/news/12040/13562477/wimbledon-linda-noskova-wins-maiden-grand-slam-title-with-epic-victory-over-czech-compatriot-karolina-muchova",
-      "summary": "Linda Noskova sealed her maiden Grand Slam title as she became the third Czech women's Wimbledon champion in four years with victory over compatriot Karolina Muchova on Saturday - but only after overcoming a major wobble.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-linda-noskova-tennis_7295444.jpg?20260711190121"
-    },
-    {
-      "source": "sky",
-      "title": "Scotland's late comeback falls short against Springboks",
-      "link": "https://www.skysports.com/rugby-union/south-africa-vs-scotland/report/111672",
-      "summary": "Scotland produced another big performance against top-tier opposition but their wait for a first win in South Africa continues after they went down 42-28 in a thrilling Nations Championship showdown in Pretoria.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-damian-willemse-jamie-dobie_7295432.jpg?20260711190602"
-    },
-    {
-      "source": "sky",
-      "title": "One of the greats! - Best of Buttler against India",
-      "link": "https://www.skysports.com/watch/video/13562586/england-vs-india-fifth-t20i-hes-been-box-office-the-very-best-of-jos-buttler-against-inida",
-      "summary": "Watch the best of Jos Buttler's incredible knock of 131 from 64 balls against India in the final T20 as he hit eight sixes and 12 fours.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cricket-t20_7295363.jpg?20260711165525"
-    },
-    {
-      "source": "sky",
-      "title": "England struggle versus India in front of record crowd for Women's Test",
-      "link": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kranti-gaud-india-womens-test-cricket_7295183.jpg?20260711122456"
-    },
-    {
-      "source": "sky",
-      "title": "Box-office Buttler hits century to lead England to 4-0 series win vs India",
-      "link": "https://www.skysports.com/cricket/news/12040/13562596/england-vs-india-jos-buttler-guides-hosts-to-4-0-series-sweep-with-sensational-century-as-harry-brooks-side-go-top-of-world-rankings",
-      "summary": "Jos Buttler produced a box-office performance with the bat to lead England to a sensational 56-run T20 victory against India and a 4-0 series sweep.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jos-buttler-england_7295452.jpg?20260711191712"
-    },
-    {
-      "source": "sky",
-      "title": "Tuchel NOT happy with England display but Bellingham responds: 'Whatever'",
-      "link": "https://www.skysports.com/football/news/12040/13562621/thomas-tuchel-unhappy-with-englands-display-in-world-cup-quarter-final-win-over-norway-but-jude-bellingham-responds-with-whatever",
-      "summary": "Thomas Tuchel admitted he was not happy with England's performance in their nervy World Cup quarter-final win over Norway - admitting the Three Lions were \"sloppy, lucky\" and not good enough in \"every sense\".",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295615.jpg?20260712012142"
     }
   ]
 }
