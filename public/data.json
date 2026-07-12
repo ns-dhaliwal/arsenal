@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T21:43:04.068182+00:00",
+  "lastUpdated": "2026-07-12T22:41:18.037803+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,6 +363,22 @@
     },
     {
       "source": "sky",
+      "title": "Ratajski beats Wattimena to lift European Darts Open title",
+      "link": "https://www.skysports.com/darts/news/12040/13562885/european-darts-open-krzysztof-ratajski-beats-jermaine-wattimena-to-lift-title-ahead-of-world-matchplay",
+      "summary": "Krzysztof Ratajski defeated Jermaine Wattimena 8-6 in a nail-biting final to win the European Darts Open in Leverkusen.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-krzysztof-ratajski_7296184.jpg?20260712231205"
+    },
+    {
+      "source": "sky",
+      "title": "Bellingham and Tuchel's ‘battle of wills’ is healthy for England",
+      "link": "https://www.skysports.com/football/news/12040/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england",
+      "summary": "Passionate, driven, uncompromising. Those are terms that can be equally applied to both Thomas Tuchel and Jude Bellingham.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports_7296174.jpg?20260712225134"
+    },
+    {
+      "source": "sky",
       "title": "Sinner grinds down Zverev to successfully defend Wimbledon title",
       "link": "https://www.skysports.com/tennis/news/12040/13562802/wimbledon-world-no-1-jannik-sinner-grinds-down-alexander-zverev-to-successfully-defend-title-on-centre-court-at-all-england-club",
       "summary": "Jannik Sinner successfully defended his Wimbledon title with a four-set victory against French Open champion Alexander Zverev on Centre Court.",
@@ -411,7 +427,7 @@
     },
     {
       "source": "sky",
-      "title": "'Most special feeling imaginable in tennis' - Sinner on Wimbledon glory",
+      "title": "'I sacrificed a lot of my time to be in this position' - Sinner on Wimbledon glory",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13562479/wimbledon-mens-final-live-scores-updates-news-results-with-jannik-sinner-and-alexander-zverev-playing",
       "summary": "",
       "published": null,
@@ -424,6 +440,14 @@
       "summary": "Brendon McCullum will leave his role as England's Test head coach but continue to lead the white-ball teams.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-brendon-mccullum_7285505.jpg?20260629094853"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Arsenal turn to Alvarez with Barcola unavailable",
+      "link": "https://www.skysports.com/football/news/12040/13562834/julian-alvarez-arsenal-switch-focus-to-atletico-madrid-striker-with-psg-forward-bradley-barcola-unavailable-paper-talk",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "published": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
     },
     {
       "source": "sky",
@@ -496,30 +520,6 @@
       "summary": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-england-norway_7295605.jpg?20260712004044"
-    },
-    {
-      "source": "sky",
-      "title": "Noppert receives social media abuse following loss on European Tour",
-      "link": "https://www.skysports.com/darts/news/12040/13562851/danny-noppert-receives-social-media-abuse-following-european-tour-loss-that-will-haunt-me-for-the-rest-of-my-life",
-      "summary": "Danny Noppert opened up on the social media abuse he received following his loss at the European Darts Open.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-danny-noppert-darts_7296086.jpg?20260712182102"
-    },
-    {
-      "source": "sky",
-      "title": "MacIntyre: 'I've got to look at positives ahead of The Open'",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13562765/genesis-scottish-open-live-latest-scores-updates-highlights-as-rory-mcilroy-matt-fitzpatrick-robert-macintyre-chase-win",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bob-macintyre-genesis-scottish-open_7295869.jpg?20260712203953"
-    },
-    {
-      "source": "sky",
-      "title": "Who should replace McCullum as England Test head coach?",
-      "link": "https://www.skysports.com/cricket/news/12040/13562824/englands-next-test-head-coach-andy-flower-andrew-flintoff-and-justin-langer-among-names-tipped-to-replace-brendon-mccullum",
-      "summary": "Brendon McCullum's departure from the role of England Test head coach leaves the England and Wales Cricket Board (ECB) with a huge gap to fill ahead of a crucial home Ashes series next summer.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-andrew-flintoff-andy-flower_7296023.jpg?20260712162046"
     }
   ]
 }
