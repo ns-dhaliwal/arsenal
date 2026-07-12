@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T02:10:05.376984+00:00",
+  "lastUpdated": "2026-07-12T05:51:29.986758+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -363,6 +363,14 @@
     },
     {
       "source": "sky",
+      "title": "Alvarez scores extra-time stunner as Argentina set up blockbuster semi vs England",
+      "link": "https://www.skysports.com/football/argentina-vs-switzerland/report/549865",
+      "summary": "Julian Alvarez scored an extra-time stunner as Argentina beat 10-man Switzerland 3-1 and set up a mouth-watering World Cup semi-final clash with England.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-julian-alvarez-argentina_7295649.jpg?20260712045203"
+    },
+    {
+      "source": "sky",
       "title": "England player ratings: This is Bellingham's summer as Kane has an off day",
       "link": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
       "summary": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
@@ -427,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "England struggle versus India in front of record crowd for Women's Test",
+      "link": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kranti-gaud-india-womens-test-cricket_7295183.jpg?20260711122456"
+    },
+    {
+      "source": "sky",
       "title": "Box-office Buttler hits century to lead England to 4-0 series win vs India",
       "link": "https://www.skysports.com/cricket/news/12040/13562596/england-vs-india-jos-buttler-guides-hosts-to-4-0-series-sweep-with-sensational-century-as-harry-brooks-side-go-top-of-world-rankings",
       "summary": "Jos Buttler produced a box-office performance with the bat to lead England to a sensational 56-run T20 victory against India and a 4-0 series sweep.",
@@ -451,9 +467,9 @@
     },
     {
       "source": "sky",
-      "title": "Highlights: In-control India leave England questioning on day two",
+      "title": "Highlights: England up against it as India take complete control at Lord's",
       "link": "https://www.skysports.com/watch/video/13562611/england-vs-india-womens-test-day-two-highlights",
-      "summary": "Highlights of day two of the Women's Test between England and India.",
+      "summary": "Highlights from day two of the Women's Test at Lord's, where England trail India by 269 runs after a dominant performance from the tourists.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-england-india_7295430.jpg?20260711184145"
     },
@@ -475,7 +491,7 @@
     },
     {
       "source": "sky",
-      "title": "Mac Allister puts Argentina ahead vs Switzerland LIVE!",
+      "title": "Argentina beat Switzerland after extra time: All the key moments and rate the players",
       "link": "https://www.skysports.com/football/argentina-vs-switzerland/live/549865",
       "summary": "",
       "published": null,
@@ -504,22 +520,6 @@
       "summary": "Highlights from day three of the Genesis Scottish Open held in The Renaissance Club in North Berwick, Scotland.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-golf-scottishopen_7295585.jpg?20260711233248"
-    },
-    {
-      "source": "sky",
-      "title": "Joyce suffers stoppage loss in Moscow",
-      "link": "https://www.skysports.com/boxing/news/12040/13562593/joe-joyce-suffers-stoppage-loss-to-artem-suslenkov-as-40-year-old-british-contender-endures-another-huge-setback",
-      "summary": "Joe Joyce could be forced to consider retirement after he suffered a stoppage loss to Artem Suslenkov in Moscow.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-joe-joyce-boxing_7295505.jpg?20260711210345"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy loses ground as fog halts play with Fitzpatrick sharing lead",
-      "link": "https://www.skysports.com/golf/news/12040/13562631/genesis-scottish-open-rory-mcilroy-loses-ground-as-fog-halts-play-with-matt-fitzpatrick-sharing-lead",
-      "summary": "Rory McIlroy was slipping out of contention as Matt Fitzpatrick took a share of the lead when play was suspended due to fog in the third round of the Genesis Scottish Open.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-genesis-scottish-open_7295488.jpg?20260711212621"
     }
   ]
 }
