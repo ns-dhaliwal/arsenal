@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T13:24:05.894825+00:00",
+  "lastUpdated": "2026-07-15T15:22:46.592703+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -258,14 +258,6 @@
       "image": "https://i.guim.co.uk/img/media/dac02d3c640c98ffb5c8f8e7ebce588ba13dcb80/78_0_4908_3928/master/4908.jpg?width=140&quality=85&auto=format&fit=max&s=7d319dadf143e420332722ac708a0848"
     },
     {
-      "source": "bbc",
-      "title": "Jesus selects his top three Brazilian strikers",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c62j4g96n8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal and Brazil striker Gabriel Jesus selects his three favourite forwards who've played for his country.",
-      "published": "2026-06-13T16:38:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6197/live/41c865e0-6746-11f1-b1db-af71d47507d6.jpg"
-    },
-    {
       "source": "guardian",
       "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
       "link": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
@@ -347,6 +339,14 @@
     },
     {
       "source": "sky",
+      "title": "World Cup-winner Stiles' death linked to heading footballs, coroner rules",
+      "link": "https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules",
+      "summary": "England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nobby-stiles_7298347.jpg?20260715160011"
+    },
+    {
+      "source": "sky",
       "title": "World Cup format changes revealed by ICC",
       "link": "https://www.skysports.com/cricket/news/12040/13563666/world-cup-odi-and-t20-cricket-format-changes-revealed-by-icc-including-12-team-main-group-for-2027",
       "summary": "The ICC has announced revamped structures for its two men's World Cup tournaments, including the creation of new 'Super Series' and 'Super 7' rounds at next year's 50-over tournament.",
@@ -423,7 +423,7 @@
       "link": "https://www.skysports.com/watch/video/13563699/the-open-how-bryson-dechambeau-could-make-unwanted-history-this-week-at-birkdale",
       "summary": "Jamie Weir explains how Bryson Dechambeau could make unwanted history this week at Royal Birkdale if he were to miss the cut at The Open.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/image_7298225.jpg?20260715133541"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-dechambeau-bryson_7298229.jpg?20260715133807"
     },
     {
       "source": "sky",
@@ -496,14 +496,6 @@
       "summary": "Scottie Scheffler and Rory McIlroy have both dismissed concerns about how their future legacy is perceived ahead of their latest bid for more major success at The Open.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-golf_7297515.jpg?20260714160846"
-    },
-    {
-      "source": "sky",
-      "title": "The Open: Latest scores and Royal Birkdale leaderboard",
-      "link": "https://www.skysports.com/golf/news/12040/13563608/the-open-2026-leaderboard-latest-golf-scores-from-royal-birkdale-and-weather-tee-times-for-final-mens-major-of-the-year",
-      "summary": "The latest leaderboard from The 154th Open, the final men's major of the year, held at Royal Birkdale in Southport, Merseyside.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-the-open-leaderboard_7297961.jpg?20260715093846"
     }
   ]
 }
