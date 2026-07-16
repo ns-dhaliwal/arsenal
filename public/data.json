@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-16T21:03:46.892088+00:00",
+  "lastUpdated": "2026-07-16T22:52:31.926760+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal to assess Saliba back injury with surgery an option",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal will assess William Saliba's back injury when he reports back to the club after World Cup duty.",
+      "published": "2026-07-16T21:55:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7644/live/e5da6f10-815f-11f1-b220-2f707fe15ddf.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arsenal close in on £34m deal for Club Brugge forward Christos Tzolis",
@@ -250,14 +258,6 @@
       "image": "https://i.guim.co.uk/img/media/0666149083d6a1bcfdf9e0c446a138232f00ea49/0_0_2843_2274/master/2843.jpg?width=140&quality=85&auto=format&fit=max&s=a601b1010496fa0c36d316e04ca4fc27"
     },
     {
-      "source": "bbc",
-      "title": "Will Madueke start ahead of Saka for England?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwylgrwg07vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Senior football correspondent Sami Mokbel explains how Bukayo Saka's injury could see Noni Madueke start for England in their first World Cup fixture against Croatia.",
-      "published": "2026-06-16T05:19:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/951c/live/3921e870-6936-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
       "source": "guardian",
       "title": "‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss",
       "link": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup",
@@ -347,6 +347,14 @@
     },
     {
       "source": "sky",
+      "title": "'England can learn from phenomenal Root' - but are they doing so?",
+      "link": "https://www.skysports.com/cricket/news/12040/13564208/england-can-learn-from-phenomenal-joe-root-after-match-winning-99-not-out-vs-india-in-second-odi-says-harry-brook",
+      "summary": "Joe Root bails England out of trouble. Sound familiar?",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-joe-root-england-mens-odi-cricket_7299592.jpg?20260716221941"
+    },
+    {
+      "source": "sky",
       "title": "Britain's Bearman 'flattered' by Red Bull rumours amid Verstappen uncertainty",
       "link": "https://www.skysports.com/f1/news/12040/13563920/oliver-bearman-flattered-by-red-bull-rumours-amid-continued-uncertainty-over-future-of-max-verstappen-with-team",
       "summary": "British driver Oliver Bearman says he is \"flattered\" by speculation linking him to Red Bull amid ongoing uncertainty over Max Verstappen's future with the team.",
@@ -400,6 +408,22 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-joe-root-england-mens-odi-cricket_7297399.jpg?20260714134301"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Tuchel unhappy with Mainoo training during World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13564202/kobbie-mainoo-england-boss-thomas-tuchel-was-unimpressed-by-unused-manchester-united-midfielder-during-world-cup-training-paper-talk",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "published": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
+    },
+    {
+      "source": "sky",
+      "title": "Wakefield battle to 26-12 win over Bradford for fifth straight Super League victory",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13564108/bradford-bulls-12-26-wakefield-trinity-daryl-powells-side-battle-to-victory-and-fifth-straight-super-league-victory",
+      "summary": "In-form Wakefield moved second in the Betfred Super League as they battled to a 26-12 win over Bradford at Odsal.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rugby-league-super-lwague_7299555.jpg?20260716222620"
     },
     {
       "source": "sky",
@@ -459,35 +483,11 @@
     },
     {
       "source": "sky",
-      "title": "Ireland make nine changes for clash against All Blacks at Eden Park",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13563941/nations-championship-ireland-bring-back-big-names-for-clash-against-new-zealand-all-blacks-at-eden-park",
-      "summary": "Ireland have brought back their big names for the crunch Nations Championship clash against the All Blacks at Eden Park on Saturday.",
+      "title": "Watt banned for Celtic penalty comments | Rangers close in on new signing",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-sam-prendergast-ireland_7156906.jpg?20260219113143"
-    },
-    {
-      "source": "sky",
-      "title": "'Oh my goodness...it's 415 yards today!' | McIlroy bombs HUGE drive to reach ninth green!",
-      "link": "https://www.skysports.com/watch/video/13564136/the-open-rory-mcilroy-hits-huge-drive-to-reach-ninth-green-its-415-yards-today",
-      "summary": "Rory McIlroy drove the par-4 ninth green at Royal Birkdale to set-up a two putt birdie during the first round of The Open Championship.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-mcilroy_7299413.jpg?20260716175955"
-    },
-    {
-      "source": "sky",
-      "title": "Norris to take 10-place Belgian GP grid penalty",
-      "link": "https://www.skysports.com/f1/news/12040/13563918/lando-norris-mclaren-driver-to-take-10-place-grid-penalty-at-belgian-gp-for-exceeding-power-unit-element-limits",
-      "summary": "Lando Norris will take a 10-place grid penalty at Sunday's Belgian Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lando-norris-mclaren_7298937.jpg?20260716110713"
-    },
-    {
-      "source": "sky",
-      "title": "DeChambeau hits back at 'no strategy' claim | Faldo: I rattled his cage!",
-      "link": "https://www.skysports.com/golf/news/12040/13563997/the-open-bryson-dechambeau-responds-to-no-strategy-comments-by-making-fast-start-and-snubbing-media-at-royal-birkdale",
-      "summary": "Bryson DeChambeau has hit back at claims he has \"zero clue of strategy\" by making an impressive start to The 154th Open at Royal Birkdale.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-bryson-dechambeau_7299307.jpg?20260716163827"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-watt_7299608.jpg?20260716232534"
     }
   ]
 }
