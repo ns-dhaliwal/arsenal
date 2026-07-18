@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-18T14:46:04.246829+00:00",
+  "lastUpdated": "2026-07-18T15:51:17.820310+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Will the World Cup affect Arsenal's transfer plans?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign.",
+      "published": "2026-07-18T14:47:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe2/live/0359ce20-81ef-11f1-b6ff-e9b8db4416d1.jpg"
+    },
     {
       "source": "guardian",
       "title": "Spain’s Mikel Merino: ‘The focus is on being a good human first, then a good footballer’",
@@ -331,6 +339,38 @@
     },
     {
       "source": "sky",
+      "title": "France vs England preview: Tuchel to ring changes for Bronze Medal match",
+      "link": "https://www.skysports.com/football/france-vs-england/live/549868",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-france-england-world-cup_7299552.jpg?20260716211950"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli beats Verstappen to Belgian GP pole",
+      "link": "https://www.skysports.com/f1/news/12040/13564590/belgian-gp-kimi-antonelli-beats-max-verstappen-to-pole-at-spa-francorchamps-with-lando-norris-to-start-13th-after-grid-penalty",
+      "summary": "Championship leader Kimi Antonelli beat Max Verstappen to pole position for the Belgian Grand Prix after a tense conclusion to qualifying at Spa-Francorchamps.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7300787.jpg?20260718162933"
+    },
+    {
+      "source": "sky",
+      "title": "Nations Championship: South Africa vs Wales LIVE!",
+      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13564551/nations-championship-live-new-zealand-vs-ireland-south-africa-vs-wales-argentina-vs-england-updates-latest-score-team-news-commentary",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jac-morgan-wales_7289622.jpg?20260704162629"
+    },
+    {
+      "source": "sky",
+      "title": "Kerr breaks mile world record as Hodgkinson attempt falls short",
+      "link": "https://www.skysports.com/athletics/news/12040/13564655/josh-kerr-breaks-mile-world-record-but-keely-hodgkinson-fails-in-800m-record-bid-at-london-diamond-league-athletics",
+      "summary": "Josh Kerr broke the world record for the mile at the Diamond League event in London on Saturday, but&#160;Keely Hodgkinson failed in her bid to break the oldest world record in athletics.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-josh-kerr-mile-world-record_7300766.jpg?20260718160856"
+    },
+    {
+      "source": "sky",
       "title": "Lehmann: Langer would be 'really good' in England Test coach role",
       "link": "https://www.skysports.com/cricket/news/12040/13564664/england-test-coach-justin-langer-backed-by-darren-lehmann-as-harry-brook-hopes-for-swift-decision",
       "summary": "Darren Lehmann revealed he has not been contacted about becoming England's next Test head coach, before endorsing fellow Australian Justin Langer for the vacant position.",
@@ -339,11 +379,11 @@
     },
     {
       "source": "sky",
-      "title": "Belgian GP: Antonelli fastest ahead of big Q3 pole battle LIVE!",
+      "title": "Belgian GP: Antonelli claims last-gasp pole from Verstappen LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13563332/f1-belgian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-spa-francorchamps",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7300735.jpg?20260718151652"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7300786.jpg?20260718162902"
     },
     {
       "source": "sky",
@@ -403,8 +443,16 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd kick off preseason vs Wrexham: Santos makes debut LIVE!",
-      "link": "https://www.skysports.com/football/live-blog/12040/13564301/manchester-united-vs-wrexham-live-pre-season-friendly-score-match-updates-lineups",
+      "title": "Fox's INCREDIBLE back nine - with five birdies!",
+      "link": "https://www.skysports.com/watch/video/13564679/ryan-foxs-incredible-back-9-with-5-birdies",
+      "summary": "Ryan Fox equalled the lowest round in Open history with a third-round 62 at Royal Birkdale.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ryan-fox-the-open_7300727.jpg?20260718151017"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd trail Wrexham in opening pre-season clash LIVE!",
+      "link": "https://www.skysports.com/football/live-blog/12040/13564301/manchester-united-vs-wrexham-live-pre-season-friendly-score-match-updates-line-ups",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andrey-santos_7300744.jpg?20260718153938"
@@ -443,51 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Farrell laments Ireland's 'inaccuracy' and 'lack of flow' vs All Blacks",
-      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13564551/nations-championship-live-new-zealand-vs-ireland-south-africa-vs-wales-argentina-vs-england-updates-latest-score-team-news-commentary",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-andy-farrell-ireland_7300566.jpg?20260718103411"
-    },
-    {
-      "source": "sky",
       "title": "Saints boss Eckert reveals police protection amid threats during 'Spygate'",
       "link": "https://www.skysports.com/football/news/12040/13564527/tonda-eckert-exclusive-southampton-boss-reveals-he-received-police-protection-after-threats-during-spygate-scandal",
       "summary": "Southampton boss Tonda Eckert has revealed he received police protection amid threats during the Spygate scandal.",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-eckert-southampton_7241771.jpg?20260507202456"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy catapults up the leaderboard with sensational chip-in EAGLE!",
-      "link": "https://www.skysports.com/watch/video/13564661/the-open-rory-mcilroy-catapults-up-the-leaderboard-with-sensational-chip-in-eagle",
-      "summary": "Rory McIlroy made an eagle two at the ninth hole during his third round of The Open at Royal Birkdale.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-golfs-a_7300688.jpg?20260718142312"
-    },
-    {
-      "source": "sky",
-      "title": "Villa sign Newcastle target Manzambi in club-record deal",
-      "link": "https://www.skysports.com/football/news/12040/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal",
-      "summary": "Aston Villa have beaten Newcastle to the signing of Johan Manzambi after completing a club-record &#163;59.5m deal for the midfielder from Freiburg.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-switzerland-manzambi_7282097.jpg?20260624220700"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton hopeful of closing 'bigger than anticipated' Ferrari Spa deficit",
-      "link": "https://www.skysports.com/f1/news/12040/13564266/belgian-gp-lewis-hamilton-hopeful-of-closing-bigger-than-anticipated-ferrari-deficit-to-mercedes-at-spa-francorchamps",
-      "summary": "Lewis Hamilton says he is hopeful Ferrari can close on their rivals as the Belgian Grand Prix weekend progresses despite admitting the Italian team's deficit in Friday practice was \"bigger than anticipated\".",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7300338.jpg?20260717192642"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "link": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
     }
   ]
 }
