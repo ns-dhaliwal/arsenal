@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T11:49:58.189404+00:00",
+  "lastUpdated": "2026-07-18T13:01:43.416845+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -331,11 +331,19 @@
     },
     {
       "source": "sky",
-      "title": "Belgian GP: Hamilton crashes at end of final practice as Antonelli sets pace LIVE!",
+      "title": "Hamilton crashes out as Antonelli sets pace in final Belgium practice",
+      "link": "https://www.skysports.com/f1/news/12040/13564589/belgian-gp-lewis-hamilton-crashes-in-final-practice-as-kimi-antonelli-sets-pace-again-at-spa-francorchamps",
+      "summary": "Lewis Hamilton's Ferrari crew face a race against time to repair his car for Belgian Grand Prix Qualifying after he crashed at the end of final practice, in a session topped again by Mercedes' title-leading Kimi Antonelli.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7300622.png?20260718123337"
+    },
+    {
+      "source": "sky",
+      "title": "Belgian GP: Ferrari trying to fix Hamilton's car for qualifying after big crash LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13563332/f1-belgian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-spa-francorchamps",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7300622.png?20260718123337"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7300662.jpg?20260718131727"
     },
     {
       "source": "sky",
@@ -403,6 +411,14 @@
     },
     {
       "source": "sky",
+      "title": "DeChambeau 'made himself the story' - Bryson's rules controversy explained",
+      "link": "https://www.skysports.com/golf/news/12040/13564623/bryson-dechambeaus-rules-controversy-at-the-open-what-happened-why-was-he-penalised-and-how-did-he-react-to-decision",
+      "summary": "Bryson DeChambeau has been criticised for &#8216;making himself the story&#8217; by the way he handled a two-shot penalty during his second round at The Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-bryson-dechambeau_7300665.jpg?20260718132645"
+    },
+    {
+      "source": "sky",
       "title": "Super Sprint tips: Kate is taking on Sam and Declan in the Newbury feature",
       "link": "https://www.skysports.com/racing/news/12040/13564486/weekend-winners-kate-sam-and-declan-have-their-say-on-the-super-sprint",
       "summary": "Kate Tracey, Sam Boswell and Declan Rix reconvene to discuss the best betting angles for the feature contest at Newbury on Saturday, the Weatherbys Super Sprint.",
@@ -427,7 +443,7 @@
     },
     {
       "source": "sky",
-      "title": "The Open LIVE! McIlroy chases fast start as Fox makes birdie charge",
+      "title": "The Open LIVE! McIlroy makes poor start as Fox finds birdie burst",
       "link": "https://www.skysports.com/golf/live-blog/12040/13564322/the-open-2026-third-round-live-latest-updates-highlights-scores-as-bryson-dechambeau-scottie-scheffler-chase-major-win",
       "summary": "",
       "published": null,
@@ -472,22 +488,6 @@
       "summary": "Pairings and tee times for the third round of The 154th Open, held at Royal Birkdale in Southport, Merseyside.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tommy-fleetwood_7300465.jpg?20260718002002"
-    },
-    {
-      "source": "sky",
-      "title": "'Oh dear...' | Rahm's club toss that led to code of conduct warning!",
-      "link": "https://www.skysports.com/watch/video/13564516/the-open-is-jon-rahm-set-for-code-of-conduct-warning-after-club-toss-at-birkdale",
-      "summary": "Jon Rahm received a code of conduct warning at The Open after throwing his club following his tee shot on the par-three 15th at Royal Birkdale.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-golf-rahm_7300371.jpg?20260717202625"
-    },
-    {
-      "source": "sky",
-      "title": "Predict the score as Spain face Argentina in World Cup final!",
-      "link": "https://www.skysports.com/football/spain-vs-argentina/live/549869",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-spain-argentina-world-cup_7299556.jpg?20260716212126"
     }
   ]
 }
