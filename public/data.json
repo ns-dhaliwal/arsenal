@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T17:53:59.615452+00:00",
+  "lastUpdated": "2026-07-19T18:57:47.000841+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,11 +355,19 @@
     },
     {
       "source": "sky",
-      "title": "Antonelli takes big Belgian GP win as Russell's woes deepen after Hamilton clash",
+      "title": "Antonelli takes big Belgian GP win as Russell's title woes deepen",
       "link": "https://www.skysports.com/f1/news/12040/13564876/belgian-gp-kimi-antonelli-takes-big-spa-francorchamps-win-to-capitalise-on-george-russells-exit-from-lewis-hamilton-collision",
-      "summary": "Kimi Antonelli overcame an unfortunately-timed Virtual Safety Car to overtake Charles Leclerc and win the Belgian Grand Prix on a day team-mate George Russell's title hopes suffered a major fresh blow.",
+      "summary": "Kimi Antonelli overcame an unfortunately-timed Virtual Safety Car to overtake Charles Leclerc and win the Belgian Grand Prix on a day team-mate George Russell's title hopes suffered a major fresh setback.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-kimi-antonelli-mercedes_7301595.jpg?20260719155930"
+    },
+    {
+      "source": "sky",
+      "title": "Duckett, Curran the difference as England clinch India series in Lord's run-fest",
+      "link": "https://www.skysports.com/cricket/news/12040/13564957/england-beat-india-by-27-runs-in-lords-run-fest-to-clinch-2-1-odi-series-victory",
+      "summary": "Ben Duckett's century and Sam Curran's late burst of wickets inspired England to a series-clinching 27-run win over India in the third ODI at Lord's.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ben-duckett-cricket_7301450.jpg?20260719135144"
     },
     {
       "source": "sky",
@@ -368,6 +376,14 @@
       "summary": "Highlights of the first innings from the third ODI match between England and India.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/sky-sports-cricket-england_7301570.jpg?20260719153847"
+    },
+    {
+      "source": "sky",
+      "title": "'I reached rock bottom' - Antonelli admits shock as title charge accelerates",
+      "link": "https://www.skysports.com/f1/news/12040/13564879/kimi-antonelli-admits-shock-at-turnaround-from-rock-bottom-after-winning-belgian-gp-to-extend-f1-title-race-lead",
+      "summary": "Kimi Antonelli has admitted he couldn't have imagined being in a dominant position at the top of the Formula 1 world championship 12 months ago when he reached \"rock bottom\" during his rookie campaign.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kimi-antonelli-mercedes_7301768.jpg?20260719190156"
     },
     {
       "source": "sky",
@@ -403,11 +419,11 @@
     },
     {
       "source": "sky",
-      "title": "Curran strikes twice in over to dent India chase of 388 vs England in ODI decider LIVE!",
+      "title": "England beat India in ODI decider LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13564868/england-vs-india-third-odi-live-cricket-score-updates-video-and-analysis-from-series-decider-at-lords",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rohit-sharma-india-men-odi-cricket_7301675.jpg?20260719170247"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sam-curran-england_7301763.jpg?20260719185349"
     },
     {
       "source": "sky",
@@ -423,11 +439,11 @@
       "link": "https://www.skysports.com/golf/news/12040/13564892/the-open-ryan-fox-pips-cameron-young-and-sam-burns-to-maiden-major-after-final-round-thriller-at-royal-birkdale",
       "summary": "Ryan Fox claimed a maiden major title after a final-hole birdie snatched a dramatic one-shot victory over Cameron Young at The 154th Open.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ryan-fox-golf-the-open_7301745.jpg?20260719182447"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ryan-fox-the-open_7301789.jpg?20260719193241"
     },
     {
       "source": "sky",
-      "title": "Belgian GP: Hamilton keeps fourth as Ferrari fined after mechanic hit in pits LIVE!",
+      "title": "Hamilton keeps fourth as stewards explain decision to fine Ferrari",
       "link": "https://www.skysports.com/f1/live-blog/12040/13563339/f1-belgian-gp-live-race-updates-results-stream-highlights-from-10th-round-of-2026-formula-1-season-at-spa-francorchamps",
       "summary": "",
       "published": null,
@@ -447,7 +463,7 @@
       "link": "https://www.skysports.com/golf/news/12040/13564890/the-open-rory-mcilroy-stuck-in-neutral-and-switches-focus-to-fedexcup-and-race-to-dubai-after-disappointing-major-week",
       "summary": "Rory McIlroy has set his sights on a strong finish to the PGA Tour and DP World Tour seasons after being &#8216;stuck in neutral&#8217; during a disappointing week at The 154th Open.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-golf_7301601.jpg?20260719160749"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-rory-mcilroy-golf_7301601.jpg?20260719193352"
     },
     {
       "source": "sky",
@@ -483,27 +499,11 @@
     },
     {
       "source": "sky",
-      "title": "BIG F2 crash sparks fire forcing red-flag stoppage in Belgium",
-      "link": "https://www.skysports.com/watch/video/13564893/belgian-gp-big-f2-crash-sparks-fire-forcing-red-flag-stoppage-in-belgium",
-      "summary": "A big crash saw Trident driver Laurens van Hoepen taken out during the F2 race at the Belgian Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-formula-two-formula-one_7301332.jpg?20260719103856"
-    },
-    {
-      "source": "sky",
-      "title": "World Cup final: Spain vs Argentina team news LIVE!",
+      "title": "World Cup final: Countdown to kick off between Spain and Argentina LIVE!",
       "link": "https://www.skysports.com/football/spain-vs-argentina/live/549869",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lamine-yamal-spain_7301756.jpg?20260719184505"
-    },
-    {
-      "source": "sky",
-      "title": "World Matchplay Darts LIVE! Wade, Van Veen in evening action",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13564358/world-matchplay-2026-live-updates-video-commentary-scores-analysis-results-as-michael-van-gerwen-gary-anderson-feature",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-darts-world-matchplay_7295929.jpg?20260712133213"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7301811.jpg?20260719192525"
     }
   ]
 }
