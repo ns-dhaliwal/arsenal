@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T06:11:38.277809+00:00",
+  "lastUpdated": "2026-07-20T09:54:21.722061+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -266,14 +266,6 @@
       "image": "https://i.guim.co.uk/img/media/04ff94beaadf92989e30acc9e6e4719546d8dc55/170_1103_3584_2865/master/3584.jpg?width=140&quality=85&auto=format&fit=max&s=5d3ae9fb29692029f71af592bc74c5cb"
     },
     {
-      "source": "bbc",
-      "title": "'Something Viera-esque about Bouaddi' - your World Cup scouting",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crr87dpv1l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "",
-      "published": "2026-06-18T17:28:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c78e/live/d23473c0-67c0-11f0-89ea-4d6f9851f623.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Here’s something London can be envious of: when New York parties, it really parties | Emma Brockes",
       "link": "https://www.theguardian.com/commentisfree/2026/jun/18/new-york-knicks-celebrations-arsenal-london",
@@ -347,6 +339,46 @@
     },
     {
       "source": "sky",
+      "title": "Fulham latest: Arbeloa plots double raid for Real Madrid duo Mastantuono and Garcia",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446"
+    },
+    {
+      "source": "sky",
+      "title": "What would a 64-team World Cup look like - and could it work in 2030?",
+      "link": "https://www.skysports.com/football/news/12040/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
+      "summary": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832"
+    },
+    {
+      "source": "sky",
+      "title": "'Nothing to blame them for' - Argentina papers defend team after dismal final",
+      "link": "https://www.skysports.com/football/news/12040/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display",
+      "summary": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leandro-parades-argentina_7301946.jpg?20260719234200"
+    },
+    {
+      "source": "sky",
+      "title": "England on the rise in ODIs after spell in the doldrums",
+      "link": "https://www.skysports.com/cricket/news/12040/13565142/england-improving-in-odi-cricket-thanks-to-harry-brook-brendon-mccullum-and-joe-root-with-win-over-india-latest-high",
+      "summary": "India found it impossible to dismiss Joe Root across the ODI series as the England batter looted 249 runs without losing his wicket.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england-mens-odi-cricket_7301839.jpg?20260719200328"
+    },
+    {
+      "source": "sky",
+      "title": "England's World Cup assessed - by Sky Sports readers",
+      "link": "https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028",
+      "summary": "It's all over - and, once again, it's not coming home.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-england-your-views_7301674.jpg?20260719170229"
+    },
+    {
+      "source": "sky",
       "title": "Bay Bridge's full brother set for first start at Windsor",
       "link": "https://www.skysports.com/racing/news/12040/13564745/today-on-sky-sports-racing-bay-bridges-full-brother-castlemont-set-for-first-start-at-windsor",
       "summary": "All eyes will be on Windsor at 6.50pm when Bay Bridge's brother Castlemont makes his first start in the Godolphin blue for Charlie Appleby.",
@@ -355,7 +387,7 @@
     },
     {
       "source": "sky",
-      "title": "Spain beat Argentina to win World Cup",
+      "title": "'We were the better team' - Spain beat Argentina to win World Cup",
       "link": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
       "summary": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
       "published": null,
@@ -363,11 +395,11 @@
     },
     {
       "source": "sky",
-      "title": "Spain lift second World Cup title | The Final Verdict",
+      "title": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
       "link": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
       "summary": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tournament.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-final-verdict_7301990.jpg?20260720070625"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-world-cup-spain-argentina_7302048.jpg?20260720084220"
     },
     {
       "source": "sky",
@@ -375,7 +407,15 @@
       "link": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more",
       "summary": "Take a look at the key dates for the 2027 golf season, featuring the majors and Ryder Cup.",
       "published": null,
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-rory-mcilroy-masters_7218624.jpg?20260413071043"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-golf-seo-majors-ryu_7302074.jpg?20260720093044"
+    },
+    {
+      "source": "sky",
+      "title": "Rogers spotted arriving for Chelsea medical ahead of £117m deal",
+      "link": "https://www.skysports.com/watch/video/13565165/morgan-rogers-spotted-arriving-for-chelsea-medical-ahead-of-117m-deal",
+      "summary": "Morgan Rogers has been spotted arriving for his Chelsea medical after the Blues agreed a &#163;117m deal with Aston Villa.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-morgan-rogers-chelsea_7302117.jpg?20260720101714"
     },
     {
       "source": "sky",
@@ -423,7 +463,7 @@
       "link": "https://www.skysports.com/cricket/news/12040/13564957/england-beat-india-by-27-runs-in-lords-run-fest-to-clinch-2-1-odi-series-victory",
       "summary": "Ben Duckett's century and Sam Curran's late burst of wickets inspired England to a series-clinching 27-run win over India in the third ODI at Lord's.",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ben-duckett-cricket_7301450.jpg?20260719135144"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ben-duckett-cricket_7301450.jpg?20260720093212"
     },
     {
       "source": "sky",
@@ -435,7 +475,7 @@
     },
     {
       "source": "sky",
-      "title": "Kane backs Tuchel for England success and aims for 2030 World Cup spot",
+      "title": "Kane: Tuchel and England will learn from World Cup heartbreak",
       "link": "https://www.skysports.com/football/news/12040/13565042/harry-kane-backs-thomas-tuchel-to-succeed-as-england-head-coach-and-refuses-to-rule-out-playing-in-2030-world-cup",
       "summary": "England captain Harry Kane has backed Thomas Tuchel to succeed as England head coach amid criticism of his tactics in the World Cup semi-final defeat over Argentina.",
       "published": null,
@@ -456,54 +496,6 @@
       "summary": "Kimi Antonelli has admitted he could not have imagined being in a dominant position at the top of the Formula 1 world championship 12 months ago when he reached \"rock bottom\" during his rookie campaign.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-kimi-antonelli-mercedes_7301768.jpg?20260719190156"
-    },
-    {
-      "source": "sky",
-      "title": "Spain's commitment to possession game vindicated by World Cup glory",
-      "link": "https://www.skysports.com/football/news/12040/13565110/world-cup-win-for-spain-over-argentina-is-a-triumph-for-the-spanish-style-and-their-commitment-to-possession-football",
-      "summary": "It was not the thrilling final of four years ago, or even the carefree goal-fest of the previous evening but Spain still deserve enormous credit for dethroning Argentina in one of the more one-sided World Cup finals in memory. This was utter domination.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rodri-spain-world-cup_7301949.jpg?20260719234918"
-    },
-    {
-      "source": "sky",
-      "title": "Van Gerwen's HILARIOUS response to missing nine-darter",
-      "link": "https://www.skysports.com/watch/video/13564994/michael-van-gerwens-hilarious-reaction-after-missing-9-darter",
-      "summary": "Michael van Gerwen was able to see the funny side after missing out on a 9-darter in Blackpool by mere millimetres.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-darts-mvg_7301622.jpg?20260719162300"
-    },
-    {
-      "source": "sky",
-      "title": "Belgian Grand Prix | Race Highlights",
-      "link": "https://www.skysports.com/watch/video/13564984/belgian-grand-prix-race-highlights",
-      "summary": "Highlights from the 2026 Belgian Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-motorsport-f1_7301567.jpg?20260719153708"
-    },
-    {
-      "source": "sky",
-      "title": "Analysed: Was Hamilton's five-second penalty for Russell collision fair?",
-      "link": "https://www.skysports.com/watch/video/13565002/belgian-gp-should-lewis-hamilton-have-been-penalised-or-was-george-russell-collision-racing-incident",
-      "summary": "Karun Chandhok was at the SkyPad to analyse whether Lewis Hamilton should have been awarded a five-second penalty for his collision with George Russell on the opening lap.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-motorsport-f1-russell_7301620.jpg?20260719161708"
-    },
-    {
-      "source": "sky",
-      "title": "Wade, MVG, Anderson, Van Veen pick up first-round Matchplay wins",
-      "link": "https://www.skysports.com/darts/news/12040/13564995/world-matchplay-darts-james-wade-battles-through-on-20th-appearance-in-blackpool-as-gian-van-veen-comes-up-with-crucial-victory",
-      "summary": "James Wade came through a tough 10-7 battle against Jermaine Wattimena to make it through to the second round of the World Matchplay at Blackpool&#8217;s Winter Gardens.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-james-wade-darts_7301862.jpg?20260719205134"
-    },
-    {
-      "source": "sky",
-      "title": "DeChambeau 'not a cheater' - Scheffler defends Bryson over rules drama",
-      "link": "https://www.skysports.com/golf/news/12040/13564891/the-open-scottie-scheffler-insists-bryson-dechambeau-is-not-a-cheater-and-defends-ryder-cup-team-mate-over-rules-drama",
-      "summary": "Scottie Scheffler has defended Bryson DeChambeau over his rules controversy at The Open and has insisted the two-time US Open champion is &#8216;not a cheater&#8217;.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-scottie-scheffler_7301841.jpg?20260719200753"
     }
   ]
 }
