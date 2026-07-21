@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-21T08:16:38.473132+00:00",
+  "lastUpdated": "2026-07-21T11:02:18.537062+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Why is the Community Shield being held in Wales?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ye7qe5zl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's Ask Me Anything team explains why the 2026 Community Shield is being held in Wales.",
+      "published": "2026-07-21T10:11:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c334/live/0aed06d0-84e1-11f1-b976-0b9c15b0ccfc.jpg"
+    },
     {
       "source": "bbc",
       "title": "Saka 'proud' of England's best World Cup finish in 60 years",
@@ -339,6 +347,14 @@
     },
     {
       "source": "sky",
+      "title": "Charges and challenges - the scale of the task facing Maresca at Man City",
+      "link": "https://www.skysports.com/football/news/12040/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way",
+      "summary": "Plenty of the Premier League's top clubs have rolled the managerial dice ahead of next season. Manchester City are one of those starting a new era, turning to Enzo Maresca in the wake of Pep Guardiola's decision to depart.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014"
+    },
+    {
+      "source": "sky",
       "title": "'Fery can improve but that's exciting' - Henman optimistic as Brit eyes US Open run",
       "link": "https://www.skysports.com/tennis/news/12040/13564275/arthur-fery-british-no-1-heads-into-american-hard-court-swing-with-areas-he-can-improve-ahead-of-us-open-according-to-tim-henman",
       "summary": "British No 1 Arthur Fery will head into the American hard-court swing with areas he can improve ahead of the US Open - but that's \"exciting\", says Tim Henman.",
@@ -363,7 +379,7 @@
     },
     {
       "source": "sky",
-      "title": "The headbutt that was missed on-field | Lewis hit with four-match ban",
+      "title": "The headbutt that was missed on field | Lewis hit with four-match ban",
       "link": "https://www.skysports.com/watch/video/13565266/mikey-lewis-receives-four-match-ban-after-head-butt-was-missed-during-the-hull-krs-match-against-warrington",
       "summary": "Mikey Lewis was sin-binned for a tackle on Ewan Irwin before being cited for an apparent headbutt on Warrington's Adam Holroyd. The Match Review Panel handed him a one-match ban for the tackle and three more games for the headbutt.",
       "published": null,
@@ -403,11 +419,27 @@
     },
     {
       "source": "sky",
+      "title": "Why Arsenal, Villa and Man Utd are most impacted by World Cup",
+      "link": "https://www.skysports.com/watch/video/13565483/what-effect-will-the-world-cup-have-on-injuries-in-the-premier-league",
+      "summary": "Our data team has compiled an index showing which Premier League teams may be most impacted by the World Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-world-cup_7303195.jpg?20260721114431"
+    },
+    {
+      "source": "sky",
       "title": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
       "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+    },
+    {
+      "source": "sky",
+      "title": "'Fight of the year!' | Lamine Yamal holds Paredes sign during bus parade!",
+      "link": "https://www.skysports.com/watch/video/13565521/lamine-yamal-shows-off-paredes-vs-gavi-sign-during-bus-parade-fight-of-the-year",
+      "summary": "Lamine Yamal showed off a Paredes vs Gavi sign at Spain's open-top bus parade celebrating their World Cup win, referencing the scuffle between the two midfielders after the full-time whistle on Sunday.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-football-yamal_7303072.jpg?20260721102827"
     },
     {
       "source": "sky",
@@ -472,30 +504,6 @@
       "summary": "Ben Earl has called for a rethink of the Nations Championship format following England&#8217;s \"brutal\" itinerary that featured three Tests in three continents on successive weekends.",
       "published": null,
       "image": "https://e2.365dm.com/26/03/1920x1080/skysports-ben-earl-rugby-england_7180263.jpg?20260302200819"
-    },
-    {
-      "source": "sky",
-      "title": "Brundle: The Hamilton-Russell penalty call and Antonelli's class of one",
-      "link": "https://www.skysports.com/f1/news/12040/13565321/belgian-gp-martin-brundle-on-george-russells-problems-and-lewis-hamilton-clash-kimi-antonellis-win-in-spa-race-verdict",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-george-russell-mercedes_7301474.jpg?20260719141612"
-    },
-    {
-      "source": "sky",
-      "title": "Prenga can beat AJ 'like Ruiz did', says sparring partner",
-      "link": "https://www.skysports.com/boxing/news/12040/13565187/anthony-joshua-vs-kristian-prenga-brandon-moore-backs-albanian-to-beat-aj-in-similar-fashion-to-andy-ruiz-in-tyson-fury-warm-up-bout",
-      "summary": "Kristian Prenga has been backed to upset Anthony Joshua \"like [Andy] Ruiz did\" by sparring partner Brandon Moore ahead of their fight on Saturday in Saudi Arabia.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-prenga-joshua_7302274.jpg?20260720121421"
-    },
-    {
-      "source": "sky",
-      "title": "'He's got to get an answer!' - Russell 'knocked down' by mystery car problems",
-      "link": "https://www.skysports.com/f1/news/12040/13565252/george-russell-mercedes-driver-knocked-down-but-vows-to-fight-on-for-f1-title-as-team-work-to-resolve-mystery-car-problems",
-      "summary": "George Russell says he has been \"knocked down\" but will \"get back up\" after the latest setbacks to his world championship challenge at the Belgian Grand Prix",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-george-russell-mercedes_7302646.jpg?20260720170901"
     }
   ]
 }
