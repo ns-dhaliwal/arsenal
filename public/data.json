@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-22T19:04:56.794738+00:00",
+  "lastUpdated": "2026-07-22T20:59:27.987197+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Saliba to miss extended period with back injury",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France.",
+      "published": "2026-07-22T20:33:58+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae5/live/df2c8db0-860a-11f1-8577-d306e957ffb1.jpg"
+    },
     {
       "source": "guardian",
       "title": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
@@ -331,6 +339,22 @@
     },
     {
       "source": "sky",
+      "title": "Salt stars as Fire end eight-match Hundred losing streak against Brave",
+      "link": "https://www.skysports.com/cricket/news/12040/13566100/the-hundred-welsh-fire-snap-eight-match-losing-streak-against-southern-brave-as-phil-salt-stars-with-the-bat",
+      "summary": "Phil Salt weathered a bowling storm from England fast bowler Jofra Archer as the Welsh Fire captain led his side to a six-wicket victory over Southern Brave in The Hundred.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-the-hundred-phil-salt_7304537.jpg?20260722212846"
+    },
+    {
+      "source": "sky",
+      "title": "Saliba out for 'extended period' with back injury",
+      "link": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem",
+      "summary": "Arsenal have confirmed William Saliba will be out for an extended period with a back injury.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-arsenal-man-city_7200481.jpg?20260322205158"
+    },
+    {
+      "source": "sky",
       "title": "Aston Villa agree deal to sign Garnacho",
       "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
       "summary": "Aston Villa have agreed a deal to sign Alejandro Garnacho from Chelsea.",
@@ -360,6 +384,14 @@
       "summary": "Championship leader Kimi Antonelli will be among five drivers to sit out first practice for the Hungarian Grand Prix on Friday.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7304329.jpg?20260722160311"
+    },
+    {
+      "source": "sky",
+      "title": "Menzies withdraws from World Matchplay Darts after becoming unwell on stage",
+      "link": "https://www.skysports.com/darts/news/12040/13566098/world-matchplay-darts-cameron-menzies-withdraws-after-becoming-unwell-on-stage-during-second-round-match-against-ross-smith",
+      "summary": "Cameron Menzies' match against Ross Smith at the World Matchplay Darts was abandoned after the Scot became dizzy on stage and later fainted at the Winter Gardens on Wednesday night.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304516.jpg?20260722200656"
     },
     {
       "source": "sky",
@@ -395,15 +427,15 @@
     },
     {
       "source": "sky",
-      "title": "Lingfield and Worcester host competitive Wednesday cards",
-      "link": "https://www.skysports.com/racing/news/12040/13565287/today-on-sky-sports-racing-lingfield-and-worcester-host-competitive-wednesday-cards",
-      "summary": "Worcester and Lingfield are the venues for today's racing, with National Hunt and Flat action on the agenda.",
+      "title": "Menzies' match is abandoned after he requires medical attention",
+      "link": "https://www.skysports.com/watch/video/13566121/world-matchplay-cameron-menzies-withdraws-from-after-becoming-unwell-on-stage",
+      "summary": "Cameron Menzies has withdrawn from the World Matchplay of Darts after becoming unwell during his second-round match against Ross Smith.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-racing-lingfield_7302514.jpg?20260720150115"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies_7304561.jpg?20260722211324"
     },
     {
       "source": "sky",
-      "title": "Molineux stars as Brave outlast Fire in Hundred thriller",
+      "title": "Molineux plays key role as Brave outlast Fire in Hundred thriller",
       "link": "https://www.skysports.com/cricket/news/12040/13566055/the-hundred-sophie-molineux-leads-southern-brave-to-thrilling-eight-run-victory-against-welsh-fire",
       "summary": "Southern Brave captain Sophie Molineux starred by taking three wickets to lead her side to a thrilling eight-run comeback victory against Welsh Fire Women in The Hundred on Wednesday.",
       "published": null,
@@ -411,11 +443,11 @@
     },
     {
       "source": "sky",
-      "title": "World Matchplay Darts LIVE! Van Veen vs Nijman after Menzies withdraws through illness",
+      "title": "World Matchplay Darts LIVE! Price vs Cross after Menzies withdraws through illness",
       "link": "https://www.skysports.com/darts/live-blog/12040/13565880/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-james-wade-gian-van-veen-in-action",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304510.jpg?20260722195543"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-darts-world-matchplay_7303919.jpg?20260722083934"
     },
     {
       "source": "sky",
@@ -464,30 +496,6 @@
       "summary": "Liverpool have made an initial approach to Monaco for winger Maghnes Akliouche.&#160;",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maghnes-akliouche_7304271.jpg?20260722151153"
-    },
-    {
-      "source": "sky",
-      "title": "Red Bull getting calls from 'good drivers' over future seat - Mekies",
-      "link": "https://www.skysports.com/f1/news/12040/13565601/f1-driver-market-red-bull-getting-calls-from-good-drivers-says-laurent-mekies-but-optimistic-on-max-verstappen-stay",
-      "summary": "Red Bull team principal Laurent Mekies has suggested they are getting calls from \"good drivers\" about potential future seats at the team but believes they will make the further pace improvements required to ensure Max Verstappen stays.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-max-verstappen-laurent-mekies_7303496.jpg?20260721154721"
-    },
-    {
-      "source": "sky",
-      "title": "'Frustrated' Newcastle will demand £80m for Arsenal target Guimaraes",
-      "link": "https://www.skysports.com/football/news/12040/13565860/newcastle-frustrated-by-arsenals-pursuit-of-bruno-guimaraes-and-will-demand-transfer-fee-of-80m-for-captain",
-      "summary": "Newcastle are frustrated with Arsenal's pursuit of Bruno Guimaraes and will only consider selling him for upwards of &#163;80m, according to Sky Sports News' North East reporter Keith Downie.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537"
-    },
-    {
-      "source": "sky",
-      "title": "Barcelona closing in on record-breaking Kerolin deal",
-      "link": "https://www.skysports.com/football/news/12040/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m",
-      "summary": "Barcelona are close to signing Brazilian forward Kerolin from Manchester City for a fee of &#8364;1.5m (&#163;1.28m).",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-manchester-city-kerolin_7288666.jpg?20260703090438"
     }
   ]
 }
