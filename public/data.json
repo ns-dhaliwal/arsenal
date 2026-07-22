@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T05:43:27.156216+00:00",
+  "lastUpdated": "2026-07-22T08:17:15.910495+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -250,22 +250,6 @@
       "image": "https://i.guim.co.uk/img/media/ed5d4637d720beae5347115078be0e31a8250fd6/509_1580_2711_2168/master/2711.jpg?width=140&quality=85&auto=format&fit=max&s=45d7fad56c6a741da691247bf6a82e66"
     },
     {
-      "source": "bbc",
-      "title": "'Dec, how's the sunburn?'",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9v2r0vvn7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Declan Rice jokes about his sunburn during the England debrief with Kelly Somers and Sami Mokbel.",
-      "published": "2026-06-21T01:24:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dd4/live/886e0f40-6d0e-11f1-b1db-af71d47507d6.jpg"
-    },
-    {
-      "source": "bbc",
-      "title": "Rice feels like he will get an assist at every corner",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Declan Rice feels like he will get an assist \"every time\" he takes a corner - and says England fans should be \"excited\" for what is to come at the World Cup.",
-      "published": "2026-06-21T01:03:54+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c7/live/60a03720-6d06-11f1-b622-5db122690c78.jpg"
-    },
-    {
       "source": "guardian",
       "title": "David Raya: ‘When you lose a Champions League final it destroys you inside’",
       "link": "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside",
@@ -347,6 +331,14 @@
     },
     {
       "source": "sky",
+      "title": "Kelly promises to let loose in 'spiteful' takedown of Agyarko",
+      "link": "https://www.skysports.com/boxing/news/12040/13565759/josh-kelly-promises-spiteful-caoimhin-agyarko-clash-ibf-light-middleweight-title-worth-its-weight-in-gold",
+      "summary": "Josh Kelly has promised that his IBF light-middleweight title defence against Caoimhin Agyarko will be \"spiteful\" ahead of their Saudi Arabia showdown on Saturday.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-josh-kelly-boxing_7303804.jpg?20260721225533"
+    },
+    {
+      "source": "sky",
       "title": "Lingfield and Worcester host competitive Wednesday cards",
       "link": "https://www.skysports.com/racing/news/12040/13565287/today-on-sky-sports-racing-lingfield-and-worcester-host-competitive-wednesday-cards",
       "summary": "Worcester and Lingfield are the venues for today's racing, with National Hunt and Flat action on the agenda.",
@@ -363,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "Outrageous! Ahmed hits hat-trick ball for massive six!",
+      "link": "https://www.skysports.com/watch/video/13565775/outrageous-abrar-ahmed-hits-hat-trick-ball-for-massive-six",
+      "summary": "Outrageous! Abrar Ahmed hits Richard Gleeson's hat-trick ball for a massive six!",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ahmed-six_7303699.jpg?20260721200340"
+    },
+    {
+      "source": "sky",
       "title": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
       "link": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
       "summary": "New Hearts head coach Wouter Vrancken endured a nightmare debut as his side's Champions League hopes all but vanished with a 4-0 defeat against Sturm Graz.",
@@ -371,7 +371,7 @@
     },
     {
       "source": "sky",
-      "title": "Draper misses out on US Open main draw - will have to qualify",
+      "title": "Draper misses out on US Open main draw and will have to qualify",
       "link": "https://www.skysports.com/tennis/news/12040/13565803/jack-draper-misses-out-on-2026-us-open-main-draw-as-former-semi-finalist-set-to-enter-qualifying",
       "summary": "Former British No 1 Jack Draper is set to have to qualify for the US Open this year as the 2024 semi-finalist missed out on a spot in the main draw.",
       "published": null,
@@ -379,7 +379,15 @@
     },
     {
       "source": "sky",
-      "title": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "title": "MVG sends crowd wild with triple bullseye finish!",
+      "link": "https://www.skysports.com/watch/video/13565791/michael-van-gerwen-sends-crowd-wild-with-triple-bullseye-finish",
+      "summary": "Michael Van Gerwen sends the Blackpool crowd crazy with a triple bullseye checkout against Dirk Van Duijvenbode in the World Matchplay.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-van-gerwen-triple-bullseye_7303739.jpg?20260721211638"
+    },
+    {
+      "source": "sky",
+      "title": "Enzo: Argentina played with 'pride' and 'humility'",
       "link": "https://www.skysports.com/football/news/12040/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour",
       "summary": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final.",
       "published": null,
@@ -387,8 +395,16 @@
     },
     {
       "source": "sky",
+      "title": "Why Hungary could be Ferrari's weekend",
+      "link": "https://www.skysports.com/watch/video/13565571/why-hungary-could-be-ferraris-weekend-they-have-the-best-chance",
+      "summary": "Ted Kravitz explains why he thinks Ferrari have the best chance to challenge Kimi Antonelli at the Hungarian Grand Prix.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-ferrari_7303214.jpg?20260721120715"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
-      "link": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
+      "link": "https://www.skysports.com/football/news/12040/13565784/man-utd-transfer-news-psg-midfielder-warren-zaire-emery-targeted-as-united-consider-bid",
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "published": null,
       "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
@@ -403,11 +419,19 @@
     },
     {
       "source": "sky",
-      "title": "Curran, Pooran blast defending champs MI London past SunRisers in Hundred opener",
+      "title": "Curran, Pooran blast MI London past SunRisers in Hundred opener",
       "link": "https://www.skysports.com/cricket/news/12040/13565753/the-hundred-mi-london-kick-title-defence-off-with-seven-wicket-thrashing-of-sunrisers-leeds",
       "summary": "MI London began their pursuit of a fourth successive Hundred title with a commanding seven-wicket victory over SunRisers Leeds at The Kia Oval, as the new-look competition got under way.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-poorna-curran-mi-london_7303742.jpg?20260721211648"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-poorna-curran-mi-london_7303742.jpg?20260722081522"
+    },
+    {
+      "source": "sky",
+      "title": "Amazon billionaire Bezos approached to join consortium seeking stake in Liverpool",
+      "link": "https://www.skysports.com/football/news/12040/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club",
+      "summary": "Amazon founder Jeff Bezos has been approached to join a consortium that is in talks to buy a stake in Liverpool.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jeff-bezos-liverpool_7303861.jpg?20260722071905"
     },
     {
       "source": "sky",
@@ -464,46 +488,6 @@
       "summary": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-john-stones-england_7294374.jpg?20260710100903"
-    },
-    {
-      "source": "sky",
-      "title": "'He was fired up!' | The Asp nails INCREDIBLE 170!",
-      "link": "https://www.skysports.com/watch/video/13565808/nathan-aspinall-nails-incredible-170-finish-against-luke-littler",
-      "summary": "Nathan Aspinall hit a superb Big Fish finish against Luke Littler as he looked to put pressure on The Nuke's lead.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-aspinall-big-fish_7303781.jpg?20260721222044"
-    },
-    {
-      "source": "sky",
-      "title": "Aspinall's hilarious reaction as Littler nearly hits SECOND nine-darter!",
-      "link": "https://www.skysports.com/watch/video/13565802/nathan-aspinalls-hilarious-reaction-as-luke-littler-nearly-hits-second-nine-darter",
-      "summary": "Nathan Aspinall offers up his darts to the crowd after Luke Littler almost hits his second nine-darter of the match.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-aspinall_7303764.jpg?20260721215300"
-    },
-    {
-      "source": "sky",
-      "title": "'Let's all calm down!' | Littler nails outrageous NINE-DARTER in OPENING leg!",
-      "link": "https://www.skysports.com/watch/video/13565798/luke-littler-hits-an-incredible-9-darter-in-opening-leg-against-nathan-aspinall",
-      "summary": "Luke Littler produced an incredible nine-darter in the opening leg of his clash with Nathan Aspinall at the Winter Gardens in Blackpool.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nine-dart-luke-littler_7303760.jpg?20260721214221"
-    },
-    {
-      "source": "sky",
-      "title": "McLaren to test new version of 'macarena' wing in Hungary",
-      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lando-norris-oscar-piastri_7303546.jpg?20260721164734"
-    },
-    {
-      "source": "sky",
-      "title": "Premier League referee Taylor retires",
-      "link": "https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup",
-      "summary": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
-      "published": null,
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-anthony-taylor-referee_7047629.jpg?20251010110937"
     }
   ]
 }
