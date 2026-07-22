@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-22T17:11:04.071692+00:00",
+  "lastUpdated": "2026-07-22T19:04:56.794738+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfries-10-transfers-you-may-have-missed-during-the-world-cup",
+      "summary": "Too engrossed with the World Cup drama to keep up with goings-on in the transfer market? We’ve got you coveredAnnounced just before England’s soul-sucking semi-final defeat against Argentina, it would have been easy to miss Trossard’s £15.3m move to Istanbul. While, after three and a half seasons and at the age of 31, it feels like his time at Arsenal has come to a natural conclusion, he will be r",
+      "published": "2026-07-22T19:00:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/b9a3b9c60d2f80203c3d3f2161ca1ab5f9e4b0bd/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=700366ea43bb8e3912e376c4b0dc1a3f"
+    },
     {
       "source": "bbc",
       "title": "Why is the Community Shield being held in Wales?",
@@ -322,12 +330,20 @@
       "image": "https://i.guim.co.uk/img/media/d77c811ac8ddaec5fb0ced09b4dc048cffc0cbb9/19_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=54b6556cc68cf7e85052c1f019c65ad2"
     },
     {
-      "source": "guardian",
-      "title": "PSG now stand alongside some of Europe’s best-ever, but with caveats | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal",
-      "summary": "The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning qualitySign up for the World Behind The Cup newsletterSince 1990, only one side had ever successfully defended the Champions League – Real Madrid, who won three in a row between 2016 and 2018. Paris Saint-Germain’s victory in the final on Saturday elevates them to",
-      "published": "2026-06-01T16:00:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/13795674650fd22c5ee6e300fb104224233e226d/0_0_4934_3948/master/4934.png?width=140&quality=85&auto=format&fit=max&s=1f57a2c92f3ea787cedf639067e22d80"
+      "source": "sky",
+      "title": "Aston Villa agree deal to sign Garnacho",
+      "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
+      "summary": "Aston Villa have agreed a deal to sign Alejandro Garnacho from Chelsea.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-garnacho-chelsea_7295237.jpg?20260711140636"
+    },
+    {
+      "source": "sky",
+      "title": "Casemiro joins Inter Miami on free transfer",
+      "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
+      "summary": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-premier-league_7251201.jpg?20260517143044"
     },
     {
       "source": "sky",
@@ -347,27 +363,27 @@
     },
     {
       "source": "sky",
-      "title": "Is Barcola next on Arsenal's list after missing out on Rogers?",
-      "link": "https://www.skysports.com/football/news/12040/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea",
-      "summary": "Arsenal retain an interest in Bradley Barcola after missing out on Morgan Rogers to Chelsea, according to Sky Sports News' Dharmesh Sheth.",
+      "title": "'Silly Bodybuilder', 'Mr Greedy Belly' - AJ and Fury clash as doubts cast over fight",
+      "link": "https://www.skysports.com/boxing/news/12040/13565963/tyson-fury-vs-anthony-joshua-the-gypsy-king-casts-doubt-on-fight-with-aj-ahead-of-mariusz-wach-bout-in-thailand",
+      "summary": "Tyson Fury and Anthony Joshua have traded insults as fresh doubts were raised about their long-awaited showdown this year.",
       "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-psg-champions-league_7261856.jpg?20260530190803"
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-anthony-joshua_7218286.jpg?20260412191144"
     },
     {
       "source": "sky",
-      "title": "Fernandes' screamer on debut has Spurs in front vs MK Dons LIVE!",
+      "title": "Is Barcola next on Arsenal's list after missing out on Rogers?",
+      "link": "https://www.skysports.com/football/news/12040/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea",
+      "summary": "Arsenal retain an interest in Bradley Barcola after missing out on Morgan Rogers to Chelsea, according to Sky Sports News reporter Dharmesh Sheth.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-bradley-barcola-arsenal_7304497.jpg?20260722192341"
+    },
+    {
+      "source": "sky",
+      "title": "Spurs 1-0 MK Dons: Key moments as Fernandes hits volleyed screamer!",
       "link": "https://www.skysports.com/football/tottenham-hotspur-vs-milton-keynes-dons/live/562434",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-spurs-fernandes-transfer_7288311.jpg?20260702174339"
-    },
-    {
-      "source": "sky",
-      "title": "'Silly Mr Bodybuilder!' - Fury casts doubt over Joshua fight",
-      "link": "https://www.skysports.com/boxing/news/12040/13565963/tyson-fury-vs-anthony-joshua-the-gypsy-king-casts-doubt-on-fight-with-aj-ahead-of-mariusz-wach-bout-in-thailand",
-      "summary": "Tyson Fury says he is prepared to \"fight somebody else\" at the end of 2026 if his long-awaited showdown with Anthony Joshua does not go ahead.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-anthony-joshua_7218286.jpg?20260412191144"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mateus-fernandes_7304489.jpg?20260722191503"
     },
     {
       "source": "sky",
@@ -389,9 +405,17 @@
       "source": "sky",
       "title": "Molineux stars as Brave outlast Fire in Hundred thriller",
       "link": "https://www.skysports.com/cricket/news/12040/13566055/the-hundred-sophie-molineux-leads-southern-brave-to-thrilling-eight-run-victory-against-welsh-fire",
-      "summary": "Southern Brave captain Sophie Molineux starred by taking three wickets to lead her side to a thrilling eight-run victory against Welsh Fire Women in The Hundred on Wednesday.",
+      "summary": "Southern Brave captain Sophie Molineux starred by taking three wickets to lead her side to a thrilling eight-run comeback victory against Welsh Fire Women in The Hundred on Wednesday.",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-southern-brave_7304430.jpg?20260722175702"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lauren-bell_7304487.jpg?20260722191200"
+    },
+    {
+      "source": "sky",
+      "title": "World Matchplay Darts LIVE! Van Veen vs Nijman after Menzies withdraws through illness",
+      "link": "https://www.skysports.com/darts/live-blog/12040/13565880/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-james-wade-gian-van-veen-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304510.jpg?20260722195543"
     },
     {
       "source": "sky",
@@ -411,19 +435,11 @@
     },
     {
       "source": "sky",
-      "title": "McInnes handed four-match touchline ban",
+      "title": "Rangers to appeal McInnes four-match touchline ban",
       "link": "https://www.skysports.com/football/news/12040/13565895/derek-mcinnes-rangers-manager-handed-four-match-touchline-ban-for-criticism-of-match-officials-while-in-charge-at-hearts",
       "summary": "Derek McInnes has been banned from the touchline for his first three domestic games as Rangers manager for his criticism of match officials.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-mcinnes-derek-rangers_7304028.jpg?20260722171305"
-    },
-    {
-      "source": "sky",
-      "title": "Casemiro joins Inter Miami on free transfer",
-      "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
-      "summary": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-premier-league_7251201.jpg?20260517143044"
     },
     {
       "source": "sky",
@@ -472,22 +488,6 @@
       "summary": "Barcelona are close to signing Brazilian forward Kerolin from Manchester City for a fee of &#8364;1.5m (&#163;1.28m).",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-manchester-city-kerolin_7288666.jpg?20260703090438"
-    },
-    {
-      "source": "sky",
-      "title": "The F1 Show: Can Russell recover from 'knockout blow' after Belgium woes?",
-      "link": "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-the-f1-show-formula-one_7179666.png?20260302111438"
-    },
-    {
-      "source": "sky",
-      "title": "Is £100m the new normal? Inside the PL’s transfer price explosion",
-      "link": "https://www.skysports.com/football/news/12040/13565911/how-the-premier-league-transfer-market-has-exploded-are-100m-plus-fees-for-players-the-new-normal",
-      "summary": "The average cost of a top-end signing in the Premier League has exploded. The &#163;100m-plus player is no longer an outlier, but becoming increasingly commonplace.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-transfers_7304216.jpg?20260722140417"
     }
   ]
 }
