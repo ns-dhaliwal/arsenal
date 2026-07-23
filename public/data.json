@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T15:51:14.412383+00:00",
+  "lastUpdated": "2026-07-23T17:14:24.801335+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
+      "published": "2026-07-23T16:56:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d4/live/c251d6c0-86b2-11f1-bb58-d3ffca85db6d.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal sign Greece forward Tzolis for £34m",
@@ -258,14 +266,6 @@
       "image": "https://i.guim.co.uk/img/media/4e730f6b180b8ed636f73d5d7918cb0cdf908479/161_0_3428_2742/master/3428.jpg?width=140&quality=85&auto=format&fit=max&s=86c6448f184e7d65444a44df5ee7e2ad"
     },
     {
-      "source": "bbc",
-      "title": "'Tierney is my guy' says Brazil's Martinelli",
-      "link": "https://www.bbc.co.uk/sport/videos/c74y0x2dyj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brazil forward Gabriel Martinelli on former Arsenal team-mate - and Scotland international - Kieran Tierney.",
-      "published": "2026-06-23T15:42:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82a/live/2c6cb2b0-6f1a-11f1-8e1d-bbbb1017d210.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal make Villa’s Morgan Rogers their No 1 target in transfer window",
       "link": "https://www.theguardian.com/football/2026/jun/22/arsenal-make-morgan-rogers-top-target-in-transfer-window",
@@ -339,6 +339,54 @@
     },
     {
       "source": "sky",
+      "title": "Russell relieved as Mercedes resolve engine issues amid 'toughest psychological' battle",
+      "link": "https://www.skysports.com/f1/news/12040/13566255/george-russell-mercedes-hopeful-power-issues-resolved-for-hungarian-gp-as-driver-explains-why-2026-toughest-psychological-battle",
+      "summary": "George Russell is optimistic Mercedes have identified and resolved the glitches that have afflicted his car's power unit ahead of this weekend's Hungarian Grand Prix.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-george-russell-mercedes_7305207.jpg?20260723170122"
+    },
+    {
+      "source": "sky",
+      "title": "Hamilton: I really believe we can fight for 2026 title",
+      "link": "https://www.skysports.com/f1/news/12040/13566257/lewis-hamilton-ferrari-driver-says-he-really-believes-he-can-fight-for-2026-f1-title-ahead-of-hungarian-gp",
+      "summary": "Lewis Hamilton says he 'really believes' Ferrari can enable him to fight for an eighth world championship title this season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7305233.jpg?20260723172528"
+    },
+    {
+      "source": "sky",
+      "title": "F1 considering Malaysian GP return as 2026 replacement race",
+      "link": "https://www.skysports.com/f1/news/12040/13566259/malaysian-gp-formula-1-considering-sepang-return-to-2026-calendar-as-replacement-race-before-singapore-grand-prix",
+      "summary": "Formula 1 bosses are in talks with organisers of the Malaysian Grand Prix to see the Sepang race make a surprise return to the calendar this year as a stand-in event.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-malaysian-gp_7305258.jpg?20260723175218"
+    },
+    {
+      "source": "sky",
+      "title": "Domestic abuse reports reach record UK highs during 2026 World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13566371/world-cup-2026-domestic-abuse-reports-reached-record-high-in-uk-with-major-increase-in-incidents-around-england-games",
+      "summary": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-dallas-police-world-cup_7305212.jpg?20260723170447"
+    },
+    {
+      "source": "sky",
+      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
+      "link": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
+      "summary": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his &#163;116m move from Nottingham Forest.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-anderson_7305228.jpg?20260723172039"
+    },
+    {
+      "source": "sky",
+      "title": "Rangers confirm Dragojevic signing as seventh summer arrival",
+      "link": "https://www.skysports.com/football/news/12040/13564373/rangers-transfer-news-vanja160dragojevic160joins-from-partizan160belgrade160as-ibrox-clubs-seventh-summer-signing",
+      "summary": "Rangers have signed midfielder Vanja&#160;Dragojevic on an initial four-year deal.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-vanja-dragojevic_7298818.jpg?20260716090119"
+    },
+    {
+      "source": "sky",
       "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
       "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
@@ -395,6 +443,14 @@
     },
     {
       "source": "sky",
+      "title": "MacDonald-Gay takes four wickets as Super Giants dominate Spirit",
+      "link": "https://www.skysports.com/cricket/news/12040/13566363/the-hundred-ryana-macdonald-gay-takes-four-wickets-as-manchester-super-giants-claim-dominant-win-over-london-spirit",
+      "summary": "Ryana MacDonald-Gay took four wickets as Manchester Super Giants surged to a dominant seven-wicket victory over London Spirit at Lord's.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ryana-macdonald-gay_7305176.jpg?20260723171044"
+    },
+    {
+      "source": "sky",
       "title": "Johnson-Thompson and Asher-Smith out of Commonwealth Games",
       "link": "https://www.skysports.com/athletics/news/12040/13566302/commonwealth-games-2026-katarina-johnson-thompson-dina-asher-smith-and-netball-star-natalie-metcalf-out-of-glasgow-2026",
       "summary": "England medal hopes Katarina Johnson-Thompson and Dina Asher-Smith have pulled out of the Commonwealth Games in Glasgow.",
@@ -440,62 +496,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/24/11/1920x1080/skysports-netball-natalie-metcalf_6742763.jpg?20260130075817"
-    },
-    {
-      "source": "sky",
-      "title": "Rowley steps down as St Helens head coach",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13566235/st-helens-paul-rowley-steps-down-as-head-coach-with-immediate-effect-ahead-of-wigan-warriors-match-in-super-league",
-      "summary": "Paul Rowley has stepped down as St Helens coach with immediate effect.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-paul-rowley_7290584.jpg?20260705201912"
-    },
-    {
-      "source": "sky",
-      "title": "Kone and Baleba strongly considered by Man Utd for third midfield signing",
-      "link": "https://www.skysports.com/football/news/12040/13566243/man-utd-transfer-news-manu-kone-and-carlos-baleba-strongly-considered-in-search-for-third-midfielder-signing",
-      "summary": "Roma's Manu Kone and Brighton's Carlos Baleba are two options who are being strongly considered by Manchester United as their search for a third midfield signing continues.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-manu-kone-carlos-baleba_7304847.jpg?20260723111556"
-    },
-    {
-      "source": "sky",
-      "title": "Villa sign Garnacho on loan from Chelsea",
-      "link": "https://www.skysports.com/football/news/12040/13566112/alejandro-garnacho-transfer-news-aston-villa-sign-chelsea-winger-on-initial-loan-deal-with-conditional-obligation-to-buy",
-      "summary": "Aston Villa have announced the signing of Alejandro Garnacho from Chelsea on a season-long loan.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-alejandro-garnacho_7305062.jpg?20260723145750"
-    },
-    {
-      "source": "sky",
-      "title": "Dev's Digest: Singh on set, Bhatia's Liverpool bid, Antonio's surprise return",
-      "link": "https://www.skysports.com/football/news/12040/13564388/devs-digest",
-      "summary": "Welcome to Dev's Digest, a Sky Sports column in which Asian Football Award winner Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-dev-digest_7303007.jpg?20260721084423"
-    },
-    {
-      "source": "sky",
-      "title": "Miami Heat admit LeBron 'introductory' video posted by mistake",
-      "link": "https://www.skysports.com/basketball/news/12040/13566171/lebron-james-miami-heat-admit-video-teasing-nba-legends-return-posted-by-mistake",
-      "summary": "Miami Heat have confirmed a video teasing LeBron James' potential return to the NBA franchise was posted by mistake.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-lebron-james-nba_7155046.jpg?20260204064034"
-    },
-    {
-      "source": "sky",
-      "title": "'He's trying to kill me!' | Evra goads Archer and instantly takes bouncer to the face!",
-      "link": "https://www.skysports.com/watch/video/13566214/patrice-evra-goads-jofra-archer-and-instantly-takes-bouncer-to-the-face",
-      "summary": "Patrice Evra got a little too confident when facing Jofra Archer!",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cricket-archer-evra_7304788.jpg?20260723102224"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds in talks with Man City over deal for Trafford",
-      "link": "https://www.skysports.com/football/news/12040/13566246/leeds-united-transfer-news-james-trafford-talks-begin-with-man-city-over-deal-for-england-goalkeeper",
-      "summary": "Leeds United are in talks with Manchester City over a deal for goalkeeper James Trafford.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-james-trafford-man-city_7304893.jpg?20260723113918"
     }
   ]
 }
