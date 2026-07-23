@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T17:14:24.801335+00:00",
+  "lastUpdated": "2026-07-23T19:06:09.256477+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -339,19 +339,27 @@
     },
     {
       "source": "sky",
-      "title": "Russell relieved as Mercedes resolve engine issues amid 'toughest psychological' battle",
-      "link": "https://www.skysports.com/f1/news/12040/13566255/george-russell-mercedes-hopeful-power-issues-resolved-for-hungarian-gp-as-driver-explains-why-2026-toughest-psychological-battle",
-      "summary": "George Russell is optimistic Mercedes have identified and resolved the glitches that have afflicted his car's power unit ahead of this weekend's Hungarian Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-george-russell-mercedes_7305207.jpg?20260723170122"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton: I really believe we can fight for 2026 title",
+      "title": "Hamilton sends message to title rivals",
       "link": "https://www.skysports.com/f1/news/12040/13566257/lewis-hamilton-ferrari-driver-says-he-really-believes-he-can-fight-for-2026-f1-title-ahead-of-hungarian-gp",
       "summary": "Lewis Hamilton says he 'really believes' Ferrari can enable him to fight for an eighth world championship title this season.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7305233.jpg?20260723172528"
+    },
+    {
+      "source": "sky",
+      "title": "Super League LIVE! Hull FC host Hull KR in fiery derby clash",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566378/super-league-live-hull-fc-host-hull-kr-in-fiery-derby-clash-updates-latest-scores-team-news-commentary",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-sezer-hull-fc-minchella_7305206.jpg?20260723165742"
+    },
+    {
+      "source": "sky",
+      "title": "Russell boosted as Mercedes find answer for engine problems",
+      "link": "https://www.skysports.com/f1/news/12040/13566255/george-russell-mercedes-hopeful-power-issues-resolved-for-hungarian-gp-as-driver-explains-why-2026-toughest-psychological-battle",
+      "summary": "George Russell is optimistic Mercedes have identified and resolved the glitches that have afflicted his car's power unit ahead of this weekend's Hungarian Grand Prix.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-george-russell-mercedes_7305207.jpg?20260723170122"
     },
     {
       "source": "sky",
@@ -375,7 +383,7 @@
       "link": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
       "summary": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his &#163;116m move from Nottingham Forest.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-anderson_7305228.jpg?20260723172039"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-elliot-anderson_7305228.jpg?20260723183036"
     },
     {
       "source": "sky",
@@ -408,6 +416,14 @@
       "summary": "At the age of just 22, Alejandro Garnacho's career is at a crossroads, but his move to Aston Villa, driven by Unai Emery, offers the perfect chance to get it back on track.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-alejandro-garnacho_7305066.jpg?20260723150425"
+    },
+    {
+      "source": "sky",
+      "title": "World Matchplay Darts LIVE! Littler, Anderson, Rock in action",
+      "link": "https://www.skysports.com/darts/live-blog/12040/13566216/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-luke-littler-gary-anderson-josh-rock-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-darts-world-matchplay_7304010.jpg?20260722102242"
     },
     {
       "source": "sky",
@@ -480,22 +496,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/03/1920x1080/skysports-jack-draper-indian-wells-tennis-2026_7186560.jpg?20260309055553"
-    },
-    {
-      "source": "sky",
-      "title": "England men and women's cricket fixtures 2027",
-      "link": "https://www.skysports.com/cricket/news/12040/13566231/england-cricket-schedule-2027-men-and-women-fixtures-including-the-ashes-150th-anniversary-test-against-australia-world-cup-champions-trophy",
-      "summary": "Full fixtures for England's men and women's sides in 2027, including The Ashes, the 150th Anniversary Test in Australia, home white-ball series against New Zealand and Bangladesh and the World Cup.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cricket-joe-root_7304972.jpg?20260723132313"
-    },
-    {
-      "source": "sky",
-      "title": "England netball star Metcalf injured on eve of Commonwealth Games",
-      "link": "https://www.skysports.com/boxing/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/24/11/1920x1080/skysports-netball-natalie-metcalf_6742763.jpg?20260130075817"
     }
   ]
 }
