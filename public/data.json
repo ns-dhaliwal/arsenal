@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T05:48:55.719169+00:00",
+  "lastUpdated": "2026-07-23T08:21:06.547530+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -258,14 +258,6 @@
       "image": "https://i.guim.co.uk/img/media/a846149b9b738b648ebbd512cb158adb19f342df/165_0_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=7402ff92765812d53ba76b9937a4c60a"
     },
     {
-      "source": "bbc",
-      "title": "Madueke's remarkable season - from petition to World Cup starter",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
-      "published": "2026-06-22T10:47:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b4/live/8b578340-6dc1-11f1-99a1-adc31e23373a.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Declan Rice reveals he has played through hamstring nerve pain for six months",
       "link": "https://www.theguardian.com/football/2026/jun/21/england-declan-rice-hamstring-nerve-pain-arsenal-schedule-world-cup",
@@ -339,11 +331,35 @@
     },
     {
       "source": "sky",
+      "title": "Miami Heat admit LeBron 'introductory' video posted by mistake",
+      "link": "https://www.skysports.com/basketball/news/12040/13566171/lebron-james-miami-heat-admit-video-teasing-nba-legends-return-posted-by-mistake",
+      "summary": "Miami Heat have confirmed a video teasing LeBron James' potential return to the NBA franchise was posted by mistake.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-lebron-james-nba_7155046.jpg?20260204064034"
+    },
+    {
+      "source": "sky",
+      "title": "Today on Sky Sports Racing: Victory Gold and Waasil clash at Newbury",
+      "link": "https://www.skysports.com/racing/news/12040/13565620/today-on-sky-sports-racing-doncaster-newbury-southwell-and-yarmouth-meetings-live-on-thursday",
+      "summary": "We have a busy day's racing on Thursday with Flat action from Doncaster, Newbury, Southwell and Yarmouth, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-racing-horse-racing_7298260.jpg?20260715144201"
+    },
+    {
+      "source": "sky",
       "title": "Salt stars as Fire end eight-match Hundred losing streak against Brave",
       "link": "https://www.skysports.com/cricket/news/12040/13566100/the-hundred-welsh-fire-snap-eight-match-losing-streak-against-southern-brave-as-phil-salt-stars-with-the-bat",
       "summary": "Phil Salt weathered a bowling storm from England fast bowler Jofra Archer as the Welsh Fire captain led his side to a six-wicket victory over Southern Brave in The Hundred.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-the-hundred-phil-salt_7304537.jpg?20260722212846"
+    },
+    {
+      "source": "sky",
+      "title": "Fernandes SCREAMER seals Spurs' winning start to pre-season",
+      "link": "https://www.skysports.com/watch/video/13566172/tottenham-1-0-mk-dons-pre-season-highlights",
+      "summary": "Watch highlights of the pre-season friendly between Tottenham and MK Dons. Credit: SPURSPLAY.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tottenham-mk-dons_7304688.jpg?20260723072805"
     },
     {
       "source": "sky",
@@ -363,7 +379,7 @@
     },
     {
       "source": "sky",
-      "title": "Aston Villa agree deal to sign Garnacho",
+      "title": "Villa agree deal to sign Garnacho...but it's complicated",
       "link": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
       "summary": "Aston Villa have agreed a deal to sign Alejandro Garnacho from Chelsea.",
       "published": null,
@@ -371,7 +387,7 @@
     },
     {
       "source": "sky",
-      "title": "AJ reveals Team Usyk's motivational message ahead of comeback",
+      "title": "'Show greatness!' AJ reveals Team Usyk’s motivational message",
       "link": "https://www.skysports.com/boxing/news/12040/13566137/anthony-joshua-oleksandr-usyks-team-urge-british-fighter-to-show-greatness-in-comeback-fight-vs-kristian-prenga",
       "summary": "Anthony Joshua has revealed that Oleksandr Usyk's team urged him to \"show greatness\" as the two heavyweight giants trained together ahead of the Briton's comeback fight.",
       "published": null,
@@ -379,7 +395,7 @@
     },
     {
       "source": "sky",
-      "title": "Casemiro joins Inter Miami on free transfer",
+      "title": "Casemiro joins Inter Miami but club faces 'tampering' investgation",
       "link": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
       "summary": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
       "published": null,
@@ -411,19 +427,19 @@
     },
     {
       "source": "sky",
-      "title": "Menzies withdraws from World Matchplay Darts after becoming unwell on stage",
-      "link": "https://www.skysports.com/darts/news/12040/13566098/world-matchplay-darts-cameron-menzies-withdraws-after-becoming-unwell-on-stage-during-second-round-match-against-ross-smith",
-      "summary": "Cameron Menzies' match against Ross Smith at the World Matchplay Darts was abandoned after the Scot became dizzy on stage and later fainted at the Winter Gardens on Wednesday night.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304516.jpg?20260722200656"
-    },
-    {
-      "source": "sky",
       "title": "'Silly Bodybuilder', 'Mr Greedy Belly' - AJ and Fury clash as doubts cast over fight",
       "link": "https://www.skysports.com/boxing/news/12040/13565963/tyson-fury-vs-anthony-joshua-the-gypsy-king-casts-doubt-on-fight-with-aj-ahead-of-mariusz-wach-bout-in-thailand",
       "summary": "Tyson Fury and Anthony Joshua have traded insults as fresh doubts were raised about their long-awaited showdown this year.",
       "published": null,
       "image": "https://e1.365dm.com/26/04/1920x1080/skysports-tyson-fury-anthony-joshua_7218286.jpg?20260412191144"
+    },
+    {
+      "source": "sky",
+      "title": "Menzies provides update after falling ill on World Matchplay stage",
+      "link": "https://www.skysports.com/darts/news/12040/13566098/world-matchplay-darts-cameron-menzies-withdraws-after-becoming-unwell-on-stage-during-second-round-match-against-ross-smith",
+      "summary": "Cameron Menzies' match against Ross Smith at the World Matchplay Darts was abandoned after the Scot became dizzy on stage and later fainted at the Winter Gardens on Wednesday night.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304516.jpg?20260722200656"
     },
     {
       "source": "sky",
@@ -472,30 +488,6 @@
       "summary": "Lewis Hamilton says Ferrari must \"come and fight for the win\" at this weekend's Hungarian Grand Prix while McLaren boss Andrea Stella expects the Scuderia to be \"extremely competitive\".",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-f1-lewis-hamilton_7304108.jpg?20260722122856"
-    },
-    {
-      "source": "sky",
-      "title": "Menzies' match is abandoned after he requires medical attention",
-      "link": "https://www.skysports.com/watch/video/13566121/world-matchplay-cameron-menzies-withdraws-from-after-becoming-unwell-on-stage",
-      "summary": "Cameron Menzies has withdrawn from the World Matchplay of Darts after becoming unwell during his second-round match against Ross Smith.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies_7304561.jpg?20260722211324"
-    },
-    {
-      "source": "sky",
-      "title": "Molineux plays key role as Brave outlast Fire in Hundred thriller",
-      "link": "https://www.skysports.com/cricket/news/12040/13566055/the-hundred-sophie-molineux-leads-southern-brave-to-thrilling-eight-run-victory-against-welsh-fire",
-      "summary": "Southern Brave captain Sophie Molineux starred by taking three wickets to lead her side to a thrilling eight-run comeback victory against Welsh Fire Women in The Hundred on Wednesday.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lauren-bell_7304487.jpg?20260722191200"
-    },
-    {
-      "source": "sky",
-      "title": "'Darts is my life' | Wade 'can't walk away' as he clinches quarter-final spot",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13565880/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-james-wade-gian-van-veen-in-action",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-james-wade-players-championship_7160562.jpg?20260209221248"
     }
   ]
 }
