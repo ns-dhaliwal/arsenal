@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T02:08:27.287971+00:00",
+  "lastUpdated": "2026-07-24T05:44:46.741162+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -339,6 +339,14 @@
     },
     {
       "source": "sky",
+      "title": "Today on Sky Sports Racing: Silver Dominion faces Alfred Wallace at Ascot",
+      "link": "https://www.skysports.com/racing/news/12040/13566039/today-on-sky-sports-racing-silver-dominion-faces-alfred-wallace-in-ascots-pat-eddery-stakes-with-uttoxeter-and-chepstow-also-live-on-friday",
+      "summary": "It's Silver Dominion versus Alfred Wallace as King George weekend gets under way at Ascot - live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-racing-ascot_7304360.jpg?20260722162711"
+    },
+    {
+      "source": "sky",
       "title": "'Good luck to Dirk...': Littler dazzles in Blackpool as 'frightening' form continues",
       "link": "https://www.skysports.com/darts/news/12040/13566484/luke-littler-dazzles-in-blackpool-as-frightening-world-darts-matchplay-form-continues-good-luck-to-dirk",
       "summary": "If a player hit a nine-darter on the World Matchplay stage, that would usually go down as their highlight. That is just the tip of the iceberg for Luke Littler in 2026.",
@@ -419,7 +427,7 @@
     },
     {
       "source": "sky",
-      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
+      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move",
       "link": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
       "summary": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his &#163;116m move from Nottingham Forest.",
       "published": null,
@@ -488,14 +496,6 @@
       "summary": "Charley Hull, Lottie Woad and Georgia Hall all endured tough days on the golf course, dropping below par for their first rounds, as Jenny Shin and Lauren Coughlin surged to take the co-lead at the ISPS HANDA Scottish Open.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-charlie-hull_7305325.jpg?20260723201405"
-    },
-    {
-      "source": "sky",
-      "title": "Seifert scores big as Super Giants beat Spirit in Lord's thriller",
-      "link": "https://www.skysports.com/cricket/news/12040/13566364/the-hundred-tim-seiferts-big-knock-guides-manchester-super-giants-to-thrilling-seven-run-win-vs-london-spirit",
-      "summary": "Tim Seifert's huge knock of 67 runs off 45 deliveries saw Manchester Super Giants defeat London Spirit by seven runs in thrilling circumstances at Lord's.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tim-seifert_7305396.jpg?20260723212929"
     }
   ]
 }
