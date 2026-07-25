@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T16:05:07.506101+00:00",
+  "lastUpdated": "2026-07-25T17:54:35.299291+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+      "link": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
+      "summary": "Brazil forward has one year left on contract at BernabéuVinícius future at Real uncertain after Mourinho arrivalArsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one year remaining on his contract at the Bernabéu.It is believed any move for Vinícius – who scored 22 goals for Real last season and four for Brazi",
+      "published": "2026-07-25T17:32:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/a09717740bb5d8e91cdd94b5bac1cb4427a5d622/332_0_4796_3838/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=6a64601190e273dab10c7f9af5a863fa"
+    },
     {
       "source": "bbc",
       "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
@@ -330,20 +338,44 @@
       "image": "https://i.guim.co.uk/img/media/fdb9c5d324c3550bd01185067644e8d9578dd6a4/603_0_5878_4705/master/5878.jpg?width=140&quality=85&auto=format&fit=max&s=d8b2fb147b5c590c69dd6205bd93b599"
     },
     {
-      "source": "guardian",
-      "title": "The Arsenal fans who brought style and swagger to the team’s victory parade: ‘Everyone supports the same thing but expresses it in their own way’",
-      "link": "https://www.theguardian.com/fashion/2026/jun/02/fashion-arsenal-fans-style-swagger-victory-parade",
-      "summary": "Hundreds of thousands of supporters travelled to north London to celebrate their team winning the Premier League. Here’s what they wore …‘The only thing I haven’t got are the underpants. Everything else is Arsenal,” says Shane, a memorabilia and kit collector perched outside north London’s Clissold park with his daughter, Erin. Known online as Highbury Gunner JVC, the 47-year-old wore an Arsenal-b",
-      "published": "2026-06-02T14:30:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/dab55144d8320609c8568419443174c039e80b38/841_435_6588_5270/master/6588.jpg?width=140&quality=85&auto=format&fit=max&s=0a88665958ee22ac61dd6ac0ed7257bd"
+      "source": "sky",
+      "title": "49ers coach Shanahan hurt in a car crash",
+      "link": "https://www.skysports.com/nfl/news/12040/13566967/kyle-shanahan-san-francisco-49ers-coach-injured-in-car-crash-that-will-limit-his-participation-at-start-of-training-camp",
+      "summary": "San Francisco 49ers coach Kyle Shanahan was injured in a car crash earlier in July that will limit his participation at the start of training camp, the team announced Saturday.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-kyle-shanahan-san-francisco-49ers_7306670.jpg?20260725181158"
     },
     {
       "source": "sky",
-      "title": "Norris snatches Hungarian GP pole from Hamilton",
-      "link": "https://www.skysports.com/f1/news/12040/13566873/hungarian-gp-qualifying-lando-norris-snatches-pole-from-lewis-hamilton-in-dramatic-finale-as-max-verstappen-spins",
-      "summary": "Lando Norris snatched Hungarian Grand Prix pole position from Lewis Hamilton in a thrilling finale to qualifying in Budapest.",
+      "title": "Russell forced to change power unit for Hungarian GP after water leak",
+      "link": "https://www.skysports.com/f1/news/12040/13566876/hungarian-gp-george-russell-forced-to-change-mercedes-power-unit-after-water-leak-in-qualifying",
+      "summary": "George Russell has been forced to change his power unit ahead of the Hungarian Grand Prix after a crack on his engine caused a water leak in qualifying.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lando-norris-mclaren_7306532.jpg?20260725155722"
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-f1-george-russell_7306676.jpg?20260725181725"
+    },
+    {
+      "source": "sky",
+      "title": "England Netball prepare for Australia by thrashing Northern Ireland in Glasgow",
+      "link": "https://www.skysports.com/netball/news/12040/13566934/commonwealth-games-england-cruise-past-northern-ireland-to-open-netball-campaign-as-scotland-fall-to-new-zealand",
+      "summary": "England thrashed Northern Ireland 83-34 on the opening day of the Netball pool stage at the Commonwealth Games but Scotland were beaten by New Zealand.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-eleanor-cardwell_7306632.jpg?20260725171519"
+    },
+    {
+      "source": "sky",
+      "title": "Hamilton loses second on Hungarian GP grid after penalty",
+      "link": "https://www.skysports.com/f1/news/12040/13566874/lewis-hamilton-ferrari-driver-given-penalty-and-loses-second-on-hungarian-gp-grid-after-blocking-oscar-piastri",
+      "summary": "Lewis Hamilton has been relegated from second to fifth on the Hungarian Grand Prix grid after a penalty for blocking McLaren's Oscar Piastri at the end of qualifying.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7306627.jpg?20260725170051"
+    },
+    {
+      "source": "sky",
+      "title": "Norris snatches Hungarian GP pole before Hamilton penalty shuffles order",
+      "link": "https://www.skysports.com/f1/news/12040/13566873/hungarian-gp-qualifying-lando-norris-snatches-pole-from-lewis-hamilton-in-dramatic-finale-as-max-verstappen-spins",
+      "summary": "McLaren&#8217;s Lando Norris snatched Hungarian Grand Prix pole from Lewis Hamilton before the Ferrari driver was later demoted from second on the grid by a penalty for impeding.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lando-norris-mclaren_7306600.jpg?20260725163928"
     },
     {
       "source": "sky",
@@ -371,11 +403,27 @@
     },
     {
       "source": "sky",
-      "title": "Hungarian GP: Hamilton's second place on grid at risk in investigation LIVE!",
+      "title": "Hungarian GP: Hamilton, Antonelli both hit with grid penalties LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13566060/f1-hungarian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-hungaroring-in-budapest",
       "summary": "Follow live updates and watch the best video from the Hungarian Grand Prix on Saturday. Watch live on Sky Sports F1",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7306533.jpg?20260725155833"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7306526.jpg?20260725154812"
+    },
+    {
+      "source": "sky",
+      "title": "'I'm hungry to win it!' - Greaves, Sherrock eye Women's Matchplay glory",
+      "link": "https://www.skysports.com/darts/news/12040/13566882/womens-world-matchplay-beau-greaves-fallon-sherrock-eye-blackpool-title-as-lisa-ashton-returns-as-defending-champion",
+      "summary": "Beau Greaves and Fallon Sherrock look to regain the Betfred Women's World Matchplay title on Sunday, as Lisa Ashton returns as defending champion in Blackpool.",
+      "published": null,
+      "image": "https://e2.365dm.com/25/07/1920x1080/skysports-darts-womens-world-matchplay_6974189.jpg?20250726104812"
+    },
+    {
+      "source": "sky",
+      "title": "Duran scores and assists as Celtic round off pre-season with AC Milan draw",
+      "link": "https://www.skysports.com/football/celtic-vs-ac-milan/report/556660",
+      "summary": "Camilo Duran impressed again as Celtic rounded off pre-season with an entertaining 2-2 draw against AC Milan.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-celtic-camilo-duran_7306515.jpg?20260725152424"
     },
     {
       "source": "sky",
@@ -448,54 +496,6 @@
       "summary": "There is one line missing from the fullest CV in basketball history and LeBron James has just told the world he is spending his final two seasons chasing it.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-nba-lebron-james_7306419.jpg?20260725121006"
-    },
-    {
-      "source": "sky",
-      "title": "Camarda's double earns AC Milan a draw after Duran opener for Celtic LIVE!",
-      "link": "https://www.skysports.com/football/celtic-vs-ac-milan/live/556660",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-celtic-camilo-duran_7306515.jpg?20260725152424"
-    },
-    {
-      "source": "sky",
-      "title": "Inter Milan interested in signing Tottenham captain Romero",
-      "link": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
-      "summary": "Inter Milan are interested in signing Tottenham captain Cristian Romero, according to Sky in Italy.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-cristian-romero-tottenham_7153801.jpg?20260202204404"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic agree club-record deal for Hogh as Ipswich sign Maeda",
-      "link": "https://www.skysports.com/football/news/12040/13566221/daizen-maeda-transfer-news-ipswich-town-sign-celtic-forward-in-10m-deal",
-      "summary": "Celtic have agreed a club-record fee of &#163;11m plus add-ons to sign striker Kasper Hogh from Bodo/Glimt, while Daizen Maeda has completed his move to Ipswich Town in a &#163;10m deal.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-bodo-glimt-bodoglimt_7140405.jpg?20260120101601"
-    },
-    {
-      "source": "sky",
-      "title": "Wilkin: Rowley's Saints dismissal doesn't surprise me - 'Fans voted with their feet'",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13566694/jon-wilkin-paul-rowleys-st-helens-dismissal-after-nine-months-doesnt-surprise-me-fans-voted-with-their-feet-in-bizarre-sad-time-for-club",
-      "summary": "Sky Sports Rugby League's Jon Wilkin says the departure of St Helens head coach Paul Rowley did not surprise him, saying Saints fans voted with their feet amid a \"bizarre time\" for the club.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-rowley-st-helens_7305993.jpg?20260724165439"
-    },
-    {
-      "source": "sky",
-      "title": "French stars as Wigan add to Saints' disarray | 12-player Wakefield rout Tigers",
-      "link": "https://www.skysports.com/rugby-league/wigan-vs-st-helens/report/63290",
-      "summary": "Bevan French proved the star of the show on his return as Wigan Warriors eventually ripped St Helens apart 38-16 in Friday's Super League, compounding Saints' woes.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-french-wigan-eckersley_7306218.jpg?20260724220723"
-    },
-    {
-      "source": "sky",
-      "title": "Welsby: Our performances let Rowley down - 'We're gutted, embarrassed'",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13566689/super-league-live-wigan-warriors-host-st-helens-in-crunch-clash-updates-latest-scores-team-news-commentary",
-      "summary": "Live scores, team news, text commentary, analysis from Friday's Super League derby clash between Wigan Warriors and St Helens, live on Sky Sports+ from 7.30pm; Wigan second in the table, two points off league leaders Leeds Rhinos; Saints looking to move back into top six playoff spots",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-keighran-wigan-warriors_7306207.jpg?20260724214625"
     }
   ]
 }
