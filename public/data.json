@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-27T06:23:15.356363+00:00",
+  "lastUpdated": "2026-07-27T10:37:04.681806+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
+      "summary": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.",
+      "published": "2026-07-27T10:26:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/def92a80-89a0-11f1-b2ab-0dd01740f9f6.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
@@ -258,14 +266,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0946/live/720fb4a0-716a-11f1-a589-278435dff441.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Hincapie completes permanent £34.5m Arsenal move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8x2189557wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defender Piero Hincapie makes his loan move from Bayer Leverkusen to Arsenal permanent.",
-      "published": "2026-06-25T13:45:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc30/live/be916040-70a1-11f1-98f6-a389d1d57bcb.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Club World Cup likely to expand for 2029 with more Premier League clubs involved",
       "link": "https://www.theguardian.com/football/2026/jun/25/fifa-agrees-club-world-cup-joint-venture-efc-boost-premier-league-clubs",
@@ -339,6 +339,70 @@
     },
     {
       "source": "sky",
+      "title": "Coming soon to Real Madrid? Yan Diomande's best bits for RB Leipzig!",
+      "link": "https://www.skysports.com/watch/video/13488766/yan-diomande-all-of-manchester-united-targets-best-bits-for-rb-leipzig-so-far",
+      "summary": "As Real Madrid become increasingly confident in signing Yan Diomande, here's a look at his goals and assists for RB Leipzig.",
+      "published": "2025-12-30T18:42:00+00:00",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-yan-diomande-rb-leipzig_7226030.jpg?20260421101904"
+    },
+    {
+      "source": "sky",
+      "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832"
+    },
+    {
+      "source": "sky",
+      "title": "The story of the 'non-League Wrexham' now chasing the EFL dream",
+      "link": "https://www.skysports.com/football/news/12040/13566192/harry-hugo-interview",
+      "summary": "Having sold 40 per cent of influencer marketing agency, Goat, in 2021, Harry Hugo had made his fortune at 26 - and he realised that, by the age of 30, he would have the rare luxury of not needing to work again.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-farnham-town-promotion_7305890.jpg?20260724145901"
+    },
+    {
+      "source": "sky",
+      "title": "Real to hold further talks over Vinicius Jr's future this week",
+      "link": "https://www.skysports.com/football/news/12040/13567300/vinicius-jr-transfer-news-real-madrid-to-hold-further-talks-over-brazil-internationals-future-this-week-amid-arsenal-interest",
+      "summary": "Real Madrid will hold further talks with Vincius Junior's representatives about his future this week.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-real-madrid_7307502.jpg?20260727082715"
+    },
+    {
+      "source": "sky",
+      "title": "Doyle: Scandinavia can emulate Kyprios with Goodwood Cup win",
+      "link": "https://www.skysports.com/racing/news/12040/13567325/hollie-doyle-aidan-obriens-scandinavia-can-emulate-kyprios-with-goodwood-cup-win",
+      "summary": "Our ambassador is previewing all five days of the Goodwood, beginning with an enthralling opening day on Tuesday, featuring the Goodwood Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea latest: Alonso says 'impact' player Rogers and Palmer will line-up together",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
+    },
+    {
+      "source": "sky",
+      "title": "F1 2026 team-mate head-to-heads at summer break",
+      "link": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
+      "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-f1-2026-f1-field_7186813.jpg?20260309102551"
+    },
+    {
+      "source": "sky",
+      "title": "Nelson: Fury vs AJ excites me more than ever and Fury has the edge",
+      "link": "https://www.skysports.com/boxing/news/12040/13567094/tyson-fury-vs-anthony-joshua-excites-me-more-than-ever-and-fury-has-the-edge-says-johnny-nelson",
+      "summary": "This fight excites me more than it ever has, and I think Tyson Fury has the edge.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-nelson-boxing-fury_7306974.jpg?20260726113109"
+    },
+    {
+      "source": "sky",
       "title": "Amazonian Dream looks to go back-to-back at Windsor",
       "link": "https://www.skysports.com/racing/news/12040/13567076/today-on-sky-sports-racing-ripon-southwell-and-windsor",
       "summary": "We have a busy day&#8217;s racing on Monday with flat action from Ripon, Southwell and Windsor, live on Sky Sports Racing...",
@@ -347,19 +411,19 @@
     },
     {
       "source": "sky",
-      "title": "Nelson: Fury vs AJ excites me more than ever and Fury has the edge",
-      "link": "https://www.skysports.com/boxing/news/12040/13567094/tyson-fury-vs-anthony-joshua-excites-me-more-than-ever-and-fury-has-the-edge-says-johnny-nelson",
-      "summary": "This fight excites me more than it ever has, and I think Tyson Fury has the edge.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tyson-fury_7306061.jpg?20260724174912"
-    },
-    {
-      "source": "sky",
       "title": "Rising star Koivun holds off Scheffler to win on third PGA Tour start as a pro",
       "link": "https://www.skysports.com/golf/news/12040/13567261/3m-open-jackson-koivun-21-holds-off-scottie-scheffler-to-secure-victory-on-just-third-pga-tour-start-as-a-professional",
       "summary": "Jackson Koivun held off a charge from world No 1 Scottie Scheffler to win his first PGA Tour title in just his third start as a professional as he triumphed by three strokes at the 3M Open in Minnesota.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jackson-koivun-pga-tour-golf_7307428.jpg?20260726231721"
+    },
+    {
+      "source": "sky",
+      "title": "Coping with 'expectation and demand' key to Hibs success, says Gray",
+      "link": "https://www.skysports.com/football/news/12040/13567340/hibernian-david-gray-tells-players-coping-with-expectation-and-demand-key-to-scottish-premiership-success",
+      "summary": "Hibernian head coach David Gray firmly believes adjusting to \"expectation and demand\" will lead to a strong season for the Easter Road club.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-david-gray-hibernian_7250665.jpg?20260516171737"
     },
     {
       "source": "sky",
@@ -376,6 +440,30 @@
       "summary": "Craig Overton won his one-on-one battle with twin brother Jamie as Trent Rockets beat London Spirit by four wickets with two balls to spare in The Hundred.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-craig-overton-jamie-overton_7307376.jpg?20260726211850"
+    },
+    {
+      "source": "sky",
+      "title": "Take our AIG Women's Open quiz as we build up to final major of 2026 LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13567348/aig-womens-open-2026-build-up-latest-news-updates-highlights-from-royal-lytham-st-annes-ahead-of-final-womens-major-of-the-year",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-golf-aig-womens-open_7306978.jpg?20260726115226"
+    },
+    {
+      "source": "sky",
+      "title": "Are the Big Six raiding the rest of the Premier League?",
+      "link": "https://www.skysports.com/football/news/12040/13566519/premier-league-transfers-are-big-six-clubs-raiding-their-rivals",
+      "summary": "What do Elliot Anderson, Morgan Rogers and Sandro Tonali have in common?",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-transfers_7304216.jpg?20260722140417"
+    },
+    {
+      "source": "sky",
+      "title": "Why Bamba could be a bargain for Newcastle",
+      "link": "https://www.skysports.com/football/news/12040/13566382/aladji-bamba-to-newcastle-signing-from-monaco-is-strong-in-the-duels-but-brings-passing-range-and-more-to-the-midfield",
+      "summary": "Aladji Bamba only made his full debut for Monaco in September. But so impressive was the midfielder in that win at Auxerre that 11 senior starts later the now 20-year-old midfielder has signed for Newcastle for &#163;35.5m &#8211; and some consider it a bargain.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-aladji-bamba-monaco_7305183.jpg?20260723163910"
     },
     {
       "source": "sky",
@@ -408,94 +496,6 @@
       "summary": "McLaren boss Andrea Stella has defended the strategy calls the team made during the Hungarian Grand Prix after Oscar Piastri was initially critical as he lost out to team-mate Lando Norris.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-oscar-piastri-lando_7307326.jpg?20260726192253"
-    },
-    {
-      "source": "sky",
-      "title": "Kelly wins Senior Open as Gallacher lights up final round at Gleneagles",
-      "link": "https://www.skysports.com/golf/news/12040/13567227/senior-open-jerry-kelly-wins-title-at-gleneagles-as-scotlands-stephen-gallacher-produces-round-of-final-day",
-      "summary": "Jerry Kelly won the ISPS HANDA Senior Open at Gleneagles by two shots as he claimed a third PGA Tour Champions major of his career.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jerry-kelly-senior-open-2026_7307328.jpg?20260726192946"
-    },
-    {
-      "source": "sky",
-      "title": "Sivo injury mars Leeds' win over Bradford as hopes of try record dented",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13567212/super-league-leeds-rhinos-beat-bradford-bulls-but-suffer-big-blow-with-maika-sivo-sustaining-suspected-broken-arm",
-      "summary": "Maika Sivo's suspected broken arm marred Leeds Rhinos' 42-12 victory over Bradford Bulls that took them two points clear at the top of Super League with the Fijian winger's hopes of breaking the record for the most tries in a season dented.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-james-mcdonnell-leeds-rhinos_7307292.jpg?20260726181048"
-    },
-    {
-      "source": "sky",
-      "title": "More coverage than ever! When is the AIG Women's Open live on Sky Sports?",
-      "link": "https://www.skysports.com/golf/news/12040/13566558/aig-womens-open-2026-tv-coverage-royal-lytham-st-annes-schedule-and-how-to-watch-or-stream-live-on-sky-sports",
-      "summary": "The women&#8217;s major season reaches its climax this week at the AIG Women&#8217;s Open, with extended coverage from Royal Lytham & St Annes exclusively live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-golf-aig-womens-open_7303051.jpg?20260721095517"
-    },
-    {
-      "source": "sky",
-      "title": "Littler soars to new heights at Matchplay: 'What do other players cling onto now?'",
-      "link": "https://www.skysports.com/darts/news/12040/13567162/luke-littler-reaches-new-heights-with-world-matchplay-run-to-remember-what-can-other-players-cling-onto-now",
-      "summary": "Sky Sports Darts' Mark Webster believes that Luke Littler's winning run at the World Matchplay is the \"best major campaign we have ever seen\" and with it, he has sent a message to the rest of his competitors.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7307413.jpg?20260726223511"
-    },
-    {
-      "source": "sky",
-      "title": "£500 to £1.25m?! The 'unrecognisable' rise of the AIG Women's Open",
-      "link": "https://www.skysports.com/golf/news/12040/13566637/aig-womens-open-how-major-continues-unrecognisable-rise-ahead-of-50th-anniversary-at-royal-lytham-st-annes",
-      "summary": "When the AIG Women&#8217;s Open first launched 50 years ago, the field was made up of mostly amateurs and prize money &#8211; for the entire tournament &#8211; stood at just &#163;500.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-golf-aig-womens-open_7303045.jpg?20260721095318"
-    },
-    {
-      "source": "sky",
-      "title": "Highlights: Littler reaches NEW levels as he dominates Price in World Matchplay final",
-      "link": "https://www.skysports.com/watch/video/13567243/luke-littler-vs-gerwyn-price-world-matchplay-final-highlights",
-      "summary": "Highlights of the World Matchplay final between Luke Littler and Gerwyn Price.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-littler-price_7307377.jpg?20260726211938"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton: Unnecessary pit stop 'opened door' to latest penalty",
-      "link": "https://www.skysports.com/f1/news/12040/13567068/lewis-hamilton-ferrari-driver-admits-lots-of-mistakes-after-fresh-penalty-at-hungarian-gp-but-questions-final-ferrari-pit-stop",
-      "summary": "Lewis Hamilton feels his third pit stop in the Hungarian Grand Prix was unnecessary and \"opened up the door\" to his latest costly penalty - although said the sanction for pit-lane speeding was on him having made \"lots of mistakes\" in recent races.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-ferrari_7307323.jpg?20260726190713"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: PSG value Barcola at £145m amid Liverpool and Arsenal interest",
-      "link": "https://www.skysports.com/football/news/12040/13567165/bradley-barcola-transfer-news-psg-value-france-forward-at-145m-amid-liverpool-and-arsenal-interest-paper-talk",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "'You spiteful young man!' 😅| Littler hits SIX 100+ finishes as he retains Matchplay title",
-      "link": "https://www.skysports.com/watch/video/13567247/world-matchplay-final-watch-luke-littlers-six-100-finishes-as-he-reclaims-the-title",
-      "summary": "Luke Littler smashed in six brilliant 100+ checkouts as he reclaimed the World Matchplay title in Blackpool, beating Gerwyn Price 18-9.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-littler-darts_7307392.jpg?20260726214808"
-    },
-    {
-      "source": "sky",
-      "title": "Littler: World Matchplay defence 'one of best weeks of my life'",
-      "link": "https://www.skysports.com/darts/news/12040/13567163/luke-littler-hails-world-matchplay-defence-as-one-of-best-week-of-his-life-after-historic-victory-over-gerwyn-price",
-      "summary": "Luke Littler has hailed his historic run at the World Matchplay as \"one of the best weeks of his life\" after a record-breaking 18-9 over Gerwyn Price in Blackpool.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7307398.jpg?20260726215327"
-    },
-    {
-      "source": "sky",
-      "title": "Wolff hits out at 'Teletubbies engineers' amid blue flag system failure",
-      "link": "https://www.skysports.com/f1/news/12040/13567071/toto-wolff-mercedes-team-principal-hits-out-at-teletubbies-engineers-amid-blue-flag-system-failure-at-hungarian-gp",
-      "summary": "Mercedes team principal Toto Wolff has criticised \"Teletubbies engineers\" as Oscar Piastri labelled backmarkers \"unacceptable\" after he made contact with Carlos Sainz at the Hungarian Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-f1-toto-wolff_7307307.jpg?20260726184110"
     }
   ]
 }
