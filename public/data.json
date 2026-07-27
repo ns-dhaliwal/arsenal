@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T16:11:43.008379+00:00",
+  "lastUpdated": "2026-07-27T18:20:48.726333+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -347,6 +347,14 @@
     },
     {
       "source": "sky",
+      "title": "O'Sullivan sets deadline to win record eighth snooker world title",
+      "link": "https://www.skysports.com/snooker/news/12040/13567523/ronnie-osullivan-sets-2028-deadline-to-beat-stephen-hendry-record-of-seven-world-snooker-championship-titles",
+      "summary": "Ronnie O'Sullivan has set himself a deadline of winning a record-breaking eighth World Snooker Championship by 2028 and revealed he will retire from the sport if required to play qualifying matches.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ronnie-osullivan_7308025.jpg?20260727182431"
+    },
+    {
+      "source": "sky",
       "title": "Brundle's verdict on 'relentless' Norris, Piastri-Sainz incident and Malaysia return",
       "link": "https://www.skysports.com/f1/news/12040/13567450/hungarian-gp-martin-brundle-on-relentless-lando-norris-oscar-piastri-carlos-sainz-incident-and-malaysia-return-to-f1-calendar",
       "summary": "The Hungarian Grand Prix was an entertaining way to finish the first part of the 2026 F1 season before the summer break. The top four or five runners were often all visible in the same camera shot, and that included drivers from all four front running teams.",
@@ -411,11 +419,59 @@
     },
     {
       "source": "sky",
+      "title": "Maldini quits as Italy technical director after 16 days over head coach saga",
+      "link": "https://www.skysports.com/football/news/12040/13567529/paolo-maldini-italian-football-federation-technical-director-quits-after-just-16-days-amid-head-coach-saga",
+      "summary": "Paolo Maldini has left his role as technical director of the Italian Football Federation (FIGC) following the decision not to appoint Andrea Pirlo as Italy head coach, according to Sky in Italy.",
+      "published": null,
+      "image": "https://e1.365dm.com/24/04/1920x1080/skysports-paolo-maldini-newcastle_6507968.jpg?20240402102744"
+    },
+    {
+      "source": "sky",
+      "title": "Djokovic and Sabalenka confirmed for US Open mixed doubles, no Alcaraz or Sinner yet",
+      "link": "https://www.skysports.com/tennis/news/12040/13567528/us-open-novak-djokovic-and-aryna-sabalenka-among-confirmed-mixed-doubles-pairs-but-no-carlos-alcaraz-or-jannik-sinner-yet",
+      "summary": "Novak Djokovic and Aryna Sabalenka will team up in mixed doubles at the US Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-novak-djokovic-aryna-sabalenka_7308060.jpg?20260727190748"
+    },
+    {
+      "source": "sky",
+      "title": "English football proposes trial to tackle goalkeeper timeouts",
+      "link": "https://www.skysports.com/football/news/12040/13567501/goalkeeper-tactical-timeouts-trial-for-new-rule-proposed-after-premier-league-efl-wsl-and-fa-reach-agreement",
+      "summary": "The top leagues in English football are set to trial new measures designed to tackle goalkeeper tactical timeouts in the upcoming season.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-gianluigi-donnarumma_7308022.jpg?20260727181550"
+    },
+    {
+      "source": "sky",
+      "title": "Brave edge MI London by one run in thriller",
+      "link": "https://www.skysports.com/cricket/news/12040/13567482/the-hundred-southern-brave-edge-mi-london-by-one-run-to-continue-unbeaten-start-in-thrilling-finish",
+      "summary": "Southern Brave edged MI London by one run in a thrilling encounter that came down to the last ball at the Utilita Bowl in Southampton.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-brave-hundred_7308023.jpg?20260727181953"
+    },
+    {
+      "source": "sky",
       "title": "Real to hold further talks over Vinicius Jr's future this week",
       "link": "https://www.skysports.com/football/news/12040/13567300/vinicius-jr-transfer-news-real-madrid-to-hold-further-talks-over-brazil-internationals-future-this-week-amid-arsenal-interest",
       "summary": "Real Madrid will hold further talks with Vincius Junior's representatives about his future this week.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-vinicius-jr-real-madrid_7307502.jpg?20260727082715"
+    },
+    {
+      "source": "sky",
+      "title": "Clean sweep? What the rest of 2026 looks like for Littler",
+      "link": "https://www.skysports.com/darts/news/12040/13567381/luke-littler-what-does-rest-of-2026-look-like-for-world-no-1-as-he-targets-the-clean-sweep-of-majors-after-world-matchplay-triumph",
+      "summary": "When Luke Littler arrived in Blackpool for the World Matchplay he made one thing clear: the outcome of this tournament would determine how the rest of his 2026 unfolded.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7305455.jpg?20260723224554"
+    },
+    {
+      "source": "sky",
+      "title": "Barry to face Tellez on Mayer vs Cameron undercard, live on Sky",
+      "link": "https://www.skysports.com/boxing/news/12040/13567495/jessica-barry-to-fight-reina-tellez-on-mikaela-mayer-vs-chantelle-cameron-undercard-on-august-29-in-birmingham-live-on-sky-sports",
+      "summary": "British boxer Jessica Barry will fight Texan top contender Reina Tellez on the undercard for Mikaela Mayer against Chantelle Cameron on August 29 in Birmingham, live on Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports_7307947.jpg?20260727171644"
     },
     {
       "source": "sky",
@@ -448,62 +504,6 @@
       "summary": "Alfred Johansson is only 35, but what can be expected from Motherwell under the youngest manager in the Scottish Premiership?",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-alfred-johansson_7305427.jpg?20260723220014"
-    },
-    {
-      "source": "sky",
-      "title": "F1 2026 team-mate head-to-heads at summer break",
-      "link": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-      "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-f1-2026-f1-field_7186813.jpg?20260309102551"
-    },
-    {
-      "source": "sky",
-      "title": "Nelson: Fury vs AJ excites me more than ever and Fury has the edge",
-      "link": "https://www.skysports.com/boxing/news/12040/13567094/tyson-fury-vs-anthony-joshua-excites-me-more-than-ever-and-fury-has-the-edge-says-johnny-nelson",
-      "summary": "This fight excites me more than it ever has, and I think Tyson Fury has the edge.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-nelson-boxing-fury_7306974.jpg?20260726113109"
-    },
-    {
-      "source": "sky",
-      "title": "Italy head coach saga continues as Pirlo ruled out amid Russian betting deal links",
-      "link": "https://www.skysports.com/football/news/12040/13567412/andrea-pirlo-italy-head-coach-saga-continues-as-former-midfielder-ruled-out-after-russian-betting-deal-backlash",
-      "summary": "Andrea Pirlo has announced he is no longer in contention to become the next Italy head coach following criticism of his commercial links with a Russian betting company.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-andrea-pirlo-italy_7305968.jpg?20260724161718"
-    },
-    {
-      "source": "sky",
-      "title": "Amazonian Dream looks to go back-to-back at Windsor",
-      "link": "https://www.skysports.com/racing/news/12040/13567076/today-on-sky-sports-racing-ripon-southwell-and-windsor",
-      "summary": "We have a busy day&#8217;s racing on Monday with flat action from Ripon, Southwell and Windsor, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7251848.jpg?20260517211644"
-    },
-    {
-      "source": "sky",
-      "title": "Littler wants to be 'greatest darts player ever' - how close is he to Taylor?",
-      "link": "https://www.skysports.com/darts/news/12040/13567366/world-matchplay-darts-luke-littler-draws-fresh-phil-taylor-comparisons-after-historic-record-breaking-blackpool-victory",
-      "summary": "Luke Littler has reiterated his dream to become the &#8216;greatest darts player ever&#8217; after his dominant Betfred World Matchplay title defence, with the world No 1&#8217;s latest win drawing further comparisons to Phil Taylor&#8217;s past record-breaking success.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-darts-luke-littler_7307172.jpg?20260726161226"
-    },
-    {
-      "source": "sky",
-      "title": "Rising star Koivun holds off Scheffler to win on third PGA Tour start as a pro",
-      "link": "https://www.skysports.com/golf/news/12040/13567261/3m-open-jackson-koivun-21-holds-off-scottie-scheffler-to-secure-victory-on-just-third-pga-tour-start-as-a-professional",
-      "summary": "Jackson Koivun held off a charge from world No 1 Scottie Scheffler to win his first PGA Tour title in just his third start as a professional as he triumphed by three strokes at the 3M Open in Minnesota.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jackson-koivun-pga-tour-golf_7307428.jpg?20260726231721"
-    },
-    {
-      "source": "sky",
-      "title": "McInnes challenges Rangers to have 'ambition' to win title",
-      "link": "https://www.skysports.com/football/news/12040/13567361/rangers-derek-mcinnes-challenges-players-to-have-ambition-to-win-scottish-premiership-title-ahead-of-season-opener",
-      "summary": "\"I don't see why we can't have the ambition to win a title this season.\"",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857"
     }
   ]
 }
