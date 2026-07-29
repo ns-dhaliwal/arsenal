@@ -1,9 +1,17 @@
 {
-  "lastUpdated": "2026-07-29T13:56:00.515207+00:00",
+  "lastUpdated": "2026-07-29T15:48:09.202188+00:00",
   "articles": [
     {
+      "source": "guardian",
+      "title": "This week’s soccer questions: is this Fifa’s Super League moment and can Arsenal land Vinícius Júnior?",
+      "link": "https://www.theguardian.com/football/2026/jul/29/fifa-gianni-infantino-plan-arsenal-vinicius-junior-liverpool-rebuild",
+      "summary": "We look at the controversy around the plan to sell stakes in the World Cup, what the Gunners need to get to the next level and Liverpool’s uncertain summerSo $15bn wasn’t enough. That’s the record amount Fifa is estimated to have made from the 2026 World Cup, but Gianni Infantino wants more. Approximately $20bn more through an investment plan that would see soccer’s governing body sell the commerc",
+      "published": "2026-07-29T14:23:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/8f707a505c48f6ade88661ba391598db4b6aee1b/271_0_4432_3548/master/4432.jpg?width=140&quality=85&auto=format&fit=max&s=c70db13f8c6c04c70b2c2c20ae3238b0"
+    },
+    {
       "source": "bbc",
-      "title": "Timber leaves Arsenal camp over groin issue",
+      "title": "Timber leaves Arsenal camp for groin check",
       "link": "https://www.bbc.co.uk/sport/football/articles/cpq8ndn0g7go?at_medium=RSS&at_campaign=rss",
       "summary": "Jurrien Timber travels back to London from Arsenal's training camp in Spain in a move related to the groin injury that caused him to miss the end of last season.",
       "published": "2026-07-29T13:14:41+00:00",
@@ -330,12 +338,28 @@
       "image": "https://i.guim.co.uk/img/media/f00071cd71df73780f7ded1cd044ee2cb5a774bd/155_0_1545_1236/master/1545.jpg?width=140&quality=85&auto=format&fit=max&s=7bc4ee24d935438cfb2cdfc4a9c62325"
     },
     {
-      "source": "guardian",
-      "title": "This week’s soccer questions: where next for Arsenal and did Liverpool fumble Slot’s departure?",
-      "link": "https://www.theguardian.com/football/2026/jun/04/this-weeks-soccer-questions-where-next-for-arsenal-and-did-liverpool-fumble-slots-departure",
-      "summary": "We look at Mikel Arteta’s next steps, Liverpool potentially missing out on an old flame and Anthony Gordon’s move to BarcelonaThe margins were so narrow that Arsenal might have finished Saturday as European champions had Gabriel Magalhães not skied his penalty in the shootout. Similarly, the Champions League trophy may have ended up in their grasp had Cristhian Mosquera stopped himself from trippi",
-      "published": "2026-06-04T09:00:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/fdb9c5d324c3550bd01185067644e8d9578dd6a4/603_0_5878_4705/master/5878.jpg?width=140&quality=85&auto=format&fit=max&s=d8b2fb147b5c590c69dd6205bd93b599"
+      "source": "sky",
+      "title": "Scottish Premiership A-Z guide for the new season!",
+      "link": "https://www.skysports.com/football/news/12040/13567942/scottish-premiership-2026-27-new-season-a-z-guide-ahead-of-opening-weekend-live-across-sky-sports",
+      "summary": "The new Scottish Premiership season is back with a bang!",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7306499.jpg?20260725143742"
+    },
+    {
+      "source": "sky",
+      "title": "Bow Echo roars home late to seal Sussex Stakes success",
+      "link": "https://www.skysports.com/racing/news/12040/13568132/goodwood-bow-echo-roars-home-late-to-seal-sussex-success",
+      "summary": "Bow Echo&#8217;s dazzling turn of foot once again came to the fore as he came out on top in an epic renewal of the Visit Qatar Sussex Stakes.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-bow-echo-racing-goodwood_7309583.jpg?20260729163432"
+    },
+    {
+      "source": "sky",
+      "title": "O'Neill promises more Celtic signings | McGregor: Where I want to be",
+      "link": "https://www.skysports.com/football/news/12040/13568047/martin-oneill-promises-more-celtic-signings-amid-fan-frustration-as-callum-mcgregor-opens-up-on-his-future",
+      "summary": "Martin O'Neill insists there is \"no question\" that Celtic will make more signings this summer, but he wants \"quality rather than quantity\".",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-celtic-oneill-martin_7252367.jpg?20260518152939"
     },
     {
       "source": "sky",
@@ -363,19 +387,19 @@
     },
     {
       "source": "sky",
+      "title": "Infantino offers £30m incentive for FIFA members to back controversial plans",
+      "link": "https://www.skysports.com/football/news/12040/13568022/world-cup",
+      "summary": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors with a &#163;30.1m ($40m) incentive to accept, a letter has revealed.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-infantino-world-cup_7308724.jpg?20260728164237"
+    },
+    {
+      "source": "sky",
       "title": "F1 season to end in Europe if Middle East unable to host final rounds",
       "link": "https://www.skysports.com/f1/news/12040/13568025/formula-1-2026-season-to-end-in-europe-if-qatar-and-abu-dhabi-unable-to-host-final-rounds-because-of-middle-east-conflict",
       "summary": "The 2026 Formula 1 season will end in Europe in the event the final two scheduled races in Qatar and Abu Dhabi need to be relocated because of the ongoing conflict in the Middle East, F1 president Stefano Domenicali has confirmed.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lando-norris-mclaren_7309216.jpg?20260729112009"
-    },
-    {
-      "source": "sky",
-      "title": "Infantino offers £30m incentive for FIFA members to back controversial plans",
-      "link": "https://www.skysports.com/football/news/12040/13568022/world-cup",
-      "summary": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors - with a $40m (&#163;30.1m) incentive to accept, a letter has revealed.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-infantino-world-cup_7308724.jpg?20260728164237"
     },
     {
       "source": "sky",
@@ -395,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Shankland on 'huge honour' of being new Rangers captain",
+      "link": "https://www.skysports.com/football/news/12040/13568154/lawrence-shankland-new-rangers-captain-on-huge-honour-of-being-handed-armband-for-new-season",
+      "summary": "Lawrence Shankland described as a \"huge honour\" his confirmation as the new captain of Rangers.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-shankland-rangers_7309497.jpg?20260729152107"
+    },
+    {
+      "source": "sky",
       "title": "The amateur cricket controversy that has made global headlines!",
       "link": "https://www.skysports.com/watch/video/13567996/what-is-the-amateur-cricket-controversy-that-has-made-global-headlines",
       "summary": "Sky Sports' Matt Kabir Floyd explains the amateur cricket story that has made global headlines.",
@@ -403,11 +435,27 @@
     },
     {
       "source": "sky",
+      "title": "Korda: Why Hull home major victory would be 'great for golf'",
+      "link": "https://www.skysports.com/golf/news/12040/13568028/aig-womens-open-nelly-korda-on-why-charley-hull-home-major-win-would-be-great-for-golf-at-royal-lytham-st-annes",
+      "summary": "Nelly Korda believes a Charley Hull victory at the AIG Women&#8217;s Open would be &#8216;great for golf&#8217; but is eyeing her own fresh major success at Royal Lytham & St Annes.",
+      "published": null,
+      "image": "https://e2.365dm.com/25/07/1920x1080/skysports-charley-hull-nelly-korda_6959440.jpg?20250707144002"
+    },
+    {
+      "source": "sky",
       "title": "Harrington picked as Europe's third vice-captain for 2027 Ryder Cup",
       "link": "https://www.skysports.com/golf/news/12040/13567993/ryder-cup-2027-padraig-harrington-named-team-europe-vice-captain-for-adare-manor-by-luke-donald",
       "summary": "Luke Donald has named Irishman Padraig Harrington as his third vice-captain for the 2027 Ryder Cup which will be played at Adare Manor in Ireland in September next year.",
       "published": null,
       "image": "https://e1.365dm.com/25/07/1920x1080/skysports-padraig-harrington_6974038.jpg?20250725225201"
+    },
+    {
+      "source": "sky",
+      "title": "Valakari tells St Johnstone to be 'solid and streetwise' on Premiership return",
+      "link": "https://www.skysports.com/football/news/12040/13568108/st-johnstone-must-be-solid-and-streetwise-on-scottish-premiership-return-says-manager-simo-valakari",
+      "summary": "Simo Valakari is telling his St Johnstone players to be \"solid and streetwise\" if they want to make an impact in the Scottish Premiership.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-valakari-simo-st-johnstone_7309451.jpg?20260729144255"
     },
     {
       "source": "sky",
@@ -443,59 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Real Madrid want Rodri - How would Man City cope without him?",
+      "title": "Real Madrid want Rodri - but can Man City afford to lose him?",
       "link": "https://www.skysports.com/football/news/12040/13567710/rodri-to-real-madrid-how-will-man-city-and-enzo-maresca-cope-without-the-premier-leagues-best-central-midfielder-if-he-moves",
-      "summary": "Real Madrid chiefs clearly took a keen interest in this summer's World Cup. So much so that it has motivated them to move for Spain's prize midfielder Rodri a year earlier than they had planned.",
+      "summary": "Real Madrid chiefs clearly took a keen interest in this summer's World Cup. So much so that it has motivated them to move for Spain's prize midfielder Rodri after he was named player of the tournament.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-football-premier-league_7309117.jpg?20260729095703"
-    },
-    {
-      "source": "sky",
-      "title": "Naismith reveals talks over future Scotland role but plays down Moyes links",
-      "link": "https://www.skysports.com/football/news/12040/13568024/scotland-assistant-steven-naismith-plays-down-david-moyes-links-as-he-reveals-talks-over-future-national-role",
-      "summary": "Scotland assistant Steven Naismith expects to remain involved with the national team regardless of who is appointed as Steve Clarke&#8217;s successor.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-steven-naismith-scotland_7309161.jpg?20260729103513"
-    },
-    {
-      "source": "sky",
-      "title": "Who needs late Solheim Cup push for Europe at AIG Women's Open?",
-      "link": "https://www.skysports.com/golf/news/12040/13567939/solheim-cup-2026-who-needs-big-week-at-aig-womens-open-to-qualify-team-europe-as-things-stand-ahead-of-final-major",
-      "summary": "The race to feature for Team Europe in the Solheim Cup reaches a climax this week at the AIG Women&#8217;s Open, leaving one last chance for players to force their way into Anna Nordqvist&#8217;s selection plans.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-golf-solheim-cup_7303960.jpg?20260722093238"
-    },
-    {
-      "source": "sky",
-      "title": "McCann aims to continue Kilmarnock's upward progress",
-      "link": "https://www.skysports.com/football/news/12040/13567995/kilmarnock-boss-neil-mccann-targets-scottish-premiership-progress-and-sets-relegation-fears-aside",
-      "summary": "\"If you are standing still, you're effectively going backwards.\"",
-      "published": null,
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-kilmarnock-hearts_7192825.jpg?20260314222727"
-    },
-    {
-      "source": "sky",
-      "title": "Next darting superstar? Coates, 20, wins maiden PDC title",
-      "link": "https://www.skysports.com/darts/news/12040/13567883/darts-players-championship-25-henry-coates-wins-maiden-tournament-as-gian-van-veen-michael-van-gerwen-bow-out-early",
-      "summary": "Henry Coates sensationally won his maiden title at Players Championship 25 at Hildesheim in Germany.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-coates-darts_7308856.jpg?20260728192055"
-    },
-    {
-      "source": "sky",
-      "title": "Giants survive late York fightback to end 12-match losing run",
-      "link": "https://www.skysports.com/watch/video/13566958/york-knights-22-24-huddersfield-giants-giants-end-12-match-super-league-losing-run",
-      "summary": "Highlights of Huddersfield Giants&#8217; 24-22 victory over York Knights as they survived a dramatic late fightback to end a 12-match losing run.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-york-huddersfield_7306647.jpg?20260725173239"
-    },
-    {
-      "source": "sky",
-      "title": "Leopards roar past Warrington to extend winning run",
-      "link": "https://www.skysports.com/watch/video/13566993/leigh-leopards-28-12-warrington-wolves-leopards-claim-fifth-straight-super-league-win",
-      "summary": "Highlights of Leigh Leopards&#8217; 28-12 win over Warrington Wolves as five different try scorers helped them secure a fifth consecutive Super League win.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leigh-warrington_7306720.jpg?20260725193243"
     }
   ]
 }
