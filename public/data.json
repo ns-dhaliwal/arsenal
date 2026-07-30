@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-30T13:45:39.307989+00:00",
+  "lastUpdated": "2026-07-30T15:47:39.968479+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Newcastle captain Guimaraes expected to join Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
+      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m.",
+      "published": "2026-07-30T14:39:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1db/live/8274e610-8c1f-11f1-a7ab-8b30adf0800a.jpg"
+    },
     {
       "source": "bbc",
       "title": "Four pointers to most open Premier League title race in years",
@@ -347,6 +355,70 @@
     },
     {
       "source": "sky",
+      "title": "England's Campbell smashes Commonwealth Games record as she dances to gold",
+      "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-emily-campbell-commonwealth-games_7310541.jpg?20260730163036"
+    },
+    {
+      "source": "sky",
+      "title": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+      "link": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
+      "summary": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758"
+    },
+    {
+      "source": "sky",
+      "title": "AIG Women's Open: Full R2 groupings and Royal Lytham tee times",
+      "link": "https://www.skysports.com/golf/news/12040/13568349/aig-womens-open-2026-tee-times-full-r2-groupings-and-start-times-for-second-round-at-royal-lytham-st-annes",
+      "summary": "Groupings and tee times for the second round of the 50th AIG Women's Open, held at Royal Lytham & St Annes Golf Club in Lancashire.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-yealimi-noh-golf_7310459.jpg?20260730152427"
+    },
+    {
+      "source": "sky",
+      "title": "Carra: Liverpool don't need Barcola - they need to replace Salah!",
+      "link": "https://www.skysports.com/football/news/12040/13568493/bradley-barcola-transfer-news-jamie-carragher-says-liverpool-do-not-need-psg-winger-as-much-as-they-need-a-mohamed-salah-replacement",
+      "summary": "Jamie Carragher believes Liverpool do not need to buy Bradley Barcola from Paris Saint-Germain - urging his former club to focus on securing a replacement for Mohamed Salah on the right wing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-liverpool-barcola_7310493.jpg?20260730154432"
+    },
+    {
+      "source": "sky",
+      "title": "Britain's Allen becomes first female fighter to sign with Zuffa Boxing",
+      "link": "https://www.skysports.com/boxing/news/12040/13568313/kayla-allen-decorated-british-amateur-becomes-first-female-fighter-to-sign-with-zuffa-boxing-ahead-of-september-pro-debut",
+      "summary": "Decorated British amateur Kayla Allen will make her professional debut in London in September after becoming the first female fighter to sign with Zuffa Boxing.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-boxing-kayla-allen_7309963.jpg?20260730081946"
+    },
+    {
+      "source": "sky",
+      "title": "'Dream come true' - Makhanya seals Rangers move from MLS",
+      "link": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
+      "summary": "Rangers&#160;have completed the signing of centre-back&#160;Olwethu Makhanya&#160;from&#160;Philadelphia Union&#160;in a deal worth around &#163;3m.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-olwethu-makhanya_7308057.jpg?20260727190346"
+    },
+    {
+      "source": "sky",
+      "title": "Writing on the wall? The inside story of Howe's Newcastle exit",
+      "link": "https://www.skysports.com/football/news/12040/13568509/why-eddie-howe-left-newcastle-the-inside-story-of-the-magpies-trophy-winning-managers-departure",
+      "summary": "Eddie Howe questioned whether it was time for a change and suggested that perhaps the Newcastle team needed new energy following the defeat to Fulham on the final day of last season.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-premier-league-newcastle_7310376.jpg?20260730141623"
+    },
+    {
+      "source": "sky",
+      "title": "Scottish Rugby chief sacked following investigation into conduct",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13568470/scottish-rugby-chief-executive-alex-williamson-sacked-following-independent-investigation-into-his-conduct",
+      "summary": "Scottish Rugby has sacked chief executive Alex Williamson following an independent investigation into his conduct.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-williamson-scotland_7310420.jpg?20260730150612"
+    },
+    {
+      "source": "sky",
       "title": "Real Madrid expected to make offer for Rodri",
       "link": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest",
       "summary": "Real Madrid are expected to make an offer for&#160;Manchester City&#160;midfielder&#160;Rodri.",
@@ -360,6 +432,22 @@
       "summary": "England have announced the appointment of Stephen Fleming as coach of the men's Test team and he will take over after the three-Test series against Pakistan. We take a look at the jobs on his to-do list ahead of a bumper year&#8230;",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-stephen-fleming-cricket_7309902.jpg?20260730072700"
+    },
+    {
+      "source": "sky",
+      "title": "'A retrograde step' - Butcher criticises Root's return as England captain",
+      "link": "https://www.skysports.com/cricket/news/12040/13568443/joe-roots-reappointment-as-england-test-captain-criticised-as-retrograde-step-by-mark-butcher",
+      "summary": "Mark Butcher has criticised the decision to reappoint Joe Root as England captain, describing his return to the position as \"a retrograde step\" for the Test side.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-joe-root-england_7310331.jpg?20260730133155"
+    },
+    {
+      "source": "sky",
+      "title": "AIG Women's Open LIVE! Thitikul level with Ryu as Hull makes birdie run",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13568117/aig-womens-open-first-round-live-latest-scores-updates-highlights-as-nelly-korda-charley-hull-chase-major-victory",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-charley-hull-golf_7310553.jpg?20260730163724"
     },
     {
       "source": "sky",
@@ -395,6 +483,14 @@
     },
     {
       "source": "sky",
+      "title": "Breaking down FIFA's stake sale and whether it's necessary",
+      "link": "https://www.skysports.com/football/news/12040/13568465/breaking-down-fifas-stake-sale-how-it-compares-to-other-sports-and-whether-its-necessary",
+      "summary": "The news on Tuesday, first reported by the Financial Times, that FIFA is preparing to sell off part of its commercial operations spread shock and outrage across the sporting world.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-world-cup-fifa_7310393.jpg?20260730144402"
+    },
+    {
+      "source": "sky",
       "title": "Women's Super League fixtures announced for 2026/27 season",
       "link": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round",
       "summary": "Manchester City will begin their Women's Super League title defence against newly-promoted Birmingham City after London City Lionesses have opened the 2026/27 season against Manchester United, live on Sky Sports.",
@@ -403,107 +499,19 @@
     },
     {
       "source": "sky",
-      "title": "Howe leaves Newcastle - Saudi-based Jaissle set to replace him",
-      "link": "https://www.skysports.com/football/news/12040/13568323/eddie-howe-newcastle-head-coach-leaves-role-with-magpies-after-nearly-five-years-in-charge",
-      "summary": "Eddie Howe has left his role as Newcastle United head coach.&#160;&#160;",
+      "title": "Braga: 'Every player has ambitions' | Vranken: Hearts have to focus on future",
+      "link": "https://www.skysports.com/football/news/12040/13568360/hearts-claudio-braga-opens-up-on-ambitions-as-new-boss-wouter-vrancken-tells-players-to-put-energy-into-whats-to-come",
+      "summary": "Hearts striker Claudio Braga has opened up on his future, insisting \"every player has ambitions\".",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-football-premier-league_7310024.jpg?20260730092057"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-braga-claudio-hearts_7310417.jpg?20260730150453"
     },
     {
       "source": "sky",
-      "title": "Norrie into Los Cabos quarter-finals as Osaka advances in Washington",
-      "link": "https://www.skysports.com/tennis/news/12040/13568318/cameron-norrie-reaches-los-cabos-open-quarter-finals-as-naomi-osaka-continues-strong-form-at-dc-open-in-washington",
-      "summary": "Cameron Norrie continued his return to form at the Los Cabos Open by beating James Duckworth in straight sets to reach the quarter-finals.",
+      "title": "Nordqvist 'shattered' as she juggles major hopes with Team Europe role",
+      "link": "https://www.skysports.com/golf/news/12040/13568346/aig-womens-open-anna-nordqvist-keen-to-focus-on-own-major-play-and-discusses-challenges-balancing-team-europe-role",
+      "summary": "Solheim Cup captain Anna Nordqvist wants to keep focus on her AIG Women&#8217;s Open performance after ruling herself out of being a playing captain for Team Europe.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cameron-norrie-los-cabos_7310023.jpg?20260730091947"
-    },
-    {
-      "source": "sky",
-      "title": "Mullinax receives six-month ban for anti-doping violation",
-      "link": "https://www.skysports.com/golf/news/12040/13568441/pga-tour-trey-mullinax-receives-six-month-ban-for-anti-doping-violation-after-testing-positive-for-controlled-substance",
-      "summary": "Golfer Trey Mullinax has received a six-month ban after testing positive for a substance prohibited by the World Anti-Doping Agency.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mullinax-pga-tour_7310324.jpg?20260730132656"
-    },
-    {
-      "source": "sky",
-      "title": "AIG Women's Open LIVE! Hull chases Ryu as Woad impresses, Korda struggles",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13568117/aig-womens-open-first-round-live-latest-scores-updates-highlights-as-nelly-korda-charley-hull-chase-major-victory",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lottie-woad-golf_7310319.jpg?20260730131920"
-    },
-    {
-      "source": "sky",
-      "title": "St Mirren boss McLeish charged by SFA for referee criticism",
-      "link": "https://www.skysports.com/football/news/12040/13568415/craig-mcleish-st-mirren-manager-charged-by-scottish-fa-for-criticism-of-referee-in-league-cup-defeat",
-      "summary": "St Mirren manager Craig McLeish has been charged by the Scottish FA over comments he made about referee Sean Murdoch.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-craig-mcleish-st-mirren_7310269.jpg?20260730123304"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Pyramid and Bintward headline Wolverhampton feature",
-      "link": "https://www.skysports.com/racing/news/12040/13567858/today-on-sky-sports-racing-pyramid-and-bintward-headline-wolverhampton-feature",
-      "summary": "Wolverhampton is the centre of attention on Thursday night, with eight races scheduled on the all-weather, all live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-wolverhampton-racing_7308773.jpg?20260728173038"
-    },
-    {
-      "source": "sky",
-      "title": "'All to play for!' - Why Norris can still retain his F1 title",
-      "link": "https://www.skysports.com/f1/news/12040/13568140/lando-norris-mclaren-drivers-hopes-of-chasing-down-kimi-antonelli-in-2026-f1-title-battle-assessed-on-the-f1-show-podcast",
-      "summary": "Reigning world champion Lando Norris is capable of pulling off a stunning fightback to retain his Formula 1 drivers' title, according to Sky Sports F1's David Croft.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-land-lando-norris_7309519.jpg?20260729154844"
-    },
-    {
-      "source": "sky",
-      "title": "Draper given wild card for National Bank Open in Montreal",
-      "link": "https://www.skysports.com/tennis/news/12040/13568280/jack-draper-given-wild-card-for-national-bank-open-in-montreal-as-he-returns-from-injury-ahead-of-us-open-qualifying-campaign",
-      "summary": "Jack Draper has been given a wild card for the National Bank Open in Montreal, which is live on Sky Sports from Monday August 3.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-tennis_7285778.jpg?20260629145506"
-    },
-    {
-      "source": "sky",
-      "title": "Is Littler most dominant sportsperson in the world?",
-      "link": "https://www.skysports.com/darts/news/12040/13568177/luke-littler-edges-scottie-scheffler-and-jannik-sinner-as-the-most-dominant-sportsperson-love-the-darts-podcast",
-      "summary": "Teenage dart sensation Luke Littler has left the darts world questioning if anyone will ever get near him again after winning the World Matchplay Darts on Sunday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7307398.jpg?20260726215327"
-    },
-    {
-      "source": "sky",
-      "title": "'A complete 360!' | Woad brutally lips out for EAGLE!",
-      "link": "https://www.skysports.com/watch/video/13568361/a-complete-360-lottie-woad-brutally-lips-out-for-eagle",
-      "summary": "Lottie Woad had an eagle putt on the sixth hole at the AIG Women's Open but brutally lipped-out for eagle.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ra-a_7310092.jpg?20260730103559"
-    },
-    {
-      "source": "sky",
-      "title": "Bialecki clinches Players Championship 26 title",
-      "link": "https://www.skysports.com/darts/news/12040/13568167/players-championship-26-sebastian-bialecki-claims-second-pdc-ranking-title-as-henry-coates-and-beau-greaves-shine",
-      "summary": "Sebastian Bialecki secured his second PDC ranking title with a hard-fought 8-6 victory against Mario Vandenbogaerde in Wednesday's Players Championship 26 final.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-darts-sebastian-bialecki_7309753.jpg?20260729202643"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool beat Wrexham in New York to maintain perfect pre-season under Iraola",
-      "link": "https://www.skysports.com/football/liverpool-vs-wrexham/report/554986",
-      "summary": "Liverpool continued their winning start to life under Andoni Iraola by beating Wrexham 1-0 in their second pre-season contest ahead of the 2026/27 campaign.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-dominik-szoboszlai_7309871.jpg?20260730063847"
-    },
-    {
-      "source": "sky",
-      "title": "England dominate Tonga in must-win clash at Commonwealth Games",
-      "link": "https://www.skysports.com/netball/news/12040/13568214/commonwealth-games-england-dominate-tonga-in-must-win-contest-as-quest-for-semi-final-spot-continues",
-      "summary": "England dominated Tonga 94-32 in their must-win Pool A game at the Commonwealth Games at the Hydro in Glasgow.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-eleanor-cardwell_7309706.jpg?20260729190004"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-anna-nordqvist-golf_7310400.jpg?20260730145145"
     }
   ]
 }
