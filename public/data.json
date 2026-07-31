@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T20:58:09.515836+00:00",
+  "lastUpdated": "2026-07-31T22:07:39.562704+00:00",
   "articles": [
     {
       "source": "guardian",
-      "title": "Arsenal’s next step: title defence may hinge on keeping a drained squad fit",
+      "title": "Arsenal’s title defence: keeping tired players fit and the Vinícius question",
       "link": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
-      "summary": "Adding to a capable team is not easy, while the club may not dare to shatter the wage structure for Vinícius JuniorAfter beating MK Dons 3-0 in a training-ground friendly last weekend, Arsenal truly begin their pre-season programme against Girona on Saturday evening. It marks a return to action for the Premier League champions, who will want to show their success last season was not a one-off.Reta",
+      "summary": "Key players have piled up extra minutes at the World Cup and signing Vinícius Júnior would smash their wage structureAfter beating MK Dons 3-0 in a training-ground friendly last weekend, Arsenal truly begin their pre-season programme against Girona on Saturday evening. It marks a return to action for the Premier League champions, who will want to show their success last season was not a one-off.Re",
       "published": "2026-07-31T19:00:31+00:00",
       "image": "https://i.guim.co.uk/img/media/005b4be6e85e04fcd104c9e15ccb49c93c54983d/0_447_5380_4304/master/5380.jpg?width=140&quality=85&auto=format&fit=max&s=938eec401a0d45d11b517333c2bbc444"
     },
@@ -339,19 +339,19 @@
     },
     {
       "source": "sky",
+      "title": "Leeds thrash Toulouse as Wigan beat Leigh",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13568845/super-league-leeds-rhinos-thrash-toulouse-olympique-as-wigan-warriors-beat-leigh-leopards-and-hull-kr-defeat-bradford-bulls",
+      "summary": "Jake Connor starred as Super League leaders Leeds ran in eight tries in a 46-0 rout of Toulouse while Wigan Warriors remain just two points behind after their 20-8 win over Leigh Leopards.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-leeds-rhinos-rugby-league_7311539.jpg?20260731220344"
+    },
+    {
+      "source": "sky",
       "title": "Hunter-Bell wins 800m gold at Commonwealth Games on mixed day for British boxers",
       "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-athletics-georgia-hunter-bell_7311489.jpg?20260731204739"
-    },
-    {
-      "source": "sky",
-      "title": "Derek McInnes' Rangers held to draw in season opener at Dundee Utd LIVE!",
-      "link": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thelo-aasgaard-rangers_7311516.jpg?20260731212525"
     },
     {
       "source": "sky",
@@ -371,7 +371,7 @@
     },
     {
       "source": "sky",
-      "title": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
+      "title": "Newcastle to appoint Jaissle as new boss after Howe exit confirmed",
       "link": "https://www.skysports.com/football/news/12040/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed",
       "summary": "Newcastle are set to announce Matthias Jaissle as their new head coach on Saturday after Eddie Howe's exit was confirmed.",
       "published": null,
@@ -408,6 +408,14 @@
       "summary": "A look at how long each Formula 1 driver's contract is believed to be, as it stands in 2026, amid the potential for some key moves heading into the 2027 season.",
       "published": null,
       "image": "https://e2.365dm.com/26/02/1920x1080/skysports-f1-franco-colapinto_7174707.jpg?20260225130238"
+    },
+    {
+      "source": "sky",
+      "title": "New Rangers era gets off to underwhelming start at Dundee United",
+      "link": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333",
+      "summary": "Rangers got the Derek McInnes era off to a stuttering start as they were forced to come from behind to earn a draw at Dundee United in the opening game of the Scottish Premiership season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153"
     },
     {
       "source": "sky",
@@ -488,14 +496,6 @@
       "summary": "Former AC Milan and Italy defender Franco Baresi has died aged 66.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-obit-football-serie-a_7311002.jpg?20260731102019"
-    },
-    {
-      "source": "sky",
-      "title": "Dunkley and Gardner lead Rockets to dominant win over Super Giants",
-      "link": "https://www.skysports.com/cricket/news/12040/13568839/the-hundred-trent-rockets-beat-manchester-super-giants-to-climb-up-to-second-in-womens-competition",
-      "summary": "Trent Rockets ended the Manchester Super Giants&#8217; unbeaten start to The Hundred after handing them a 31-run defeat at Old Trafford Cricket Ground thanks to half-centuries from Sophia Dunkley and Sophie Luff and a four-wicket haul by Ash Gardner.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-trent-rockets-cricket_7311386.jpg?20260731174435"
     }
   ]
 }
