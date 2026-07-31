@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T10:33:02.606192+00:00",
+  "lastUpdated": "2026-07-31T12:52:03.758869+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
+      "link": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
+      "summary": "Midfielder may still fly to La Manga on SundayIncoming head coach Jaissle to meet squad in SpainBruno Guimarães was not on Newcastle’s flight to Murcia on Friday lunchtime as Eddie Howe’s former players prepared to meet their new head coach in southern Spain.As Guimarães, who is believed to be in Brazil, appeared to inch closer towards a transfer to Arsenal, Matthias Jaissle was completing his man",
+      "published": "2026-07-31T12:50:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/135dfe03e527f9da3de6da422555d54769325268/315_0_5222_4178/master/5222.jpg?width=140&quality=85&auto=format&fit=max&s=7105a697f89697d6630cdc0f29857a63"
+    },
     {
       "source": "bbc",
       "title": "Newcastle captain Guimaraes expected to join Arsenal",
@@ -330,20 +338,44 @@
       "image": "https://i.guim.co.uk/img/media/842b10aeca9eb4663a3ff6d213161af5037bdd8d/675_237_4397_3517/master/4397.jpg?width=140&quality=85&auto=format&fit=max&s=e8260f458d1a0dc31be32bfe1063b0c8"
     },
     {
-      "source": "guardian",
-      "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
-      "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
-      "summary": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell backWhat the world needs now is one last hot take on Arsenal and the Champions League final before we are all brought together in beautiful symbiotic harmony by the World Cup.Key questions such as: was it a good game? Was this the perfect way to take on the best midfield and attack in worl",
-      "published": "2026-06-04T11:00:05+00:00",
-      "image": "https://i.guim.co.uk/img/media/f00071cd71df73780f7ded1cd044ee2cb5a774bd/155_0_1545_1236/master/1545.jpg?width=140&quality=85&auto=format&fit=max&s=7bc4ee24d935438cfb2cdfc4a9c62325"
+      "source": "sky",
+      "title": "'I want it so badly!' - Emotional Tamburlini faces nervous Solheim wait",
+      "link": "https://www.skysports.com/golf/news/12040/13568723/solheim-cup-chiara-tamburlini-faces-nervous-wait-over-team-europe-debut-after-emotional-aig-womens-open-missed-cut",
+      "summary": "An emotional Chiara Tamburlini faces a nervous wait to see if she has qualified for Team Europe&#8217;s Solheim Cup side after missing the cut at the AIG Women&#8217;s Open.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-chiara-tamburlini_7311185.jpg?20260731132601"
     },
     {
       "source": "sky",
-      "title": "'Anything is possible' - Key open to Stokes Ashes return",
+      "title": "'Sort yourself out, Harry' - Nasser urges Brook to mature after captaincy snub",
+      "link": "https://www.skysports.com/cricket/news/12040/13568743/harry-brook-nasser-hussain-urges-england-white-ball-captain-to-mature-as-rob-key-confirms-captaincy-snub-unrelated-to-workload",
+      "summary": "Nasser Hussain has urged Harry Brook to mature after the England white-ball skipper was snubbed for the Test captaincy despite England cricket chief Rob Key confirming the decision was not related to his workload.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-harry-brook-england-cricket-training_7297111.jpg?20260714084151"
+    },
+    {
+      "source": "sky",
+      "title": "'Genuine concern' expressed for Saltburn members amid 'Clicky Ponting' scandal",
+      "link": "https://www.skysports.com/cricket/news/12040/13568740/clicky-ponting-scandal-north-yorkshire-and-south-durham-cricket-league-expresses-genuine-concern-for-saltburn-members",
+      "summary": "The North Yorkshire and South Durham Cricket League has expressed its \"genuine concern for the welfare\" of Saltburn Cricket Club members as it continues its inquiry into the 'Clicky Ponting' cheating controversy.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-cricket-saltburn_7309191.jpg?20260729105957"
+    },
+    {
+      "source": "sky",
+      "title": "'It would be a brilliant story' - Key open to Stokes making Ashes return",
       "link": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia",
       "summary": "England cricket chief Rob Key has left the door open to Ben Stokes coming out of international retirement to play in next summer's home Ashes series against Australia.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-ben-stokes-england_7311047.jpg?20260731110001"
+    },
+    {
+      "source": "sky",
+      "title": "Stavley, Ghodoussi company makes offer for West Ham stake",
+      "link": "https://www.skysports.com/football/news/12040/13568730/west-ham-amanda-staveley-and-mehrdad-ghodoussis-pcp-capital-partners-make-offer-for-stake-in-championship-club",
+      "summary": "Amanda Staveley and husband Mehrdad Ghodoussi's PCP Capital Partners have made an offer to buy a 25.1 per cent stake in West Ham.",
+      "published": null,
+      "image": "https://e2.365dm.com/24/07/1920x1080/skysports-amanda-staveley-newcastle_6622913.jpg?20240710123558"
     },
     {
       "source": "sky",
@@ -371,27 +403,19 @@
     },
     {
       "source": "sky",
-      "title": "West Ham in talks for Celtic midfielder Engels",
+      "title": "West Ham in talks for Engels as Celtic demand £25m",
       "link": "https://www.skysports.com/football/news/12040/13568688/west-ham-transfer-news-hammers-in-talks-to-sign-celtic-midfielder-arne-engels-amid-premier-league-interest",
-      "summary": "West Ham are in talks with Celtic over the signing of midfielder Arne Engels.",
+      "summary": "West Ham are in talks with Celtic over the signing of Arne Engels, with the Scottish club holding out for a deal worth around &#163;25m for the midfielder.",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-engels-celtic_7250172.jpg?20260516133716"
     },
     {
       "source": "sky",
-      "title": "AIG Women's Open LIVE! Hull makes birdie run to close on major lead",
+      "title": "AIG Women's Open LIVE! Hull chips in to close on lead as Woad slips back",
       "link": "https://www.skysports.com/golf/live-blog/12040/13568342/aig-womens-open-live-latest-scores-updates-highlights-from-second-round-as-charley-hull-lottie-woad-chase-major-win",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-charlie-hull_7310719.jpg?20260730203946"
-    },
-    {
-      "source": "sky",
-      "title": "Norrie routs Tomic to reach first semi-final of 2026",
-      "link": "https://www.skysports.com/tennis/news/12040/13568658/cameron-norrie-thrashes-bernard-tomic-at-los-cabos-open-to-reach-his-first-semi-final-of-2026-season",
-      "summary": "Cameron Norrie raced into his first semi-final of 2026 with a 6-1 6-0 thrashing of Bernard Tomic at the Los Cabos Open.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cam-cameron-norrie_7310909.jpg?20260731075624"
     },
     {
       "source": "sky",
@@ -400,6 +424,14 @@
       "summary": "Carlos Cordeiro - a senior advisor to FIFA president Gianni Infantino - has resigned in protest at plans to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
+    },
+    {
+      "source": "sky",
+      "title": "Norrie routs Tomic to reach first semi-final of 2026",
+      "link": "https://www.skysports.com/tennis/news/12040/13568658/cameron-norrie-thrashes-bernard-tomic-at-los-cabos-open-to-reach-his-first-semi-final-of-2026-season",
+      "summary": "Cameron Norrie raced into his first semi-final of 2026 with a 6-1 6-0 thrashing of Bernard Tomic at the Los Cabos Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-cam-cameron-norrie_7310909.jpg?20260731075624"
     },
     {
       "source": "sky",
@@ -464,38 +496,6 @@
       "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
       "published": null,
       "image": "https://e2.365dm.com/26/07/1920x1080/skysports-joe-gomez_7306847.jpg?20260726013447"
-    },
-    {
-      "source": "sky",
-      "title": "Diamond Necklace sparkles in Nassau Stakes",
-      "link": "https://www.skysports.com/racing/news/12040/13568537/diamond-necklace-sparkles-in-nassau-stakes",
-      "summary": "Diamond Necklace lived up to her billing when extending her unbeaten record with a dominant display in the Qatar Nassau Stakes at Goodwood.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ryan-moore-goodwood_7310582.jpg?20260730171357"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
-      "link": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "published": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "'Desperate, tone deaf' - Why FIFA's 4am statement raises more questions",
-      "link": "https://www.skysports.com/watch/video/13568665/fifas-response-amid-criticism-of-decision-to-launch-consultation-on-selling-stakes-in-a-world-cup-analysed",
-      "summary": "Sky Sports' Kaveh Solhekol analyses FIFA's statement in response to criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-infantino-fifa_7310893.jpg?20260731073753"
-    },
-    {
-      "source": "sky",
-      "title": "'Serious questions now being asked' | Is this the beginning of the end for Infantino?",
-      "link": "https://www.skysports.com/watch/video/13568648/is-this-the-beginning-of-the-end-for-infantino",
-      "summary": "Kaveh Solhekol explains why FIFA president is under serious pressure after UEFA said they will boycott FIFA tournaments if the proposal to sell off a stake in the World Cup goes ahead and CONCACAF also rejected the idea of the proposals.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-infantino-fifa_7310846.jpg?20260730234703"
     }
   ]
 }
