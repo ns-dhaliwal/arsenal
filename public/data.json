@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T00:08:03.117716+00:00",
+  "lastUpdated": "2026-07-31T04:18:26.933886+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -282,14 +282,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb8/live/3c8452d0-73f6-11f1-bb7f-e5226e63ffb3.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal head of sports science and performance departs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgzqwe0p3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal head of sports science performance Tom Allen is the latest member of the club's backroom team set to leave the club.",
-      "published": "2026-06-29T14:56:47+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0919/live/534caa30-73c9-11f1-8546-8f19e4fe30f4.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Club World Cup likely to expand for 2029 with more Premier League clubs involved",
       "link": "https://www.theguardian.com/football/2026/jun/25/fifa-agrees-club-world-cup-joint-venture-efc-boost-premier-league-clubs",
@@ -427,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Britain's Norrie takes on Tomic for place in Los Cabos semi-finals",
+      "link": "https://www.skysports.com/tennis/scores-schedule",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-cameron-norrie-tennis_7231584.jpg?20260426195214"
+    },
+    {
+      "source": "sky",
       "title": "Eubank Jr's negotiations for Nigeria ring return 'coming along nicely'",
       "link": "https://www.skysports.com/boxing/news/12040/13568430/chris-eubank-jr-nigeria-ring-return-negotiations-coming-along-nicely",
       "summary": "Chris Eubank Jr's negotiations to fight in Nigeria this December are \"coming along nicely,\" according to Balmoral Promotions founder Ezekiel Adamu.",
@@ -504,14 +504,6 @@
       "summary": "Southern Brave men's team are alive in The Hundred after a desperate scramble to defend just 128 against Birmingham Phoenix in front of a crowd that flipped from subdued to raucous as Jofra Archer, Chris Jordan and Luke Wood clinched it at the death.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jofra-archer-the-hundred_7310739.jpg?20260730210358"
-    },
-    {
-      "source": "sky",
-      "title": "'Dream come true' - Makhanya seals Rangers move from MLS",
-      "link": "https://www.skysports.com/football/news/12040/13568464/rangers-transfer-news-olwethu-makhanya-joins-in-3m-deal-from-mls-side-philadelphia-union",
-      "summary": "Rangers&#160;have completed the signing of centre-back&#160;Olwethu Makhanya&#160;from&#160;Philadelphia Union&#160;in a deal worth around &#163;3m.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-olwethu-makhanya_7308057.jpg?20260727190346"
     }
   ]
 }
