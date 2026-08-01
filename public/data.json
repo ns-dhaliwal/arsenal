@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T20:06:41.890130+00:00",
+  "lastUpdated": "2026-08-01T21:48:58.909620+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -282,14 +282,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26be/live/5cc62090-7622-11f1-9cba-11a4f8930054.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal consider Barcola as alternative to Rogers",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal are expected to step up their interest in Paris Saint-Germain's Bradley Barcola this week after receiving encouragement that the forward could be available this summer.",
-      "published": "2026-06-30T17:13:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5162/live/66d88340-74a4-11f1-9c5b-41132a229f02.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Club World Cup likely to expand for 2029 with more Premier League clubs involved",
       "link": "https://www.theguardian.com/football/2026/jun/25/fifa-agrees-club-world-cup-joint-venture-efc-boost-premier-league-clubs",
@@ -347,11 +339,27 @@
     },
     {
       "source": "sky",
+      "title": "Highlights: Aberdeen score twice after ninety minutes to beat Hearts",
+      "link": "https://www.skysports.com/watch/video/13569093/aberdeen-2-1-hearts-scottish-premiership-highlights",
+      "summary": "Highlights from the Scottish Premiership match between Aberdeen and Hearts.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aberdeen-hearts-spfl_7311989.jpg?20260801195431"
+    },
+    {
+      "source": "sky",
       "title": "Evening Saigon wins Stewards' Cup at Goodwood",
       "link": "https://www.skysports.com/racing/news/12040/13569075/goodwood-evening-saigon-continues-magical-week-for-wathnan-racing-with-stewards-cup-win-as-goodie-two-shoes-also-prevails",
       "summary": "James Doyle picked the right one from three choices as his bosses at Wathnan Racing topped an amazing week at Glorious Goodwood with victory in the Coral Stewards' Cup with Evening Saigon.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-evening-saigon-james-doyle_7311934.jpg?20260801175623"
+    },
+    {
+      "source": "sky",
+      "title": "Highlights: Phillips brace gives St Mirren victory at Falkirk",
+      "link": "https://www.skysports.com/watch/video/13569059/falkirk-0-2-st-mirren-scottish-premiership-highlights",
+      "summary": "Highlights from the Scottish Premiership match between Falkirk and St Mirren.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-falkirk-st-mirren_7311941.jpg?20260801180845"
     },
     {
       "source": "sky",
@@ -392,6 +400,14 @@
       "summary": "Birmingham Phoenix won their first match in The Hundred 2026 women's competition in dramatic fashion, defeating Welsh Fire with just one ball remaining as investor Jude Bellingham watched on.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ellyse-elysse-perry_7311845.jpg?20260801145353"
+    },
+    {
+      "source": "sky",
+      "title": "Dowman dazzles and debutant Tzolis nets as Arsenal dominate Girona",
+      "link": "https://www.skysports.com/football/girona-vs-arsenal/report/562155",
+      "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-max-dowman-arsenal_7312002.jpg?20260801202741"
     },
     {
       "source": "sky",
@@ -443,11 +459,19 @@
     },
     {
       "source": "sky",
-      "title": "Dowman and Tzolis on target as Arsenal score four against Girona LIVE!",
+      "title": "Kerr wins gold two weeks after setting mile record, Sawyers wins long jump gold",
+      "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-josh-kerr-commonwealth-games_7312023.jpg?20260801211606"
+    },
+    {
+      "source": "sky",
+      "title": "What we learned from Arsenal's win against Girona",
       "link": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-max-dowman-arsenal_7312002.jpg?20260801202741"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-viktor-gyokeres-christian-tzolis_7311982.jpg?20260801193229"
     },
     {
       "source": "sky",
@@ -464,38 +488,6 @@
       "summary": "Pairings and tee times for the final round of the 50th AIG Women's Open, held at Royal Lytham & St Annes Golf Club in Lancashire.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-haeran-ryu-golf-aig-womens-open_7311923.jpg?20260801194605"
-    },
-    {
-      "source": "sky",
-      "title": "Root stars as Welsh Fire beat Phoenix by seven wickets",
-      "link": "https://www.skysports.com/cricket/news/12040/13569048/joe-root-returning-england-test-captain-stars-on-hundred-duty-as-welsh-fire-beat-birmingham-phoenix",
-      "summary": "Welsh Fire are back on the winning trail after a commanding performance against a misfiring Birmingham Phoenix, whose familiar failings with the bat have put them all but out of contention for the latter stages.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-joe-root-cricket_7311943.jpg?20260801181551"
-    },
-    {
-      "source": "sky",
-      "title": "Hull makes late charge with back-to-back birdies",
-      "link": "https://www.skysports.com/watch/video/13569074/aig-womens-open-charley-hull-makes-late-charge-with-back-to-back-birdies",
-      "summary": "Charley Hull makes a late charge up the leaderboard with back-to-back birdies in the third round of the AIG Women&#8217;s Open.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-golf-womens-open_7311935.jpg?20260801175729"
-    },
-    {
-      "source": "sky",
-      "title": "England's Thomas wins gold in super-heavyweight bout",
-      "link": "https://www.skysports.com/live-blog/12040/13566034/commonwealth-games-glasgow-2026-live-news-schedule-updates-results-todays-events-as-england-scotland-wales-northern-ireland-aim-for-medals",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-damar-thomas-boxing_7311979.jpg?20260801192841"
-    },
-    {
-      "source": "sky",
-      "title": "What are the chances?! Ko's ball gets lost in spectator's coat!",
-      "link": "https://www.skysports.com/watch/video/13569036/aig-womens-open-kos-ball-gets-lost-in-patrons-coat",
-      "summary": "Lydia Ko's second shot on the seventh took an awkward bounce and landed in the coat of a spectator sitting on the side of the fairway.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ko-jacket-golf_7311854.jpg?20260801151942"
     }
   ]
 }
