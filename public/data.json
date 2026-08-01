@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T15:56:49.380903+00:00",
+  "lastUpdated": "2026-08-01T16:57:54.062415+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -339,6 +339,30 @@
     },
     {
       "source": "sky",
+      "title": "Staveley-led consortium agrees deal for minority stake in West Ham",
+      "link": "https://www.skysports.com/football/news/12040/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium",
+      "summary": "Vanessa Gold has confirmed she has agreed to sell her stake in the club to a consortium led by former Newcastle co-owner Amanda Staveley.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-staveley-west-ham_7311914.jpg?20260801171714"
+    },
+    {
+      "source": "sky",
+      "title": "Warrington go fourth with comprehensive win over Castleford",
+      "link": "https://www.skysports.com/rugby-league/castleford-vs-warrington/report/63300",
+      "summary": "Warrington Wolves moved up to fourth in the Betfred Super League table after recovering from a lacklustre start to claim a comprehensive 48-18 win at Castleford Tigers .",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-league-super-league_7311875.jpg?20260801162329"
+    },
+    {
+      "source": "sky",
+      "title": "Welbeck completes move to Chelsea",
+      "link": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
+      "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-danny-welbeck-chelsea_7311926.jpg?20260801174125"
+    },
+    {
+      "source": "sky",
       "title": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
       "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
@@ -411,19 +435,19 @@
     },
     {
       "source": "sky",
-      "title": "Mbeumo scores twice as Man Utd beat Atletico",
-      "link": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/report/559826",
-      "summary": "Bryan Mbeumo scored twice as Manchester United came from behind to beat Atletico Madrid 2-1 in Stockholm.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bryan-mbeumo-man-utd_7311866.jpg?20260801154203"
-    },
-    {
-      "source": "sky",
       "title": "One month to go....what your PL club still needs to do in summer window",
       "link": "https://www.skysports.com/football/news/12040/13568894/premier-league-summer-transfer-window-what-your-club-still-needs-to-do-with-one-month-to-go",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-transfer_7310344.jpg?20260730134519"
+    },
+    {
+      "source": "sky",
+      "title": "Mbeumo scores twice as Man Utd beat Atletico",
+      "link": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/report/559826",
+      "summary": "Bryan Mbeumo scored twice as Manchester United came from behind to beat Atletico Madrid 2-1 in Stockholm.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bryan-mbeumo-man-utd_7311866.jpg?20260801154203"
     },
     {
       "source": "sky",
@@ -472,30 +496,6 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "published": null,
       "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-    },
-    {
-      "source": "sky",
-      "title": "American Affair flies the flag for Goldie at Goodwood",
-      "link": "https://www.skysports.com/racing/news/12040/13568836/american-affair-flies-the-flag-for-goldie-at-goodwood",
-      "summary": "Scottish speedball American Affair bounced back to form to claim top honours in the King George Qatar Stakes at Goodwood.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-goodwood-paul-mulrennan_7311370.png?20260731170839"
-    },
-    {
-      "source": "sky",
-      "title": "AIG Women's Open LIVE! Hull, Woad chasing as Ryu's lead reduced",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13568729/aig-womens-open-live-latest-updates-scores-highlights-from-third-round-as-charley-hull-lottie-woad-seek-major-charge-at-royal-lytham-st-annes",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-charley-hull-golf_7311861.jpg?20260801153142"
-    },
-    {
-      "source": "sky",
-      "title": "Doyle: Owen can Dream big in the Stewards' Cup",
-      "link": "https://www.skysports.com/racing/news/12040/13568847/hollie-doyle-dream-chance-for-james-owen-in-the-stewards-cup",
-      "summary": "Sky Sports Racing ambassador Hollie Doyle reveals her thoughts on the big handicap of the day on Saturday, the Stewards&#8217; Cup at Goodwood.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
     }
   ]
 }
