@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-02T14:57:10.164235+00:00",
+  "lastUpdated": "2026-08-02T16:00:09.055940+00:00",
   "articles": [
     {
       "source": "guardian",
       "title": "The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
       "link": "https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola",
-      "summary": "Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season loomsThis used to be a land of giants. This used to be a land where big men fought. This used to be a land where Sir Alex Ferguson and Arsène Wenger tussled, then José Mourinho joined the fray. This used to be a land where Jürgen Klopp made Pep Guardiola reconsider, and he change",
+      "summary": "Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season loomsThis used to be a land of giants. This used to be a land where big men fought. This used to be a land where Sir Alex Ferguson and Arsène Wenger tussled, then José Mourinho joined the fray. This used&nbsp;to be a land where Jürgen Klopp made Pep Guardiola reconsider, and he c",
       "published": "2026-08-02T07:00:15+00:00",
       "image": "https://i.guim.co.uk/img/media/4e4edf2754e332a379c814ff14cdb76b9e039d43/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=27bda46f1f8c971f125de53fab24d37f"
     },
@@ -331,6 +331,14 @@
     },
     {
       "source": "sky",
+      "title": "Blue Bolt confirms superiority over Precise at Deauville",
+      "link": "https://www.skysports.com/racing/news/12040/13569200/prix-rothschild-blue-bolt-confirms-superiority-over-precise-in-deauville-group-1",
+      "summary": "Blue Bolt continued her faultless campaign with victory in the Prix Rothschild at Deauville.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-blue-bolt-racing_7312278.jpg?20260802163042"
+    },
+    {
+      "source": "sky",
       "title": "Dunkley leads Trent Rockets past SunRisers Leeds",
       "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics",
       "summary": "Sophia Dunkley's 56 off 33 balls fired the Trent Rockets past SunRisers Leeds in an impressive victory by five runs in The Hundred at Trent Bridge.",
@@ -339,7 +347,7 @@
     },
     {
       "source": "sky",
-      "title": "AIG Women's Open LIVE! Woad chases Noh as Hull makes NIGHTMARE start",
+      "title": "AIG Women's Open LIVE! Noh bogeys give Woad, Hull hope in major thriller",
       "link": "https://www.skysports.com/golf/live-blog/12040/13568986/aig-womens-open-live-latest-scores-updates-highlights-from-final-round-as-lottie-woad-charley-hull-chase-major-win",
       "summary": "",
       "published": null,
@@ -400,6 +408,14 @@
       "summary": "Highlights from the Scottish Premiership match between Aberdeen and Hearts.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aberdeen-hearts-spfl_7311989.jpg?20260801195431"
+    },
+    {
+      "source": "sky",
+      "title": "Nordqvist 'crushed' by juggle of mid-major Solheim calls",
+      "link": "https://www.skysports.com/golf/news/12040/13569173/solheim-cup-team-europe-captain-anna-nordqvist-discusses-struggles-balancing-playing-during-qualification-campaign",
+      "summary": "Team Europe captain Anna Nordqvist has admitted juggling playing with Solheim Cup captaincy during the qualification campaign has been tougher than expected.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-anna-nordqvist-golf_7312261.jpg?20260802161204"
     },
     {
       "source": "sky",
@@ -472,22 +488,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129"
-    },
-    {
-      "source": "sky",
-      "title": "Riley leads by one ahead of Rocket Classic final round",
-      "link": "https://www.skysports.com/golf/news/12040/13569044/rocket-classic-davis-riley-finishes-strong-to-take-one-shot-lead-into-final-day-at-detroit-golf-club",
-      "summary": "Davis Riley shot a seven-under 63 to reach 15 under on Saturday and take a one-shot lead going into the final round at the Rocket Classic in Detroit.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-davis-riley-golf_7312073.jpg?20260801233446"
-    },
-    {
-      "source": "sky",
-      "title": "Bellingham watches Phoenix seal first Hundred win as Brave stay perfect",
-      "link": "https://www.skysports.com/cricket/news/12040/13569021/the-hundred-birmingham-phoenix-seal-first-win-in-womens-competition-by-beating-welsh-fire-in-front-of-jude-bellingham",
-      "summary": "Birmingham Phoenix won their first match in The Hundred 2026 women's competition in dramatic fashion, defeating Welsh Fire with just one ball remaining as investor Jude Bellingham watched on.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ellyse-elysse-perry_7311845.jpg?20260801145353"
     }
   ]
 }
