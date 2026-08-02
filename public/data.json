@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T21:50:13.440158+00:00",
+  "lastUpdated": "2026-08-02T22:50:57.818486+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -331,6 +331,14 @@
     },
     {
       "source": "sky",
+      "title": "Liverpool collapse as Leeds come from 2-0 down to win",
+      "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987",
+      "summary": "Liverpool threw away a two-goal lead in spectacular fashion as Leeds won the final match of both teams' United States tour 4-2.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-leeds_7312483.jpg?20260802232218"
+    },
+    {
+      "source": "sky",
       "title": "'Missed opportunity' for Hull and Woad for maiden major win",
       "link": "https://www.skysports.com/golf/news/12040/13569222/charley-hull-and-lottie-woad-will-see-aig-womens-open-final-round-as-missed-opportunity-in-bid-for-maiden-major-title",
       "summary": "Charley Hull and Lottie Woad will be left cursing a \"missed opportunity\" to claim a maiden major win at the AIG Women's Open, according to Dame Laura Davies.",
@@ -363,11 +371,11 @@
     },
     {
       "source": "sky",
-      "title": "Liverpool throw away two-goal lead vs Leeds LIVE!",
+      "title": "What we learned from Liverpool's collapse to Leeds...",
       "link": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-leeds_7312467.jpg?20260802220121"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-leeds_7312478.jpg?20260802225521"
     },
     {
       "source": "sky",
@@ -392,6 +400,14 @@
       "summary": "Highlights of York Knights against St Helens in the Betfred Super League.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-super-league_7312004.jpg?20260801202819"
+    },
+    {
+      "source": "sky",
+      "title": "Thorbjornsen wins first PGA Tour title by two shots at Rocket Classic",
+      "link": "https://www.skysports.com/golf/news/12040/13569197/rocket-classic-michael-thorbjornsen-wins-first-pga-tour-title-by-two-shots-at-the-eighth-and-final-staging-of-event",
+      "summary": "Michael Thorbjornsen made a 26-foot putt for birdie on his last hole to shoot a seven-under 63 and reach 18 under to win his first PGA Tour title by two shots at the final Rocket Classic on Sunday.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-michael-thorbjornsen_7312486.jpg?20260802234023"
     },
     {
       "source": "sky",
@@ -472,22 +488,6 @@
       "summary": "Esther Henseleit sinks a huge birdie putt on the 72nd hole to force a play-off with Shiho Kuwaki in the AIG Women's Open.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-golf-women_7312388.jpg?20260802190442"
-    },
-    {
-      "source": "sky",
-      "title": "St Johnstone edge Kilmarnock in seven-goal thriller",
-      "link": "https://www.skysports.com/football/st-johnstone-vs-kilmarnock/report/558337",
-      "summary": "St Johnstone twice gave up a lead before storming back to edge a seven-goal thriller on their Scottish Premiership return at home to Kilmarnock.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kai-fotheringham_7312324.jpg?20260802172100"
-    },
-    {
-      "source": "sky",
-      "title": "Duckett stars as Rockets beat SunRisers while MI London pick up win",
-      "link": "https://www.skysports.com/cricket/news/12040/13569190/the-hundred-ben-duckett-stars-as-trent-rockets-beat-sunrisers-leeds-to-stay-top-of-the-table",
-      "summary": "Another fine half-century from Ben Duckett and crucial late wickets from Mohammad Amir helped Trent Rockets deservedly stay top of The Hundred table with a five-run win over SunRisers Leeds at Trent Bridge.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-the-hundred-cricket_7312355.jpg?20260802175010"
     }
   ]
 }
