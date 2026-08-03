@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-03T16:17:45.102290+00:00",
+  "lastUpdated": "2026-08-03T18:46:16.108638+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Could Vinicius Jr really be heading to Arsenal?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cewr4xjzp7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's Elizabeth Conway explains the situation surrounding Vinicius Junior and a potential move to Arsenal, with the Brazilian forward set to resume contract talks with current club Real Madrid this week.",
+      "published": "2026-08-03T18:07:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d776/live/6a8db750-8f64-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "source": "bbc",
+      "title": "Real to resume talks with Arsenal target Vinicius Jr",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
+      "summary": "Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings.",
+      "published": "2026-08-03T17:30:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1c/live/f88277c0-8f33-11f1-bd9f-4361c301d82b.jpg"
+    },
     {
       "source": "guardian",
       "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
@@ -331,6 +347,54 @@
     },
     {
       "source": "sky",
+      "title": "Serena to resume comeback alongside sister Venus in Cincinnati",
+      "link": "https://www.skysports.com/tennis/news/12040/13569496/serena-williams-given-wild-card-for-cincinnati-open-womens-doubles-alongside-sister-venus-as-comeback-continues",
+      "summary": "Serena and Venus Williams are set to play at the Cincinnati Open after being awarded a wild card for the women's doubles draw.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-serena-williams-tennis_7313181.jpg?20260803185557"
+    },
+    {
+      "source": "sky",
+      "title": "Graham stars as Welsh Fire upset Southern Brave in last-ball thriller",
+      "link": "https://www.skysports.com/cricket/news/12040/13569492/the-hundred-welsh-fire-upset-southern-brave-in-last-ball-thriller-as-heather-graham-stars-with-bat-and-ball",
+      "summary": "Welsh Fire turned the form table on its head to defeat The Hundred table-toppers Southern Brave in a last-ball thriller in Cardiff.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-heather-graham-welsh_7313176.jpg?20260803183850"
+    },
+    {
+      "source": "sky",
+      "title": "Eala beats Pegula at DC Open to claim first WTA Tour title",
+      "link": "https://www.skysports.com/tennis/news/12040/13569516/alexandra-eala-rising-filipina-star-beats-jessica-pegula-in-dc-open-final-to-claim-first-wta-tour-title",
+      "summary": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-alexandra-eala-washing_7313192.jpg?20260803191705"
+    },
+    {
+      "source": "sky",
+      "title": "Raducanu to miss US Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13569501/emma-raducanu-former-champion-to-miss-2026-us-open-with-stress-fracture-in-right-leg-as-injury-woes-continue",
+      "summary": "Emma Raducanu's stress fracture will force her to miss the US Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-emma-raducanu-wimbledon_7313154.jpg?20260803181111"
+    },
+    {
+      "source": "sky",
+      "title": "Hearn wants £1m per-year deal for Pollock from Northampton",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13569479/henry-pollock-eddie-hearn-says-england-star-is-worth-1m-per-year-deal-amid-contract-talks-with-northampton",
+      "summary": "England star Henry Pollock is expected to seek a significant pay rise to remain at Northampton after agent Eddie Hearn said he is worth at least &#163;1 million a year.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-henry-pollock-northampton_7313112.jpg?20260803172815"
+    },
+    {
+      "source": "sky",
+      "title": "FREE STREAM: Watch The Transfer Show on Sky Sports News",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
+    },
+    {
+      "source": "sky",
       "title": "Maguire handed Solheim Cup return as Europe's captain's picks revealed",
       "link": "https://www.skysports.com/golf/news/12040/13569331/solheim-cup-2026-leona-maguire-handed-team-europe-captains-pick-as-anna-nordqvist-adds-three-rookies-to-her-line-up",
       "summary": "Leona Maguire has been included among Team Europe's captain's picks for next month's Solheim Cup, with Anna Nordqvist adding three more rookies to her line-up.",
@@ -387,11 +451,27 @@
     },
     {
       "source": "sky",
+      "title": "Can Rashford be reintergrated at Man Utd?",
+      "link": "https://www.skysports.com/football/news/12040/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window",
+      "summary": "Marcus Rashford's future at Manchester United remains up in the air.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-marcus-rashford-man-utd_7313148.jpg?20260803180702"
+    },
+    {
+      "source": "sky",
       "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
       "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays for the club on the left wing.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7312618.jpg?20260803093047"
+    },
+    {
+      "source": "sky",
+      "title": "Hogh misses big chance on debut as Celtic kick off season vs Dundee LIVE!",
+      "link": "https://www.skysports.com/football/celtic-vs-dundee/live/558338",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7309091.jpg?20260729092319"
     },
     {
       "source": "sky",
@@ -424,70 +504,6 @@
       "summary": "Having been linked with a move to the Premier League, Zion Suzuki is set for a switch to European champions Paris Saint-German instead. It marks the completion of the 23-year-old Japanese goalkeeper's rise to the game's summit after a stellar World Cup.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-zion-suzuki-japan_7292757.jpg?20260708100529"
-    },
-    {
-      "source": "sky",
-      "title": "Why Akliouche? Monaco man is a pressing monster as well as a creator",
-      "link": "https://www.skysports.com/football/news/12040/13566394/maghnes-akliouche-transfer-to-psg-monaco-forwards-pressing-is-as-good-as-his-creativity-and-makes-him-a-big-asset",
-      "summary": "\"If you have a player like that who puts in so much defensive effort &#8211; not just tracking back but also pushing forward since he is the one who wins back the most balls high up the pitch in Ligue 1 &#8211; it means he is an atypical and modern player.\"",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-maghnes-akliouche_7305235.jpg?20260723172606"
-    },
-    {
-      "source": "sky",
-      "title": "'Man Utd concerned about cost of WSL title chase' - Why Skinner left Man Utd",
-      "link": "https://www.skysports.com/football/news/12040/13569353/marc-skinner-leaves-man-utd-women-lack-of-investment-a-change-of-direction-and-inconsistent-playing-style-contributed-to-head-coach-exit",
-      "summary": "Just a month out from their opening Women's Super League fixture, Manchester United find themselves without a head coach after Marc Skinner departed on Monday morning.",
-      "published": null,
-      "image": "https://e2.365dm.com/23/10/1920x1080/skysports-man-utd-women-marc-skinner_6326349.jpg?20231018230730"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs interested in Liverpool's Gakpo",
-      "link": "https://www.skysports.com/football/news/12040/13569350/cody-gakpo-tottenham-interested-in-signing-liverpool-forward-as-roberto-de-zerbi-aims-to-improve-spurs-attack",
-      "summary": "Tottenham are interested in signing Cody Gakpo from Liverpool this summer.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7312688.jpg?20260803103036"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham latest: Hammers exploring Solomon deal and make Adingra enquiry",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
-    },
-    {
-      "source": "sky",
-      "title": "Newcastle sign goalkeeper Hornicek",
-      "link": "https://www.skysports.com/football/news/12040/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m",
-      "summary": "Newcastle United have signed goalkeeper Lukas Hornicek from Braga in a deal worth &#163;25.7m.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-lukas-hornicek-hornicek_7311398.jpg?20260731180550"
-    },
-    {
-      "source": "sky",
-      "title": "'I have talent, they don't!' - Trump taunts opponents after winning club titles",
-      "link": "https://www.skysports.com/golf/news/12040/13569322/donald-trump-us-president-wins-bedminster-senior-club-championship-and-taunts-opponents-in-truth-social-post",
-      "summary": "Donald Trump taunted opponents after announcing he had won the Senior and Super Senior Men's Club Championship at his Bedminster golf course in New Jersey.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-donald-trump-golf_7228526.jpg?20260423172650"
-    },
-    {
-      "source": "sky",
-      "title": "Skinner leaves Man Utd Women",
-      "link": "https://www.skysports.com/football/news/12040/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge",
-      "summary": "Marc Skinner has left his role as Manchester United Women head coach after five years in charge.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-man-utd-boss-wsl_7312609.jpg?20260803090541"
-    },
-    {
-      "source": "sky",
-      "title": "Pegula leads Eala as rain suspends DC Open final",
-      "link": "https://www.skysports.com/tennis/news/12040/13569195/jessica-pegula-leads-alexandra-eala-in-rain-affected-dc-open-final-as-kristina-liutova-16-wins-memphis-classic",
-      "summary": "Jessica Pegula holds a one-set lead over Alexandra Eala in a rain-affected DC Open final that saw play suspended until Monday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-pegula-tennis_7312541.jpg?20260803064559"
     }
   ]
 }
