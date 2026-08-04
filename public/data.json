@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-04T04:07:53.234189+00:00",
+  "lastUpdated": "2026-08-04T07:33:11.155817+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "A youngster to watch at each Premier League club this season",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre4np3pnxqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Premier League returns later this month and we have picked out 20 prospects - one from each club - who will be looking to make their mark and enjoy a breakthrough season.",
+      "published": "2026-08-04T05:54:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f42/live/57221490-8f46-11f1-a7ab-8b30adf0800a.png"
+    },
     {
       "source": "bbc",
       "title": "Could Vinicius Jr really be heading to Arsenal?",
@@ -322,14 +330,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/14cde6e0-77aa-11f1-a627-714adb4eed6e.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Former Arsenal midfielder Cazorla retires at 41",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy4e1n409zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Arsenal midfielder Santi Cazorla retires from playing at the age of 41.",
-      "published": "2026-07-02T14:44:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26be/live/5cc62090-7622-11f1-9cba-11a4f8930054.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Club World Cup likely to expand for 2029 with more Premier League clubs involved",
       "link": "https://www.theguardian.com/football/2026/jun/25/fifa-agrees-club-world-cup-joint-venture-efc-boost-premier-league-clubs",
@@ -344,6 +344,46 @@
       "summary": "Champions expected to make an approach for forwardFee could be around £100m for Villa’s England playerArsenal are expected to make an approach to sign Morgan Rogers from Aston Villa after identifying the England forward as their primary transfer target this summer.The Premier League champions want to strengthen Mikel Arteta’s squad and are hopeful of bringing Rogers to north London, although he co",
       "published": "2026-06-22T21:20:48+00:00",
       "image": "https://i.guim.co.uk/img/media/a846149b9b738b648ebbd512cb158adb19f342df/165_0_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=7402ff92765812d53ba76b9937a4c60a"
+    },
+    {
+      "source": "sky",
+      "title": "'Hull must step up and lead Team Europe at Solheim Cup'",
+      "link": "https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies",
+      "summary": "Dame Laura Davies has called upon Charley Hull to \"step up and lead\" Team Europe at the Solheim Cup in September.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-charley-hull-golf_7313325.jpg?20260803231008"
+    },
+    {
+      "source": "sky",
+      "title": "UFC fighter Nascimento dies aged 34",
+      "link": "https://www.skysports.com/mma/news/12040/13569592/allan-nascimento-ufc-fighter-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep",
+      "summary": "Mixed martial arts fighter Allan Nascimento has died at the age of 34, the UFC has announced.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-allan-nascimento_7313355.jpg?20260804064101"
+    },
+    {
+      "source": "sky",
+      "title": "Norrie wins in straight sets to move into next round of Canandian Open",
+      "link": "https://www.skysports.com/watch/video/13569589/camilo-ugo-carabelli-vs-cam-norrie-canadian-open-highlights",
+      "summary": "Highlights of the first round match at the Canadian Open between Camilo Ugo Carabelli and Cam Norrie.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cam-norrie_7313354.jpg?20260804064012"
+    },
+    {
+      "source": "sky",
+      "title": "Perfect Nation and Avionics face off in Ffos Las feature",
+      "link": "https://www.skysports.com/racing/news/12040/13569355/today-on-sky-sports-racing-perfect-nation-and-avionics-face-off-in-ffos-las-feature-with-lingfield-also-live-on-tuesday",
+      "summary": "Tuesday's action comes from Ffos Las and Lingfield, with seven races from each live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-racing-ffos-las_7312682.jpg?20260803102211"
+    },
+    {
+      "source": "sky",
+      "title": "F1 2027 calendar contingency plans in place amid Middle East conflict",
+      "link": "https://www.skysports.com/f1/news/12040/13569381/f1-2027-calendar-contingency-plans-in-place-for-next-years-formula-1-schedule-amid-us-israel-war-with-iran",
+      "summary": "Formula 1 president Stefano Domenicali has confirmed contingency plans are in place for the 2027 F1 calendar if the conflict in the Middle East continues next year.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-f1-saudi-arabian-grand-prix_7181767.jpg?20260304093020"
     },
     {
       "source": "sky",
@@ -392,6 +432,14 @@
       "summary": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-celtic-nygren_7313249.jpg?20260803204939"
+    },
+    {
+      "source": "sky",
+      "title": "McKenna fights for world title - all you need to know ahead of Dublin contest",
+      "link": "https://www.skysports.com/boxing/news/12040/13568506/aaron-mckenna-vs-etinosa-oliha-when-is-the-fight-how-to-watch-ibf-middleweight-world-title-fight-on-sky-sports",
+      "summary": "All you need to know ahead of Saturday's middleweight showdown between Aaron McKenna and Etinosa Oliha in Dublin, live on Sky Sports.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-aaron-mckenna-etinosa_7266702.jpg?20260606105941"
     },
     {
       "source": "sky",
@@ -456,54 +504,6 @@
       "summary": "Celtic will play Austrian champions LASK for a place in the league phase of the Champions League, while Brighton will face CFR Cluj or Tromso in the Conference League play-off round.",
       "published": null,
       "image": "https://e1.365dm.com/26/04/1920x1080/skysports-champions-league_7225302.jpg?20260803123057"
-    },
-    {
-      "source": "sky",
-      "title": "Can Mount be the third midfielder Man Utd are looking for?",
-      "link": "https://www.skysports.com/football/news/12040/13569342/mason-mount-can-manchester-uniteds-pre-season-revelation-be-a-big-part-of-michael-carricks-midfield-overhaul",
-      "summary": "\"Why go out searching for a midfielder when you've got Mason Mount at home?\"",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mason-mount-manchester-united_7312641.jpg?20260803094438"
-    },
-    {
-      "source": "sky",
-      "title": "USA cricketer Akhilesh Reddy given eight-year ban under anti-corruption code",
-      "link": "https://www.skysports.com/cricket/news/12040/13569369/usa-cricketer-bodugum-akhilesh-reddy-banned-for-eight-years-by-icc-tribunal-for-anti-corruption-rule-violations",
-      "summary": "USA cricketer Bodugum Akhilesh Reddy has been banned from all cricket for eight years by the ICC after being found guilty of three counts of breaking anti-corruption rules by a tribunal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bodugum-akhilesh-reddy_7312713.jpg?20260803105230"
-    },
-    {
-      "source": "sky",
-      "title": "Newcastle reject Guimaraes bid from Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
-      "summary": "Arsenal's&#160;opening bid for&#160;Bruno Guimaraes&#160;has been rejected by&#160;Newcastle.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-bruno-guimaraes-newcastle-united_7126176.jpg?20260104164227"
-    },
-    {
-      "source": "sky",
-      "title": "Rashford's future, Hall pursuit and Man Utd's midfield rebuild",
-      "link": "https://www.skysports.com/football/news/12040/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window",
-      "summary": "Marcus Rashford's future at Manchester United remains up in the air.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-lewis-hall-andrey-santos_7313317.jpg?20260803224246"
-    },
-    {
-      "source": "sky",
-      "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
-      "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays for the club on the left wing.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7312618.jpg?20260803093047"
-    },
-    {
-      "source": "sky",
-      "title": "UEFA threatens legal action against FIFA over Infantino World Cup plan",
-      "link": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
-      "summary": "UEFA has threatened legal action against FIFA over Gianni Infantino's World Cup sell-off plan.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832"
     }
   ]
 }
