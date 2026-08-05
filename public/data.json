@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T03:55:50.007654+00:00",
+  "lastUpdated": "2026-08-05T06:22:57.472664+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Alcaraz withdraws from Cincinnati Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13569917/carlos-alcaraz-withdraws-from-cincinnati-open-due-to-ongoing-wrist-injury-with-worries-over-us-open-defence",
+      "summary": "Carlos Alcaraz has withdrawn from the Cincinnati Open due to an ongoing wrist injury, increasing worries over his US Open title defence, which begins on August 30, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-carlos-alcaraz-tennis_7220078.jpg?20260414170045"
+    },
+    {
+      "source": "sky",
+      "title": "Silca Bay and Sea Suite face off as Brighton Festival begins",
+      "link": "https://www.skysports.com/racing/news/12040/13569452/today-on-sky-sports-racing-silca-bay-and-sea-suite-face-off-as-brighton-festival-begins",
+      "summary": "Slica Bay, Sea Suite and Ben Nevis line up for the Brighton Mile this afternoon, live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-racing_7313028.jpg?20260803160327"
+    },
+    {
+      "source": "sky",
       "title": "Draper in tears amid injury concern during defeat in Montreal",
       "link": "https://www.skysports.com/tennis/news/12040/13569819/jack-draper-in-tears-amid-injury-concern-during-defeat-to-terence-atmane-on-return-to-action-in-montreal",
       "summary": "Jack Draper was left in tears after losing to Terence Atmane as the Brit's long-term arm injury appeared to resurface and hamper him on his return to action at the Canadian Open.",
@@ -368,6 +384,14 @@
       "summary": "SunRisers Leeds posted 241-2, the highest score in the history of The Hundred, before cruising to a comfortable victory over London Spirit.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook-sunrisers_7314078.jpg?20260804214215"
+    },
+    {
+      "source": "sky",
+      "title": "The dangerous jobs of Callum Walsh – the making of a fighter",
+      "link": "https://www.skysports.com/boxing/news/12040/13569883/callum-walsh-from-working-on-fishing-boats-to-ferocious-sparring-at-the-wild-card-gym-the-making-of-a-fighter",
+      "summary": "Callum Walsh doesn&#8217;t shy away from danger. The unbeaten contender from Ireland is looking to break through into the highest echelons of the middleweight division.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-callum-walsh-tyler-denny_7314115.jpg?20260804223054"
     },
     {
       "source": "sky",
@@ -427,6 +451,14 @@
     },
     {
       "source": "sky",
+      "title": "Verstappen reveals what's impressed him most about Antonelli",
+      "link": "https://www.skysports.com/f1/news/12040/13569419/max-verstappen-reveals-what-has-impressed-him-most-about-mercedes-kimi-antonelli-so-far-in-2026-f1-season",
+      "summary": "Max Verstappen has praised the \"rock solid\" performances that have taken Kimi Antonelli to the top of Formula 1's Drivers' Championship over the first half of the 2026 season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-mercedes_7313566.jpg?20260804112839"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Chelsea eyeing move for Porto goalkeeper Costa",
       "link": "https://www.skysports.com/football/news/12040/13569788/diogo-costa-transfer-news-chelsea-eyeing-move-for-porto-goalkeeper-paper-talk",
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
@@ -475,43 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "‘It’s inevitable’ | All the latest on Arsenal's Guimaraes deal",
+      "title": "All the latest on Arsenal's 'inevitable' Guimaraes deal",
       "link": "https://www.skysports.com/watch/video/13569837/all-the-latest-on-bruno-guimaraes-to-arsenal-explained-its-inevitable",
       "summary": "Sky Sports' Dharmesh Sheth and Michael Bridge explain all the latest on Bruno Guimaraes' potential transfer to Arsenal.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bruno-transfers_7314021.jpg?20260804191449"
-    },
-    {
-      "source": "sky",
-      "title": "Stokes confirms England coach ambitions, questions Brook captaincy snub",
-      "link": "https://www.skysports.com/cricket/news/12040/13569631/ben-stokes-former-england-captain-confirms-ambition-to-coach-side-in-future-and-has-say-on-brendon-mccullum-test-exit-captaincy-calls",
-      "summary": "Ben Stokes has said he would \"absolutely\" love to coach England one day, as he also suggested Brendon McCullum would still be in charge of the Test team had he not announced his own international retirement weeks beforehand.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ben-stokes-england_7313436.jpg?20260804095218"
-    },
-    {
-      "source": "sky",
-      "title": "The F1 Show: Celebrating South Asian Heritage month with McLaren's Randeep Singh",
-      "link": "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-the-f1-show-formula-one_7179666.png?20260302111438"
-    },
-    {
-      "source": "sky",
-      "title": "FREE Scottish Premiership highlights",
-      "link": "https://www.skysports.com/football/live-blog/12040/13567422/scottish-premiership-goals-and-free-match-highlights-of-every-game-in-2026-27-season",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-scottish-premiership_7310026.jpg?20260730092304"
-    },
-    {
-      "source": "sky",
-      "title": "'Hull must step up and lead Team Europe at Solheim Cup'",
-      "link": "https://www.skysports.com/golf/news/12040/13569570/solheim-cup-2026-charley-hull-must-step-up-and-lead-team-europe-in-netherlands-says-dame-laura-davies",
-      "summary": "Dame Laura Davies has called upon Charley Hull to \"step up and lead\" Team Europe at the Solheim Cup in September.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-charley-hull-golf_7313325.jpg?20260803231008"
     }
   ]
 }
