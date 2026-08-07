@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-07T09:55:28.792992+00:00",
+  "lastUpdated": "2026-08-07T10:47:38.922509+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Lewis-Skelly's push to start in midfield for Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss",
+      "summary": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield.",
+      "published": "2026-08-07T10:07:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36be/live/d0f7f380-9247-11f1-afba-01cbe043dea0.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
@@ -330,14 +338,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5444/live/0b4ddab0-8350-11f1-8d99-f1f0cec0b1ae.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Will the World Cup affect Arsenal's transfer plans?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign.",
-      "published": "2026-07-18T14:47:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe2/live/0359ce20-81ef-11f1-b6ff-e9b8db4416d1.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Spain’s Mikel Merino: ‘The focus is on being a good human first, then a good footballer’",
       "link": "https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup",
@@ -352,6 +352,14 @@
       "summary": "Greece international replacement for Leandro TrossardArsenal seek defensive cover after William Saliba injuryArsenal have agreed a deal worth up to €40m (£34m) with Club Brugge to sign Christos Tzolis as a replacement for Leandro Trossard and will step up their attempts to sign defensive cover due to concerns that William Saliba could miss the start of the new season due to his ongoing back issues",
       "published": "2026-07-16T18:22:22+00:00",
       "image": "https://i.guim.co.uk/img/media/42e596bc4536974deccc8683497ac439ae189a9b/558_0_3033_2426/master/3033.jpg?width=140&quality=85&auto=format&fit=max&s=b46fd2a4e744092e41b21c1c67b3f61c"
+    },
+    {
+      "source": "sky",
+      "title": "Massey-Ellis retires from officiating to take up new role with FA",
+      "link": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis",
+      "summary": "Assistant referee Sian Massey-Ellis has retired from officiating and will take up a new role with the Football Association.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-sian-massey-ellis_7315970.jpg?20260807110103"
     },
     {
       "source": "sky",
@@ -419,17 +427,25 @@
     },
     {
       "source": "sky",
-      "title": "Walsall shock Bristol City in Carabao Cup curtain raiser",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "title": "Scot Prem: Rangers' bid for PSV winger rejected as Celtic target Egypt star",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-aaron-pressley-walsall_7315744.jpg?20260806223635"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-couhaib-driouech_7314913.jpg?20260805203103"
     },
     {
       "source": "sky",
-      "title": "Atletico in talks to sign Spurs captain Romero",
+      "title": "EFL latest: Wilder confirms Coventry bid for Hamer being considered by owners",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-gus-hamer-sheffield-united_7210298.jpg?20260403161529"
+    },
+    {
+      "source": "sky",
+      "title": "Atletico in talks with Spurs to sign captain Romero",
       "link": "https://www.skysports.com/football/news/12040/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest",
-      "summary": "Atletico Madrid are in talks to sign Tottenham captain Cristian Romero.",
+      "summary": "Atletico Madrid are in talks with Tottenham over signing their captain Cristian Romero.",
       "published": null,
       "image": "https://e0.365dm.com/26/01/1920x1080/skysports-cristian-romero-spurs_7138101.jpg?20260117163435"
     },
@@ -447,7 +463,7 @@
       "link": "https://www.skysports.com/cricket/news/12040/13570501/the-hundred-sikandar-raza-masterclass-inspired-mi-london-to-bragging-rights-in-local-derby-against-rivals-london-spirit",
       "summary": "A Sikandar Raza masterclass inspired MI London to come away with the spoils to jump up to second in the table and condemn London Spirit to an early departure from The Hundred.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-sikandar-raza-cricket_7315725.jpg?20260806221111"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-sikandar-raza-cricket_7315725.jpg?20260807110054"
     },
     {
       "source": "sky",
@@ -455,7 +471,7 @@
       "link": "https://www.skysports.com/cricket/news/12040/13570468/the-hundred-mi-london-women-break-their-duck-with-victory-over-london-spirit-thanks-to-melie-kerrs-defiant-half-century",
       "summary": "Melie Kerr's defiant half-century and decisive death bowling from Hayley Matthews helped MI London to a belated first win of the season against capital rivals London Spirit.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alexa-stonehouse_7315612.jpg?20260806183321"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alexa-stonehouse_7315612.jpg?20260807110345"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/25/10/1920x1080/skysports-leeds-news-club-blog_7039256.jpg?20251002160345"
-    },
-    {
-      "source": "sky",
-      "title": "Hearn takes aim at 'terrible' salary cap restricting 'future of rugby' Pollock",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13570462/henry-pollock-england-flanker-has-superstar-quality-to-wake-sleeping-giant-of-rugby-union-so-pay-him-says-eddie-hearn",
-      "summary": "Eddie Hearn believes Henry Pollock has the superstar status to awaken the sleeping giant that is rugby union, but insists the England and Lions flanker, and his peers, must be rewarded in line with their commercial value.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-henry-pollock-saints_7315581.jpg?20260806174955"
-    },
-    {
-      "source": "sky",
-      "title": "World Darts Championship dates confirmed with Sunday final in Ally Pally's Great Hall",
-      "link": "https://www.skysports.com/darts/news/12040/13570429/world-darts-championship-2026-27-dates-confirmed-for-alexandra-palace-with-sunday-final-in-great-hall-for-first-time",
-      "summary": "The Paddy Power PDC World Championship dates have been confirmed for Friday December 11 to Sunday January 3 with a record 180,000 tickets on offer.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-luke-littler-darts_7125642.jpg?20260130073916"
     }
   ]
 }
