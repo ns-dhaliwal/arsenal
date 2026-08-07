@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-07T16:47:05.125380+00:00",
+  "lastUpdated": "2026-08-07T17:43:18.116457+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "I love football, so I support lots of clubs | Letters",
+      "link": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs",
+      "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J FriedlanderI read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club (Have you ever switched allegiance as a football fan? You are not alone, 1 August). A world I inhabit.I too was at the Millwal",
+      "published": "2026-08-07T16:56:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/2ec5ef660013e4aa41a42f3267ee0bf1686cd5a7/397_0_3967_3173/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=0e71c4312adb0bfb59e17afc17fd639b"
+    },
     {
       "source": "bbc",
       "title": "Perimeter walls around pitches banned after Vigar death",
@@ -346,12 +354,20 @@
       "image": "https://i.guim.co.uk/img/media/87d82b74b219614507fcc8df59ebfe1ff50c8e22/783_579_4159_3328/master/4159.jpg?width=140&quality=85&auto=format&fit=max&s=8e20fa70a7f82aec238f9d13f3753d23"
     },
     {
-      "source": "guardian",
-      "title": "Arsenal close in on £34m deal for Club Brugge forward Christos Tzolis",
-      "link": "https://www.theguardian.com/football/2026/jul/16/arsenal-34m-deal-club-brugge-forward-christos-tzolis-premier-league",
-      "summary": "Greece international replacement for Leandro TrossardArsenal seek defensive cover after William Saliba injuryArsenal have agreed a deal worth up to €40m (£34m) with Club Brugge to sign Christos Tzolis as a replacement for Leandro Trossard and will step up their attempts to sign defensive cover due to concerns that William Saliba could miss the start of the new season due to his ongoing back issues",
-      "published": "2026-07-16T18:22:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/42e596bc4536974deccc8683497ac439ae189a9b/558_0_3033_2426/master/3033.jpg?width=140&quality=85&auto=format&fit=max&s=b46fd2a4e744092e41b21c1c67b3f61c"
+      "source": "sky",
+      "title": "West Ham latest: Sullivan likely to attend games despite advice",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+    },
+    {
+      "source": "sky",
+      "title": "Flintoff steps down as England Lions head coach",
+      "link": "https://www.skysports.com/cricket/news/12040/13570774/andrew-flintoff-steps-down-as-england-lions-head-coach",
+      "summary": "Andrew Flintoff has stepped down as head coach of the England Lions.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-andrew-flintoff-cricket_7316262.jpg?20260807182142"
     },
     {
       "source": "sky",
@@ -368,6 +384,14 @@
       "summary": "Kate Tracey, Sam Boswell and Jamie Lynch reconvene to discuss the best betting angles for the Shergar Cup Sprint at Ascot on Saturday, live on Sky Sports Racing.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-weekend-winners-shergar-cup_7316127.png?20260807152603"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
+      "link": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
+      "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-psg-bradley-barcola_7316242.jpg?20260807181125"
     },
     {
       "source": "sky",
@@ -416,6 +440,14 @@
       "summary": "Manchester City have knocked back an initial offer from Barcelona for Rodri that is considered far too low.&#160;",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rodri-real-madrid_7315553.png?20260806172243"
+    },
+    {
+      "source": "sky",
+      "title": "Litchfield scores fastest 50 in Hundred history as SunRisers eliminate Phoenix",
+      "link": "https://www.skysports.com/cricket/news/12040/13570735/the-hundred-phoebe-litchfield-scores-fastest-50-in-womens-competition-history-as-sunrisers-leeds-eliminate-birmingham-phoenix",
+      "summary": "A masterclass from Phoebe Litchfield, as she hit the fastest fifty in the history of The Hundred women's competition, headlined SunRisers Leeds' straightforward chase of &#160;Birmingham Phoenix's underwhelming 107-9 to see her side to victory in Birmingham and keep them alive in the competition.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-phoebe-litchfield_7303656.jpg?20260721184635"
     },
     {
       "source": "sky",
@@ -475,43 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "West Ham latest: Nuno quizzed on Hammers' transfer business",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
-    },
-    {
-      "source": "sky",
       "title": "The Hundred permutations: Who needs what to qualify?",
       "link": "https://www.skysports.com/cricket/news/12040/13570124/the-hundred-2026-permutations-who-needs-what-to-qualify-for-final-stages-of-mens-and-womens-competitions",
       "summary": "We are into crunch time in the 2026 edition of The Hundred, with knockout spots up for grabs in the men's and women's competitions. But who will claim them, and who needs what?",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-brydon-carse-the-hundred-cricket-2026_7303905.jpg?20260722082230"
-    },
-    {
-      "source": "sky",
-      "title": "Gallagher ready to show what he can do under De Zerbi at Spurs",
-      "link": "https://www.skysports.com/football/news/12040/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season",
-      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham, it probably could not have been worse.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-spurs-midfielder_7316029.jpg?20260807123348"
-    },
-    {
-      "source": "sky",
-      "title": "Bayern hold off late surge from Villa to win in Hong Kong",
-      "link": "https://www.skysports.com/football/bayern-munich-vs-aston-villa/report/555764",
-      "summary": "Bayern Munich held off a late fightback from Aston Villa to secure a 2-1 victory in Hong Kong, bringing the pre-season tours of Asia for both sides to a close.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bayern-munich-aston-villa_7316099.jpg?20260807145616"
-    },
-    {
-      "source": "sky",
-      "title": "Gibbs' Lions deal makes him NFL's highest-paid running back ever",
-      "link": "https://www.skysports.com/nfl/news/12040/13570572/jahmyr-gibbs-new-detroit-lions-deal-makes-him-nfls-highest-paid-running-back-in-history-days-after-bijan-robinsons-falcons-contract",
-      "summary": "Jahmyr Gibbs is set to become the highest-paid running back in NFL history having agreed to a new three-year deal worth up to $75.7m (&#163;56.3m) with the Detroit Lions.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jahmyr-gibbs-detroit-lions_7315831.jpg?20260807075723"
     }
   ]
 }
