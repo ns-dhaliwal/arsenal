@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:41:05.160879+00:00",
+  "lastUpdated": "2026-08-08T07:43:20.774860+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -23,7 +23,7 @@
       "link": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs",
       "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J FriedlanderI read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club (Have you ever switched allegiance as a football fan? You are not alone, 1 August). A world I inhabit.I too was at the Millwal",
       "published": "2026-08-07T16:56:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/2ec5ef660013e4aa41a42f3267ee0bf1686cd5a7/397_0_3967_3173/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=0e71c4312adb0bfb59e17afc17fd639b"
+      "image": "https://i.guim.co.uk/img/media/9393e51aa7da55fed9092564f6dbd6428e3d2e81/289_0_2840_2272/master/2840.jpg?width=140&quality=85&auto=format&fit=max&s=cdffe6679d72709a2fac3a0dc3d24156"
     },
     {
       "source": "bbc",
@@ -355,14 +355,6 @@
     },
     {
       "source": "sky",
-      "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
-      "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday",
-      "summary": "We have a busy day's racing on Saturday with Flat action from Ascot and Lingfield Park, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e1.365dm.com/23/08/1920x1080/skysports-shergar-cup-ascot_6248531.jpg?20230812150707"
-    },
-    {
-      "source": "sky",
       "title": "'I'd rather fight Aaron for world title' - Walsh dismisses Stevie McKenna call-out",
       "link": "https://www.skysports.com/boxing/news/12040/13570679/callum-walsh-aaron-mckenna-world-title-fight-makes-sense-fighting-stephen-mckenna-doesnt",
       "summary": "Callum Walsh would entertain a fight against Aaron McKenna over Stephen McKenna, insisting all-Irish clashes only make sense with the world title on the line.",
@@ -371,11 +363,51 @@
     },
     {
       "source": "sky",
+      "title": "Today on Sky Sports Racing: Ascot stages Shergar Cup meeting",
+      "link": "https://www.skysports.com/racing/news/12040/13570627/today-on-sky-sports-racing-ascot-stages-shergar-cup-meeting-with-lingfield-also-live-on-saturday",
+      "summary": "We have a busy day's racing on Saturday with Flat action from Ascot and Lingfield Park, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/23/08/1920x1080/skysports-shergar-cup-ascot_6248531.jpg?20230812150707"
+    },
+    {
+      "source": "sky",
+      "title": "Brit Smith keeps pressure on leader Hossler after Wyndham Championship R2",
+      "link": "https://www.skysports.com/watch/video/13570878/wyndham-championship-day-two-highlights",
+      "summary": "Highlights from day two of the Wyndham Championship held at Sedgefield Country Club in Greensboro, North Carolina.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wyndham-championship_7316510.jpg?20260807231809"
+    },
+    {
+      "source": "sky",
+      "title": "Leigh Leopards boost play-off hopes with 22-14 win over York Knights",
+      "link": "https://www.skysports.com/watch/video/13570874/leigh-leopards-22-14-york-knights-super-league-highlights",
+      "summary": "Highlights of Leigh Leopards against York Knights from the Super League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316499.jpg?20260807230651"
+    },
+    {
+      "source": "sky",
+      "title": "Bracey shares memories of Lawrence ahead of Sunday's tribute",
+      "link": "https://www.skysports.com/cricket/news/12040/13570579/james-bracey-on-memories-of-syd-lawrence-ahead-of-day-to-raise-funds-for-motor-neurone-disease-to-see-emotion-on-his-face-was-very-special",
+      "summary": "When James Bracey thinks of Syd Lawrence, he does not first think of wickets, records or milestones.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-james-bracey-syd-lawrence_7315865.jpg?20260807084620"
+    },
+    {
+      "source": "sky",
+      "title": "Hull KR thump Castleford 44-0",
+      "link": "https://www.skysports.com/watch/video/13570863/castleford-tigers-0-44-hull-kr-super-league-highlights",
+      "summary": "Highlights of Castleford Tigers against Hull KR from the Super League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316476.jpg?20260807223102"
+    },
+    {
+      "source": "sky",
       "title": "Araujo set for surprise Liverpool loan move",
       "link": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
       "summary": "Liverpool have agreed a surprise deal for Barcelona defender Ronald Araujo to join on loan for the season.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ronald-araujo-barcelona_7316498.jpg?20260807230449"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ronald-araujo-barcelona_7316574.jpg?20260808083354"
     },
     {
       "source": "sky",
@@ -389,7 +421,7 @@
       "source": "sky",
       "title": "McKenna vs Oliha and Walsh vs Denny big-fight predictions",
       "link": "https://www.skysports.com/boxing/news/12040/13570676/aaron-mckenna-vs-etinosa-oliha-and-callum-walsh-vs-tyler-denny-big-fight-predictions-who-will-win-the-middleweight-showdowns",
-      "summary": "Experts have their say ahead of the Aaron McKenna vs Etinosa Oliha middleweight world championship clash and Callum Walsh's crucial clash with Tyler Denny, live on Sky Sports from 7pm.",
+      "summary": "Experts have their say ahead of the Aaron McKenna vs Etinosa Oliha middleweight world championship clash and Callum Walsh's crucial fight against Tyler Denny, live on Sky Sports from 7pm.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-boxing-predictions_7315923.jpg?20260807095614"
     },
@@ -427,7 +459,7 @@
     },
     {
       "source": "sky",
-      "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
+      "title": "UEFA aware of allegation it paid off Infantino's mistress while he worked for them",
       "link": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
       "summary": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
       "published": null,
@@ -467,51 +499,19 @@
     },
     {
       "source": "sky",
+      "title": "The McKenna tasked with launching his brother's world title bid",
+      "link": "https://www.skysports.com/boxing/news/12040/13570034/stephen-mckenna-irish-entertainer-tasked-with-launching-brother-aarons-world-title-bid",
+      "summary": "It's a big week for the McKenna family and, for one member, it's impossible to contain the excitement.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-stephen-mckenna-boxing_7314502.jpg?20260805123832"
+    },
+    {
+      "source": "sky",
       "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
       "link": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
       "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-psg-bradley-barcola_7316242.jpg?20260807181125"
-    },
-    {
-      "source": "sky",
-      "title": "White: I know where the Fury-AJ venue is - I did the deal!",
-      "link": "https://www.skysports.com/boxing/news/12040/13570724/dana-white-i-know-where-the-tyson-fury-vs-anthony-joshua-venue-is-i-did-the-deal",
-      "summary": "The long-awaited heavyweight showdown between Tyson Fury and Anthony Joshua will take place \"where the money is\", says Dana White.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-dana-white-anthony-joshua_7316276.png?20260807184700"
-    },
-    {
-      "source": "sky",
-      "title": "Fulham latest: Garcia and Palacios make losing debuts in loss to Palace",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446"
-    },
-    {
-      "source": "sky",
-      "title": "'What a run, what an impact!' | Faatili's moment of magic sets up Uele try",
-      "link": "https://www.skysports.com/watch/video/13570819/super-league-caius-faatilis-moment-of-magic-sets-up-caleb-hamlin-uele-try",
-      "summary": "Caius Faatili produced an incredible run as he set up Caleb Hamlin-Uele's try, extending Wakefield's lead over Leeds in the Super League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316381.jpg?20260807205904"
-    },
-    {
-      "source": "sky",
-      "title": "Wilkin: Manner of defeat is alarming! | Tomkins: So much wrong at Saints",
-      "link": "https://www.skysports.com/watch/video/13570537/jon-wilkin-and-sam-tomkins-slam-st-helens-theres-so-many-things-wrong",
-      "summary": "Jon Wilkin and Sam Tomkins were shocked by the way St Helens lost to Hull FC and look at the massive decline of the club.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/c333a166fea1ae7f35054ac7e47c16fbff63c9e79f107eec305974932f5acc99_7315761.jpg?20260806225027"
-    },
-    {
-      "source": "sky",
-      "title": "'His dad is so proud!' | Sinfield scores in front of famous father",
-      "link": "https://www.skysports.com/watch/video/13570827/super-league-jack-sinfield-scores-in-front-of-famous-father-kevin",
-      "summary": "Jack Sinfield scored for Wakefield against his father's former side Leeds as rugby league legend Kevin watched on proudly.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugbyleague-superleague_7316401.jpg?20260807212046"
     }
   ]
 }
