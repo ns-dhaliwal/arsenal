@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T15:24:21.789062+00:00",
+  "lastUpdated": "2026-08-09T16:27:28.966339+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
-      "title": "Arsenal defend badly as Dortmund win Emirates Cup",
+      "title": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
+      "link": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
+      "summary": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liverpool-fc_7317670.jpg?20260809162948"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
       "link": "https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup",
       "summary": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-dortmund_7317538.jpg?20260809160634"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256"
+    },
+    {
+      "source": "sky",
+      "title": "Late heartache for Hull as Huang claims PIF London title",
+      "link": "https://www.skysports.com/golf/news/12040/13571402/pif-london-championship-anna-huang-secures-victory-after-late-charley-hull-double-bogey",
+      "summary": "Charley Hull surrendered the lead with a double-bogey on the 17th as Anna Huang stormed to a two-shot victory at the PIF London Championship at Centurion Club.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-charley-hull-2026-pif-championship_7317617.jpg?20260809153135"
     },
     {
       "source": "sky",
@@ -403,15 +419,15 @@
     },
     {
       "source": "sky",
-      "title": "Arsenal beaten by Dortmund - but win the shootout LIVE!",
+      "title": "Is Arsenal's defending a concern after Dortmund defeat?",
       "link": "https://www.skysports.com/football/live-blog/12040/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-tzolis_7317611.jpg?20260809152927"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arteta-arsenal_7317681.jpg?20260809164726"
     },
     {
       "source": "sky",
-      "title": "Monaco hit back  to win as Liverpool throw away another lead LIVE!",
+      "title": "Liverpool 2-3 Monaco commentary",
       "link": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
       "summary": "",
       "published": null,
@@ -443,11 +459,11 @@
     },
     {
       "source": "sky",
-      "title": "Hibs lead at Rangers after Celtic hit five at Kilmarnock LIVE!",
+      "title": "Big save denies Shankland as Rangers push for equaliser vs Hibs LIVE!",
       "link": "https://www.skysports.com/football/rangers-vs-hibernian/live/558344",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-scottish-premiership_7317664.jpg?20260809162332"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mcinnes-derek-rangers_7317678.jpg?20260809164251"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7312157.png?20260802125132"
-    },
-    {
-      "source": "sky",
-      "title": "Huddersfield blitz Catalans in dominant home win",
-      "link": "https://www.skysports.com/watch/video/13571192/huddersfield-giants-42-20-catalans-dragons-super-league-highlights",
-      "summary": "Highlights of the Super League clash between Huddersfield Giants and Catalans Dragons as Sam Halsall and Connor Wrench scored twice in a 42-20 victory for the hosts.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-huddersfield-dragons_7317175.jpg?20260808210620"
-    },
-    {
-      "source": "sky",
-      "title": "Wissa double gives Newcastle boss Jaissle winning start at 10-man Valencia",
-      "link": "https://www.skysports.com/football/valencia-vs-newcastle-united/report/568647",
-      "summary": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wissa-valencia-yoane_7317227.jpg?20260808221634"
     }
   ]
 }
