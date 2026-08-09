@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-09T18:31:00.021686+00:00",
+  "lastUpdated": "2026-08-09T19:27:47.027044+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arteta expects Guimarães to ‘ignite’ Arsenal and help take team to new level",
+      "link": "https://www.theguardian.com/football/2026/aug/09/arteta-guimaraes-ignite-arsenal-maresca-manchester-city",
+      "summary": "Arsenal lose 3-2 to Borussia Dortmund in Emirates CupEnzo Maresca impressed by Manchester City’s wide playersThe Arsenal manager, Mikel Arteta, has backed “warrior” Bruno Guimarães, who to “ignite something different” in the Premier League champions. The Brazil midfielder was introduced to fans ahead of Sunday’s 3-2 defeat by Borussia Dortmund in the Emirates Cup after completing his £75m move fro",
+      "published": "2026-08-09T18:46:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/1fc181320e0e7ba1bc33ea5636a9752781ac7d4e/414_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0a2e5cad0d0bb76ab50f0235b8993a7d"
+    },
     {
       "source": "bbc",
       "title": "Guimaraes can take us to the next level - Arteta",
@@ -346,12 +354,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc1/live/d6077610-8b4a-11f1-8139-b39d1c7486b2.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-      "link": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
-      "summary": "Brazil forward has one year left on contract at BernabéuVinícius future at Real uncertain after Mourinho arrivalArsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one year remaining on his contract at the Bernabéu.It is believed any move for Vinícius – who scored 22 goals for Real last season and four for Brazi",
-      "published": "2026-07-25T17:32:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/a09717740bb5d8e91cdd94b5bac1cb4427a5d622/332_0_4796_3838/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=6a64601190e273dab10c7f9af5a863fa"
+      "source": "sky",
+      "title": "Stokes fires Durham to One-Day Cup victory over Essex in Gay's absence",
+      "link": "https://www.skysports.com/cricket/news/12040/13571484/metro-bank-one-day-cup-ben-stokes-fires-durham-to-victory-over-essex-with-emilio-gay-absent",
+      "summary": "Ben Stokes made a quickfire 43 to help Durham to a 20-run victory over Essex in their One-Day Cup Group B match at Darlington despite the absence of England Test opener Emilio Gay.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ben-stokes-durham_7317802.png?20260809194114"
     },
     {
       "source": "sky",
@@ -427,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "McInnes on Rangers' woe: We're not as bad as people think",
+      "link": "https://www.skysports.com/football/news/12040/13571473/rangers-boss-derek-mcinnes-after-hibernian-loss-were-not-as-bad-as-people-think",
+      "summary": "Derek McInnes believes Rangers \"aren't as bad as people think\" despite his winless start to life at Ibrox.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-derek-mcinnes-rangers_7317800.jpg?20260809193352"
+    },
+    {
+      "source": "sky",
       "title": "Marsh fifty helps SunRisers ease past Welsh Fire in The Hundred",
       "link": "https://www.skysports.com/cricket/news/12040/13571460/the-hundred-sunrisers-leeds-ease-to-71-run-win-over-welsh-fire",
       "summary": "Mitchell Marsh's half-century and three wickets from Brydon Carse helped SunRisers Leeds take a big step towards the men's Hundred eliminator with a crushing 71-run victory over Welsh Fire.",
@@ -496,22 +512,6 @@
       "summary": "Three Hearts summer signings were on target as Wouter Vrancken belatedly got his reign up and running with an emphatic 4-0 win over Dundee United.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-josh-mcpake-hearts_7317694.jpg?20260809171409"
-    },
-    {
-      "source": "sky",
-      "title": "Hogh hits hat-trick as Celtic ease past hapless Kilmarnock",
-      "link": "https://www.skysports.com/football/kilmarnock-vs-celtic/report/558343",
-      "summary": "Record signing Kasper Hogh silenced his early critics with a first-half hat-trick as Celtic swept Kilmarnock aside on the new grass pitch at Rugby Park.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kasper-hogh-celtic_7317533.jpg?20260809141027"
-    },
-    {
-      "source": "sky",
-      "title": "Marmoush tucks in double as Semenyo stars in Man City win over Atletico Madrid",
-      "link": "https://www.skysports.com/football/manchester-city-vs-atletico-madrid/report/559827",
-      "summary": "Man City impressed in a 3-1 friendly win over Atletico Madrid in Seoul, with Enzo Maresca's tactical ideas beginning to take hold.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-omar-marmoush-manchester_7317562.jpg?20260809142623"
     }
   ]
 }
