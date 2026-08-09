@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-09T16:27:28.966339+00:00",
+  "lastUpdated": "2026-08-09T17:25:33.536914+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Guimaraes can take us to the next level - Arteta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mikel Arteta said the signing of Bruno Guimaraes will help Arsenal go to the \"next level\" and hints that the Gunners are not done with their summer transfer activity.",
+      "published": "2026-08-09T16:43:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b234/live/13b36eb0-9410-11f1-bc11-d9696db7ebba.jpg"
+    },
     {
       "source": "guardian",
       "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
@@ -338,20 +346,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc1/live/d6077610-8b4a-11f1-8139-b39d1c7486b2.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Cardiff teenager Donczew close to Arsenal move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g621z2lvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal are close to completing the signing of Cardiff City teenager Axel Donczew.",
-      "published": "2026-07-27T10:42:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf50/live/a3d4d6c0-89a5-11f1-8a9d-b9e590fcf96d.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
       "link": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
       "summary": "Brazil forward has one year left on contract at BernabéuVinícius future at Real uncertain after Mourinho arrivalArsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one year remaining on his contract at the Bernabéu.It is believed any move for Vinícius – who scored 22 goals for Real last season and four for Brazi",
       "published": "2026-07-25T17:32:00+00:00",
       "image": "https://i.guim.co.uk/img/media/a09717740bb5d8e91cdd94b5bac1cb4427a5d622/332_0_4796_3838/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=6a64601190e273dab10c7f9af5a863fa"
+    },
+    {
+      "source": "sky",
+      "title": "Hibs win at Rangers as McInnes remains winless",
+      "link": "https://www.skysports.com/football/rangers-vs-hibernian/report/558344",
+      "summary": "Derek McInnes is still looking for his first win as Rangers manager after Hibernian netted an injury-time winner to triumph 2-1 at Ibrox.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-lawrence_7317708.jpg?20260809174031"
     },
     {
       "source": "sky",
@@ -427,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "Sinner withdraws from Cincinnati Open as knee injury raises US Open fears",
+      "link": "https://www.skysports.com/tennis/news/12040/13571440/jannik-sinner-withdraws-from-cincinnati-open-as-knee-injury-raises-us-open-fitness-concerns",
+      "summary": "Jannik Sinner has withdrawn from the Cincinnati Open with an injury to his right knee.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tennis-jannik-sinner_7294801.jpg?20260710172534"
+    },
+    {
+      "source": "sky",
       "title": "Liverpool 2-3 Monaco commentary",
       "link": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109",
       "summary": "",
@@ -440,6 +456,22 @@
       "summary": "Britain's Cameron Norrie has been knocked out of the National Bank Open at the last-16 stage following a 6-2 7-6 (10-8) defeat by Arthur Fils in Montreal.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-norrie-cameron-tennis_7317313.jpg?20260809074550"
+    },
+    {
+      "source": "sky",
+      "title": "Motherwell held to goalless draw at home to Falkirk",
+      "link": "https://www.skysports.com/football/motherwell-vs-falkirk/report/558341",
+      "summary": "Motherwell signed off for their Conference League third-round qualifier against HJK Helsinki with a goalless draw against Falkirk.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ben-krauhaus-ibrahim_7317689.jpg?20260809170358"
+    },
+    {
+      "source": "sky",
+      "title": "New boys shine as Vrancken gets first Hearts win",
+      "link": "https://www.skysports.com/football/hearts-vs-dundee-united/report/558340",
+      "summary": "Three Hearts summer signings were on target as Wouter Vrancken belatedly got his reign up and running with an emphatic 4-0 win over Dundee United.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-josh-mcpake-hearts_7317694.jpg?20260809171409"
     },
     {
       "source": "sky",
@@ -459,11 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Big save denies Shankland as Rangers push for equaliser vs Hibs LIVE!",
+      "title": "Hibs stun Rangers with late winner LIVE!",
       "link": "https://www.skysports.com/football/rangers-vs-hibernian/live/558344",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mcinnes-derek-rangers_7317678.jpg?20260809164251"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rangers-hibs-callum_7317736.jpg?20260809180409"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "Watch as Bournemouth's 2-2 draw with Real Betis was anything but a pre-season friendly, as an on-pitch brawl resulted in two red cards, including one for former Manchester United winger Antony.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bournemouth-betis_7317400.jpg?20260809102827"
-    },
-    {
-      "source": "sky",
-      "title": "True Love seeks Prix Maurice de Gheest crown at Deauville",
-      "link": "https://www.skysports.com/racing/news/12040/13570933/today-on-sky-sports-racing-true-love-seeks-prix-maurice-de-gheest-crown-at-deauville",
-      "summary": "True Love heads the markets for the 2026 renewal of the Prix Maurice de Gheest - live on Sky Sports Racing at 3.40pm.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-true-love-racing_7316952.jpg?20260808172326"
-    },
-    {
-      "source": "sky",
-      "title": "Brennan, Hossler share Wyndham R3 lead as Thompson makes albatross",
-      "link": "https://www.skysports.com/watch/video/13571286/wyndham-championship-day-three-highlights",
-      "summary": "Highlights from day three of the Wyndham Championship held at Sedgefield Country Club in Greensboro, North Carolina, including an albatross from Davis Thompson.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/sky-sports-golf-pga_7317311.jpg?20260809073023"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Romero open to joining Arsenal but Spurs resist",
-      "link": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338"
-    },
-    {
-      "source": "sky",
-      "title": "What we learned from Jaissle's first game in charge at Newcastle",
-      "link": "https://www.skysports.com/football/news/12040/13571333/valencia-1-2-newcastle-what-we-learned-after-matthias-jaissles-first-game-in-charge",
-      "summary": "Substitute Yoane Wissa scored twice to give Matthias Jaissle a winning start as Newcastle boss with a 2-1 comeback pre-season win at 10-man Valencia.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7312157.png?20260802125132"
     }
   ]
 }
