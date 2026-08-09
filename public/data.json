@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-09T22:23:41.042721+00:00",
+  "lastUpdated": "2026-08-09T23:24:48.614706+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League 2026-27 preview No 1: Arsenal",
+      "link": "https://www.theguardian.com/football/2026/aug/10/premier-league-2026-27-preview-no-1-arsenal",
+      "summary": "With most of their rivals changing managers, can the champions go back-to-back for the first time in more than 90 years?Guardian writers’ predicted position: 1st (NB: this is not necessarily Ed Aarons’ prediction but the average of our writers’ tips)Last season’s position: 1st Continue reading...",
+      "published": "2026-08-09T23:01:27+00:00",
+      "image": "https://i.guim.co.uk/img/media/6bcfaa97aeba9f4da605b4f49fc9880d4ef039f5/615_3_2442_1953/master/2442.jpg?width=140&quality=85&auto=format&fit=max&s=d0473ec9348555389596861b86afd87c"
+    },
     {
       "source": "bbc",
       "title": "Guimaraes can ignite something different in us - Arteta",
@@ -338,20 +346,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/63ec62c0-8b40-11f1-b8ee-9b3c26ad07bb.png"
     },
     {
-      "source": "guardian",
-      "title": "This week’s soccer questions: is this Fifa’s Super League moment and can Arsenal land Vinícius Júnior?",
-      "link": "https://www.theguardian.com/football/2026/jul/29/fifa-gianni-infantino-plan-arsenal-vinicius-junior-liverpool-rebuild",
-      "summary": "We look at the controversy around the plan to sell stakes in the World Cup, what the Gunners need to get to the next level and Liverpool’s uncertain summerSo $15bn wasn’t enough. That’s the record amount Fifa is estimated to have made from the 2026 World Cup, but Gianni Infantino wants more. Approximately $20bn more through an investment plan that would see soccer’s governing body sell the commerc",
-      "published": "2026-07-29T14:23:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/8f707a505c48f6ade88661ba391598db4b6aee1b/271_0_4432_3548/master/4432.jpg?width=140&quality=85&auto=format&fit=max&s=c70db13f8c6c04c70b2c2c20ae3238b0"
-    },
-    {
       "source": "bbc",
       "title": "Timber leaves Arsenal camp for groin check",
       "link": "https://www.bbc.co.uk/sport/football/articles/cpq8ndn0g7go?at_medium=RSS&at_campaign=rss",
       "summary": "Jurrien Timber travels back to London from Arsenal's training camp in Spain in a move related to the groin injury that caused him to miss the end of last season.",
       "published": "2026-07-29T13:14:41+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc1/live/d6077610-8b4a-11f1-8139-b39d1c7486b2.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win",
+      "link": "https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory",
+      "summary": "Michael Brennan secured his place in the FedExCup Playoffs as he won the Wyndham Championship by three strokes from Beau Hossler.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-michael-brennan-wyndham-championship_7317892.jpg?20260809231802"
     },
     {
       "source": "sky",
@@ -371,9 +379,9 @@
     },
     {
       "source": "sky",
-      "title": "'Very pathetic' - Koepka fumes after missing FedExCup playoffs",
+      "title": "'Very pathetic' - Koepka fumes after missing FedExCup Playoffs",
       "link": "https://www.skysports.com/golf/news/12040/13571491/brooks-koepka-fumes-after-pathetic-wyndham-championship-performance-costs-him-place-in-fedexcup-playoffs",
-      "summary": "Brooks Koepka labelled missing the FedExCup playoffs \"pathetic\" in a brutally honest assessment of his game after a low finish at the Wyndham Championship.",
+      "summary": "Brooks Koepka labelled missing the FedExCup Playoffs \"pathetic\" in a brutally honest assessment of his game after a low finish at the Wyndham Championship.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-brooks-koepka-golf_7300339.jpg?20260717193309"
     },
@@ -504,14 +512,6 @@
       "summary": "Mitchell Marsh's half-century and three wickets from Brydon Carse helped SunRisers Leeds take a big step towards the men's Hundred eliminator with a crushing 71-run victory over Welsh Fire.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-sunrisers-leeds-hundred_7317751.jpg?20260809182125"
-    },
-    {
-      "source": "sky",
-      "title": "'The first of many!' | Hogh opens Celtic account early on at Kilmarnock",
-      "link": "https://www.skysports.com/watch/video/13571358/it-will-be-the-first-of-many-kasper-hogh-opens-celtic-account-early-on-at-kilmarnock",
-      "summary": "Kasper Hogh scored his first Celtic goal inside the opening two minutes of Celtic&#8217;s away match at Kilmarnock.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-goal-spfl_7317511.jpg?20260809134554"
     }
   ]
 }
