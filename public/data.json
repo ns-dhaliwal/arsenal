@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T03:47:36.877406+00:00",
+  "lastUpdated": "2026-08-10T05:20:13.537876+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "Today on Sky Sports Racing: Badri chases four-timer at Windsor",
+      "link": "https://www.skysports.com/racing/news/12040/13571329/today-on-sky-sports-racing-flat-action-from-windsor-live-on-monday-evening-with-badri-chasing-a-four-timer",
+      "summary": "Windsor takes centre stage on Monday with a six-race Flat meeting live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7251848.jpg?20260517211644"
+    },
+    {
+      "source": "sky",
       "title": "Brennan secures FedEx Cup Playoffs spot with Wyndham Championship win",
       "link": "https://www.skysports.com/golf/news/12040/13571521/wyndham-championship-michael-brennan-secures-fedex-playoffs-spot-with-victory",
       "summary": "Michael Brennan secured his place in the FedExCup Playoffs as he won the Wyndham Championship by three strokes from Beau Hossler.",
@@ -371,11 +379,19 @@
     },
     {
       "source": "sky",
+      "title": "'Gobsmacked!' | Hull FOUR-PUTTS the 17th moments after taking the lead!",
+      "link": "https://www.skysports.com/watch/video/13571421/pif-london-championship-charley-hull-four-putts-the-17th-moments-after-taking-the-lead",
+      "summary": "The crowd was stunned to silence as Charley Hull four-putted on the 17th hole moments after taking the lead.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-hull-golf_7317677.jpg?20260809163917"
+    },
+    {
+      "source": "sky",
       "title": "Rahm reigns again after Niemann wins LIV Golf New York",
       "link": "https://www.skysports.com/golf/news/12040/13571516/liv-golf-jon-rahm-clinches-third-straight-title-after-joaquin-niemann-wins-in-new-york",
       "summary": "Jon Rahm clinched the LIV Golf season points title for a third straight year despite finishing tied for 41st at LIV Golf New York, where Joaquin Niemann claimed a three-shot victory for his ninth win in the last three years.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rahm-golf_7317882.jpg?20260809224221"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rahm-golf_7317882.jpg?20260810060036"
     },
     {
       "source": "sky",
@@ -411,7 +427,7 @@
     },
     {
       "source": "sky",
-      "title": "Hogh scores first half hat-trick as Celtic romp Kilmarnock",
+      "title": "Hogh scores first half hat-trick in Celtic romp at Kilmarnock",
       "link": "https://www.skysports.com/watch/video/13571399/kilmarnock-1-5-celtic-scottish-premiership-highlights",
       "summary": "Highlights of the Scottish Premiership match between Kilmarnock and Celtic.",
       "published": null,
@@ -496,22 +512,6 @@
       "summary": "Tommy Makinson has announced he will retire from rugby league at the end of the current 2026 Super League campaign.&#160;",
       "published": null,
       "image": "https://e0.365dm.com/25/04/1920x1080/skysports-tommy-makinson-catalans-dragons_6891338.jpg?20250422064316"
-    },
-    {
-      "source": "sky",
-      "title": "McInnes on Rangers' woe: We're not as bad as people think",
-      "link": "https://www.skysports.com/football/news/12040/13571473/rangers-boss-derek-mcinnes-after-hibernian-loss-were-not-as-bad-as-people-think",
-      "summary": "Derek McInnes believes Rangers \"aren't as bad as people think\" despite his winless start to life at Ibrox.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-derek-mcinnes-rangers_7317800.jpg?20260809193352"
-    },
-    {
-      "source": "sky",
-      "title": "Marsh fifty helps SunRisers past Welsh Fire in The Hundred",
-      "link": "https://www.skysports.com/cricket/news/12040/13571460/the-hundred-sunrisers-leeds-ease-to-71-run-win-over-welsh-fire",
-      "summary": "Mitchell Marsh's half-century and three wickets from Brydon Carse helped SunRisers Leeds take a big step towards the men's Hundred eliminator with a crushing 71-run victory over Welsh Fire.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-sunrisers-leeds-hundred_7317751.jpg?20260809182125"
     }
   ]
 }
