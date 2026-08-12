@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T18:54:25.435723+00:00",
+  "lastUpdated": "2026-08-12T19:58:15.854561+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,15 +363,23 @@
     },
     {
       "source": "sky",
-      "title": "Jesus misses early sitter for Arsenal against Como LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-vs-como/live/562442",
-      "summary": "",
+      "title": "Sports fans watch on as Britain experiences fullest solar eclipse since 1999",
+      "link": "https://www.skysports.com/cricket/news/12040/13572383/solar-eclipse-fullest-above-british-skies-since-1999-as-spectators-take-it-in-at-sporting-events-across-europe",
+      "summary": "Cricket fans at Edgbaston were among sporting spectators given a stunning view of Wednesday evening's partial solar eclipse.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bruno-guimaraes-arsenal_7319999.jpg?20260812192512"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-eclipse-edgbaston_7320057.jpg?20260812202040"
     },
     {
       "source": "sky",
-      "title": "Everton hit three past wide open Newcastle LIVE!",
+      "title": "Guimaraes on for Arsenal bow in Como friendly LIVE!",
+      "link": "https://www.skysports.com/football/arsenal-vs-como/live/562442",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320051.jpg?20260812201335"
+    },
+    {
+      "source": "sky",
+      "title": "Everton 3-1 Newcastle commentary",
       "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/568648",
       "summary": "",
       "published": null,
@@ -395,6 +403,14 @@
     },
     {
       "source": "sky",
+      "title": "Chelsea stars for sale: The players who could leave - and what they'll cost",
+      "link": "https://www.skysports.com/football/news/12040/13572382/chelsea-transfer-news-enzo-fernandez-nicolas-jackson-malo-gusto-and-more-in-spotlight-as-blues-look-to-player-sales",
+      "summary": "Chelsea are the Premier League's top spenders this summer with the bulk of their business done and attention is now turning to sales.&#160;",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chelsea-transfer_7320055.png?20260812201614"
+    },
+    {
+      "source": "sky",
       "title": "Fery feels 'no added pressure' despite being British No 1 as he returns",
       "link": "https://www.skysports.com/tennis/news/12040/13572237/arthur-fery-feels-no-added-pressure-despite-being-british-no-1-as-he-returns-to-action-at-cincinnati-open",
       "summary": "Arthur Fery insists he feels &#8220;no added pressure&#8221; as the new British No 1 prepares to return to action this weekend for the first time since his memorable run to the Wimbledon semi-finals.",
@@ -403,11 +419,11 @@
     },
     {
       "source": "sky",
-      "title": "Zirkzee sweeps Man Utd ahead vs Leeds LIVE!",
+      "title": "Man Utd pegged back as Aaronson cancels out early Zirkzee strike LIVE!",
       "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/live/555721",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jj-gabriel-manchester-united_7311940.jpg?20260801180806"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-joshua-zirkzee_7320054.jpg?20260812201610"
     },
     {
       "source": "sky",
@@ -424,14 +440,6 @@
       "summary": "Cadillac have sacked team principal Graeme Lowdon and replaced him with Marcin Budkowski in what Formula 1's 2026 newcomers claim is a \"planned leadership transition\".",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-graeme-lowdon-cadillac_7319771.jpg?20260812151633"
-    },
-    {
-      "source": "sky",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
     },
     {
       "source": "sky",
@@ -504,14 +512,6 @@
       "summary": "Lionel Messi has admitted he has doubts over whether he will continue his playing career following the death of his father, Jorge, saying, \"I don't know how to carry on.\"",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7295635.jpg?20260712020454"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Ffos Las hosts six-race card",
-      "link": "https://www.skysports.com/racing/news/12040/13571636/today-on-sky-sports-racing-ffos-las-hosts-six-race-card-live-on-wednesday",
-      "summary": "Don't miss a moment from Ffos Las on Wednesday, with all six races live from 3.37pm on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-racing-ffos-las_7312682.jpg?20260803102211"
     }
   ]
 }
