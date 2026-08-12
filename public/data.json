@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T21:39:08.819253+00:00",
+  "lastUpdated": "2026-08-12T22:33:58.706100+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -363,7 +363,7 @@
     },
     {
       "source": "sky",
-      "title": "Rashford does not feature in Leeds friendly win but still part of Man Utd plans",
+      "title": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
       "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
       "summary": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, before the concluding shoot-out was edged 5-4 by Michael Carrick's side.",
       "published": null,
@@ -376,6 +376,14 @@
       "summary": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3 on penalties.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320098.jpg?20260812215814"
+    },
+    {
+      "source": "sky",
+      "title": "Arteta: There's more we want to do in the transfer market",
+      "link": "https://www.skysports.com/football/news/12040/13572410/mikel-arteta-says-arsenal-are-actively-looking-for-signings-in-the-transfer-market-after-bruno-guimaraes-makes-bow-in-friendly-against-como",
+      "summary": "Mikel Arteta says Arsenal are actively looking for more new signings in the transfer market but admits there is only a small pool of available players who can take them to the next level.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mikel-arteta-arsenal_7320143.jpg?20260812225900"
     },
     {
       "source": "sky",
@@ -397,9 +405,9 @@
       "source": "sky",
       "title": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
       "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
-      "summary": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain held off Aston Villa to win the UEFA Super Cup.",
+      "summary": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain beat Aston Villa 2-1 to win the UEFA Super Cup.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-desire-doue-psg_7320104.jpg?20260812220818"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-psg-aston-villa-super-cup_7320132.jpg?20260812224528"
     },
     {
       "source": "sky",
@@ -483,14 +491,6 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd beat Leeds in pre-season penalty shoot-out LIVE!",
-      "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/live/555721",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-leeds-friendly-dominic-calvert-lewin_7320085.jpg?20260812212148"
-    },
-    {
-      "source": "sky",
       "title": "McIlroy keen to asses his game during first FedExCup Playoffs event",
       "link": "https://www.skysports.com/golf/news/12040/13572212/rory-mcilroy-keen-to-see-where-his-game-is-as-he-returns-to-pga-tour-for-opening-fedexcup-playoffs-event",
       "summary": "Rory McIlroy believes this week's FedEx St. Jude Championship will be a good chance for him to assess the current standard of his game, as the Northern Irishman returns to PGA Tour action for the first time since The Open.",
@@ -511,7 +511,7 @@
       "link": "https://www.skysports.com/football/news/12040/13570650/haissem-hassan-celtic-sign-egypt-winger-from-real-oviedo-on-four-year-deal-worth-9m",
       "summary": "Celtic have announced the signing of winger Haissem Hassan from Real Oviedo in a potential &#163;9m move.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-haissem-hassan-hassan_7320133.jpg?20260812224912"
     }
   ]
 }
