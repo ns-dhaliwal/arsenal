@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T08:11:18.007288+00:00",
+  "lastUpdated": "2026-08-12T09:55:41.231159+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,35 @@
     },
     {
       "source": "sky",
+      "title": "What next for Birmingham City? Why Davies is changing his approach",
+      "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
+      "summary": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's these days. The buzz around the place is palpable.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649"
+    },
+    {
+      "source": "sky",
+      "title": "Championship play-off changes, new managers & star players - the EFL is BACK!",
+      "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
+      "summary": "The 2026/27 EFL season is here!",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729"
+    },
+    {
+      "source": "sky",
+      "title": "Sky Sports agrees deal to show Laver Cup from London's O2 in September",
+      "link": "https://www.skysports.com/tennis/news/12040/13571896/laver-cup-sky-sports-to-show-europe-vs-rest-of-the-world-from-londons-o2-in-september",
+      "summary": "Sky Sports has agreed a deal with Trident8 to show all three days of the Laver Cup from London's O2 arena this September, as 12 of the world's best men's players compete in the annual Europe vs 'Rest of the World' showdown.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-taylor-fritz-agassi_7318853.jpg?20260811115255"
+    },
+    {
+      "source": "sky",
       "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
       "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka",
       "summary": "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 of men's tennis after beating Arthur Filis in the quarter-finals of the Canadian Open.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jodar-rafael-tennis_7319341.jpg?20260811235513"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jodar-rafael-tennis_7319341.jpg?20260812102416"
     },
     {
       "source": "sky",
@@ -375,7 +399,7 @@
       "link": "https://www.skysports.com/watch/video/13572134/elena-rybakina-vs-naomi-osaka-canadian-open-highlights",
       "summary": "Highlights of the Canadian Open match between Elena Rybakina and Naomi Osaka.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-tennis-wta-canadianopen_7319417.jpg?20260812073432"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-wta-canadianopen_7319531.jpg?20260812101157"
     },
     {
       "source": "sky",
@@ -387,19 +411,19 @@
     },
     {
       "source": "sky",
+      "title": "UEFA Super Cup preview: Why three Villa stars won't play vs PSG",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/live/556002",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-ollie-watkins_7257341.jpg?20260524175517"
+    },
+    {
+      "source": "sky",
       "title": "Jets' Stiggers in hospital after collapsing during practice",
       "link": "https://www.skysports.com/nfl/news/12040/13572096/nfl-new-york-jets-cornerback-qwantez-stiggers-taking-to-hospital-after-collapsing-in-joint-practice-with-tampa-bay-buccaneers",
       "summary": "New York Jets cornerback Qwan'tez Stiggers was taken to a hospital by ambulance after he briefly lost consciousness during a joint practice with the Tampa Bay Buccaneers on Tuesday.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-qwantez-stiggers_7319333.jpg?20260811231300"
-    },
-    {
-      "source": "sky",
-      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
     },
     {
       "source": "sky",
@@ -416,6 +440,14 @@
       "summary": "Highlights of the Greatest Rivalry tour match between the Sharks and New Zealand in Durban.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-new-zealand_7319331.jpg?20260811230158"
+    },
+    {
+      "source": "sky",
+      "title": "Kick It Out chair to leave role at end of season",
+      "link": "https://www.skysports.com/football/news/12040/13572182/kick-it-out-sanjay-bhandari-to-step-down-as-chair-after-seven-years-in-role-at-the-end-of-the-season",
+      "summary": "Kick It Out chair Sanjay Bhandari will leave his role at the end of the 2026/27 season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-sanjay-bhandari-kick-it-out_7319522.jpg?20260812100417"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/02/1920x1080/skysports-zan-vipotnik-swansea_7170892.jpg?20260221141912"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Chelsea and Man Utd turn down Lewis-Skelly opportunity",
-      "link": "https://www.skysports.com/football/news/12040/13572089/myles-lewis-skelly-transfer-news-chelsea-and-man-utd-turn-down-intermediary-offer-to-sign-arsenal-teenager-paper-talk",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Van Veen asks for help as bags stranded in Paris",
-      "link": "https://www.skysports.com/darts/news/12040/13571915/gian-van-veen-asks-for-help-ahead-of-new-zealand-darts-masters-with-bags-stuck-in-paris",
-      "summary": "Gian van Veen has taken to social media to ask for help with his bags stuck in Paris ahead of the New Zealand Darts Masters in Auckland this weekend.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-gian-van-veen-darts_7306759.jpg?20260725204617"
-    },
-    {
-      "source": "sky",
-      "title": "'I Diuuuuu' - Ronaldo marries long-term partner",
-      "link": "https://www.skysports.com/football/news/12040/13572078/cristiano-ronaldo-marries-long-time-girlfriend-georgina-rodriguez-in-portugal",
-      "summary": "Cristiano Ronaldo has married his long-time girlfriend Georgina Rodriguez at a civil ceremony in Portugal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ronaldo-rodriguez_7319276.jpg?20260811211526"
-    },
-    {
-      "source": "sky",
-      "title": "The F1 Show: What does a Formula 1 driver's manager do?",
-      "link": "https://www.skysports.com/f1/news/27451/12822277/the-f1-show-podcast-sky-sports",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-the-f1-show-formula-one_7179666.png?20260302111438"
     }
   ]
 }
