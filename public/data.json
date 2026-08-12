@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-12T20:49:14.391086+00:00",
+  "lastUpdated": "2026-08-12T21:39:08.819253+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Guimaraes makes Arsenal debut in draw with Como",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8kp6k3p1no?at_medium=RSS&at_campaign=rss",
+      "summary": "Bruno Guimaraes put in an assured performance as he made his Arsenal debut in a 1-1 friendly draw with Como at Emirates stadium.",
+      "published": "2026-08-12T21:24:42+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b072/live/117fa850-968d-11f1-9854-73d5e7b83e3b.jpg"
+    },
     {
       "source": "bbc",
       "title": "What's happening with Lewis-Skelly's Arsenal future?",
@@ -314,14 +322,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f42/live/57221490-8f46-11f1-a7ab-8b30adf0800a.png"
     },
     {
-      "source": "bbc",
-      "title": "Could Vinicius Jr really be heading to Arsenal?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cewr4xjzp7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport's Elizabeth Conway explains the situation surrounding Vinicius Junior and a potential move to Arsenal, with the Brazilian forward set to resume contract talks with current club Real Madrid this week.",
-      "published": "2026-08-03T18:07:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d776/live/6a8db750-8f64-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
       "link": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes",
@@ -355,6 +355,38 @@
     },
     {
       "source": "sky",
+      "title": "MI London's Hundred title defence over despite narrow win over Phoenix",
+      "link": "https://www.skysports.com/cricket/news/12040/13572322/the-hundred-mi-londons-title-defence-and-hopes-of-fourth-in-a-row-over-despite-narrow-win-over-birmingham-phoenix",
+      "summary": "MI London had the lights turned out on their hopes of claiming a fourth straight Hundred title despite beating bottom-placed Birmingham Phoenix in a nip-and-tuck final men's group match.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mi-london-curran_7320102.jpg?20260812220418"
+    },
+    {
+      "source": "sky",
+      "title": "Rashford does not feature in Leeds friendly win but still part of Man Utd plans",
+      "link": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
+      "summary": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in Dublin, before the concluding shoot-out was edged 5-4 by Michael Carrick's side.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-joshua-zirkzee_7320054.jpg?20260812201610"
+    },
+    {
+      "source": "sky",
+      "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
+      "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
+      "summary": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3 on penalties.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320098.jpg?20260812215814"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea set Man City deadline to bid for Fernandez",
+      "link": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
+      "summary": "Chelsea have told Manchester City they have a deadline of 5pm this Friday to make an offer for Enzo Fernandez.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412"
+    },
+    {
+      "source": "sky",
       "title": "Atletico agree deal to sign Spurs captain Romero",
       "link": "https://www.skysports.com/football/news/12040/13571751/cristian-romero-atletico-madrid-agree-deal-with-tottenham-to-sign-argentina-defender-after-long-term-interest",
       "summary": "Atletico Madrid have agreed a deal in principle with Tottenham to sign Cristian Romero.",
@@ -363,11 +395,11 @@
     },
     {
       "source": "sky",
-      "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
-      "link": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
-      "summary": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como in their final pre-season friendly.",
+      "title": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
+      "summary": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain held off Aston Villa to win the UEFA Super Cup.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320051.jpg?20260812201335"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-desire-doue-psg_7320104.jpg?20260812220818"
     },
     {
       "source": "sky",
@@ -387,7 +419,7 @@
     },
     {
       "source": "sky",
-      "title": "Arsenal beat Como on pens as Guimaraes makes debut LIVE!",
+      "title": "Arsenal 1-1 Como commentary",
       "link": "https://www.skysports.com/football/arsenal-vs-como/live/562442",
       "summary": "",
       "published": null,
@@ -408,6 +440,14 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-everton-newcastle_7319922.jpg?20260812180420"
+    },
+    {
+      "source": "sky",
+      "title": "'Nature of F1' | Cadillac CEO explains reasons behind Lowdon sacking",
+      "link": "https://www.skysports.com/watch/video/13572380/formula-1-cadillac-ceo-explains-reasons-behind-graeme-lowdon-sacking",
+      "summary": "Cadillac CEO Dan Towriss explains the reasons behind sacking Team Principal Graeme Lowdon.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-f1-sky-sports-new_7320062.jpg?20260812202226"
     },
     {
       "source": "sky",
@@ -472,46 +512,6 @@
       "summary": "Celtic have announced the signing of winger Haissem Hassan from Real Oviedo in a potential &#163;9m move.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830"
-    },
-    {
-      "source": "sky",
-      "title": "Vikings confirm Murray as starting QB",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13572233/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kyler-murray-minnesota_7319692.jpg?20260812130950"
-    },
-    {
-      "source": "sky",
-      "title": "Draper in line to meet Djokovic at Cincinnati Open",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-jack-draper-indian-wells-tennis-2026_7186560.jpg?20260309055553"
-    },
-    {
-      "source": "sky",
-      "title": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
-      "link": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign",
-      "summary": "'Not really, no' - the perhaps surprising answer from Manchester United&#8217;s summer signing Youri Tielemans when asked whether he expected to leave his former club Aston Villa in this window.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-youri-tielemans-man-utd_7319528.jpg?20260812101045"
-    },
-    {
-      "source": "sky",
-      "title": "What next for Birmingham City? Why Davies is changing his approach",
-      "link": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
-      "summary": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list. Fan parks surround St Andrew's these days. The buzz around the place is palpable.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chris-davies-birmingham-city_7319295.jpg?20260811220649"
-    },
-    {
-      "source": "sky",
-      "title": "Championship play-off changes, new managers & star players - the EFL is BACK!",
-      "link": "https://www.skysports.com/football/news/12040/13571934/efl-2026-27-season-preview-championship-play-off-changes-new-managers-and-star-players",
-      "summary": "The 2026/27 EFL season is here!",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-football-southampton_7318895.jpg?20260811124729"
     }
   ]
 }
