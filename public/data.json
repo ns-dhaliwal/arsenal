@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-12T14:18:43.047448+00:00",
+  "lastUpdated": "2026-08-12T15:54:12.660828+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal reignite interest in Aston Villa's Konsa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+      "published": "2026-08-12T15:21:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/cf599bf0-965c-11f1-a654-971f565de941.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arsenal’s Myles Lewis-Skelly offered to Manchester United as left-back solution",
@@ -346,12 +354,28 @@
       "image": "https://i.guim.co.uk/img/media/4e4edf2754e332a379c814ff14cdb76b9e039d43/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=27bda46f1f8c971f125de53fab24d37f"
     },
     {
-      "source": "bbc",
-      "title": "Newcastle captain Guimaraes expected to join Arsenal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
-      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m.",
-      "published": "2026-07-30T14:39:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1db/live/8274e610-8c1f-11f1-a7ab-8b30adf0800a.jpg"
+      "source": "sky",
+      "title": "Pre-season: Newcastle vs Everton team news LIVE!",
+      "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/568648",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-matthias-jaissle_7319828.jpg?20260812162457"
+    },
+    {
+      "source": "sky",
+      "title": "O'Sullivan's poor start to season continues with early China Open loss",
+      "link": "https://www.skysports.com/snooker/news/12040/13572300/ronnie-osullivan-the-rockets-poor-start-to-snooker-season-continues-with-shock-early-china-open-loss-to-noppon-saengkham",
+      "summary": "Ronnie O'Sullivan's poor start to the new season continued after he lost 6-4 to Noppon Saengkham in the second round of the China Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ronnie-osullivan_7308025.jpg?20260727182431"
+    },
+    {
+      "source": "sky",
+      "title": "Cadillac sack team principal Lowdon as Budkowski takes charge",
+      "link": "https://www.skysports.com/f1/news/12040/13572275/cadillac-appoint-marcin-budkowski-as-team-principal-following-f1-2026-newcomers-sudden-sacking-of-graeme-lowdon",
+      "summary": "Cadillac have sacked team principal Graeme Lowdon and replaced him with Marcin Budkowski in what Formula 1's 2026 newcomers claim is a \"planned leadership transition\".",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-graeme-lowdon-cadillac_7319771.jpg?20260812151633"
     },
     {
       "source": "sky",
@@ -411,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "Lakers to be sold in record-breaking £9bn deal",
+      "link": "https://www.skysports.com/nba/news/12040/13572287/los-angeles-lakers-sale-mark-walter-agrees-record-breaking-9bn-deal-to-sell-franchise-to-josh-kushner-and-bob-iger",
+      "summary": "The Los Angeles Lakers are set to be sold for a record-breaking $12.5bn (&#163;9.25bn) to Josh Kushner, the venture capitalist who was at the centre of FIFA's proposed new commercial structure.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lakers-nba_7319813.jpg?20260812155857"
+    },
+    {
+      "source": "sky",
       "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
       "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka",
       "summary": "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 of men's tennis after beating Arthur Filis in the quarter-finals of the Canadian Open.",
@@ -419,11 +451,27 @@
     },
     {
       "source": "sky",
+      "title": "Messi hints at retirement in tribute to late father",
+      "link": "https://www.skysports.com/football/news/12040/13572274/lionel-messi-legendary-argentina-forward-hints-at-retirement-following-death-of-his-father-jorge",
+      "summary": "Lionel Messi has admitted he has doubts over whether he will continue his playing career following the death of his father, Jorge, saying, \"I don't know how to carry on.\"",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-argentina_7295635.jpg?20260712020454"
+    },
+    {
+      "source": "sky",
       "title": "Today on Sky Sports Racing: Ffos Las hosts six-race card",
       "link": "https://www.skysports.com/racing/news/12040/13571636/today-on-sky-sports-racing-ffos-las-hosts-six-race-card-live-on-wednesday",
       "summary": "Don't miss a moment from Ffos Las on Wednesday, with all six races live from 3.37pm on Sky Sports Racing.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-racing-ffos-las_7312682.jpg?20260803102211"
+    },
+    {
+      "source": "sky",
+      "title": "Rangers 'playing with fire' over defensive options, says McInnes",
+      "link": "https://www.skysports.com/football/news/12040/13572258/rangers-transfers-derek-mcinnes-makes-playing-with-fire-admission-as-club-chase-more-signings-amid-winless-start",
+      "summary": "Derek McInnes believes Rangers are \"playing with fire\" after being left with a shortage of options in defence.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-derek-mcinnes-rangers_7317800.jpg?20260809193352"
     },
     {
       "source": "sky",
@@ -464,54 +512,6 @@
       "summary": "Joe Root has ruled out a curfew under his England Test captaincy and implored his players to behave like \"grown adults\" ahead of his first series back at the helm against Pakistan.",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-joe-root-england_7305756.jpg?20260724123536"
-    },
-    {
-      "source": "sky",
-      "title": "UEFA Super Cup preview: Why three Villa stars won't play vs PSG",
-      "link": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/live/556002",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-ollie-watkins_7257341.jpg?20260524175517"
-    },
-    {
-      "source": "sky",
-      "title": "Jets' Stiggers in hospital after collapsing during practice",
-      "link": "https://www.skysports.com/nfl/news/12040/13572096/nfl-new-york-jets-cornerback-qwantez-stiggers-taking-to-hospital-after-collapsing-in-joint-practice-with-tampa-bay-buccaneers",
-      "summary": "New York Jets cornerback Qwan'tez Stiggers was taken to a hospital by ambulance after he briefly lost consciousness during a joint practice with the Tampa Bay Buccaneers on Tuesday.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-qwantez-stiggers_7319333.jpg?20260811231300"
-    },
-    {
-      "source": "sky",
-      "title": "NRL legend Cherry-Evans reportedly in advanced talks to sign for Hull FC",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13572194/daly-cherry-evans-former-kangaroos-half-back-reportedly-in-advanced-talks-to-sign-for-hull-fc-for-2027-super-league-season",
-      "summary": "Daly Cherry-Evans is reportedly in advanced talks to sign for Hull FC in what would be a shock switch to Super League for the 2027 season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-daly-cherry-evans_7319546.jpg?20260812103230"
-    },
-    {
-      "source": "sky",
-      "title": "Reminder that Kvaratskhelia was the best player in Europe last season",
-      "link": "https://www.skysports.com/football/news/12040/13572065/khvicha-kvaratskhelia-is-back-for-psg-in-the-uefa-super-cup-georgian-missed-the-world-cup-but-might-just-be-europes-best",
-      "summary": "It was heralded as the World Cup in which all the stars shone. But while the big names did indeed illuminate the summer, the return of the club game with the showpiece UEFA Super Cup in Salzburg is a chance for Khvicha Kvaratskhelia to reclaim his spotlight.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-khvicha-kvaratskhelia_7319245.jpg?20260811200112"
-    },
-    {
-      "source": "sky",
-      "title": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
-      "link": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament",
-      "summary": "Manchester Super Giants routed SunRisers Leeds to all but seal their place in The Hundred men's eliminator and leave their opponents at risk of being knocked out.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-liam-dawson-hundred_7319278.jpg?20260812055147"
-    },
-    {
-      "source": "sky",
-      "title": "Sharks 0-54 New Zealand | Highlights",
-      "link": "https://www.skysports.com/watch/video/13572095/durban-sharks-0-54-new-zealand-highlights",
-      "summary": "Highlights of the Greatest Rivalry tour match between the Sharks and New Zealand in Durban.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-new-zealand_7319331.jpg?20260811230158"
     }
   ]
 }
