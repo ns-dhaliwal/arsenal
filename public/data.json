@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T17:52:57.152593+00:00",
+  "lastUpdated": "2026-08-13T18:54:44.384017+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,11 +355,35 @@
     },
     {
       "source": "sky",
+      "title": "McIlroy makes woeful start to FedExCup Playoffs as Spieth shares early lead",
+      "link": "https://www.skysports.com/golf/news/12040/13572655/fedexcup-playoffs-rory-mcilroy-makes-woeful-start-at-fedex-st-jude-championship-with-four-over-par-opening-round",
+      "summary": "Rory McIlroy made a woeful start to the FedExCup Playoffs as he shot four-over par opening round at the FedEx St. Jude Championship in Memphis.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-st-jude_7320913.jpg?20260813185539"
+    },
+    {
+      "source": "sky",
+      "title": "Leicester City up for sale for more than £200m",
+      "link": "https://www.skysports.com/football/news/12040/13572696/leicester-city-for-sale-thai-owners-king-power-put-club-on-market-for-more-than-200m",
+      "summary": "Thai owners King Power are seeking to sell Leicester City for more than &#163;200m.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leicester-city_7304340.jpg?20260722161109"
+    },
+    {
+      "source": "sky",
       "title": "Draper beaten in Cincinnati first round after blowing second-set lead",
       "link": "https://www.skysports.com/tennis/news/12040/13572651/cincinnati-open-jack-draper-beaten-by-martin-landaluce-in-first-round-after-blowing-six-set-point-chances-to-level-match",
       "summary": "Jack Draper lost 6-3 7-5 to Martin Landaluce in the first round of the Cincinnati Open after blowing six set-point chances to level the match.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jack-draper-cincinnati_7320898.jpg?20260813183136"
+    },
+    {
+      "source": "sky",
+      "title": "Doyle: Coppull can strike in the Hungerford",
+      "link": "https://www.skysports.com/racing/news/12040/13572701/hollie-doyle-clive-cox-can-take-out-the-newbury-feature-with-talented-colt-coppull",
+      "summary": "Our ambassador previews four contests on Newbury's Hungerford Day and assesses the big races at Ripon - both cards live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
     },
     {
       "source": "sky",
@@ -443,11 +467,11 @@
     },
     {
       "source": "sky",
-      "title": "FIVE changes for Rangers vs Jagiellonia Bialystok LIVE!",
+      "title": "Shankland pulls Rangers level on aggregate vs Jagiellonia LIVE!",
       "link": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-derek-mcinnes_7315590.jpg?20260806180126"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-europa-league_7320950.jpg?20260813194737"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "Tickets for LIV Golf's season-ending Team Championship event in Michigan are no longer on sale on its official website amid reports it has been cancelled, while star player Tyrrell Hatton has entered a DP World Tour event on the same dates.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-tyrrell-hatton-liv_7320827.jpg?20260813171737"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs latest: PODCAST - A big summer for... Tottenham Hotspur",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222"
-    },
-    {
-      "source": "sky",
-      "title": "O'Hara: Spurs should sign Rashford with De Zerbi 'perfect' for him",
-      "link": "https://www.skysports.com/football/news/12040/13572329/marcus-rashford-transfer-news-tottenham-should-sign-man-utd-forward-says-ex-spurs-midfielder-jamie-ohara",
-      "summary": "Former Tottenham midfielder Jamie O'Hara wants Spurs to sign Manchester United forward Marcus Rashford.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-spurs_7320393.jpg?20260813095515"
-    },
-    {
-      "source": "sky",
-      "title": "Kelce: Marrying Taylor Swift the best night of my life",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-travis-kelce-kansas_7320796.jpg?20260813165305"
     }
   ]
 }
