@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-13T16:50:26.367643+00:00",
+  "lastUpdated": "2026-08-13T17:52:57.152593+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal invite offers for Martinelli and Nwaneri",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
+      "published": "2026-08-13T17:49:02+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e84/live/424ccc70-973b-11f1-bbb3-ebc49f706d46.jpg"
+    },
     {
       "source": "bbc",
       "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
@@ -322,14 +330,6 @@
       "image": "https://i.guim.co.uk/img/media/0b1fd376e2806814af9d57a61e7b2dc9062470ce/0_63_4104_3283/master/4104.jpg?width=140&quality=85&auto=format&fit=max&s=f3058d9e0fd4613a4ae580228e675b99"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal in talks to sign Newcastle's Guimaraes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg9k2yvywxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal open direct talks with Newcastle United to sign captain Bruno Guimaraes.",
-      "published": "2026-08-04T11:12:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a22/live/2aa4ded0-8f36-11f1-bd9f-4361c301d82b.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
       "link": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "Draper beaten in Cincinnati first round after blowing second-set lead",
+      "link": "https://www.skysports.com/tennis/news/12040/13572651/cincinnati-open-jack-draper-beaten-by-martin-landaluce-in-first-round-after-blowing-six-set-point-chances-to-level-match",
+      "summary": "Jack Draper lost 6-3 7-5 to Martin Landaluce in the first round of the Cincinnati Open after blowing six set-point chances to level the match.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jack-draper-cincinnati_7320898.jpg?20260813183136"
+    },
+    {
+      "source": "sky",
       "title": "Celtic sign midfielder Baur on an initial four-year deal",
       "link": "https://www.skysports.com/football/news/12040/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
       "summary": "Celtic have made their fourth summer signing with midfielder Mika Baur joining on an initial four-year deal, with the option for a further year.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mika-baur-celtic_7320809.jpg?20260813170629"
+    },
+    {
+      "source": "sky",
+      "title": "Championship predictions & best bets: Wolves to fall flat on opening night",
+      "link": "https://www.skysports.com/football/news/12040/13572484/efl-2026-27-season-kick-off-championship-predictions-and-best-bets",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7320352.jpg?20260813093238"
     },
     {
       "source": "sky",
@@ -384,6 +400,14 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936"
+    },
+    {
+      "source": "sky",
+      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
     },
     {
       "source": "sky",
@@ -416,6 +440,14 @@
       "summary": "Bangladesh's bowlers overshadowed Australia's Big Four getting back together on day one of the first Test as the hosts were dismissed for 198 and Hasan Mahmud took a career-best 6-55.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cricket-2026-australia_7320562.jpg?20260813123611"
+    },
+    {
+      "source": "sky",
+      "title": "FIVE changes for Rangers vs Jagiellonia Bialystok LIVE!",
+      "link": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-derek-mcinnes_7315590.jpg?20260806180126"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-travis-kelce-kansas_7320796.jpg?20260813165305"
-    },
-    {
-      "source": "sky",
-      "title": "Football is back (without hydration breaks) - how to watch the new season",
-      "link": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now",
-      "summary": "After a summer of hydration breaks and half-time shows, football as we know and love it is back. Here is everything you need to know ahead of the new season...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-get-sky-sports-premier-league_7314381.jpg?20260805105705"
-    },
-    {
-      "source": "sky",
-      "title": "Crystal Palace latest: Eagles closing in on Khalaili signing",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117"
-    },
-    {
-      "source": "sky",
-      "title": "Three key storylines to look out for in NFL pre-season",
-      "link": "https://www.skysports.com/nfl/news/12040/13572283/nfl-pre-season-aaron-donald-teases-return-shedeur-sanders-and-deshaun-watson-battle-for-browns-quarterback-spot-talking-points",
-      "summary": "All 32 teams are in action as the first full week of NFL pre-season gets underway live on Sky Sports - here are three key storylines to look out for ahead of the new season...",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-donald-rams_7320708.jpg?20260813144127"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds Rhinos sign Lodge from NRL's Cowboys",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matt-lodge-nrl-rugby-league_7320411.jpg?20260813101621"
     }
   ]
 }
