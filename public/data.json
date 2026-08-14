@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-14T08:10:32.963977+00:00",
+  "lastUpdated": "2026-08-14T09:54:02.348463+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "European Cup winner Rimmer dies aged 78",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss",
+      "summary": "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
+      "published": "2026-08-14T09:50:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/c4f34450-97c3-11f1-97a6-b387157e78db.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal invite offers for Martinelli and Nwaneri",
@@ -314,14 +322,6 @@
       "image": "https://i.guim.co.uk/img/media/71856bed9a0203c8bd1b2f70ff2962335309c1cf/565_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=0b5a1d20332e61b62d6860af434bde0f"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal set to sign Newcastle captain Guimaraes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.",
-      "published": "2026-08-05T06:29:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/455e/live/63811700-9094-11f1-8bde-ef5552781449.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
       "link": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
-      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "summary": "",
+      "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
+      "link": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain",
+      "summary": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to the Sky Bet Championship.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-efl-championship_7318795.jpg?20260811105633"
+    },
+    {
+      "source": "sky",
+      "title": "Tempers flare as Australia toil after Hasan's maiden Test ton",
+      "link": "https://www.skysports.com/cricket/news/12040/13572882/australia-vs-bangladesh-tanzid-hasans-maiden-test-century-leaves-tourists-in-charge-in-darwin",
+      "summary": "Tanzid Hasan posted his maiden century in just his second Test to help guide Bangladesh to 351-6 at stumps on Friday and into a commanding position over Australia after two days of the Top End series opener in Darwin.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mitchell-starc-cricket_7321365.jpg?20260814102514"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal in talks with Leverkusen over Quansah",
+      "link": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender",
+      "summary": "Arsenal are in talks with Bayer Leverkusen over a possible deal for England defender Jarell Quansah.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jarell-quansah-england_7290623.jpg?20260710093042"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Lee Cutler and Louis Greene had an intense face-off as their fight was announced on Sky Sports News for Zuffa Boxing 11 in September.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-boxing-greene-cutler_7320747.jpg?20260813160004"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers booed off after Europa League exit as McInnes' winless start goes on",
-      "link": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/report/571444",
-      "summary": "Derek McInnes' winless start to life at Rangers hit its lowest point as they were embarrassed and dumped out of the Europa League to a chorus of boos by Jagiellonia Bialystok on aggregate following a 1-1 draw at Ibrox.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-europa-league_7320999.jpg?20260813213043"
-    },
-    {
-      "source": "sky",
-      "title": "NRL legend Cherry-Evans signs one-year deal with Hull FC",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13572676/daly-cherry-evans-former-kangaroos-half-back-reportedly-in-advanced-talks-to-sign-for-hull-fc-for-2027-super-league-season",
-      "summary": "NRL legend Daly Cherry-Evans has signed a one-year deal for Hull FC which sees him complete a shock switch to Super League for the 2027 season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-daly-cherry-evans_7319546.jpg?20260812103230"
     }
   ]
 }
