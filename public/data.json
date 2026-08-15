@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-15T18:19:12.295930+00:00",
+  "lastUpdated": "2026-08-15T19:17:38.951780+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+      "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical ",
+      "published": "2026-08-15T19:00:04+00:00",
+      "image": "https://i.guim.co.uk/img/media/8467bffc42f5a757e5723f068d2cd59cff5337be/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=190e6f7c934e835ef06df999766cae52"
+    },
     {
       "source": "guardian",
       "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
@@ -346,14 +354,6 @@
       "image": "https://i.guim.co.uk/img/media/0b1fd376e2806814af9d57a61e7b2dc9062470ce/0_63_4104_3283/master/4104.jpg?width=140&quality=85&auto=format&fit=max&s=f3058d9e0fd4613a4ae580228e675b99"
     },
     {
-      "source": "guardian",
-      "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
-      "link": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes",
-      "summary": "Premier League champions have £70m offer turned downBrazil midfielder has arrived at Newcastle training campArsenal have stepped up their attempt to sign Bruno Guimarães by finally beginning formal transfer negotiations and making an opening offer, which Newcastle have rejected.Guimarães met Newcastle’s incoming manager, Matthias Jaissle, for the first time on Monday at the team’s pre-season train",
-      "published": "2026-08-03T15:46:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/32b9b41d0350c657f55adef622ebd58aaf05699b/223_0_2330_1864/master/2330.jpg?width=140&quality=85&auto=format&fit=max&s=a4c9a7c71a093879d2f1eb67bb6f7b11"
-    },
-    {
       "source": "sky",
       "title": "SunRisers, Super Giants out to deny Rockets a Hundred double",
       "link": "https://www.skysports.com/cricket/news/12040/13573509/the-hundred-trent-rockets-target-two-titles-at-lords-on-sunday-but-sunrisers-leeds-and-manchester-super-giants-stand-in-their-way",
@@ -368,6 +368,14 @@
       "summary": "Olly Sanderson bundled home in stoppage time to snatch Stevenage a point in a 1-1 draw against Burton.",
       "published": null,
       "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
+    },
+    {
+      "source": "sky",
+      "title": "Sheff Utd & Birmingham draw a blank on opening day",
+      "link": "https://www.skysports.com/football/sheffield-united-vs-birmingham-city/report/560505",
+      "summary": "xxxxSheffield United and Birmingham made an underwhelming start to the Championship season as they played out a goalless draw at Bramall Lane.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-romelle-donovan-jay-stansfield_7322780.jpg?20260815190226"
     },
     {
       "source": "sky",
@@ -427,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "Celtic ease into League Cup quarters - Aberdeen, Kilmarnock & Ross Co also through",
+      "link": "https://www.skysports.com/football/news/12040/13572887/scottish-league-cup-round-up-celtic-progress-with-win-at-dundee-united-aberdeen-kilmarnock-and-ross-county-also-through",
+      "summary": "A round-up from the Scottish League Cup as Celtic eased through to the quarter-finals with 4-0 victory at Dundee United, Aberdeen beat Dundee, Kilmarnock won against Ayr United, while League One Ross County shocked Dunfermline.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-camilo-duran-celtic_7322768.jpg?20260815183503"
+    },
+    {
+      "source": "sky",
       "title": "Charlton hit back to beat Derby",
       "link": "https://www.skysports.com/football/charlton-athletic-vs-derby-county/report/560501",
       "summary": "Tyreece Campbell's impressive start to the new season continued as his 80th-minute goal earned Charlton a 2-1 victory over Derby at The Valley.",
@@ -475,7 +491,7 @@
     },
     {
       "source": "sky",
-      "title": "Sunderland latest: Black Cats claim comeback win over Rennes",
+      "title": "Sunderland latest: Deal in principle agreed for Methalie",
       "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
@@ -496,22 +512,6 @@
       "summary": "Ten-man Huddersfield saw off Wimbledon to claim a 3-0 victory on the opening day of the League One season.",
       "published": null,
       "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
-    },
-    {
-      "source": "sky",
-      "title": "Gillingham 0-3 Walsall",
-      "link": "https://www.skysports.com/football/gillingham-vs-walsall/report/561055",
-      "summary": "Late goals from Isaac Moore, James Connolly and Aaron Pressley did the damage as Walsall secured a fine 3-0 away win over Gillingham.",
-      "published": null,
-      "image": "https://e0.365dm.com/23/01/1920x1080/skysports-efl-league-two-gholam_6025971.jpg?20230116150032"
-    },
-    {
-      "source": "sky",
-      "title": "Scot Prem latest: Rangers sign Penrice on season-long loan",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-james-penrice-aek_7320688.jpg?20260813142735"
     }
   ]
 }
