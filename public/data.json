@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:16:33.812529+00:00",
+  "lastUpdated": "2026-08-15T11:13:48.282495+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "It's time! Championship, League One and League Two opening day LIVE!",
+      "link": "https://www.skysports.com/football/live-blog/12040/13573022/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bolton-preston-championship_7320781.jpg?20260813163933"
+    },
+    {
+      "source": "sky",
       "title": "Bangladesh edge closer to historic Test win in Australia",
       "link": "https://www.skysports.com/cricket/news/12040/13573228/australia-vs-bangladesh-tourists-edge-closer-to-historic-test-victory-in-darwin-as-top-order-woes-continue-for-hosts",
       "summary": "Bangladesh moved to within sight of one of the biggest wins in their Test history after Australia stumbled to 161-4 at stumps on day three of the first Test in Darwin, still 67 runs behind.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-australia-bangladesh_7322178.jpg?20260815100947"
+    },
+    {
+      "source": "sky",
+      "title": "Hole-in-one alert! Schmid makes ace at FedEx St. Jude Championship",
+      "link": "https://www.skysports.com/watch/video/13573246/fedex-st-jude-championship-hole-in-one-alert-matti-schmid-aces-tpc-southwind",
+      "summary": "In the second round of the FedEx St. Jude, Matti Schmid's 173-yard tee shot on the par-3 fourth hole went in for his first career hole-in-one.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-schmid-golf_7322231.jpg?20260815115930"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Jimenez the hero as controversial late pen spares Wolves' blushes",
-      "link": "https://www.skysports.com/watch/video/13573181/wolverhampton-wanderers-2-2-blackburn-rovers-championship-highlights",
-      "summary": "Highlights from the Sky Bet Championship match between Wolverhampton Wanderers and Blackburn Rovers.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wolves-blackburn_7322073.jpg?20260814222957"
-    },
-    {
-      "source": "sky",
-      "title": "Hodgkinson has to settle for silver as Werro wins 800m gold",
-      "link": "https://www.skysports.com/athletics/news/12040/13573162/european-athletics-championship-keely-hodgkinson-forced-to-settle-for-silver-as-audrey-werro-wins-womens-800m-gold",
-      "summary": "Keely Hodgkinson came up just short of a coveted European 800m title hat-trick after Swiss favourite Audrey Werro won their hotly-anticipated showdown in Birmingham as the British Olympic champion settled for silver.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-keely-hodgkinson_7322063.jpg?20260814221509"
     }
   ]
 }
