@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:14:45.131396+00:00",
+  "lastUpdated": "2026-08-15T22:14:53.644244+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "Djokovic knocked out early in Cincinnati after struggling in sapping heat",
+      "link": "https://www.skysports.com/tennis/news/12040/13573406/novak-djokovic-out-of-cincinnati-open-in-second-round-after-struggling-with-heat-and-humidity-against-thiago-agustin-tirante",
+      "summary": "Novak Djokovic suffered defeat and struggled physically in his first match since Wimbledon as he was upset by Thiago Agustin Tirante in a sapping three-set contest at the Cincinnati Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-novak-djokovic-atp-tour-tennis-2026_7322904.jpg?20260815223829"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Lille head coach confirms Man City's Bouaddi talks",
       "link": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Man City latest: Maresca confirms club captains 'for now'",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Premier League clubs are getting ready for the new campaign with pre-season under way.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-richarlison-spurs_7322534.jpg?20260815153857"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd collapse to defeat against Amorim’s AC Milan",
-      "link": "https://www.skysports.com/football/manchester-united-vs-ac-milan/report/556661",
-      "summary": "Manchester United collapsed to a 4-2 defeat as Ruben Amorim&#8217;s AC Milan came from behind to win in Poland.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-man-utd-milan_7322716.jpg?20260815175328"
-    },
-    {
-      "source": "sky",
-      "title": "Accrington 2-2 Colchester",
-      "link": "https://www.skysports.com/football/accrington-stanley-vs-colchester-united/report/561050",
-      "summary": "Charlie Caton scored twice but Accrington had to settle for a point in a 2-2 draw with Colchester.",
-      "published": null,
-      "image": "https://e0.365dm.com/23/01/1920x1080/skysports-efl-league-two-gholam_6025971.jpg?20230116150032"
     }
   ]
 }
