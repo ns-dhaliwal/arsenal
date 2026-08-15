@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:25:16.672128+00:00",
+  "lastUpdated": "2026-08-15T14:15:50.789745+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,59 @@
     },
     {
       "source": "sky",
-      "title": "Bolton beat Preston; Leicester pegged back by Notts County - EFL opening day LIVE!",
+      "title": "Oldham 2-0 Port Vale",
+      "link": "https://www.skysports.com/football/oldham-athletic-vs-port-vale/report/561059",
+      "summary": "Calum Kavanagh's second-half double gave Oldham a flying start to their League Two campaign with a 2-0 home win against relegated Port Vale.",
+      "published": null,
+      "image": "https://e0.365dm.com/23/01/1920x1080/skysports-efl-league-two-gholam_6025971.jpg?20230116150032"
+    },
+    {
+      "source": "sky",
+      "title": "Bolton beat Preston for first Championship win since 2019",
+      "link": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499",
+      "summary": "Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston 2-1 to record their first Sky Bet Championship win since March 2019.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-sam-dalby-bolton-wanderers_7322451.jpg?20260815143140"
+    },
+    {
+      "source": "sky",
+      "title": "Oxford 2-2 MK Dons",
+      "link": "https://www.skysports.com/football/oxford-united-vs-milton-keynes-dons/report/561611",
+      "summary": "Ciaron Brown turned in a Gatlin O'Donkor cross deep into stoppage time to earn relegated Oxford United a 2-2 draw against newly-promoted MK Dons at the Kassam Stadium.",
+      "published": null,
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
+    },
+    {
+      "source": "sky",
+      "title": "Reading 3-4 Luton",
+      "link": "https://www.skysports.com/football/reading-vs-luton-town/report/561613",
+      "summary": "Substitute Gideon Kodua scrambled home a stoppage-time winner for Luton as they came from behind to snatch a 4-3 victory at Reading.",
+      "published": null,
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
+    },
+    {
+      "source": "sky",
+      "title": "Notts County 1-1 Leicester",
+      "link": "https://www.skysports.com/football/notts-county-vs-leicester-city/report/561610",
+      "summary": "Conor Grant's late strike salvaged a deserved point for Notts County as they held former Premier League champions Leicester to a 1-1 draw at Meadow Lane.",
+      "published": null,
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
+    },
+    {
+      "source": "sky",
+      "title": "Newport 3-0 Rochdale",
+      "link": "https://www.skysports.com/football/newport-county-afc-vs-rochdale/report/561057",
+      "summary": "Newport and new manager Hayden Mullins enjoyed a dream start to their League Two campaign with a 3-0 home win over newly-promoted Rochdale.",
+      "published": null,
+      "image": "https://e0.365dm.com/23/01/1920x1080/skysports-efl-league-two-gholam_6025971.jpg?20230116150032"
+    },
+    {
+      "source": "sky",
+      "title": "Stoke lead Swans; Lincoln ahead at Boro - EFL opening day LIVE!",
       "link": "https://www.skysports.com/football/live-blog/12040/13573022/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-leicester-notts-county_7322358.jpg?20260815132715"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-charlton-derby_7322498.jpg?20260815151132"
     },
     {
       "source": "sky",
@@ -379,11 +427,11 @@
     },
     {
       "source": "sky",
-      "title": "Senesi makes Spurs debut vs Hoffenheim but several players absent LIVE!",
+      "title": "Tottenham pushing for opener against Hoffenheim LIVE!",
       "link": "https://www.skysports.com/football/live-blog/12040/13573092/tottenham-vs-hoffenheim-live-pre-season-fixture-score-live-updates-and-team-news",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-marcos-senesi-senesi_7322415.jpg?20260815141609"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-gallagher-tonali_7315992.jpg?20260807114349"
     },
     {
       "source": "sky",
@@ -451,7 +499,7 @@
     },
     {
       "source": "sky",
-      "title": "Rogers puts Chelsea ahead on Stamford Bridge debut vs Sociedad LIVE!",
+      "title": "James restores Chelsea lead in pre-season friendly vs Sociedad LIVE!",
       "link": "https://www.skysports.com/football/chelsea-vs-real-sociedad/live/575209",
       "summary": "",
       "published": null,
@@ -464,54 +512,6 @@
       "summary": "Highlights of the Super League match between Hull FC and Castleford Tigers.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/sky-sports-rugby-super-league_7322082.jpg?20260814230109"
-    },
-    {
-      "source": "sky",
-      "title": "Venus Williams defeated by Arango in the first round of the Cincinnati Open",
-      "link": "https://www.skysports.com/watch/video/13573183/emiliana-arango-vs-venus-williams-cincinnati-open-highlights",
-      "summary": "Highlights from the Cincinnati Open match between Emiliana Arango and Venus Williams.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-wta_7322101.jpg?20260814233055"
-    },
-    {
-      "source": "sky",
-      "title": "Sound up! 🔊 Walter unfazed by emergency alert!",
-      "link": "https://www.skysports.com/watch/video/13573229/the-hundred-paul-walter-unfazed-by-emergency-alert-as-he-hits-huge-six",
-      "summary": "Paul Walter was left unfazed by the sounds of the government's emergency alert as he hit a huge six in The Hundred on Friday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paul-walter-cricket_7322183.jpg?20260815102152"
-    },
-    {
-      "source": "sky",
-      "title": "Dart defeated by home hope Stearns in Cincinnati Open first-round",
-      "link": "https://www.skysports.com/watch/video/13573116/peyton-stearns-vs-harriet-dart-cincinnati-open-highlights",
-      "summary": "Highlights from the Cincinnati Open match between Peyton Stearns and Harriet Dart.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cinncinati-open-tennis_7321973.jpg?20260814202812"
-    },
-    {
-      "source": "sky",
-      "title": "FedExCup Playoffs | Day two highlights",
-      "link": "https://www.skysports.com/watch/video/13573193/fedexcup-playoffs-day-two-highlights",
-      "summary": "Highlights from the second round of the FedExCup playoffs at the FedEx St. Jude Championship in Memphis.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/sky-sports-golf-pga_7322107.jpg?20260814235530"
-    },
-    {
-      "source": "sky",
-      "title": "PSG sign World Cup final hero Torres from Barcelona",
-      "link": "https://www.skysports.com/football/news/12040/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-      "summary": "PSG have completed the signing of Spain's World Cup final hero Ferran Torres from Barcelona for &#163;42.7m.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-ferran-torres-spain_7301955.jpg?20260719235710"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy toils as Scheffler produces stunning 61 at St Jude Championship",
-      "link": "https://www.skysports.com/golf/news/12040/13573068/fedexcup-playoffs-scottie-scheffler-produces-stunning-round-of-61-at-fedex-st-jude-championship-as-rory-mcilroy-toils",
-      "summary": "Scottie Scheffler produced a stunning nine-under 61 that catapulted him to the top of FedEx St Jude Championship leaderboard as Rory McIlroy toiled again.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-scottie-scheffler_7322053.jpg?20260815072802"
     }
   ]
 }
