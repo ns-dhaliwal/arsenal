@@ -1,9 +1,25 @@
 {
-  "lastUpdated": "2026-08-16T16:17:23.487915+00:00",
+  "lastUpdated": "2026-08-16T17:14:25.751680+00:00",
   "articles": [
     {
+      "source": "bbc",
+      "title": "Analysis: Arsenal find solace in Tzolis",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9ddp2ggnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "With two assists, forward Christos Tzolis starred on the left side of Arsenal's attack during their 3-0 Community Shield win.",
+      "published": "2026-08-16T16:29:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2519/live/9c827cb0-8a9a-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "source": "bbc",
+      "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
+      "published": "2026-08-16T16:18:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/64893940-9989-11f1-a4eb-59b79ff5ff4f.jpg"
+    },
+    {
       "source": "guardian",
-      "title": "Arsenal 3-0 Manchester City: Community Shield – live",
+      "title": "Arsenal 3-0 Manchester City: Community Shield – as it happened",
       "link": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
       "summary": "Riccardo Calafiori scored after 24 seconds  before Kai Havertz and Martin Odegaard completed a thumping winThe small printNo extra-time; a drawn match goes straight to penaltiesSix substitutions per team in three substitution windowsThree falls and a submission Continue reading...",
       "published": "2026-08-16T16:08:09+00:00",
@@ -314,28 +330,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b037/live/b97bb050-91c2-11f1-af4d-5164294a85c7.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal have 'big hopes' for O'Neill - Arteta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g35q2eddpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta is impressed with the maturity and focus shown by Northern Ireland international Ceadach O'Neill.",
-      "published": "2026-08-06T15:29:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c1/live/5bf389e0-91a3-11f1-a8b2-a13c32fec0b9.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract",
       "link": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
       "summary": "Forward becomes most expensive African playerClub are in positive talks with Vinícius JúniorReal Madrid have sealed the €135m (£115.7m) club-record signing of Yan Diomande from RB Leipzig.After several weeks of negotiations that saw Paris Saint-Germain pull out of the race, the deal for Diomande – the 19-year-old who joined the German side from Leganés last summer and starred for Côte d’Ivoire at ",
       "published": "2026-08-06T15:15:19+00:00",
       "image": "https://i.guim.co.uk/img/media/66c044c02400ffc43c9a62caa40fe14b54096014/180_0_1794_1435/master/1794.jpg?width=140&quality=85&auto=format&fit=max&s=05df847266462c5e35b6f312a0667f6f"
-    },
-    {
-      "source": "bbc",
-      "title": "'I've been really impressed with him' - Arteta on O'Neill",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2md1pdggno?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta tells BBC Sport NI's Thomas Kane that he has been \"really impressed\" with Northern Ireland youngster Ceadach O'Neill after his side's 3-1 defeat to Real Betis in Dublin.",
-      "published": "2026-08-06T10:09:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0933/live/c2118170-917e-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "source": "guardian",
@@ -371,6 +371,14 @@
     },
     {
       "source": "sky",
+      "title": "Late DRAMA! Flemming's 90+2' strike snatches point for Burnley!",
+      "link": "https://www.skysports.com/watch/video/13573779/burnley-vs-west-ham-zian-flemming-levels-it-up-late-on",
+      "summary": "Zian Flemming strikes again against West Ham as his second goal levels it up for Burnley.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-flemming-burnley_7323433.jpg?20260816175734"
+    },
+    {
+      "source": "sky",
       "title": "Winther pips fellow Dane Højgaard in thrilling finish",
       "link": "https://www.skysports.com/golf/news/12040/13573720/danish-golf-championship-jeff-winther-pips-fellow-dane-rasmus-h248jgaard-in-thrilling-finish-to-dp-world-tour-event",
       "summary": "Jeff Winther ended a four-year wait to claim his second DP World Tour title on Sunday at the Danish Golf Championship, pipping compatriot Rasmus H&#248;jgaard in a thrilling finish.",
@@ -387,11 +395,11 @@
     },
     {
       "source": "sky",
-      "title": "The Hundred LIVE! Rockets seek title double after victory in women's final",
+      "title": "The Hundred Men's Final LIVE! Rockets put in to bat by Super Giants",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13573620/the-hundred-finals-live-trent-rockets-vs-sunrisers-leeds-in-womens-match-before-rockets-take-on-manchester-super-giants-in-mens",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-trent-rockets-men-2026_7320739.jpg?20260813154732"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-the-hundred-cricket_7312355.jpg?20260816181041"
     },
     {
       "source": "sky",
@@ -411,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Scheffler leads with Fleetwood chasing at first FedExCup Playoff LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13573767/fedex-st-jude-championship-live-updates-highlights-scores-as-scottie-scheffler-and-tommy-fleetwood-battle-for-pga-tour-win",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-scottie-scheffler_7323385.jpg?20260816171759"
+    },
+    {
+      "source": "sky",
       "title": "Southampton baited over Spygate scandal in defeat at Watford",
       "link": "https://www.skysports.com/football/watford-vs-southampton/report/560508",
       "summary": "Southampton discovered that the Championship will be an unforgiving arena this season as they were baited about Spygate on their way to being beaten 2-1 by a new-look Watford side at Vicarage Road.",
@@ -427,11 +443,11 @@
     },
     {
       "source": "sky",
-      "title": "Odegaard inspires Arsenal to big Community Shield win over City LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-vs-manchester-city/live/556659",
-      "summary": "",
+      "title": "Rangers, Hearts and Hibs through in League Cup as Stenhousemuir shock Motherwell",
+      "link": "https://www.skysports.com/football/news/12040/13572898/scottish-league-cup-round-up-rangers-hearts-and-hibs-advance-as-championship-side-stenhousemuir-shock-motherwell",
+      "summary": "Derek McInnes earned his first win as Rangers manager with a dominant 5-1 victory over holders St Mirren to advance to the quarter-finals of the Scottish League Cup.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-martin-odegaard-kai-havertz_7323332.jpg?20260816161813"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rangers-league-cup_7323414.jpg?20260816174440"
     },
     {
       "source": "sky",
@@ -475,7 +491,7 @@
     },
     {
       "source": "sky",
-      "title": "Liverpool vs Como team news as Jacquet starts LIVE!",
+      "title": "Isak hits the post early for Liverpool against Como LIVE!",
       "link": "https://www.skysports.com/football/liverpool-vs-como/live/556108",
       "summary": "",
       "published": null,
@@ -483,7 +499,7 @@
     },
     {
       "source": "sky",
-      "title": "Man City latest: Savinho and Reijnders left out of Community Shield squad",
+      "title": "Man City latest: Maresca calls on club to move swiftly in transfer market",
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
@@ -496,22 +512,6 @@
       "summary": "Tributes were paid to Finlay Tarling at the Volta a Portugal after the 19-year-old British cyclist died during the race on Friday.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-finlay-tarling-cycling_7322832.jpg?20260815204959"
-    },
-    {
-      "source": "sky",
-      "title": "Shields stops Scott to reclaim WBC and WBA middleweight belts",
-      "link": "https://www.skysports.com/boxing/news/12040/13573614/claressa-shields-stops-kaye-scott-to-reclaim-wbc-and-wba-middleweight-belts",
-      "summary": "Claressa Shields stopped Kaye Scott in the sixth round to reclaim the WBC and WBA middleweight belts in Atlanta.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-claressa-shields_7322967.jpg?20260816074155"
-    },
-    {
-      "source": "sky",
-      "title": "St Helens keep slim play-off hopes alive by stunning Wakefield",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13573404/super-league-st-helens-keep-slim-play-off-hopes-alive-after-stirring-second-half-earns-46-16-win-over-wakefield-trinity",
-      "summary": "St Helens produced a blistering second-half performance to stun Wakefield Trinity with a 46-16 victory and keep their slim Super League play-off hopes alive.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-st-helens-betfred-super-league_7322816.jpg?20260815201259"
     }
   ]
 }
