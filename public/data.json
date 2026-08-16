@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-16T12:27:30.723618+00:00",
+  "lastUpdated": "2026-08-16T13:26:06.398074+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal v Manchester City: Community Shield – live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
+      "summary": "Updates from the 3pm BST kick-off in CardiffJonathan Wilson: Community Shield offers insightThe small printNo extra-time; a drawn match goes straight to penaltiesSix substitutions per team in three substitution windowsThree falls and a submission Continue reading...",
+      "published": "2026-08-16T13:25:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/c8c6f04ebc65ae6e57c68745c8480f33210461e1/616_0_4820_3856/master/4820.jpg?width=140&quality=85&auto=format&fit=max&s=67387f51e54b9e13461348add1c2f21c"
+    },
     {
       "source": "bbc",
       "title": "Is the Community Shield cursed?",
@@ -346,17 +354,17 @@
       "image": "https://i.guim.co.uk/img/media/79cb003171cc75502426404f0fd5c0be6433a260/117_129_2826_2261/master/2826.jpg?width=140&quality=85&auto=format&fit=max&s=7e188668020590423e011881cdd37b4c"
     },
     {
-      "source": "guardian",
-      "title": "Héctor Bellerín: ‘When you leave a club like Arsenal, it’s scary. It hurts’",
-      "link": "https://www.theguardian.com/football/2026/aug/05/hector-bellerin-arsenal-mikel-arteta-real-betis",
-      "summary": "Spanish full-back on moving on from the Emirates Stadium, his elation at his old club ending their title drought, and how Mikel Arteta has helped prolong his careerOne day when he was 18 or 19, still near the start of his journey, Héctor Bellerín got a call from Mikel Arteta inviting him round. He remembers asking lunch or dinner but this was neither. “When I arrived that afternoon, he was sitting",
-      "published": "2026-08-05T07:00:13+00:00",
-      "image": "https://i.guim.co.uk/img/media/71856bed9a0203c8bd1b2f70ff2962335309c1cf/565_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=0b5a1d20332e61b62d6860af434bde0f"
+      "source": "sky",
+      "title": "The Hundred finals LIVE!  Rockets bowl first vs SunRisers in women's match",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13573620/the-hundred-finals-live-trent-rockets-vs-sunrisers-leeds-in-womens-match-before-rockets-take-on-manchester-super-giants-in-mens",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rockets-hundred_7323207.jpg?20260816140447"
     },
     {
       "source": "sky",
-      "title": "Arsenal vs Man City LIVE! Your views ahead of Community Shield...",
-      "link": "https://www.skysports.com/football/live-blog/12040/13573678/arsenal-vs-man-city-live-community-shield-commentary-live-score-and-team-news",
+      "title": "Arsenal vs Man City LIVE! Team news and your views ahead of Community Shield...",
+      "link": "https://www.skysports.com/football/arsenal-vs-manchester-city/live/556659",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-community-shield_7321421.jpg?20260814112212"
@@ -419,14 +427,6 @@
     },
     {
       "source": "sky",
-      "title": "St Helens keep slim play-off hopes alive by stunning Wakefield",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13573404/super-league-st-helens-keep-slim-play-off-hopes-alive-after-stirring-second-half-earns-46-16-win-over-wakefield-trinity",
-      "summary": "St Helens produced a blistering second-half performance to stun Wakefield Trinity with a 46-16 victory and keep their slim Super League play-off hopes alive.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-st-helens-betfred-super-league_7322816.jpg?20260815201259"
-    },
-    {
-      "source": "sky",
       "title": "Shields stops Scott to reclaim WBC and WBA middleweight belts",
       "link": "https://www.skysports.com/boxing/news/12040/13573614/claressa-shields-stops-kaye-scott-to-reclaim-wbc-and-wba-middleweight-belts",
       "summary": "Claressa Shields stopped Kaye Scott in the sixth round to reclaim the WBC and WBA middleweight belts in Atlanta.",
@@ -435,11 +435,19 @@
     },
     {
       "source": "sky",
+      "title": "St Helens keep slim play-off hopes alive by stunning Wakefield",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13573404/super-league-st-helens-keep-slim-play-off-hopes-alive-after-stirring-second-half-earns-46-16-win-over-wakefield-trinity",
+      "summary": "St Helens produced a blistering second-half performance to stun Wakefield Trinity with a 46-16 victory and keep their slim Super League play-off hopes alive.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-st-helens-betfred-super-league_7322816.jpg?20260815201259"
+    },
+    {
+      "source": "sky",
       "title": "Djokovic reveals ongoing health condition after Cincinnati defeat",
       "link": "https://www.skysports.com/tennis/news/12040/13573671/novak-djokovic-reveals-ongoing-health-condition-after-defeat-in-cincinnati",
       "summary": "Novak Djokovic revealed he has been dealing with an ongoing health condition after his surprise second-round defeat at the Cincinnati Open.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-novak-djokovic-tennis_7323164.jpg?20260816130002"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-novak-djokovic-tennis_7323164.jpg?20260816133356"
     },
     {
       "source": "sky",
@@ -467,9 +475,9 @@
     },
     {
       "source": "sky",
-      "title": "Athletics medal ceremonies postponed after police arrest",
+      "title": "Hunt and Asher-Smith among athletics stuck at Euro Champs stadium after police arrest",
       "link": "https://www.skysports.com/other-sports/news/12040/13573635/european-athletics-medal-ceremonies-postponed-after-police-arrest",
-      "summary": "Medal ceremonies at the European Athletics Championships in Birmingham were postponed on Saturday evening and transport services suspended after a man was arrested on suspicion of fraud.",
+      "summary": "Amy Hunt and Dina Asher-Smith were among the athletes left stuck at the Alexander Stadium on Saturday night after a \"police incident\" suspended transport operations at the European Championships in Birmingham.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-medal-european-championships_7323039.jpg?20260816093427"
     },
@@ -504,14 +512,6 @@
       "summary": "Bangladesh completed a stunning nine-wicket victory over Australia in the first Test on Sunday, securing their first win on Australian soil and just their second Test victory over the world&#8217;s top-ranked side.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-pat-cummins-australia_7322974.jpg?20260816081254"
-    },
-    {
-      "source": "sky",
-      "title": "Burton 1-1 Stevenage",
-      "link": "https://www.skysports.com/football/burton-albion-vs-stevenage/report/561605",
-      "summary": "Olly Sanderson bundled home in stoppage time to snatch Stevenage a point in a 1-1 draw against Burton.",
-      "published": null,
-      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
     }
   ]
 }
