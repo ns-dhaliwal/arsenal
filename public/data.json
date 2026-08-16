@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-16T06:29:24.827091+00:00",
+  "lastUpdated": "2026-08-16T07:25:30.882961+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League fans’ previews: our club-by-club guide to 2026-27",
+      "link": "https://www.theguardian.com/football/2026/aug/16/premier-league-fans-previews-our-club-by-club-guide-to-2026-27",
+      "summary": "The Guardian’s fans network looks ahead to the new season: fresh talent, weak links, and who will be sacked firstHaving finally got the title monkey off our back, and with much of the competition in a state of flux, there’s plenty of optimism. Obviously the target is for Arteta to sustain the same appetite and intensity to mount a credible defence. The big questions are whether we can reproduce th",
+      "published": "2026-08-16T07:00:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/2857790ae34b5f7d887ca04bac0e1b2354624d1f/362_67_6632_5306/master/6632.jpg?width=140&quality=85&auto=format&fit=max&s=52ebd164c057c484bc35d74bb76e15bb"
+    },
     {
       "source": "bbc",
       "title": "How important is Community Shield to a team's season?",
@@ -13,7 +21,7 @@
       "source": "guardian",
       "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
       "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
-      "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical ",
+      "summary": "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical exertion",
       "published": "2026-08-15T19:00:04+00:00",
       "image": "https://i.guim.co.uk/img/media/8467bffc42f5a757e5723f068d2cd59cff5337be/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=190e6f7c934e835ef06df999766cae52"
     },
@@ -346,14 +354,6 @@
       "image": "https://i.guim.co.uk/img/media/71856bed9a0203c8bd1b2f70ff2962335309c1cf/565_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=0b5a1d20332e61b62d6860af434bde0f"
     },
     {
-      "source": "guardian",
-      "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
-      "link": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid",
-      "summary": "‘It has gone very well, getting to know the new coach’Brazil winger has one year left on contract at BernabéuVinícius Júnior is settling into life under the new Real Madrid manager, José ⁠Mourinho, with a smile on his face even as uncertainty swirls around the Brazil forward’s future at the Bernabéu.The 26-year-old, who has ⁠been ​one of the linchpins of Real Madrid’s attack in recent years, gave ",
-      "published": "2026-08-04T16:37:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/0b1fd376e2806814af9d57a61e7b2dc9062470ce/0_63_4104_3283/master/4104.jpg?width=140&quality=85&auto=format&fit=max&s=f3058d9e0fd4613a4ae580228e675b99"
-    },
-    {
       "source": "sky",
       "title": "Tennis scores: Norrie beaten by top seed Zverev in Cincinnati",
       "link": "https://www.skysports.com/tennis/scores-schedule",
@@ -419,11 +419,35 @@
     },
     {
       "source": "sky",
+      "title": "Shields stops Scott to reclaim WBC and WBA middleweight belts",
+      "link": "https://www.skysports.com/boxing/news/12040/13573614/claressa-shields-stops-kaye-scott-to-reclaim-wbc-and-wba-middleweight-belts",
+      "summary": "Claressa Shields stopped Kaye Scott in the sixth round to reclaim the WBC and WBA middleweight belts in Atlanta.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-claressa-shields_7322967.jpg?20260816074155"
+    },
+    {
+      "source": "sky",
       "title": "SunRisers, Super Giants out to deny Rockets a Hundred double",
       "link": "https://www.skysports.com/cricket/news/12040/13573509/the-hundred-trent-rockets-target-two-titles-at-lords-on-sunday-but-sunrisers-leeds-and-manchester-super-giants-stand-in-their-way",
       "summary": "There could be a Trent Rockets double and a Sam Billings four-peat at Lord's on Sunday as the 2026 edition of The Hundred draws to a close.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ash-gardner-sam-billings_7322751.jpg?20260815175003"
+    },
+    {
+      "source": "sky",
+      "title": "Saints keep play-off hopes alive with huge Wakefield win",
+      "link": "https://www.skysports.com/watch/video/13573547/wakefield-trinity-16-44-st-helens-super-league-highlights",
+      "summary": "Highlights of the Super League game between Wakefield Trinity and St Helens.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wakefield-st-helens_7322804.jpg?20260815194554"
+    },
+    {
+      "source": "sky",
+      "title": "Bangladesh pull off historic Test upset against Australia",
+      "link": "https://www.skysports.com/cricket/news/12040/13573610/australia-vs-bangladesh-visitors-stun-hosts-with-historic-nine-wicket-test-win-in-darwin",
+      "summary": "Bangladesh completed a stunning nine-wicket victory over Australia in the first Test on Sunday, securing their first win on Australian soil and just their second Test victory over the world&#8217;s top-ranked side.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-pat-cummins-australia_7322974.jpg?20260816081254"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "Coppull stepped up in distance to land a second Group Two of his career under an enterprising ride from Hector Crouch, who completed a big-race double in the Visit Malta Hungerford Stakes at Newbury.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-coppull-hector-crouch_7322724.jpg?20260815173059"
-    },
-    {
-      "source": "sky",
-      "title": "Chesterfield 0-1 Fleetwood",
-      "link": "https://www.skysports.com/football/chesterfield-vs-fleetwood-town/report/561053",
-      "summary": "Veteran striker Ched Evans scored the only goal of the game, finding the net against one of his former clubs to give Fleetwood Town an opening day 1-0 victory at Chesterfield.",
-      "published": null,
-      "image": "https://e0.365dm.com/23/01/1920x1080/skysports-efl-league-two-gholam_6025971.jpg?20230116150032"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic ease into League Cup quarters - Aberdeen, Kilmarnock & Ross Co also through",
-      "link": "https://www.skysports.com/football/news/12040/13572887/scottish-league-cup-round-up-celtic-progress-with-win-at-dundee-united-aberdeen-kilmarnock-and-ross-county-also-through",
-      "summary": "A round-up from the Scottish League Cup as Celtic eased through to the quarter-finals with 4-0 victory at Dundee United, Aberdeen beat Dundee, Kilmarnock won against Ayr United, while League One Ross County shocked Dunfermline.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-camilo-duran-celtic_7322768.jpg?20260815183503"
-    },
-    {
-      "source": "sky",
-      "title": "Charlton hit back to beat Derby",
-      "link": "https://www.skysports.com/football/charlton-athletic-vs-derby-county/report/560501",
-      "summary": "Tyreece Campbell's impressive start to the new season continued as his 80th-minute goal earned Charlton a 2-1 victory over Derby at The Valley.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lloyd-jones-charlton_7322595.jpg?20260815163858"
     }
   ]
 }
