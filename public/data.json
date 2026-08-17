@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-17T07:47:02.920567+00:00",
+  "lastUpdated": "2026-08-17T08:35:57.635939+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "These eight players will help you win FPL",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g305xwdr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
+      "published": "2026-08-17T07:49:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f8/live/07dcc7a0-970b-11f1-870d-5d08c49babb2.jpg"
+    },
     {
       "source": "bbc",
       "title": "Stats that show Premier League is getting more competitive",
@@ -330,14 +338,6 @@
       "image": "https://i.guim.co.uk/img/media/9393e51aa7da55fed9092564f6dbd6428e3d2e81/289_0_2840_2272/master/2840.jpg?width=140&quality=85&auto=format&fit=max&s=cdffe6679d72709a2fac3a0dc3d24156"
     },
     {
-      "source": "bbc",
-      "title": "Perimeter walls around pitches banned after Vigar death",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Football Association has banned solid perimeter walls around pitches after a safety review following the death of former Arsenal youth player Billy Vigar.",
-      "published": "2026-08-07T13:24:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/b60eb950-9260-11f1-b9ff-37ae3aba3894.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
       "link": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032",
@@ -355,7 +355,7 @@
     },
     {
       "source": "sky",
-      "title": "Have you say: Defeat to Arsenal and Rodri departing - should City be concerned?",
+      "title": "Have your say: Defeat to Arsenal and Rodri departing - should City be concerned?",
       "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
