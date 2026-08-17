@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-17T06:41:01.535000+00:00",
+  "lastUpdated": "2026-08-17T07:47:02.920567+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Stats that show Premier League is getting more competitive",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
+      "published": "2026-08-17T06:41:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f059a560-99a0-11f1-a10a-71ff76b28954.jpg"
+    },
     {
       "source": "bbc",
       "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
@@ -330,14 +338,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/b60eb950-9260-11f1-b9ff-37ae3aba3894.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Emotional Guimaraes wanted to join Arsenal - Wilson",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal.",
-      "published": "2026-08-07T12:00:16+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d820/live/676bbec0-9241-11f1-afba-01cbe043dea0.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal hopes dashed after Vinícius Júnior extends Real Madrid contract to 2032",
       "link": "https://www.theguardian.com/football/2026/aug/06/arsenal-hopes-dashed-after-vinicius-junior-extends-real-madrid-contract-to-2032",
@@ -355,11 +355,51 @@
     },
     {
       "source": "sky",
+      "title": "Have you say: Defeat to Arsenal and Rodri departing - should City be concerned?",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129"
+    },
+    {
+      "source": "sky",
       "title": "All you need to know about the US Open Tennis - live on Sky Sports!",
       "link": "https://www.skysports.com/tennis/news/12040/13571651/all-you-need-to-know-about-the-us-open-tennis-live-on-sky-sports-including-dates-schedule-winners-and-tv-times",
       "summary": "When is the US Open? Does Jack Draper need to qualify for the US Open? Is Emma Raducanu playing? Who will win at Flushing Meadows? Key questions ahead of the last Grand Slam of 2026 - watch live from August 30 - September 13 on Sky Sports Tennis.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-us-open-tennis_7323115.jpg?20260816113631"
+    },
+    {
+      "source": "sky",
+      "title": "Shields delivers DRAMATIC sixth-round stoppage",
+      "link": "https://www.skysports.com/watch/video/13573617/claressa-shields-delivers-sixth-round-stoppage-against-kaye-scott-to-unify-middleweight-division",
+      "summary": "Claressa Shields reclaimed her place at the top of the middleweight division with a dominant sixth-round stoppage of Kaye Scott, regaining the WBC and WBA titles in Atlanta. Credit: DAZN",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-shields-ko-shields-vs-scott_7322981.jpg?20260816075633"
+    },
+    {
+      "source": "sky",
+      "title": "Huddersfield's revival continues with fourth straight win",
+      "link": "https://www.skysports.com/watch/video/13573579/toulouse-olympique-10-26-huddersfield-giants-super-league-highlights",
+      "summary": "Highlights of the Super League game between the Toulouse Olympique and the Huddersfield Giants.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-toulouse-huddersfield_7322879.jpg?20260815220620"
+    },
+    {
+      "source": "sky",
+      "title": "Wigan cruise past Bradford to seal play-off place",
+      "link": "https://www.skysports.com/watch/video/13573556/bradford-bulls-6-34-wigan-warriors-super-league-highlights",
+      "summary": "Highlights of the Super League match between Bradford Bulls and Wigan Warriors.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bradford-wigan_7322827.jpg?20260815203732"
+    },
+    {
+      "source": "sky",
+      "title": "Sabalenka battles through tough conditions to progress in Cincinnati",
+      "link": "https://www.skysports.com/watch/video/13573857/aryna-sabalenka-vs-talia-gibson-cincinnati-open-highlights",
+      "summary": "Highlights of Aryna Sabalenka vs Talia Gibson from the Cincinnati Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-aryna-sabalenka_7323661.jpg?20260816223213"
     },
     {
       "source": "sky",
@@ -371,6 +411,14 @@
     },
     {
       "source": "sky",
+      "title": "Swiatek eases past Arango with second-set bagel",
+      "link": "https://www.skysports.com/watch/video/13573820/iga-swiatek-vs-emiliana-arango-cincinnati-open-highlights",
+      "summary": "Highlights of Iga Swiatek against Emiliana Arango from the Cincinnati Open.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-swiatek-iga_7323545.jpg?20260816200748"
+    },
+    {
+      "source": "sky",
       "title": "Who's really in F1's title race and what factors will decide fight?",
       "link": "https://www.skysports.com/f1/news/12040/13572982/f1-title-race-assessing-rivals-to-kimi-antonelli-and-factors-that-will-decide-2026-fight-ahead-of-dutch-gp-season-resumption",
       "summary": "Kimi Antonelli is the clear front-runner in Formula 1's 2026 title battle, but which drivers retain a realistic chance of catching him, and what will decide whether a comeback can be successful?",
@@ -379,11 +427,27 @@
     },
     {
       "source": "sky",
+      "title": "Fery wins on his return since Wimbledon to progress in Cincinnati",
+      "link": "https://www.skysports.com/watch/video/13573624/arthur-fery-vs-jack-duckworth-cincinnati-open-highlights",
+      "summary": "Highlights from the Cincinnati Open match between Arthur Fery and Jack Duckworth.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-fery-tennis-highlights_7323014.jpg?20260816090016"
+    },
+    {
+      "source": "sky",
       "title": "Lingfield, Windsor and Wolverhampton feature on Monday",
       "link": "https://www.skysports.com/racing/news/12040/13573655/today-on-sky-sports-racing-lingfield-windsor-and-wolverhampton-host-live-action",
       "summary": "Mithaaly faces Fairly Well and Nobelos in an interesting maiden contest at Windsor, live on Sky Sports Racing.",
       "published": null,
       "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7251848.jpg?20260517211644"
+    },
+    {
+      "source": "sky",
+      "title": "Super Giants edge Rockets in thriller to secure first Hundred title",
+      "link": "https://www.skysports.com/watch/video/13573841/the-hundred-manchester-super-giants-edge-trent-rockets-in-thriller-to-secure-first-hundred-title",
+      "summary": "Highlights of the men's Hundred final between Trent Rockets and Manchester Super Giants at Lord's.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rockets-super-giants_7323616.jpg?20260816213311"
     },
     {
       "source": "sky",
@@ -419,6 +483,14 @@
     },
     {
       "source": "sky",
+      "title": "Funniest and most memorable moments from the Hundred!",
+      "link": "https://www.skysports.com/watch/video/13573784/funniest-and-most-memorable-moments-from-the-hundred",
+      "summary": "Watch back the funniest and most memorable moments from this year's Hundred competition.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-the-hundred-funny_7323477.jpg?20260816183159"
+    },
+    {
+      "source": "sky",
       "title": "McIlroy 'so far away' from best form after dismal St. Jude showing",
       "link": "https://www.skysports.com/golf/news/12040/13573783/rory-mcilroy-finishes-66th-at-fedex-st-jude-championship-northern-irishman-feels-so-far-away-from-best-form",
       "summary": "Rory McIlroy bemoaned his poor form as he finished 66th at the FedEx St. Jude Championship, saying \"I am so far away from where I need to be\".",
@@ -427,91 +499,19 @@
     },
     {
       "source": "sky",
+      "title": "Brook quizzed on Wellington incident as he backs Root for Test captaincy",
+      "link": "https://www.skysports.com/cricket/news/12040/13573896/harry-brook-on-missing-out-on-england-captaincy-and-the-wellington-incident-the-decision-to-make-root-captain-was-the-right-one",
+      "summary": "Harry Brook says he does not know whether the Wellington incident ahead of the Ashes cost him the England captaincy, but believes appointing Joe Root was the &#8220;right decision&#8221;.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-brook-england_7286691.jpg?20260630154735"
+    },
+    {
+      "source": "sky",
       "title": "Shields vs Price talks ongoing - 'Our intention is to make the fight!'",
       "link": "https://www.skysports.com/boxing/news/12040/13573848/claressa-shield-vs-lauren-price-talks-are-ongoing-after-american-star-reclaimed-world-middleweight-titles-in-atlanta",
       "summary": "Negotiations for a Claressa Shields vs Lauren Price fight are ongoing after the American star reclaimed two world middleweight titles on Saturday.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-claressa-shields_7323645.jpg?20260816215629"
-    },
-    {
-      "source": "sky",
-      "title": "Jacquet scores on debut as Liverpool beat Como",
-      "link": "https://www.skysports.com/football/news/12040/13573738/liverpool-2-0-como-jeremy-jacquet-scores-on-debut-to-add-to-cody-gakpo-goal-as-reds-win-at-anfield",
-      "summary": "Jeremy Jacquet was the star as Liverpool enjoyed a confidence-boosting 2-0 win over Como in their final pre-season friendly at Anfield.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jeremy-jacquet-liverpool_7323528.jpg?20260816195110"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham blow two-goal lead at Burnley to draw on Championship return",
-      "link": "https://www.skysports.com/football/burnley-vs-west-ham-united/report/560507",
-      "summary": "Zian Flemming struck twice late on as Burnley came back to deny West Ham in a 2-2 Championship draw between the freshly relegated sides at Turf Moor.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-zian-flemming-burnley_7323434.jpg?20260816183006"
-    },
-    {
-      "source": "sky",
-      "title": "Middlesex stun Durham to deny Stokes spot in One-Day Cup final",
-      "link": "https://www.skysports.com/cricket/news/12040/13573761/ben-stokes-durham-lose-one-day-cup-semi-final-to-middlesex-who-book-final-meeting-with-leicestershire",
-      "summary": "Ben Stokes and Durham were denied a spot in the&#160;2026 Metro Bank One-Day Cup final as Middlesex pulled off a stunning comeback to clinch a first List-A final appearance for 36 years.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ben-stokes-one-day-cup_7323469.jpg?20260816181843"
-    },
-    {
-      "source": "sky",
-      "title": "Man City and Barcelona agree fee for Rodri",
-      "link": "https://www.skysports.com/football/news/12040/13572836/rodri-transfer-news-man-city-accept-bid-from-barcelona-for-world-cup-winning-midfielder-and-former-ballon-dor-holder",
-      "summary": "Man City and Barcelona have agreed a &#163;65.4m fee for Rodri.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rodri-man-city_7323576.png?20260816204201"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Delap & Neto move closer to Chelsea exit",
-      "link": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "'Euphoria' - Buttler revels after guiding MSG to 'deserved' Hundred title",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13573620/the-hundred-finals-live-trent-rockets-vs-sunrisers-leeds-in-womens-match-before-rockets-take-on-manchester-super-giants-in-mens",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-buttler-hundred_7323627.png?20260816213858"
-    },
-    {
-      "source": "sky",
-      "title": "Fleetwood makes MONSTER putt on the fourth at FedExCup Playoffs",
-      "link": "https://www.skysports.com/watch/video/13573810/fedex-cup-playoff-tommy-fleetwood-makes-monster-putt-on-the-fourth",
-      "summary": "Tommy Fleetwood makes huge putt on the fourth at the FedExCup Playoffs.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-golf-fleetwood_7323517.jpg?20260816192936"
-    },
-    {
-      "source": "sky",
-      "title": "England's Whaley wins US Amateur Championship to book spot at The Open",
-      "link": "https://www.skysports.com/golf/news/12040/13573860/englands-jack-whaley-wins-us-amateur-championship-after-beating-american-jay-leng-jr-in-36-hole-final-to-book-place-at-2027-open",
-      "summary": "Doncaster-born golfer Jack Whaley defeated American Jay Leng Jr in a gruelling 36-hole final on Sunday to win the US Amateur Championship and book his place at The Open next year.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jack-whaley_7323663.jpg?20260816223245"
-    },
-    {
-      "source": "sky",
-      "title": "'You've got to be kidding me?!' - Scheffler's ball bounces off a sprinkler into water!",
-      "link": "https://www.skysports.com/watch/video/13573814/fedex-cup-playoff-scottie-schefflers-ball-bounces-off-a-sprinkler-into-water",
-      "summary": "Scottie Scheffler did not account for a sprinkler getting in the way when making his bunker shot at the FedExCup Playoffs.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-scheffler_7323524.jpg?20260816193856"
-    },
-    {
-      "source": "sky",
-      "title": "Oh no! Mitchell's BMW Championship hopes in danger after this unlucky shot!",
-      "link": "https://www.skysports.com/watch/video/13573826/fedex-cup-playoff-keith-mitchells-bmw-championship-hopes-in-danger-after-this-unlucky-shot",
-      "summary": "Keith Mitchell attempts to clear his shot from the water but fails, setting his BMW Championship hopes in danger.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-golf-mitchell_7323567.jpg?20260816203115"
     }
   ]
 }
