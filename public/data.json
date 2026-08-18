@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-18T06:32:32.322702+00:00",
+  "lastUpdated": "2026-08-18T07:32:52.424901+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Could refreshed Odegaard be like a new signing?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
+      "published": "2026-08-18T07:14:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c48a/live/32146830-9a52-11f1-bc7b-a36e7e7ea706.jpg"
+    },
     {
       "source": "guardian",
       "title": "Martin Ødegaard happy with Arsenal’s new duo and says team hungry for title defence",
@@ -322,14 +330,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633b/live/60a9ce90-931a-11f1-9931-79a1e0bcb641.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Goals galore - the wildest scores in EFL Cup history",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
-      "published": "2026-08-08T06:37:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b905/live/418aa430-9275-11f1-b7a2-c7c91f255a18.png"
-    },
-    {
       "source": "guardian",
       "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
       "link": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
+      "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
+      "summary": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706"
+    },
+    {
+      "source": "sky",
+      "title": "Sky Sports and The Fast and the Curious announce new partnership",
+      "link": "https://www.skysports.com/f1/news/12040/13574066/the-fast-and-the-curious-sky-sports-announces-new-partnership-ahead-of-f1s-return-to-action-at-dutch-gp",
+      "summary": "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead of Formula 1's return to action this weekend with the Dutch Grand Prix.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-fast-and-the-curious_7324529.png?20260818073136"
+    },
+    {
+      "source": "sky",
       "title": "Australia make big batting change after shock Bangladesh loss",
       "link": "https://www.skysports.com/cricket/news/12040/13574220/australia-vs-bangladesh-hosts-drop-opener-jake-weatherald-but-keep-faith-in-marnus-labuschagne-for-must-win-second-test",
       "summary": "Australia have dropped opener Jake Weatherald after their shock home loss to Bangladesh but retained Marnus Labuschagne for the must-win second Test.",
@@ -363,11 +379,19 @@
     },
     {
       "source": "sky",
-      "title": "'Nothing's eternal' Pep opens up on time at Man City in NEW documentary series",
+      "title": "'Nothing's eternal' Pep opens up on time at Man City in NEW documentary",
       "link": "https://www.skysports.com/watch/video/13574225/pep-guardiola-accepts-time-at-man-city-not-eternal-in-new-documentary-series",
       "summary": "In a new new Prime Video documentary, 'A Beautiful Obsession', Pep Guardiola opens up about his time at Manchester City. Video credit: Prime Video",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/2086ca11ab678efbe5352d6d4a2ad55e6ea8d3bb227c26561eeec04ad6962cda_7324528.jpg?20260818073054"
+      "image": "https://e0.365dm.com/26/08/1920x1080/6fdd5d52258751746f076d411796d147478bb693e0a59a128c27cacdce5f8ca6_7324564.jpg?20260818081305"
+    },
+    {
+      "source": "sky",
+      "title": "Pep reduced to tears prepping Man City farewell speech in new doc footage",
+      "link": "https://www.skysports.com/watch/video/13574238/pep-guardiola-breaks-down-in-tears-in-new-footage-of-his-leaving-speech",
+      "summary": "In a new Prime Video documentary 'A Beautiful Obsession', behind-the-scenes footage shows Pep Guardiola breaking down in tears prepping his Manchester City leaving speech. Video credit: Prime Video",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-pep-man-city_7324537.jpg?20260818074308"
     },
     {
       "source": "sky",
@@ -416,6 +440,14 @@
       "summary": "Britain's Arthur Fery was knocked out of the Cincinnati Open, but only after a thrilling fightback was halted by Alex de Minaur following several rain delays.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arthur-fery-tennis_7324456.jpg?20260817233639"
+    },
+    {
+      "source": "sky",
+      "title": "Ex-Australian star Warner convicted and fined after drink driving",
+      "link": "https://www.skysports.com/cricket/news/12040/13574227/david-warner-former-australian-cricketer-convicted-and-fined-after-pleading-guilty-to-drink-driving-over-easter-weekend",
+      "summary": "Former Australia batsman David Warner has been fined A$1,500 (&#163;787) and ordered to have an interlock device on his car for 12 months after being convicted for drink driving.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-david-warner-cricket_7324509.jpg?20260818071354"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "The MCC Female Young Broadcaster of the Year for 2026, Rosa&#160;Simkin,&#160;received the ultimate competition prize when joining Sky Sports' live coverage of The Hundred final at Lord's on Sunday.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-georgia-adams-the-hundred_7324117.jpg?20260817141354"
-    },
-    {
-      "source": "sky",
-      "title": "Alonso, Fernandez and a new era at Chelsea - podcast special!",
-      "link": "https://www.skysports.com/football/news/12040/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
-      "summary": "It's been another summer of change at Chelsea - and on the eve of a new Premier League season, there is so much to analyse at the club, with Xabi Alonso's reign kicking off, big-money transfers to be settled and a search for success on the pitch in their sights.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-chelsea-big-summer_7324184.jpg?20260817153352"
-    },
-    {
-      "source": "sky",
-      "title": "Arsenal's trip to Liverpool and Leeds vs Man Utd live on Sky Sports",
-      "link": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november",
-      "summary": "Liverpool's home matches against Manchester City and Arsenal, plus Manchester United's trip to rivals Leeds, are among the 21 Premier League games being shown live on Sky Sports in October and November.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270618.jpg?20260611102640"
-    },
-    {
-      "source": "sky",
-      "title": "F1 is back...again! Rewatch the 2026 season defining moments so far",
-      "link": "https://www.skysports.com/watch/video/13572849/formula-one-story-of-the-2026-season",
-      "summary": "With the Formula One season set to resume after the summer break, we look back at how Mercedes driver Kimi Antonelli has built a 50-point lead in the driver standings.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-motorsport-f1_7321301.jpg?20260814091141"
-    },
-    {
-      "source": "sky",
-      "title": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
-      "link": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory",
-      "summary": "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole Palmer know exactly how to play together.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-chelsea_7321597.jpg?20260814143817"
     }
   ]
 }
