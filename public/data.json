@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-18T14:26:21.687215+00:00",
+  "lastUpdated": "2026-08-18T15:25:13.536825+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
+      "link": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
+      "published": "2026-08-18T15:01:48+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/71150120-9b10-11f1-bb80-c1b1e1adeea5.jpg"
+    },
     {
       "source": "bbc",
       "title": "How do Arsenal fans rate their summer signings?",
@@ -322,14 +330,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85c0/live/ec273140-9187-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Top five Guimaraes goals as midfielder joins Arsenal",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cr7klk283zmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Watch Bruno Guimaraes' best Premier League goals as Arsenal sign the Brazil midfielder from Newcastle.",
-      "published": "2026-08-08T11:04:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd60/live/05b3bda0-919b-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
       "link": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football",
@@ -387,11 +387,19 @@
     },
     {
       "source": "sky",
+      "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
+      "link": "https://www.skysports.com/football/news/12040/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
+      "summary": "Juventus have signed Guglielmo Vicario on an initial season-long loan from Tottenham.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-aston-villa-tottenham_7263541.jpg?20260602103440"
+    },
+    {
+      "source": "sky",
       "title": "The Premier League is back! All 20 clubs assessed",
       "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday",
-      "summary": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League is shaping up ahead of the new season we've taken a look at their preparations for the new campaign.",
+      "summary": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League team is shaping up ahead of the new season we've taken a look at their preparations for the new campaign.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7323862.jpg?20260817100219"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-season_7324958.jpg?20260818160955"
     },
     {
       "source": "sky",
@@ -504,14 +512,6 @@
       "summary": "\"A lot of people questioned it,\" Scott Chickelday tells Sky Sports. \"Those same people are now looking at it and thinking, hang on, we might have got a bit of a bargain here.\" Such has been the start that Will Lankshear has made to his Middlesbrough career.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7324277.jpg?20260817173521"
-    },
-    {
-      "source": "sky",
-      "title": "Chepstow, Lingfield and Wolverhampton host today's live racing action",
-      "link": "https://www.skysports.com/racing/news/12040/13573965/today-on-sky-sports-racing-chepstow-lingfield-and-wolverhampton-host-action",
-      "summary": "Don't miss a minute from Chepstow, Lingfield and Wolverhampton - live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-chepstoiw-racing_7297484.jpg?20260714152811"
     }
   ]
 }
