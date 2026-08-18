@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T07:32:52.424901+00:00",
+  "lastUpdated": "2026-08-18T08:29:00.522200+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -7,7 +7,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
       "summary": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
       "published": "2026-08-18T07:14:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c48a/live/32146830-9a52-11f1-bc7b-a36e7e7ea706.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e88/live/5ad68e20-9ad8-11f1-b2f7-5d1639b20e22.jpg"
     },
     {
       "source": "guardian",
@@ -355,14 +355,6 @@
     },
     {
       "source": "sky",
-      "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
-      "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
-      "summary": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706"
-    },
-    {
-      "source": "sky",
       "title": "Sky Sports and The Fast and the Curious announce new partnership",
       "link": "https://www.skysports.com/f1/news/12040/13574066/the-fast-and-the-curious-sky-sports-announces-new-partnership-ahead-of-f1s-return-to-action-at-dutch-gp",
       "summary": "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead of Formula 1's return to action this weekend with the Dutch Grand Prix.",
@@ -371,11 +363,27 @@
     },
     {
       "source": "sky",
+      "title": "Watch out for Brentford’s Sangare - he could be signing of the season",
+      "link": "https://www.skysports.com/football/news/12040/13570422/mamadou-sangare-brentfords-39m-midfielder-could-be-the-premier-leagues-signing-of-the-season",
+      "summary": "It's September 2024, and Mamadou Sangare has been called up to the Mali squad for the very first time. As is normal in modern football, new players have to do an initiation song while stood on top of a chair.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mamadou-sangare-brentford_7322765.jpg?20260815182706"
+    },
+    {
+      "source": "sky",
       "title": "Australia make big batting change after shock Bangladesh loss",
       "link": "https://www.skysports.com/cricket/news/12040/13574220/australia-vs-bangladesh-hosts-drop-opener-jake-weatherald-but-keep-faith-in-marnus-labuschagne-for-must-win-second-test",
       "summary": "Australia have dropped opener Jake Weatherald after their shock home loss to Bangladesh but retained Marnus Labuschagne for the must-win second Test.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-australia-bangladesh_7322178.jpg?20260815124836"
+    },
+    {
+      "source": "sky",
+      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
     },
     {
       "source": "sky",
@@ -389,7 +397,7 @@
       "source": "sky",
       "title": "Pep reduced to tears prepping Man City farewell speech in new doc footage",
       "link": "https://www.skysports.com/watch/video/13574238/pep-guardiola-breaks-down-in-tears-in-new-footage-of-his-leaving-speech",
-      "summary": "In a new Prime Video documentary 'A Beautiful Obsession', behind-the-scenes footage shows Pep Guardiola breaking down in tears prepping his Manchester City leaving speech. Video credit: Prime Video",
+      "summary": "In a new Prime Video documentary series 'A Beautiful Obsession', behind-the-scenes footage shows Pep Guardiola breaking down in tears prepping his Manchester City leaving speech. Video credit: Prime Video",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-pep-man-city_7324537.jpg?20260818074308"
     },
@@ -419,6 +427,22 @@
     },
     {
       "source": "sky",
+      "title": "Scot Prem latest: Rangers close in on Aston Villa defender",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-kosta-nedeljkovic_7318367.jpg?20260810160208"
+    },
+    {
+      "source": "sky",
+      "title": "Newcastle sign Dedic from Benfica",
+      "link": "https://www.skysports.com/football/news/12040/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica",
+      "summary": "Newcastle United&#160;have signed Bosnia and Herzegovina international&#160;Amar Dedic&#160;from&#160;Benfica&#160;on a five-year deal.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-amar-dedic-newcastle_7323053.jpg?20260816100000"
+    },
+    {
+      "source": "sky",
       "title": "Rugby's greatest rivalry? The history of All Blacks vs Springboks",
       "link": "https://www.skysports.com/rugby-union/news/12040/13571891/new-zealand-vs-south-africa-live-on-sky-sports-the-history-of-rugbys-greatest-rivalry-ahead-of-four-test-series",
       "summary": "In 2026 there is no Rugby Championship, but there is a throwback-type tour which sees New Zealand's All Blacks visit South Africa for eight matches, including four Tests against the Springboks, live on Sky Sports.&#160;",
@@ -443,7 +467,7 @@
     },
     {
       "source": "sky",
-      "title": "Ex-Australian star Warner convicted and fined after drink driving",
+      "title": "Ex-Australia star Warner convicted and fined after drink driving",
       "link": "https://www.skysports.com/cricket/news/12040/13574227/david-warner-former-australian-cricketer-convicted-and-fined-after-pleading-guilty-to-drink-driving-over-easter-weekend",
       "summary": "Former Australia batsman David Warner has been fined A$1,500 (&#163;787) and ordered to have an interlock device on his car for 12 months after being convicted for drink driving.",
       "published": null,
@@ -488,30 +512,6 @@
       "summary": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray.&#160;",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-manchester-united_7257272.jpg?20260524172043"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Potential power shift at Chelsea as club valued at £5bn",
-      "link": "https://www.skysports.com/football/news/12040/13574191/chelsea-co-owners-todd-boehly-and-mark-walter-open-to-selling-stakes-to-majority-owners-clearlake-capital-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "How are Man Utd shaping up ahead of the new season?",
-      "link": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back",
-      "summary": "Manchester United ended their pre-season with a 4-2 defeat to AC Milan, and the question is what kind of condition they are in as they go into the new season?",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-man-utd-transfers_7313710.jpg?20260804140058"
-    },
-    {
-      "source": "sky",
-      "title": "MCC Female Young Broadcaster of the Year joins Hundred final coverage",
-      "link": "https://www.skysports.com/cricket/news/12040/13574033/rosa-simkin-2026-mcc-female-young-broadcaster-of-the-year-winner-joins-sky-sports-for-the-hundred-final-at-lords",
-      "summary": "The MCC Female Young Broadcaster of the Year for 2026, Rosa&#160;Simkin,&#160;received the ultimate competition prize when joining Sky Sports' live coverage of The Hundred final at Lord's on Sunday.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-georgia-adams-the-hundred_7324117.jpg?20260817141354"
     }
   ]
 }
