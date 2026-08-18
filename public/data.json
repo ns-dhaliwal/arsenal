@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-18T10:21:23.135861+00:00",
+  "lastUpdated": "2026-08-18T11:19:36.524238+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "How do Arsenal fans rate their summer signings?",
+      "link": "https://www.bbc.co.uk/sport/videos/c5yvdrx3nwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "We asked Arsenal fans what they really think of their new signings before their 3-0 victory in the Community Shield against Manchester City.",
+      "published": "2026-08-18T10:29:25+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f0/live/64993720-9aef-11f1-a291-b542ee92de7c.jpg"
+    },
     {
       "source": "guardian",
       "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
@@ -330,14 +338,6 @@
       "image": "https://i.guim.co.uk/img/media/fa40be3ea3d1484aa696d71849024567dee05be6/94_723_5090_4069/master/5090.jpg?width=140&quality=85&auto=format&fit=max&s=c5d99e2effd5d85a4d87c646747348f9"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
-      "published": "2026-08-08T11:00:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633b/live/60a9ce90-931a-11f1-9931-79a1e0bcb641.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
       "link": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "What next for LIV Golf? Timeline from big beginnings to uncertain future",
+      "link": "https://www.skysports.com/golf/news/12040/13574263/liv-golf-league-timeline-key-moments-from-breakaway-circuits-history-rivalry-with-the-pga-tour-and-what-happens-next",
+      "summary": "The LIV Golf League is ending the 2026 season with its long-term future unclear, having been a dominant discussion point during a turbulent few years for men&#8217;s professional golf.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-golf-liv-oneill-rahm_7324647.jpg?20260818101447"
+    },
+    {
+      "source": "sky",
       "title": "US Amateur champion Whaley and Poulter's son named in GB&I Walker Cup team",
       "link": "https://www.skysports.com/golf/news/12040/13574036/walker-cup-us-amateur-champion-jack-whaley-makes-gbi-team-alongside-ian-poulters-son-luke",
       "summary": "US Amateur champion Jack Whaley has been selected in the Great Britain and Ireland team for the 2026 Walker Cup against the USA.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jack-whaley-us-amateur_7324227.jpg?20260817162529"
+    },
+    {
+      "source": "sky",
+      "title": "The Premier League is back! All 20 clubs assessed",
+      "link": "https://www.skysports.com/football/news/12040/13572964/premier-league-season-preview-each-clubs-pre-season-preparations-analysed-ahead-of-new-campaigns-kick-off-this-friday",
+      "summary": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League is shaping up ahead of the new season we've taken a look at their preparations for the new campaign.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7323862.jpg?20260817100219"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Cardiff earned the most dramatic point on their return to the Sky Bet Championship as Rubin Colwill's stunning 98th-minute free-kick earned a 1-1 draw against Wrexham.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rubin-colwill-cardiff_7324435.jpg?20260817220931"
-    },
-    {
-      "source": "sky",
-      "title": "Fery loses in Cincinnati despite fightback vs De Minaur after rain delays",
-      "link": "https://www.skysports.com/tennis/news/12040/13574112/cincinnati-open-britains-arthur-fery-loses-despite-thrilling-fightback-vs-alex-de-minaur-after-rain-delays",
-      "summary": "Britain's Arthur Fery was knocked out of the Cincinnati Open, but only after a thrilling fightback was halted by Alex de Minaur following several rain delays.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arthur-fery-tennis_7324456.jpg?20260817233639"
-    },
-    {
-      "source": "sky",
-      "title": "Ex-Australia star Warner convicted and fined after drink driving",
-      "link": "https://www.skysports.com/cricket/news/12040/13574227/david-warner-former-australian-cricketer-convicted-and-fined-after-pleading-guilty-to-drink-driving-over-easter-weekend",
-      "summary": "Former Australia batsman David Warner has been fined A$1,500 (&#163;787) and ordered to have an interlock device on his car for 12 months after being convicted for drink driving.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-david-warner-cricket_7324509.jpg?20260818071354"
     }
   ]
 }
