@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-19T11:19:21.208743+00:00",
+  "lastUpdated": "2026-08-19T12:34:31.483384+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "'Everyone wants clarity' over Man City charges",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1416keng1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal's chief executive Richard Garlick speaks out on the case against Manchester City and the more than 100 alleged breaches of the Premier League's financial rules.",
+      "published": "2026-08-19T12:30:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be00/live/b648b050-9bbc-11f1-ae8a-8d57110c5ba6.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal pushing on with deal to sign Villa's Konsa",
@@ -282,14 +290,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f1/live/f352a590-9578-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
-      "summary": "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
-      "published": "2026-08-10T20:32:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ffc/live/bda591f0-9546-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
       "link": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window",
@@ -355,11 +355,51 @@
     },
     {
       "source": "sky",
-      "title": "Merson's Premier League season preview: Who wins the title and who stays up?",
-      "link": "https://www.skysports.com/football/news/12040/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
-      "summary": "In his latest column, Paul Merson predicts the 2026/27 Premier League season at both ends of the table.",
+      "title": "Coventry latest: Striker becomes NINTH summer signing",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-merson-merson-says_7325355.jpg?20260819093739"
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-club-rumours_7242342.jpg?20260508093716"
+    },
+    {
+      "source": "sky",
+      "title": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
+      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tc-transfer-centre_7325605.jpg?20260819125711"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool latest: Highly-rated defender set for Spain loan",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-liverpool-club-blog_7266198.jpg?20260605143916"
+    },
+    {
+      "source": "sky",
+      "title": "Pogba parts ways with Monaco",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-paul-pogba-monaco_7319756.jpg?20260812145506"
+    },
+    {
+      "source": "sky",
+      "title": "Savinho, Gakpo, Neto, Marmoush! Spurs in market to sign THREE new forwards",
+      "link": "https://www.skysports.com/football/news/12040/13574668/tottenham-transfer-news-spurs-considering-cody-gakpo-savinho-omar-marmoush-and-pedro-neto-in-search-for-three-new-forwards",
+      "summary": "Tottenham&#160;hope to sign as many as three new forwards before the transfer deadline.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-savinho_7325577.jpg?20260819130157"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal latest: Why Konsa is the perfect Arteta player",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710"
     },
     {
       "source": "sky",
@@ -368,6 +408,14 @@
       "summary": "Arsenal are in advanced talks with Aston Villa to sign Ezri Konsa.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7325544.jpg?20260819113902"
+    },
+    {
+      "source": "sky",
+      "title": "Merson's Premier League season preview: Who wins the title and who stays up?",
+      "link": "https://www.skysports.com/football/news/12040/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
+      "summary": "In his latest column, Paul Merson predicts the 2026/27 Premier League season at both ends of the table.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-merson-merson-says_7325355.jpg?20260819093739"
     },
     {
       "source": "sky",
@@ -395,6 +443,14 @@
     },
     {
       "source": "sky",
+      "title": "Hull KR sweating on Lewis after sin-binning on return from four-match ban",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13574634/mikey-lewis-hull-kr-left-sweating-as-star-man-sent-to-sin-bin-against-warrington-wolves-on-return-from-four-match-ban",
+      "summary": "After returning from a four-game ban, Mikey Lewis is now sweating on whether he will miss more crucial matches in Hull KR's run-in.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-league-hull-kr_7325442.jpg?20260819102719"
+    },
+    {
+      "source": "sky",
       "title": "'A game-changing signing!' | Man Utd's move for Baleba explained",
       "link": "https://www.skysports.com/watch/video/13574636/transfer-latest-man-utd-close-to-signing-carlos-baleba-from-brighton",
       "summary": "Sky Sports' Dan Khan and Tim Sherwood react to the breaking  news that Manchester United are close to an agreement for the signing of Brighton's Carlos Baleba.",
@@ -403,7 +459,7 @@
     },
     {
       "source": "sky",
-      "title": "Rain stops play with Pakistan two down vs England at Headingley LIVE!",
+      "title": "Have your say on England's new era as rain stops play vs Pakistan LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
       "summary": "",
       "published": null,
@@ -423,15 +479,15 @@
       "link": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
       "summary": "Rangers have signed right-back Kosta Nedeljkovic from Aston Villa.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-kosta-nedeljkovic_7318367.jpg?20260810160208"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kosta-nedeljkovic_7325642.jpg?20260819131415"
     },
     {
       "source": "sky",
-      "title": "EFL latest: Stoke agree £10m deal for Scotland striker Hirst",
+      "title": "EFL latest: Company owned by Sheff Utd co-chairs wound-up in High Court",
       "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-ipswich-town-george-hirst_7177813.jpg?20260228164111"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sheffield-united_7293084.jpg?20260708155512"
     },
     {
       "source": "sky",
@@ -456,62 +512,6 @@
       "summary": "Mikey Lewis is given his fourth yellow card of the season in his first game back from a four-match suspension.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lewis-hull-kr_7325203.jpg?20260818215241"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd latest: VOTE! Is signing Baleba a good idea?",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649"
-    },
-    {
-      "source": "sky",
-      "title": "Watkins keen on move to Al Hilal as talks ongoing with Villa",
-      "link": "https://www.skysports.com/football/news/12040/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker",
-      "summary": "Al Hilal are in talks with Aston Villa over a deal to sign striker Ollie Watkins, who is keen on the move.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-ollie-watkins-england_7270420.jpg?20260611000809"
-    },
-    {
-      "source": "sky",
-      "title": "Elliott eyes 'life-changing' ONE world title shot with win over Erdogan",
-      "link": "https://www.skysports.com/mma/news/12040/13574398/one-fight-night-48-paul-elliott-eyes-life-changing-world-title-shot-with-win-over-shamil-erdogan",
-      "summary": "Paul Elliott is eyeing a 'life-changing' world title shot should he come through his&#160;ONE Championship heavyweight bout with&#160;Shamil Erdogan, but stopped short of promising another record-equalling knockout.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-paul-elliott-mma_7325267.jpg?20260819065619"
-    },
-    {
-      "source": "sky",
-      "title": "Will Man Utd's opening weekend defence be the same as 2022?",
-      "link": "https://www.skysports.com/football/news/12040/13574295/man-utd-could-start-2026-27-premier-league-season-with-same-back-four-as-2022-23-opening-game",
-      "summary": "Since the summer of 2022, Manchester United have signed eight defenders for a combined &#163;219.7m - and yet, the starting back four could be the same that lined up on the opening day of the season four years ago.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7324694.jpg?20260818105736"
-    },
-    {
-      "source": "sky",
-      "title": "Smugglers Haven and Muskerry Rock clash at Worcester",
-      "link": "https://www.skysports.com/racing/news/12040/13574145/today-on-sky-sports-racing-jumps-action-from-worcester",
-      "summary": "We have a busy day&#8217;s racing on Wednesday with jumps action from Worcester, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e2.365dm.com/25/05/1920x1080/skysports-worcester-racing_6913953.jpg?20250512105754"
-    },
-    {
-      "source": "sky",
-      "title": "Goodbye Zandvoort! Relive the most dramatic moments ever at Dutch GP",
-      "link": "https://www.skysports.com/watch/video/13574392/goodbye-zandvoort-relive-the-most-dramatic-moments-ever-at-dutch-gp",
-      "summary": "With the last Formula One race coming up at Zandvoort, look back at some of the most dramatic moments throughout the years at the Dutch Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-motorsport-f1_7324918.jpg?20260818142143"
-    },
-    {
-      "source": "sky",
-      "title": "Why Van Hecke holds the key to unlocking De Zerbi ball at Spurs",
-      "link": "https://www.skysports.com/football/news/12040/13561628/jan-paul-van-hecke-to-tottenham-hotspur-why-defender-holds-the-key-to-roberto-de-zerbis-style-of-play-at-spurs",
-      "summary": "Tottenham Hotspur supporters have already seen Roberto De Zerbi keep their team in the Premier League. They have noted his passion, warmed to his enthusiasm. But De Zerbi ball had to wait. Now, Spurs must be ready to embrace the real thing.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-jan-paul-van-hecke_7298232.jpg?20260715134649"
     }
   ]
 }
