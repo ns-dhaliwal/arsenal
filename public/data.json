@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-19T14:26:00.013298+00:00",
+  "lastUpdated": "2026-08-19T15:24:50.218109+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
+      "summary": "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for Ollie WatkinsArsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the ne",
+      "published": "2026-08-19T15:16:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/a594e7a0db017a8d5503d82d1352959c79918e77/36_73_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=cd4a87f5fded429c88f622bcb0397664"
+    },
     {
       "source": "bbc",
       "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
@@ -346,12 +354,12 @@
       "image": "https://i.guim.co.uk/img/media/241eae4079055f5c13928e3c6b5ce72cf82cdb3b/311_0_5899_4719/master/5899.jpg?width=140&quality=85&auto=format&fit=max&s=9bb9984e9c5288fd249c63325a0820c5"
     },
     {
-      "source": "guardian",
-      "title": "I love football, so I support lots of clubs | Letters",
-      "link": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs",
-      "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J FriedlanderI read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club (Have you ever switched allegiance as a football fan? You are not alone, 1 August). A world I inhabit.I too was at the Millwal",
-      "published": "2026-08-07T16:56:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/9393e51aa7da55fed9092564f6dbd6428e3d2e81/289_0_2840_2272/master/2840.jpg?width=140&quality=85&auto=format&fit=max&s=cdffe6679d72709a2fac3a0dc3d24156"
+      "source": "sky",
+      "title": "Fisher opponent revealed ahead of Copper Box return",
+      "link": "https://www.skysports.com/boxing/news/12040/13574695/johnny-fishers-opponent-confirmed-as-michael-pirotton-ahead-of-return-of-the-romford-bull-on-sky-sports",
+      "summary": "Johnny Fisher's opponent has been confirmed as Michael Pirotton ahead of the eagerly awaited return of the 'Romford Bull' next month.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-boxing-zuffa-announcement_7325309.jpg?20260819075047"
     },
     {
       "source": "sky",
@@ -371,11 +379,11 @@
     },
     {
       "source": "sky",
-      "title": "Tongue breaks 91-run Pakistan stand as England take third wicket on day one LIVE!",
+      "title": "Robinson takes his fourth wicket as England surge vs Pakistan LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-tongue-archer-england_7286762.jpg?20260630171133"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7325716.jpg?20260819144334"
     },
     {
       "source": "sky",
@@ -416,6 +424,22 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-paul-pogba-monaco_7319756.jpg?20260812145506"
+    },
+    {
+      "source": "sky",
+      "title": "Bloomfield opens up on Oxford exit: 'The whole club got under my skin'",
+      "link": "https://www.skysports.com/football/news/12040/13571779/matt-bloomfield-interview-former-oxford-united-head-coach-opens-up-about-disappointment-of-his-summer-exit",
+      "summary": "Matt Bloomfield had been looking forward to the new season with Oxford United. The plans were taking shape. The players were due back in soon. \"And then life changed,\" Bloomfield tells Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-matt-bloomfield-oxford-united_7323981.jpg?20260817120014"
+    },
+    {
+      "source": "sky",
+      "title": "McInnes confident Rangers captain Shankland will have 'big influence'",
+      "link": "https://www.skysports.com/football/news/12040/13574741/rangers-derek-mcinnes-confident-captain-lawrence-shankland-will-have-big-influence-at-ibrox-club",
+      "summary": "Derek McInnes described Lawrence Shankland as a \"brilliant\" captain who will have a \"big influence\" at Rangers whether or not he starts games.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-lawrence-shankland_7325769.jpg?20260819154232"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "England batter Harry Brook has returned to the top of the ICC men's Test batting rankings, with Australia's Travis Head dropping down after a couple of low scores in their shock Test defeat to Bangladesh.",
       "published": null,
       "image": "https://e0.365dm.com/26/06/1920x1080/skysports-harry-brook-england_7265339.jpg?20260604151657"
-    },
-    {
-      "source": "sky",
-      "title": "EFL latest: Company owned by Sheff Utd co-chairs wound-up in High Court",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sheffield-united_7293084.jpg?20260708155512"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers sign Nedeljkovic from Aston Villa",
-      "link": "https://www.skysports.com/football/news/12040/13574334/kosta-nedeljkovic-rangers-sign-aston-villa-right-back-on-loan-with-4m-obligation-to-buy-serbia-international",
-      "summary": "Rangers have signed right-back Kosta Nedeljkovic from Aston Villa.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kosta-nedeljkovic_7325642.jpg?20260819131415"
-    },
-    {
-      "source": "sky",
-      "title": "Warrington continue title hunt with HUGE victory against Hull KR",
-      "link": "https://www.skysports.com/watch/video/13574534/hull-kr-28-34-warrington-wolves-super-league-highlights",
-      "summary": "Highlights of the Super League match between Hull KR and Warrington Wolves.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/hull-kr-warrington-super-league_7325220.jpg?20260818222614"
     }
   ]
 }
