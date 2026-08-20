@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T17:22:56.266627+00:00",
+  "lastUpdated": "2026-08-20T18:30:24.266976+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Seven defenders on the books - why Arsenal still want Konsa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
+      "published": "2026-08-20T17:48:12+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arteta on the Emirates Stadium atmosphere",
@@ -290,14 +298,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/c4f34450-97c3-11f1-97a6-b387157e78db.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal invite offers for Martinelli and Nwaneri",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-      "published": "2026-08-13T17:49:02+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e84/live/424ccc70-973b-11f1-bbb3-ebc49f706d46.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
       "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
@@ -355,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "Alcaraz to make comeback at US Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows",
+      "summary": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carlos-alcaraz-tennis_7318345.jpg?20260810153843"
+    },
+    {
+      "source": "sky",
       "title": "Kevin Blake's 33/1 Nunthorpe pick: York day three tips",
       "link": "https://www.skysports.com/racing/news/12040/13575113/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-picks-out-33-1-nunthorpe-stakes-fancy-on-day-three",
       "summary": "Sky Sports Racing's Kevin Blake is back with two picks on day three of York's Ebor meeting, including a 33/1 Nunthorpe Stakes fancy.",
@@ -363,7 +371,15 @@
     },
     {
       "source": "sky",
-      "title": "Absolutely no way I abused children, ex-snooker star Dott tells trial",
+      "title": "Doyle: French filly can land Nunthorpe",
+      "link": "https://www.skysports.com/racing/news/12040/13575155/hollie-doyle-conditions-favour-french-filly-in-the-nunthorpe",
+      "summary": "Hollie returns to preview Friday&#8217;s top-class action from York&#8217;s Ebor Festival, which includes the Group One Nunthorpe Stakes.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "'Absolutely no way I abused children', ex-snooker star Dott tells trial",
       "link": "https://www.skysports.com/snooker/news/12040/13575151/graeme-dott-former-world-snooker-champion-denies-lewd-indecent-and-libidinous-behaviour-towards-two-children",
       "summary": "A former world snooker champion has denied sexually abusing two children, branding the allegations &#8220;disgusting&#8221;.",
       "published": null,
@@ -419,15 +435,23 @@
     },
     {
       "source": "sky",
-      "title": "Tromso vs Brighton in play-off for Conference League LIVE!",
-      "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/live/577284",
+      "title": "Raskin dropped for Rangers vs Jablonec LIVE!",
+      "link": "https://www.skysports.com/football/rangers-vs-fk-jablonec/live/577502",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lewis-dunk-brighton_7326572.jpg?20260820143818"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-ibrox_7326788.jpg?20260820180819"
     },
     {
       "source": "sky",
-      "title": "Verstappen was 'closer to retiring' than joining Red Bull rival",
+      "title": "Brighton being frustrated at Tromso in play-off for Conference League LIVE!",
+      "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/live/577284",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tromso-brighton-diego-gomez_7326817.jpg?20260820185513"
+    },
+    {
+      "source": "sky",
+      "title": "'Closer to retiring than changing teams' - Verstappen's new Red Bull deal explained",
       "link": "https://www.skysports.com/f1/news/12040/13574965/max-verstappen-red-bull-driver-says-he-was-closer-to-retiring-than-switching-f1-teams-before-contract-extended",
       "summary": "Max Verstappen said he came closer to retiring from Formula 1 than joining a rival team as he explained his reasons for extending his Red Bull contract.",
       "published": null,
@@ -467,6 +491,14 @@
     },
     {
       "source": "sky",
+      "title": "England eight wickets down as lead over Pakistan passes 190 LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13574925/england-vs-pakistan-first-test-day-two-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook_7326770.jpg?20260820173713"
+    },
+    {
+      "source": "sky",
       "title": "Butcher: I was going to quit cricket before 2001 Ashes heroics",
       "link": "https://www.skysports.com/cricket/news/12040/13574961/mark-butcher-reflects-on-almost-quitting-cricket-before-his-unbeaten-173-in-2001-ashes-and-shane-warnes-classy-gesture",
       "summary": "Mark Butcher was on the verge of hanging up his bat, but one fateful summer in 2001 changed everything.",
@@ -480,38 +512,6 @@
       "summary": "Pakistan take the wickets of Jordan Cox and Joe Root in quick succession as they halted England's advances on day two at Headingley.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cox-root_7326679.jpg?20260820163713"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen's hilarious contract announcement video!",
-      "link": "https://www.skysports.com/watch/video/13574929/formula-one-red-bull-announce-max-verstappens-re-signing-with-hilarious-social-media-video",
-      "summary": "Max Verstappen played the part of the grammar police in Red Bull's hilarious video announcing his new contract.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-max-verstappen_7326271.jpg?20260820100756"
-    },
-    {
-      "source": "sky",
-      "title": "Curran to have groin surgery as England Test return put on hold",
-      "link": "https://www.skysports.com/cricket/news/12040/13574958/sam-curran-england-all-rounder-to-undergo-groin-surgery-as-test-return-put-on-hold",
-      "summary": "Sam Curran's hopes of a Test comeback have been put on hold as he undergoes surgery on a groin injury.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sam-curran-england-mens-t20i-cricket_7291680.jpg?20260707071310"
-    },
-    {
-      "source": "sky",
-      "title": "Once homeless and in liquidation, Coventry seek 'fearless' PL return",
-      "link": "https://www.skysports.com/football/news/12040/13575020/arsenal-vs-coventry-premier-league-new-boys-approaching-season-with-no-fear-under-frank-lampard",
-      "summary": "The groundswell of excitement in the city of Coventry is palpable. Frank Lampard's side play their first Premier League game in over 25 years at the home of champions Arsenal on Friday night, live on Sky Sports. Only four months ago fans were lining the streets to celebrate the Championship title.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-coventry-city_7215307.jpg?20260409172921"
-    },
-    {
-      "source": "sky",
-      "title": "Brook passes fifty as England lead over Pakistan moves towards 150 LIVE",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13574925/england-vs-pakistan-first-test-day-two-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook_7326770.jpg?20260820173713"
     }
   ]
 }
