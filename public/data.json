@@ -1,11 +1,19 @@
 {
-  "lastUpdated": "2026-08-20T16:27:21.415436+00:00",
+  "lastUpdated": "2026-08-20T17:22:56.266627+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arteta on the Emirates Stadium atmosphere",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckg4dw2l9dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mikel Arteta praises Arsenal fans ahead of the new season and says they can create best atmosphere in the world at the Emirates Stadium.",
+      "published": "2026-08-20T17:08:29+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b7/live/bc218f60-9cac-11f1-b366-155f83b9d1f8.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arteta demands ‘desire and ambition’ for title defence and says Lewis-Skelly will stay",
       "link": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal",
-      "summary": "Champions’ manager says team ready for long marathonArteta 100% confident Lewis-Skelly will remain at clubMikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the new season and insisted Myles Lewis-Skelly would not be leaving in this transfer window.Arsenal face Coventry in their opening match on Friday night as they attempt to retain",
+      "summary": "‘We start from scratch,’ says Arsenal managerChampions begin defence against Coventry on FridayMikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the new season. He also reiterated that Myles Lewis-Skelly will not be leaving in this transfer window.Arsenal face Coventry in their opening match on Friday night as they attempt to retain",
       "published": "2026-08-20T15:05:09+00:00",
       "image": "https://i.guim.co.uk/img/media/78d0950938743168afc1898584193627964c2aa2/431_0_2376_1901/master/2376.jpg?width=140&quality=85&auto=format&fit=max&s=5b008db8162a55491723dadf702cbf5a"
     },
@@ -290,14 +298,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e84/live/424ccc70-973b-11f1-bbb3-ebc49f706d46.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
-      "published": "2026-08-13T15:47:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/cf599bf0-965c-11f1-a654-971f565de941.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
       "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Kevin Blake's 33/1 Nunthorpe pick: York day three tips",
+      "link": "https://www.skysports.com/racing/news/12040/13575113/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-picks-out-33-1-nunthorpe-stakes-fancy-on-day-three",
+      "summary": "Sky Sports Racing's Kevin Blake is back with two picks on day three of York's Ebor meeting, including a 33/1 Nunthorpe Stakes fancy.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kevin-blake-ebor-festival_7324810.png?20260818125040"
+    },
+    {
+      "source": "sky",
+      "title": "Absolutely no way I abused children, ex-snooker star Dott tells trial",
+      "link": "https://www.skysports.com/snooker/news/12040/13575151/graeme-dott-former-world-snooker-champion-denies-lewd-indecent-and-libidinous-behaviour-towards-two-children",
+      "summary": "A former world snooker champion has denied sexually abusing two children, branding the allegations &#8220;disgusting&#8221;.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-snooker-crucible_7326784.jpg?20260820180027"
+    },
+    {
+      "source": "sky",
       "title": "Kalpana shows guts to go with her class in Yorkshire Oaks",
       "link": "https://www.skysports.com/racing/news/12040/13575099/kalpana-wins-yorkshire-oaks-as-gutsy-display-enough-to-see-off-sparan-nua-on-day-two-of-ebor-meeting",
       "summary": "King George heroine Kalpana just held on to land the Legends Global Yorkshire Oaks at York after a mighty scare from Sparan Nua.",
@@ -368,6 +384,14 @@
       "summary": "Lewis Hamilton has urged his Ferrari team to \"apply the pressure\" to title rival Kimi Antonelli as he seeks to chase down the Mercedes driver in the championship battle.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lewis-hamilton-ferrari_7326630.jpg?20260820155013"
+    },
+    {
+      "source": "sky",
+      "title": "One to watch? Hot take?! Sky Sports writers give their PL predictions!",
+      "link": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season",
+      "summary": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-premier-league_7326756.jpg?20260820172536"
     },
     {
       "source": "sky",
@@ -395,7 +419,7 @@
     },
     {
       "source": "sky",
-      "title": "No Baleba for Brighton in Tromso play-off for Conference League LIVE!",
+      "title": "Tromso vs Brighton in play-off for Conference League LIVE!",
       "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/live/577284",
       "summary": "",
       "published": null,
@@ -416,6 +440,14 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+    },
+    {
+      "source": "sky",
+      "title": "Glasner's plan for 'stability with success' at Nottingham Forest",
+      "link": "https://www.skysports.com/football/news/12040/13574953/oliver-glasner-has-a-plan-for-premier-league-stability-and-success-at-nottingham-forest-but-it-comes-with-a-warning",
+      "summary": "Oliver Glasner is not necessarily known for being a disciplinarian. Meticulous, yes. A self-proclaimed workaholic. But not a coach who rains down rules. At Nottingham Forest that might have to change.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-oliver-glasner-nottingham-forest_7326482.jpg?20260820130932"
     },
     {
       "source": "sky",
@@ -475,43 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Cox and Root gone after making fifties as Pakistan make breakthrough LIVE!",
+      "title": "Brook passes fifty as England lead over Pakistan moves towards 150 LIVE",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13574925/england-vs-pakistan-first-test-day-two-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cox-cricket_7326672.jpg?20260820162847"
-    },
-    {
-      "source": "sky",
-      "title": "Record manager upheaval leaves new Premier League season wide open",
-      "link": "https://www.skysports.com/football/news/12040/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure",
-      "summary": "There's a sense of unpredictability surrounding the new Premier League campaign.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-graphic-premier-league_7326453.jpg?20260820124934"
-    },
-    {
-      "source": "sky",
-      "title": "Derby a 'chance to lay down marker' - watch Sheff Wed vs Bradford on Sky",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-antoni-sarcevic-bradford_7326578.jpg?20260820144010"
-    },
-    {
-      "source": "sky",
-      "title": "How does Arteta deliver step five of his Arsenal plan?",
-      "link": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles",
-      "summary": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7324591.jpg?20260818090313"
-    },
-    {
-      "source": "sky",
-      "title": "Aston Villa latest: Villa identify potential Konsa replacement",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook_7326770.jpg?20260820173713"
     }
   ]
 }
