@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T18:30:24.266976+00:00",
+  "lastUpdated": "2026-08-20T19:25:52.042984+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
+      "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity",
+      "summary": "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the keyMikel Arteta wants to get his messaging absolutely right. According to him, Arsenal are not about to defend their Premier League title. They are set to attack another one.Remember Win the dog, who the manager brought in to the club’s training ground a few years back?",
+      "published": "2026-08-20T19:00:13+00:00",
+      "image": "https://i.guim.co.uk/img/media/0103dcb2602f3e882e53fb383bbf3259039ec7a4/595_0_6723_5380/master/6723.jpg?width=140&quality=85&auto=format&fit=max&s=bd3cde5a1c525b3b32bafc898d4ed3a4"
+    },
     {
       "source": "bbc",
       "title": "Seven defenders on the books - why Arsenal still want Konsa",
@@ -346,16 +354,8 @@
       "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=d44d81286da02cc50c955f2d9787e01b"
     },
     {
-      "source": "guardian",
-      "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
-      "link": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke",
-      "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75mBruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be taken too seriously given the previous record holder, Zinedine Zidane, moved 25 years ago from Juventus to Real Madrid, ",
-      "published": "2026-08-08T11:22:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/a41b0e3e39e5cdf351ae1b0ef83dd7943bdfecb4/431_87_4210_3369/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=1122b37a0cc72ce05c3d5feebcb8c319"
-    },
-    {
       "source": "sky",
-      "title": "Alcaraz to make comeback at US Open",
+      "title": "'Here we go!' - Romano helps Alcaraz announce US Open comeback",
       "link": "https://www.skysports.com/tennis/news/12040/13575157/carlos-alcaraz-fabrizio-romano-breaks-news-us-open-champion-is-to-make-comeback-from-wrist-injury-at-flushing-meadows",
       "summary": "Carlos Alcaraz will make his comeback from a wrist injury at the US Open as he seeks to defend his title at Flushing Meadows.",
       "published": null,
@@ -376,6 +376,22 @@
       "summary": "Hollie returns to preview Friday&#8217;s top-class action from York&#8217;s Ebor Festival, which includes the Group One Nunthorpe Stakes.",
       "published": null,
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "'You could see it coming!' | Hilarious moment as fan drops his pints!",
+      "link": "https://www.skysports.com/watch/video/13575087/england-vs-pakistan-hilarious-moment-at-headingley-where-fan-drops-a-round-of-pints",
+      "summary": "Headingley lets out a huge roar as one unlucky fan spilled his round of beer walking down the stairs during day two of England versus Pakistan.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cricket-funny-england-cricket_7326627.jpg?20260820154452"
+    },
+    {
+      "source": "sky",
+      "title": "Dejected Brook falls shy of century at Headingley again!",
+      "link": "https://www.skysports.com/watch/video/13575172/england-vs-pakistan-dejected-harry-brook-dismissed-on-91-as-he-falls-short-of-century",
+      "summary": "England's Harry Brook is dismissed by Pakistan's Ali Usman for 91, just shy of a century at Headingley.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-brook-england_7326825.jpg?20260820191330"
     },
     {
       "source": "sky",
@@ -411,11 +427,27 @@
     },
     {
       "source": "sky",
+      "title": "Brighton frustrated by Tromso in first leg of Conference League tie",
+      "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/report/577284",
+      "summary": "Brighton were forced to settle for a goalless draw against a stubborn Tromso side in the first leg of their Conference League play-off.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tromso-brighton-diego-gomez_7326817.jpg?20260820185513"
+    },
+    {
+      "source": "sky",
       "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
       "summary": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-myles-lewis-skelly_7320052.jpg?20260812201414"
+    },
+    {
+      "source": "sky",
+      "title": "Tromso 0-0 Brighton commentary",
+      "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/live/577284",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-tromso-brighton-mats-wieffer_7326805.jpg?20260820183200"
     },
     {
       "source": "sky",
@@ -435,19 +467,19 @@
     },
     {
       "source": "sky",
-      "title": "Raskin dropped for Rangers vs Jablonec LIVE!",
+      "title": "Dragojevic hits the post for Rangers vs Jablonec LIVE!",
       "link": "https://www.skysports.com/football/rangers-vs-fk-jablonec/live/577502",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rangers-ibrox_7326788.jpg?20260820180819"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rangers-dragojevic_7326839.jpg?20260820200758"
     },
     {
       "source": "sky",
-      "title": "Brighton being frustrated at Tromso in play-off for Conference League LIVE!",
-      "link": "https://www.skysports.com/football/tromso-vs-brighton-and-hove-albion/live/577284",
-      "summary": "",
+      "title": "Brilliant Brook misses out on century as England dominate Pakistan",
+      "link": "https://www.skysports.com/cricket/news/12040/13575156/england-vs-pakistan-harry-brook-misses-out-on-century-as-joe-root-jordan-cox-and-dan-lawrence-impress-in-dominant-batting-performance",
+      "summary": "Harry Brook missed out on a century after notching 91 from 93 balls in a masterful innings that headlined a dominant England batting performance against Pakistan on day two of the first Test at Headingley.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tromso-brighton-diego-gomez_7326817.jpg?20260820185513"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-harry-brook-england_7326831.jpg?20260820193856"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-max-verstappen-red-bull_7326297.jpg?20260820103712"
-    },
-    {
-      "source": "sky",
-      "title": "Price begins bid for second Australian Darts Masters title against Whitlock",
-      "link": "https://www.skysports.com/darts/news/12040/13574971/australian-darts-masters-gerwyn-price-begins-bid-for-second-title-against-legendary-simon-whitlock",
-      "summary": "Top seed Gerwyn Price will begin his bid for a second KenoGO Australian Darts Masters title against Simon Whitlock, as Gian van Veen and Raymond Smith prepare to go head-to-head in Wollongong.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-darts-gerwyn-price_7326355.jpg?20260820113641"
-    },
-    {
-      "source": "sky",
-      "title": "England eight wickets down as lead over Pakistan passes 190 LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13574925/england-vs-pakistan-first-test-day-two-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook_7326770.jpg?20260820173713"
-    },
-    {
-      "source": "sky",
-      "title": "Butcher: I was going to quit cricket before 2001 Ashes heroics",
-      "link": "https://www.skysports.com/cricket/news/12040/13574961/mark-butcher-reflects-on-almost-quitting-cricket-before-his-unbeaten-173-in-2001-ashes-and-shane-warnes-classy-gesture",
-      "summary": "Mark Butcher was on the verge of hanging up his bat, but one fateful summer in 2001 changed everything.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-mark-butcher_7326552.jpg?20260820142700"
-    },
-    {
-      "source": "sky",
-      "title": "Cox & Root fall in quick succession at Headingley!",
-      "link": "https://www.skysports.com/watch/video/13575109/england-vs-pakistan-jordan-cox-and-joe-root-fall-in-quick-succession-at-headingley",
-      "summary": "Pakistan take the wickets of Jordan Cox and Joe Root in quick succession as they halted England's advances on day two at Headingley.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cox-root_7326679.jpg?20260820163713"
     }
   ]
 }
