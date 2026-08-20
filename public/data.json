@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-20T06:35:21.429412+00:00",
+  "lastUpdated": "2026-08-20T07:35:46.809943+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "When is the Champions League draw and who is in each pot?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
+      "published": "2026-08-20T07:27:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3850/live/20ad1aa0-9bd9-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "source": "guardian",
+      "title": "Premier League: nine newcomers to watch in the top flight this season",
+      "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window",
+      "summary": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting playersBy Opta AnalystAnthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a res",
+      "published": "2026-08-20T07:00:46+00:00",
+      "image": "https://i.guim.co.uk/img/media/8157f004cf9633a790ccc2cca6e595ed01d229c5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=16ef102077c5a42806d68b9f532ea48e"
+    },
     {
       "source": "bbc",
       "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
@@ -282,14 +298,6 @@
       "image": "https://i.guim.co.uk/img/media/2a038bdd5a42daedccf0a89aaabb3b04a05a7694/812_25_4275_3420/master/4275.jpg?width=140&quality=85&auto=format&fit=max&s=5d5e0dde37b09dbc364a269b3af38aa2"
     },
     {
-      "source": "bbc",
-      "title": "Guimaraes makes Arsenal debut in draw with Como",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8kp6k3p1no?at_medium=RSS&at_campaign=rss",
-      "summary": "Bruno Guimaraes put in an assured performance as he made his Arsenal debut in a 1-1 friendly draw with Como at Emirates stadium.",
-      "published": "2026-08-12T21:24:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b072/live/117fa850-968d-11f1-9854-73d5e7b83e3b.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal’s Myles Lewis-Skelly offered to Manchester United as left-back solution",
       "link": "https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-skelly-offered-to-manchester-united-left-back",
@@ -346,12 +354,20 @@
       "image": "https://i.guim.co.uk/img/media/fa40be3ea3d1484aa696d71849024567dee05be6/94_723_5090_4069/master/5090.jpg?width=140&quality=85&auto=format&fit=max&s=c5d99e2effd5d85a4d87c646747348f9"
     },
     {
-      "source": "guardian",
-      "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
-      "link": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande",
-      "summary": "Vinícius Júnior and Yan Diomande are among more than 100 players at an agency owned by the hip-hop legendIn the end there was a clear winner. And Jay-Z’s latest victory came only 24 hours after the first record featuring him actually rapping for four years had been released by his wife, Beyoncé, on an extended remix pack of Morning Dew (Donk).These days, the man who remains one of the most influen",
-      "published": "2026-08-07T19:00:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/241eae4079055f5c13928e3c6b5ce72cf82cdb3b/311_0_5899_4719/master/5899.jpg?width=140&quality=85&auto=format&fit=max&s=9bb9984e9c5288fd249c63325a0820c5"
+      "source": "sky",
+      "title": "How does Arteta deliver step five of his Arsenal plan?",
+      "link": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles",
+      "summary": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7324591.jpg?20260818090313"
+    },
+    {
+      "source": "sky",
+      "title": "Verstappen signs new Red Bull contract",
+      "link": "https://www.skysports.com/f1/news/12040/13574907/max-verstappen-red-bull-driver-signs-new-contract-extension-until-2030-formula-1-season-ahead-of-dutch-grand-prix",
+      "summary": "Max Verstappen has signed a new long-term Red Bull contract to end speculation over his future.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-max-verstappen-red-bull_7318256.jpg?20260810141025"
     },
     {
       "source": "sky",
@@ -411,11 +427,27 @@
     },
     {
       "source": "sky",
+      "title": "'I’m excited to keep working together ' | Verstappen signs new contract with Red Bull",
+      "link": "https://www.skysports.com/watch/video/13574916/formula-one-max-verstappen-signs-new-contract-with-red-bull",
+      "summary": "Max Verstappen explains why he has signed a new contract with Red Bull until 2030.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-red-bull-max-verstappen_7326183.jpg?20260820082942"
+    },
+    {
+      "source": "sky",
       "title": "'Exceptional' Robinson hailed as he and Tongue cut match ball in half",
       "link": "https://www.skysports.com/cricket/news/12040/13574855/ollie-robinson-branded-exceptional-as-he-and-josh-tongue-cut-match-ball-in-two-after-taking-five-fers-vs-pakistan",
       "summary": "Ollie Robinson was branded 'exceptional' by team-mate Josh Tongue after both pace bowlers bagged five-wicket hauls as England bowled Pakistan out for 171 runs on day one of the first Test match at Headingley.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7326053.jpg?20260819215630"
+    },
+    {
+      "source": "sky",
+      "title": "No Europe, more points? Why history is on Chelsea and Spurs' side",
+      "link": "https://www.skysports.com/football/news/12040/13571988/premier-league-2026-27-why-history-is-on-the-side-of-chelsea-and-tottenham-without-european-football",
+      "summary": "Chelsea and Tottenham begin the season with new optimism, refreshed squads and without the potential distraction of midweek European football.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-xabi-alonso-cole-palmer_7308551.jpg?20260728131455"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "LIV Golf chief executive Scott O&#8217;Neil insists he is optimistic about the league&#8217;s long-term future but has warned of a &#8216;very compressed timeline&#8217; to finalise fresh investment.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-scott-oneil-golf_7326009.jpg?20260819201151"
-    },
-    {
-      "source": "sky",
-      "title": "Duran, Duran! Celtic earn thumping CL win after new star's double",
-      "link": "https://www.skysports.com/football/celtic-vs-linz-ask/report/577265",
-      "summary": "Celtic took a huge step towards a return to the Champions League with stunning goals from Benjamin Nygren and Camilo Duran.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-camilo-duran-lask_7326051.jpg?20260819213501"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy questions LIV stars 'value' as talk of PGA Tour return builds",
-      "link": "https://www.skysports.com/watch/video/13574858/rory-mcilroys-cold-response-on-returning-players-from-liv-to-pga",
-      "summary": "Rory McIlroy gave his fiery opinion on LIV players potentially returning to the PGA Tour amid the uncertain future of LIV Golf.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-pga_7326049.jpg?20260819211744"
-    },
-    {
-      "source": "sky",
-      "title": "'Strange one!' | The bizarre reason why Hadjar is set to miss Dutch GP!",
-      "link": "https://www.skysports.com/watch/video/13574845/the-bizarre-reason-why-isack-hadjar-is-set-to-miss-dutch-grand-prix",
-      "summary": "Sky Sports' Craig Slater explains why Isack Hadjar will miss the Dutch Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-f1-red-bull_7326011.jpg?20260819201428"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea latest: Four players training away from first team as squad numbers revealed",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
     }
   ]
 }
