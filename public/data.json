@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T08:30:30.071654+00:00",
+  "lastUpdated": "2026-08-20T09:27:22.391509+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Barcelona face striker dilemma - could they cope without one?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cyvlr6mz15no?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona are heading into the new La Liga season without an established striker, with Hansi Flick yet to replace Robert Lewandowski and Ferran Torres.",
+      "published": "2026-08-20T08:44:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b121/live/6ef6fce0-9bf1-11f1-8470-d18257d2d589.jpg"
+    },
     {
       "source": "bbc",
       "title": "When is the Champions League draw and who is in each pot?",
@@ -282,14 +290,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/cf599bf0-965c-11f1-a654-971f565de941.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Why half of England's World Cup defenders are on the move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj63p367gpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
-      "published": "2026-08-13T14:41:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dab/live/9375d440-971b-11f1-bb91-6bb44c42ed47.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
       "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
@@ -363,6 +363,14 @@
     },
     {
       "source": "sky",
+      "title": "Aston Villa latest: More players sold?! Transfer plans analysed...",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027"
+    },
+    {
+      "source": "sky",
       "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
       "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
       "summary": "",
@@ -379,11 +387,11 @@
     },
     {
       "source": "sky",
-      "title": "Robinson and Tongue cut match ball in half after each getting five-fors!",
-      "link": "https://www.skysports.com/watch/video/13574921/england-vs-pakistan-ollie-robinson-and-josh-tongue-cut-match-ball-in-half-after-each-getting-five-fors",
-      "summary": "Incredible scenes as the groundsman was able to cut the match ball in half so that Ollie Robinson and Josh Tongue could share it after each getting five-wicket hauls.",
+      "title": "Do Arsenal have the best AND second-best defence in England?",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-robinson-tongue_7326207.jpg?20260820090157"
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710"
     },
     {
       "source": "sky",
@@ -391,7 +399,15 @@
       "link": "https://www.skysports.com/f1/news/12040/13574907/max-verstappen-red-bull-driver-signs-new-contract-extension-until-2030-formula-1-season-ahead-of-dutch-grand-prix",
       "summary": "Max Verstappen has signed a new long-term Red Bull contract until 2030 to end speculation over his future.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-max-verstappen-laurent-mekies_7326180.jpg?20260820082810"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-max-verstappen-red-bull_7318256.jpg?20260810141025"
+    },
+    {
+      "source": "sky",
+      "title": "Robinson receives half a match ball | Wife and baby go WILD after first-ball wicket!",
+      "link": "https://www.skysports.com/watch/video/13574921/england-vs-pakistan-ollie-robinson-and-josh-tongue-cut-match-ball-in-half-after-each-getting-five-fors",
+      "summary": "Incredible scenes as the groundsman was able to cut the match ball in half so that Ollie Robinson and Josh Tongue could share it after each getting five-wicket hauls.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7326279.jpg?20260820101750"
     },
     {
       "source": "sky",
@@ -411,6 +427,22 @@
     },
     {
       "source": "sky",
+      "title": "Meet Coventry’s new midfield powerhouse tipped to thrive by Essien",
+      "link": "https://www.skysports.com/football/news/12040/13571775/caleb-yirenkyi-is-coventrys-unique-midfield-powerhouse-tipped-by-michael-essien-to-thrive-under-frank-lampard",
+      "summary": "One story sums up Caleb Yirenkyi. It was a training session with the first team early in his time at FC Nordsjaelland. Alexander Riget, then technical director, felt compelled to intervene. &#8220;He was smashing into many of our key players,&#8221; Riget tells Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ghana-caleb-yirenkyi_7318537.jpg?20260810204419"
+    },
+    {
+      "source": "sky",
+      "title": "Key questions and predictions as F1 returns",
+      "link": "https://www.skysports.com/f1/news/12040/13574080/formula-1-who-will-win-the-title-who-will-win-upgrade-battle-key-questions-and-predictions-from-karun-chandhok-as-2026-season-resumes",
+      "summary": "Formula 1's summer break is over and the 2026 season restarts in the Netherlands this weekend as the championship run-in looms over the final months of the campaign.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-george_7325667.jpg?20260819134750"
+    },
+    {
+      "source": "sky",
       "title": "Spirited Gesture and Angel In My Heart clash at Newcastle",
       "link": "https://www.skysports.com/racing/news/12040/13574643/today-on-sky-sports-racing-lingfield-park-and-newcastle",
       "summary": "We have a busy day&#8217;s racing on Thursday with flat action from Lingfield Park and Newcastle, live on Sky Sports Racing...",
@@ -424,14 +456,6 @@
       "summary": "Mark Butcher is joined by Dinesh Karthik and Urooj Mumtaz to recap all the action from day one of the first Test between England and Pakistan at Headingley.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cricket-podcast_7326031.jpg?20260819202753"
-    },
-    {
-      "source": "sky",
-      "title": "Key questions and predictions as F1 returns",
-      "link": "https://www.skysports.com/f1/news/12040/13574080/formula-1-who-will-win-the-title-will-max-verstappen-leave-red-bull-key-questions-and-predictions-from-karun-chandhok-as-2026-season-resumes",
-      "summary": "Formula 1's summer break is over and the 2026 season restarts in the Netherlands this weekend as the championship run-in looms over the final months of the campaign.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-george_7325667.jpg?20260819134750"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "Ollie Robinson was branded 'exceptional' by team-mate Josh Tongue after both pace bowlers bagged five-wicket hauls as England bowled Pakistan out for 171 runs on day one of the first Test match at Headingley.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7326053.jpg?20260819215630"
-    },
-    {
-      "source": "sky",
-      "title": "No Europe, more points? Why history is on Chelsea and Spurs' side",
-      "link": "https://www.skysports.com/football/news/12040/13571988/premier-league-2026-27-why-history-is-on-the-side-of-chelsea-and-tottenham-without-european-football",
-      "summary": "Chelsea and Tottenham begin the season with new optimism, refreshed squads and without the potential distraction of midweek European football.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-xabi-alonso-cole-palmer_7308551.jpg?20260728131455"
-    },
-    {
-      "source": "sky",
-      "title": "Item surprises big two for Juddmonte International glory",
-      "link": "https://www.skysports.com/racing/news/12040/13574761/item-surprises-big-two-for-juddmonte-international-glory",
-      "summary": "Item delivered for Andrew Balding and the sponsors to land a 10-1 surprise in the Juddmonte International at York &#8211; with the big two of Constitution River and Ombudsman only third and fourth respectively.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-item-juddmonte-international_7325806.jpg?20260819161635"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs in talks over Man City pair Savinho and Marmoush",
-      "link": "https://www.skysports.com/football/news/12040/13574823/tottenham-transfer-news-spurs-target-man-city-duo-savinho-and-marmoush-as-search-for-three-new-forwards-gathers-pace",
-      "summary": "Tottenham are in talks with Manchester City over a potential double deal for Savinho and Omar Marmoush.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-omar-marmoush-savinho_7325952.jpg?20260819185547"
     }
   ]
 }
