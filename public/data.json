@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T04:31:30.705677+00:00",
+  "lastUpdated": "2026-08-20T05:24:03.333592+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "The cemetery secret linking Arsenal and Sky Blues",
+      "link": "https://www.bbc.co.uk/news/articles/clyvjj4dyy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahead of Sky Blues' first top flight match in 25 years, a slice of history connects the opponents.",
+      "published": "2026-08-20T05:11:13+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3acb/live/c03fb1f0-9be2-11f1-ba30-ddd78081057f.jpg"
+    },
     {
       "source": "guardian",
       "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
@@ -290,14 +298,6 @@
       "image": "https://i.guim.co.uk/img/media/52d9ef8d34dba1ef66b4ed4bfeb044adb129bbd8/279_125_2483_1986/master/2483.jpg?width=140&quality=85&auto=format&fit=max&s=363b70f8c6ef0e1ec2479f7fdc37bb08"
     },
     {
-      "source": "bbc",
-      "title": "Who else could Arsenal sign this summer?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cp9evm1n28go?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport football reporter Alex Howell looks at who could potentially join Arsenal before the end of the summer transfer window.",
-      "published": "2026-08-11T09:38:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f1/live/f352a590-9578-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
       "link": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window",
@@ -352,6 +352,14 @@
       "summary": "Vinícius Júnior and Yan Diomande are among more than 100 players at an agency owned by the hip-hop legendIn the end there was a clear winner. And Jay-Z’s latest victory came only 24 hours after the first record featuring him actually rapping for four years had been released by his wife, Beyoncé, on an extended remix pack of Morning Dew (Donk).These days, the man who remains one of the most influen",
       "published": "2026-08-07T19:00:24+00:00",
       "image": "https://i.guim.co.uk/img/media/241eae4079055f5c13928e3c6b5ce72cf82cdb3b/311_0_5899_4719/master/5899.jpg?width=140&quality=85&auto=format&fit=max&s=9bb9984e9c5288fd249c63325a0820c5"
+    },
+    {
+      "source": "sky",
+      "title": "Who will win title? Will Max leave Red Bull? - Key questions as F1 returns",
+      "link": "https://www.skysports.com/f1/news/12040/13574080/formula-1-who-will-win-the-title-will-max-verstappen-leave-red-bull-key-questions-and-predictions-from-karun-chandhok-as-2026-season-resumes",
+      "summary": "Formula 1's summer break is over and the 2026 season restarts in the Netherlands this weekend as the championship run-in looms over the final months of the campaign.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-george_7325667.jpg?20260819134750"
     },
     {
       "source": "sky",
@@ -504,14 +512,6 @@
       "summary": "Highlights from day one of the first Test between England and Pakistan.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-england-cricket_7325986.jpg?20260819195315"
-    },
-    {
-      "source": "sky",
-      "title": "Tongue: We're in a great position but tomorrow morning will be crucial",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-josh-tongue_7325839.jpg?20260819164752"
     }
   ]
 }
