@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-21T18:27:36.103551+00:00",
+  "lastUpdated": "2026-08-21T19:21:00.051182+00:00",
   "articles": [
     {
       "source": "guardian",
       "title": "Arsenal v Coventry City: Premier League – live",
       "link": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
       "summary": "First game of new Premier League season, 8pm kick-offArsenal’s opportunity | Football Daily | Mail ScottPlenty of debutants in the cast tonight. Every single one of them will have been dreaming of something like this …Mikel Arteta’s turn to talk pitchside to Sky. “The players need that desire to go again … I certainly have it … we have to create an opportunity … we don’t know what other clubs are ",
-      "published": "2026-08-21T18:20:09+00:00",
-      "image": "https://i.guim.co.uk/img/media/13214b39204d99ebe03a058a8527c7c2d97adb7c/244_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=90d6ac1e70429013a8f67378d236dee1"
+      "published": "2026-08-21T19:20:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/e5f93393788f5bbe1b7abb4ecd87380325ff489f/272_0_3706_2964/master/3706.jpg?width=140&quality=85&auto=format&fit=max&s=79de5f43b06483736a169dfb51256409"
     },
     {
       "source": "bbc",
@@ -355,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "Root: England's bowlers don't know how good they can be",
+      "link": "https://www.skysports.com/cricket/news/12040/13575510/joe-root-hails-englands-bowlers-after-statement-pakistan-win-and-reveals-he-has-been-in-contact-with-stephen-fleming-every-day",
+      "summary": "Joe Root was thrilled by the performances of his bowlers as England's pace attack dismissed Pakistan for 135 before tea, to seal a statement three-day victory in the first Test at Headingley.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-joe-root_7327579.jpg?20260821185256"
+    },
+    {
+      "source": "sky",
       "title": "Brighton reject £60m Liverpool bid for Minteh",
       "link": "https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger",
       "summary": "Brighton have rejected a &#163;60m bid from Liverpool for winger Yankuba Minteh.",
@@ -371,11 +379,11 @@
     },
     {
       "source": "sky",
-      "title": "Bruno absent for Arsenal vs Coventry on Sky!",
+      "title": "Arsenal vs Coventry LIVE on Sky!",
       "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7327005.jpg?20260821075756"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-coventry-arsenal_7327644.jpg?20260821201311"
     },
     {
       "source": "sky",
@@ -424,6 +432,14 @@
       "summary": "Sky Sports Racing ambassador Hollie Doyle shares her expert views on the best of the action at York and Chester on Saturday, including the &#163;500,000 Ebor Handicap.",
       "published": null,
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "Inter Milan sign Jones from Liverpool",
+      "link": "https://www.skysports.com/football/news/12040/13575215/curtis-jones-transfer-news-inter-milan-sign-midfielder-from-liverpool-in-30m-deal-with-sell-on-clause-included",
+      "summary": "Inter Milan have confirmed the signing of Curtis Jones in a &#163;30m (&#8364;35m) deal from Liverpool.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-curtis-jones-inter-milan_7327619.png?20260821194306"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-josh-tongue_7327525.jpg?20260821172858"
-    },
-    {
-      "source": "sky",
-      "title": "'Typical of Rory!' - Westwood hits back at McIlroy's LIV Golf comments",
-      "link": "https://www.skysports.com/golf/news/12040/13575381/lee-westwood-hits-back-at-rory-mcilroys-typical-comments-questioning-the-value-of-liv-golf-players-to-pga-tour",
-      "summary": "Lee Westwood hit back at Rory McIlroy questioning the value of LIV golfers and claimed the comments were \"typical\" of the reigning Masters champion.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-lee-westwood_7327222.jpg?20260821125738"
-    },
-    {
-      "source": "sky",
-      "title": "'I'm here to win' - Arsenal announce £55m Konsa deal",
-      "link": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender",
-      "summary": "Arsenal have completed the &#163;55m deal to sign defender Ezri Konsa from Aston Villa.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7327396.jpg?20260821160850"
     }
   ]
 }
