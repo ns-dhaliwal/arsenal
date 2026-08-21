@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-21T08:33:00.324145+00:00",
+  "lastUpdated": "2026-08-21T09:30:10.785904+00:00",
   "articles": [
     {
       "source": "bbc",
-      "title": "Coventry fan Tom Grennan says his team will be ready for Arsenal",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cr49152nz4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Tom Grennan shares why he thinks Coventry will be ready to play Premier League Champions Arsenal.",
-      "published": "2026-08-21T08:26:49+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f39/live/dd3a4cd0-956f-11f1-a7ab-8b30adf0800a.jpg"
+      "title": "Can Arsenal go back-to-back?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cpw948z225vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sam Harris examines the state of play at Arsenal ahead the Premier League season, and whether they can defend their title.",
+      "published": "2026-08-21T08:42:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17c/live/f4aa17b0-9ca9-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "source": "guardian",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "England to resume on 366-8 against Pakistan, leading by 195 LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-jamie-smith-england-test-cricket_7327018.jpg?20260821085535"
+    },
+    {
+      "source": "sky",
       "title": "Spurs agree £85m deal to sign Savinho from Man City",
       "link": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city",
       "summary": "Tottenham Hotspur have agreed an &#163;85m deal with Manchester City to sign Savinho.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-savinho-spurs-man-city_7327010.jpg?20260821080822"
+    },
+    {
+      "source": "sky",
+      "title": "Hadjar hopeful of Italian GP return after wrist injury",
+      "link": "https://www.skysports.com/f1/news/12040/13575278/isack-hadjar-red-bull-driver-hopeful-of-monza-return-after-wrist-injury-forces-him-out-of-dutch-grand-prix",
+      "summary": "Isack Hadjar is hopeful he can return for the next Formula 1 race after a wrist injury forced him to miss this weekend's Dutch Grand Prix.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-f1-isack-hadjar_7326637.jpg?20260820155852"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Bryson DeChambeau admits LIV Golf has 'a lot' against them to secure their long-term future but hopes the circuit will get 'one more shot' to survive beyond this season.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-bryson-dechambeau_7326922.jpg?20260820235659"
-    },
-    {
-      "source": "sky",
-      "title": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
-      "link": "https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy charges into PGA Tour lead as Scheffler makes nightmare start",
-      "link": "https://www.skysports.com/golf/news/12040/13575208/bmw-championship-rory-mcilroy-grabs-share-of-opening-round-lead-as-scottie-scheffler-makes-nightmare-start-in-st-louis",
-      "summary": "Rory McIlroy insists there is still &#8216;a lot of work to be done&#8217; in his game despite racing into a share of the early lead at the PGA Tour&#8217;s BMW Championship.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-rory-mcilroy_7326954.jpg?20260821063400"
     }
   ]
 }
