@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-08-21T16:25:22.237774+00:00",
+  "lastUpdated": "2026-08-21T17:22:26.837354+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal v Coventry City: Premier League – live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "summary": "First game of new Premier League season, 8pm kick-offArsenal’s opportunity | Football Daily | Mail Scott… so let’s start at the very beginning. One step before the beginning, in fact. The Guardian presents, for your edification, the Premier League 2026-27 previews for Arsenal and Coventry City. Just in case you missed them.The Premier League is back, and you won’t get too many people making a case",
+      "published": "2026-08-21T17:20:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/234a1e15459236916b2484b66f9542323a21659b/784_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=586768424779ca25a3b42bcd36071170"
+    },
     {
       "source": "bbc",
       "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
       "published": "2026-08-21T15:20:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88bc/live/7cf21cc0-9d37-11f1-bc05-aff3aa1f91c7.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
       "source": "bbc",
@@ -346,20 +354,44 @@
       "image": "https://i.guim.co.uk/img/media/6bcfaa97aeba9f4da605b4f49fc9880d4ef039f5/615_3_2442_1953/master/2442.jpg?width=140&quality=85&auto=format&fit=max&s=d0473ec9348555389596861b86afd87c"
     },
     {
-      "source": "guardian",
-      "title": "Arteta expects Guimarães to ‘ignite’ Arsenal and help take team to new level",
-      "link": "https://www.theguardian.com/football/2026/aug/09/arteta-guimaraes-ignite-arsenal-maresca-manchester-city",
-      "summary": "Arsenal lose 3-2 to Borussia Dortmund in Emirates CupMan City’s wide players shine in 3-2 win against AtléticoThe Arsenal manager, Mikel Arteta, has backed “warrior” Bruno Guimarães to “ignite something different” in the Premier League champions. The Brazil midfielder was introduced to fans ahead of Sunday’s 3-2 defeat by Borussia Dortmund in the Emirates Cup after completing his £75m move from Ne",
-      "published": "2026-08-09T18:46:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/1fc181320e0e7ba1bc33ea5636a9752781ac7d4e/414_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0a2e5cad0d0bb76ab50f0235b8993a7d"
+      "source": "sky",
+      "title": "The Premier League is back! Arsenal vs Coventry LIVE on Sky!",
+      "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7327005.jpg?20260821075756"
     },
     {
       "source": "sky",
-      "title": "Draper ruled out of the US Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13575532/jack-draper-british-star-ruled-out-of-the-us-open-due-to-ongoing-injury-woes",
-      "summary": "British star Jack Draper has been ruled out of the US Open due to ongoing injury problems.",
+      "title": "Bacio blazes a trail to win York's Nunthorpe Stakes",
+      "link": "https://www.skysports.com/racing/news/12040/13575556/york-ebor-festival-bacio-blazes-a-trail-to-win-nunthorpe-stakes-as-arapaho-gold-takes-gimcrack-stakes-honours",
+      "summary": "American raider Bacio blitzed his rivals from the front to provide Wesley Ward with a first victory in the Coolmore City Of Troy Nunthorpe Stakes at York.",
       "published": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-tennis_7285778.jpg?20260809080727"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bacio-nunthorpe-york_7327551.jpg?20260821180409"
+    },
+    {
+      "source": "sky",
+      "title": "Draper ruled out of US Open as injury absence continues",
+      "link": "https://www.skysports.com/tennis/news/12040/13575532/jack-draper-british-star-ruled-out-of-the-us-open-due-to-ongoing-injury-woes",
+      "summary": "British star Jack Draper has been ruled out of the US Open as he continues to battle a bone bruise in his dominant left arm.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-tennis_7283885.jpg?20260627082054"
+    },
+    {
+      "source": "sky",
+      "title": "Russell claims Dutch GP Sprint pole with Antonelli, Hamilton on back foot",
+      "link": "https://www.skysports.com/f1/news/12040/13575268/dutch-gp-sprint-qualifying-george-russell-claims-pole-position-with-title-rivals-kimi-antonelli-lewis-hamilton-on-back-foot",
+      "summary": "George Russell made the ideal start to his attempt to mount a championship fightback in the second half of the 2026 F1 season by claiming pole position for Saturday's Dutch Grand Prix Sprint as nearest title rivals Kimi Antonelli and Lewis Hamilton qualified outside the top four.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327508.jpg?20260821171916"
+    },
+    {
+      "source": "sky",
+      "title": "Russell: Sprint pole a good reminder that 'I've still got it'",
+      "link": "https://www.skysports.com/f1/news/12040/13575269/george-russell-mercedes-driver-says-dutch-gp-sprint-pole-a-good-reminder-of-his-talent-as-kimi-antonelli-bemoans-car-damage",
+      "summary": "George Russell admitted it was \"good to remind myself I've still got it\" after returning to form by taking Sprint pole for the Dutch Grand Prix.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327522.jpg?20260821172549"
     },
     {
       "source": "sky",
@@ -376,14 +408,6 @@
       "summary": "Sky Sports Racing ambassador Hollie Doyle shares her expert views on the best of the action at York and Chester on Saturday, including the &#163;500,000 Ebor Handicap.",
       "published": null,
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
-    },
-    {
-      "source": "sky",
-      "title": "Russell claims Dutch GP Sprint pole with Antonelli, Hamilton on back foot",
-      "link": "https://www.skysports.com/f1/news/12040/13575268/dutch-gp-sprint-qualifying-george-russell-claims-pole-position-with-title-rivals-kimi-antonelli-lewis-hamilton-on-back-foot",
-      "summary": "George Russell made the ideal start to his attempt to mount a championship fightback in the second half of the 2026 F1 season by claiming pole position for Saturday's Dutch Grand Prix Sprint as nearest title rivals Kimi Antonelli and Lewis Hamilton qualified outside the top four.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327412.jpg?20260821162000"
     },
     {
       "source": "sky",
@@ -435,19 +459,19 @@
     },
     {
       "source": "sky",
+      "title": "Trescothick: Tongue is a superstar and England will only improve",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-josh-tongue_7327525.jpg?20260821172858"
+    },
+    {
+      "source": "sky",
       "title": "'Typical of Rory!' - Westwood hits back at McIlroy's LIV Golf comments",
       "link": "https://www.skysports.com/golf/news/12040/13575381/lee-westwood-hits-back-at-rory-mcilroys-typical-comments-questioning-the-value-of-liv-golf-players-to-pga-tour",
       "summary": "Lee Westwood hit back at Rory McIlroy questioning the value of LIV golfers and claimed the comments were \"typical\" of the reigning Masters champion.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-lee-westwood_7327222.jpg?20260821125738"
-    },
-    {
-      "source": "sky",
-      "title": "Dominant England hammer Pakistan inside three days in Leeds LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7325716.jpg?20260819144334"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "Castleford Tigers have confirmed head coach Ryan Carr has left the club.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ryan-carr-castleford-tigers_7314196.jpg?20260805071443"
-    },
-    {
-      "source": "sky",
-      "title": "Billam-Smith expects Opetaia showdown in 2027",
-      "link": "https://www.skysports.com/boxing/news/12040/13575191/chris-billam-smith-expects-jai-opetaia-showdown-in-2027-im-on-it-and-im-still-getting-better",
-      "summary": "Chris Billam-Smith expects to fight Jai Opetaia next year, if they are both victorious in their upcoming bouts.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-chris-billam-smith_7264800.png?20260603200435"
-    },
-    {
-      "source": "sky",
-      "title": "Villa expected to make Jackson move if Watkins sold to Al Hilal",
-      "link": "https://www.skysports.com/football/news/12040/13575424/aston-villa-transfer-news-unai-emerys-side-expected-to-make-nicolas-jackson-approach-if-ollie-watkins-sold-to-al-hilal",
-      "summary": "Aston Villa are expected to make a move for Nicolas Jackson if they sell Ollie Watkins to Al Hilal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-chelsea_7327308.jpg?20260821151306"
-    },
-    {
-      "source": "sky",
-      "title": "'I'm very sad and disappointed' - Sinner withdraws from US Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13575443/jannik-sinner-world-no-1-withdraws-from-us-open-with-knee-injury-and-misses-out-on-final-grand-slam-of-the-season",
-      "summary": "World No 1 Jannik Sinner has withdrawn from this month's US Open due to a right knee injury.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jannik-sinner-tennis_7327378.jpg?20260821155226"
     }
   ]
 }
