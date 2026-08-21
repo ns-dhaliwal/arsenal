@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-21T15:26:53.702499+00:00",
+  "lastUpdated": "2026-08-21T16:25:22.237774+00:00",
   "articles": [
     {
       "source": "bbc",
-      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal complete the £50m-plus signing of England defender Ezri Konsa from Aston Villa.",
+      "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
       "published": "2026-08-21T15:20:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88bc/live/7cf21cc0-9d37-11f1-bc05-aff3aa1f91c7.jpg"
     },
@@ -355,6 +355,38 @@
     },
     {
       "source": "sky",
+      "title": "Draper ruled out of the US Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13575532/jack-draper-british-star-ruled-out-of-the-us-open-due-to-ongoing-injury-woes",
+      "summary": "British star Jack Draper has been ruled out of the US Open due to ongoing injury problems.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jack-draper-tennis_7285778.jpg?20260809080727"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea to host Shakhtar's Champions League home games amid ongoing exile",
+      "link": "https://www.skysports.com/football/news/12040/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games",
+      "summary": "Shakhtar&#160;Donetsk will play their Champions League home games at&#160;Stamford Bridge&#160;this season after coming to an agreement with&#160;Chelsea&#160;to host their European matches while they remain in exile from their Donbas Arena home.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-shakhtar-stamford-bridge_7327433.jpg?20260821163242"
+    },
+    {
+      "source": "sky",
+      "title": "Doyle: Ebor test should suit Klassleader",
+      "link": "https://www.skysports.com/racing/news/12040/13575525/hollie-doyle-klassleader-looks-well-treated-in-the-ebor",
+      "summary": "Sky Sports Racing ambassador Hollie Doyle shares her expert views on the best of the action at York and Chester on Saturday, including the &#163;500,000 Ebor Handicap.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "Russell claims Dutch GP Sprint pole with Antonelli, Hamilton on back foot",
+      "link": "https://www.skysports.com/f1/news/12040/13575268/dutch-gp-sprint-qualifying-george-russell-claims-pole-position-with-title-rivals-kimi-antonelli-lewis-hamilton-on-back-foot",
+      "summary": "George Russell made the ideal start to his attempt to mount a championship fightback in the second half of the 2026 F1 season by claiming pole position for Saturday's Dutch Grand Prix Sprint as nearest title rivals Kimi Antonelli and Lewis Hamilton qualified outside the top four.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327412.jpg?20260821162000"
+    },
+    {
+      "source": "sky",
       "title": "England romp to three-day win as new Test era starts in style",
       "link": "https://www.skysports.com/cricket/news/12040/13575406/england-thrash-pakistan-inside-three-days-as-joe-roots-second-era-as-captain-starts-with-innings-win-at-headingley",
       "summary": "Joe Root won his first Test back as permanent England captain by an innings and 103 runs with Pakistan rolled for 135 before tea on day three at Headingley.",
@@ -363,19 +395,19 @@
     },
     {
       "source": "sky",
-      "title": "Paredes given TEN-game ban; Argentina fined for Falklands banner",
-      "link": "https://www.skysports.com/football/news/12040/13575465/leandro-paredes-given-huge-10-game-ban-after-world-cup-final-fighting-as-argentina-punished-for-falklands-banner",
-      "summary": "FIFA have issued Leandro Paredes a 10-game ban for fighting after the World Cup final and handed Argentina an &#163;235,647 fine for displaying a Falklands banner after beating England in the semi-finals.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leandro-parades-argentina_7301946.jpg?20260719234200"
-    },
-    {
-      "source": "sky",
       "title": "Hull KR boss explains decision to drop Lewis: 'It's about standards'",
       "link": "https://www.skysports.com/rugby-league/news/12040/13575347/mikey-lewis-hull-kr-coach-willie-peters-explains-decision-to-drop-star-half-back-ahead-of-two-match-ban",
       "summary": "Hull KR head coach Willie Peters said his decision to drop Mikey Lewis for Saturday's game against Toulouse ahead of his two-match ban is about upholding the \"standards\" of the club.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-mikey-lewis-rugby-league_7327163.jpg?20260821115646"
+    },
+    {
+      "source": "sky",
+      "title": "Paredes given TEN-game ban; Argentina fined for Falklands banner",
+      "link": "https://www.skysports.com/football/news/12040/13575465/leandro-paredes-given-huge-10-game-ban-after-world-cup-final-fighting-as-argentina-punished-for-falklands-banner",
+      "summary": "FIFA have issued Leandro Paredes a 10-game ban for fighting after the World Cup final and handed Argentina an &#163;235,647 fine for displaying a Falklands banner after beating England in the semi-finals.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-leandro-parades-argentina_7301946.jpg?20260719234200"
     },
     {
       "source": "sky",
@@ -479,39 +511,7 @@
       "link": "https://www.skysports.com/tennis/news/12040/13575443/jannik-sinner-world-no-1-withdraws-from-us-open-with-knee-injury-and-misses-out-on-final-grand-slam-of-the-season",
       "summary": "World No 1 Jannik Sinner has withdrawn from this month's US Open due to a right knee injury.",
       "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jannik-sinner-tennis_7294836.jpg?20260710175610"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs agree £85m Savinho deal and close in on Marmoush",
-      "link": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-tottenham-agree-85m-deal-to-sign-man-city-winger-as-spurs-close-in-on-omar-marmoush",
-      "summary": "Tottenham are closing in on signing Manchester City pair Savinho and Omar Marmoush.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-city_7327307.jpg?20260821151216"
-    },
-    {
-      "source": "sky",
-      "title": "Brentford latest: Andrews provides injury updates on trio",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
-    },
-    {
-      "source": "sky",
-      "title": "Rise of Espanyol's English winger Dolan: 'I am not the player I was a year ago'",
-      "link": "https://www.skysports.com/football/news/12040/13574143/tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-ready-to-face-real-madrid-next",
-      "summary": "Tyrhys Dolan made an explosive start to the season in LaLiga with a goal in Espanyol&#8217;s 3-0 win over Levante. The English forward looked particularly sharp. Something has changed. &#8220;I am not the person or player I was a year ago,&#8221; Dolan tells Sky Sports.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tyrhys-dolan-espanyol_7324339.jpg?20260817184107"
-    },
-    {
-      "source": "sky",
-      "title": "Dutch GP: Russell beats title rivals to Sprint pole with Antonelli only fifth LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13575140/f1-dutch-gp-live-sprint-qualifying-practice-updates-results-stream-highlights-from-zandvoort-race-weekend",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327412.jpg?20260821162000"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jannik-sinner-tennis_7327378.jpg?20260821155226"
     }
   ]
 }
