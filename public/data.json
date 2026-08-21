@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-21T12:34:36.644212+00:00",
+  "lastUpdated": "2026-08-21T13:39:48.542035+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Gyokeres proud of impact at Arsenal last season",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cy5dxg3kv6eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Striker Viktor Gyokeres says he is proud of his contribution to Arsenal last season as they begin the defence of their Premier League title at home to his former side Coventry City on Friday.",
+      "published": "2026-08-21T12:46:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7710/live/fe82dd50-9d5b-11f1-b109-879e35c24276.jpg"
+    },
     {
       "source": "bbc",
       "title": "Can Arsenal go back-to-back?",
@@ -306,14 +314,6 @@
       "image": "https://i.guim.co.uk/img/media/30babb52add44cb73482115e260ffba3993bfec6/586_192_3592_2875/master/3592.jpg?width=140&quality=85&auto=format&fit=max&s=b4f6700347419cc3089dfcb0acabf612"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal express interest in signing Quansah",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
-      "published": "2026-08-14T10:35:26+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9c/live/3cbc6190-97cb-11f1-a927-0dfab640b8c9.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Galatasaray to spend £38m on Arsenal’s Martinelli?",
       "link": "https://www.theguardian.com/football/2026/aug/13/football-transfer-rumour-mill-galatasaray-38m-arsenal-gabriel-martinelli",
@@ -355,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "How can Spurs afford all these players?",
+      "link": "https://www.skysports.com/watch/video/13575359/explained-how-can-spurs-afford-all-these-players",
+      "summary": "Sky Sports' Michael Bridge re-visits the question that was asked at the start of the transfer window - how can Spurs afford all these players?",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-michael-bridge-tottenham_7327245.jpg?20260821134642"
+    },
+    {
+      "source": "sky",
       "title": "'Keep on running!' Fury claims AJ fight in doubt",
       "link": "https://www.skysports.com/boxing/news/12040/13575393/tyson-fury-claims-anthony-joshua-fight-in-serious-doubt-after-his-british-rival-asked-for-more-money",
       "summary": "Tyson Fury has claimed his fight against Anthony Joshua is now in serious doubt after his British heavyweight rival asked for 'more money'.",
@@ -379,19 +387,27 @@
     },
     {
       "source": "sky",
+      "title": "Pakistan go six down as England push for three-day win at Headingley LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-archer-cricket_7327173.jpg?20260821121001"
+    },
+    {
+      "source": "sky",
+      "title": "Cross to retire from professional cricket at end of season",
+      "link": "https://www.skysports.com/cricket/news/12040/13575416/kate-cross-lancashire-and-england-bowler-to-retire-from-professional-cricket-after-glittering-career",
+      "summary": "Lancashire and England bowler Kate Cross has announced she will retire from professional cricket at the end of this season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-kate-cross_7327262.jpg?20260821141350"
+    },
+    {
+      "source": "sky",
       "title": "Head coach Carr leaves Castleford",
       "link": "https://www.skysports.com/rugby-league/news/12040/13574464/castleford-tigers-super-league-club-confirm-head-coach-ryan-carr-will-not-return-to-role-after-period-away",
       "summary": "Castleford Tigers have confirmed head coach Ryan Carr has left the club.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ryan-carr-castleford-tigers_7314196.jpg?20260805071443"
-    },
-    {
-      "source": "sky",
-      "title": "Pakistan three down as England push for three-day win at Headingley LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-archer-cricket_7327173.jpg?20260821121001"
     },
     {
       "source": "sky",
@@ -411,6 +427,14 @@
     },
     {
       "source": "sky",
+      "title": "Brentford latest: Andrews provides injury updates on trio",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+    },
+    {
+      "source": "sky",
       "title": "Rise of Espanyol's English winger Dolan: 'I am not the player I was a year ago'",
       "link": "https://www.skysports.com/football/news/12040/13574143/tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-ready-to-face-real-madrid-next",
       "summary": "Tyrhys Dolan made an explosive start to the season in LaLiga with a goal in Espanyol&#8217;s 3-0 win over Levante. The English forward looked particularly sharp. Something has changed. &#8220;I am not the person or player I was a year ago,&#8221; Dolan tells Sky Sports.",
@@ -427,19 +451,19 @@
     },
     {
       "source": "sky",
-      "title": "'Needs a game in the north!' - Butcher questions 'extraordinary' Ashes schedule",
-      "link": "https://www.skysports.com/cricket/news/12040/13575322/the-ashes-mark-butcher-questions-extraordinary-decision-to-leave-headingley-and-old-trafford-off-2027-schedule",
-      "summary": "Former England batsman Mark Butcher believes it&#8217;s &#8216;extraordinary&#8217; and &#8216;bizarre&#8217; that next summer&#8217;s men&#8217;s Ashes series will not feature a Test in the north of the country.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cricket-ashes-headingley_7327223.jpg?20260821125846"
-    },
-    {
-      "source": "sky",
       "title": "Spurs agree £85m deal to sign Savinho from Man City",
       "link": "https://www.skysports.com/football/news/12040/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazil-forward-from-manchester-city",
       "summary": "Tottenham Hotspur have agreed an &#163;85m deal with Manchester City to sign Savinho.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-savinho-spurs-man-city_7327010.jpg?20260821080822"
+    },
+    {
+      "source": "sky",
+      "title": "'Needs a game in the north!' - Butcher questions 'extraordinary' Ashes schedule",
+      "link": "https://www.skysports.com/cricket/news/12040/13575322/the-ashes-mark-butcher-questions-extraordinary-decision-to-leave-headingley-and-old-trafford-off-2027-schedule",
+      "summary": "Former England batsman Mark Butcher believes it&#8217;s &#8216;extraordinary&#8217; and &#8216;bizarre&#8217; that next summer&#8217;s men&#8217;s Ashes series will not feature a Test in the north of the country.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-cricket-ashes-headingley_7327223.jpg?20260821125846"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "England head coach Brian McDermott has added Leigh Leopards centre Umyla Hanley and Sydney Roosters halfback Hugo Savala to his performance squad ahead of the Rugby League World Cup this autumn.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-umyla-hanely-leigh-leopards_7327181.jpg?20260821121108"
-    },
-    {
-      "source": "sky",
-      "title": "Why a German football superstar is now playing in the third tier",
-      "link": "https://www.skysports.com/football/news/12040/13574194/alexandra-popps-inspiring-debut-for-borussia-dortmund-draws-crowd-of-4527-to-third-tier-womens-game-in-germany",
-      "summary": "\"Not normal.\" It is a phrase that Alexandra Popp turns to more than once when speaking after her debut for Borussia Dortmund. She has scored twice. The team has won 3-0. Nothing unusual there. But the crowd of 4,572 in Germany's third tier is new.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-alexandra-popp-borussia-dortmund_7326955.jpg?20260821064935"
-    },
-    {
-      "source": "sky",
-      "title": "US Open Mixed Doubles Championship: Who's playing and what's the format?",
-      "link": "https://www.skysports.com/tennis/news/12040/13574982/us-open-mixed-doubles-championship-aryna-sabalenka-novak-djokovic-taking-part-but-who-else-is-playing-and-whats-the-format",
-      "summary": "Aryna Sabalenka and Novak Djokovic will headline an all-star field confirmed to compete in the US Open Mixed Doubles Championship - live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-aryna-sabalenka-novak-djokovic_7326668.jpg?20260820161730"
-    },
-    {
-      "source": "sky",
-      "title": "Football is back (with no hydration breaks!) - How to watch the new season",
-      "link": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now",
-      "summary": "No hydration breaks or half-time shows... football as we know and love it is back - with 1,500 games on Sky Sports! Here is everything you need to know ahead of the new season...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-get-sky-sports-premier-league_7314381.jpg?20260805105705"
     }
   ]
 }
