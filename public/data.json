@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T05:20:55.541829+00:00",
+  "lastUpdated": "2026-08-22T06:29:21.101379+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
+      "link": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday",
+      "summary": "We have a busy day's racing on Saturday with action from Chester, Lingfield and Newton Abbot, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e0.365dm.com/25/05/1920x1080/skysports-chester-may-festival_6908215.jpg?20250506161056"
+    },
+    {
+      "source": "sky",
+      "title": "England player ratings: Tongue, Robinson share top spot and a ball",
+      "link": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test",
+      "summary": "We rate England's players after the thumping innings win over Pakistan at Headingley as Joe Root's side took a 1-0 lead in the three-match Test series...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-josh-tongue-england-test-cricket_7327599.jpg?20260821191724"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
@@ -387,7 +403,7 @@
     },
     {
       "source": "sky",
-      "title": "Arsenal kick off title defence with thumping win over Coventry",
+      "title": "'Dominant' - Arsenal kick off title defence with thumping Coventry win",
       "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
       "summary": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
       "published": null,
@@ -496,22 +512,6 @@
       "summary": "American raider Bacio blitzed his rivals from the front to provide Wesley Ward with a first victory in the Coolmore City Of Troy Nunthorpe Stakes at York.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bacio-nunthorpe-york_7327551.jpg?20260821180409"
-    },
-    {
-      "source": "sky",
-      "title": "Key moments and your views as Arsenal thrash Coventry!",
-      "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-kai-havertz_7327655.jpg?20260821202627"
-    },
-    {
-      "source": "sky",
-      "title": "Russell claims Dutch GP Sprint pole with Antonelli, Hamilton on back foot",
-      "link": "https://www.skysports.com/f1/news/12040/13575268/dutch-gp-sprint-qualifying-george-russell-claims-pole-position-with-title-rivals-kimi-antonelli-lewis-hamilton-on-back-foot",
-      "summary": "George Russell made the ideal start to his attempt to mount a championship fightback in the second half of the 2026 F1 season by claiming pole position for Saturday's Dutch Grand Prix Sprint as nearest title rivals Kimi Antonelli and Lewis Hamilton qualified outside the top four.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327508.jpg?20260821171916"
     }
   ]
 }
