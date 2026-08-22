@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:26:06.852381+00:00",
+  "lastUpdated": "2026-08-22T08:21:38.486404+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -371,6 +371,14 @@
     },
     {
       "source": "sky",
+      "title": "F1 Academy: Britain's Palmowski storms to Zandvoort pole",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-f1-academy-alisha-palmowski_7327879.jpg?20260822090054"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
@@ -504,14 +512,6 @@
       "summary": "Sky Sports Racing's Kevin Blake reveals a trio of picks as York's Ebor Festival concludes with yet another wildly-competitive card on day four on Saturday.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-kevin-blake-ebor-festival_7324810.png?20260818125040"
-    },
-    {
-      "source": "sky",
-      "title": "Bacio blazes a trail to win York's Nunthorpe Stakes",
-      "link": "https://www.skysports.com/racing/news/12040/13575556/york-ebor-festival-bacio-blazes-a-trail-to-win-nunthorpe-stakes-as-arapaho-gold-takes-gimcrack-stakes-honours",
-      "summary": "American raider Bacio blitzed his rivals from the front to provide Wesley Ward with a first victory in the Coolmore City Of Troy Nunthorpe Stakes at York.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bacio-nunthorpe-york_7327551.jpg?20260821180409"
     }
   ]
 }
