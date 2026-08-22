@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T16:16:21.721405+00:00",
+  "lastUpdated": "2026-08-22T17:15:17.634264+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,11 +355,83 @@
     },
     {
       "source": "sky",
-      "title": "Carrick defends dismal Man Utd loss: 'We did some good things'",
+      "title": "Bolt set to play Sunday league football for Manchester side",
+      "link": "https://www.skysports.com/athletics/news/12040/13576016/usain-bolt-from-sprint-stardom-to-sunday-league-athletics-icon-set-for-wythenshawe-vets-bow",
+      "summary": "Usain Bolt is registered to play for a Sunday league team in Manchester, with the Olympic champion set to make another foray into football.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-usain-bolt-athletics_7328480.jpg?20260822175241"
+    },
+    {
+      "source": "sky",
+      "title": "Everton outclass wasteful Palace in Premier League opener",
+      "link": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
+      "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-everton-dewsbury-hall_7328370.jpg?20260822165444"
+    },
+    {
+      "source": "sky",
+      "title": "Leicester booed off after nightmare defeat to Burton",
+      "link": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617",
+      "summary": "Burton Albion stunned Leicester City at the King Power Stadium, as the former Premier League champions were booed off after being beaten 2-1 by Gary Bowyer's side.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-efl-league-one-leicester_7328415.jpg?20260822170647"
+    },
+    {
+      "source": "sky",
+      "title": "'The car is better for the race' - Hamilton 'optimistic' of Ferrari turnaround",
+      "link": "https://www.skysports.com/f1/news/12040/13575702/lewis-hamilton-ferrari-driver-optimistic-of-challenging-top-four-in-dutch-gp-after-qualifying-improvement",
+      "summary": "Lewis Hamilton believes his Ferrari car is in a \"better place\" after changes going into Dutch Grand Prix qualifying and that the team can still be \"optimistic\" for Sunday's race despite starting on the third row.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lewis-hamilton-ferrari_7328450.jpg?20260822173450"
+    },
+    {
+      "source": "sky",
+      "title": "Carrick defends dismal Man Utd loss: 'It was never going to be perfect'",
       "link": "https://www.skysports.com/football/news/12040/13575881/michael-carrick-insists-man-utd-did-some-good-things-despite-dismal-hull-defeat-on-opening-premier-league-weekend",
       "summary": "Man Utd boss Michael Carrick focused on the \"good things\" his side had done despite a dismal 2-0 defeat at newly-promoted Hull City on the opening day of the new season.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-manchester-united_7328165.jpg?20260822145144"
+    },
+    {
+      "source": "sky",
+      "title": "Swansea & Sheff Utd play out dour draw",
+      "link": "https://www.skysports.com/football/swansea-city-vs-sheffield-united/report/560518",
+      "summary": "Sheffield United put their latest financial worries to one side to earn a gritty draw against a toothless Swansea.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sheffield-united_7328265.png?20260822160724"
+    },
+    {
+      "source": "sky",
+      "title": "Fer Lopez scores twice in Wolves win",
+      "link": "https://www.skysports.com/football/preston-north-end-vs-wolverhampton-wanderers/report/560515",
+      "summary": "Fer Lopez bagged a brace as Wolves secured their first victory of the Championship season with a convincing 3-1 success over Preston at Deepdale.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wolves-preston_7328252.jpg?20260822155831"
+    },
+    {
+      "source": "sky",
+      "title": "Everton down Palace to spoil Sage’s Premier League welcome",
+      "link": "https://www.skysports.com/watch/video/13575973/everton-2-0-crystal-palace-premier-league-highlights",
+      "summary": "Highlights from the Premier League match between Everton and Crystal Palace.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-everton_7328441.jpg?20260822172040"
+    },
+    {
+      "source": "sky",
+      "title": "Clarke's late strike gives Ipswich winning return to the Premier League",
+      "link": "https://www.skysports.com/watch/video/13575982/ipswich-2-1-sunderland-premier-league-highlights",
+      "summary": "FREE TO WATCH: Highlights from Ipswich's game against Sunderland in the Premier League.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ipswich-sunderland_7328387.jpg?20260822165838"
+    },
+    {
+      "source": "sky",
+      "title": "Castellanos misses late penalty as West Ham beaten by Charlton",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/report/560520",
+      "summary": "Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile pressure on Hammers boss Nuno Espirito Santo.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-west-ham-charlton_7328304.jpg?20260822162051"
     },
     {
       "source": "sky",
@@ -368,6 +440,38 @@
       "summary": "Highlights from the Premier League match between Hull and Manchester United.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-hull-man-utd-premier-league_7328187.jpg?20260822151854"
+    },
+    {
+      "source": "sky",
+      "title": "'This is brilliant!' | Lewis-Potter puts Brentford ahead vs Spurs",
+      "link": "https://www.skysports.com/watch/video/13576021/goal-k-lewis-potter-12-brentford-1-0-tottenham-hotspur",
+      "summary": "A perfect pass from Mamadou Sangare sees Keane Lewis-Potter's strike put Brentford 1-0 up against Spurs.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-premier-league_7328476.jpg?20260822174934"
+    },
+    {
+      "source": "sky",
+      "title": "Wrexham hit back to hold Watford",
+      "link": "https://www.skysports.com/football/wrexham-vs-watford/report/560521",
+      "summary": "Wrexham were kept waiting for their first Sky Bet Championship win of the season as they drew 1-1 with Watford in front of Hollywood owners Ryan Reynolds and Rob Mac.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wrexham-afc_7328251.jpg?20260822155814"
+    },
+    {
+      "source": "sky",
+      "title": "Derby hold Cardiff in entertaining draw",
+      "link": "https://www.skysports.com/football/derby-county-vs-cardiff-city/report/560512",
+      "summary": "Cardiff remain unbeaten two games into their return to Championship football after Cian Ashford and Yousef Salech's goals earned a 2-2 draw at Derby.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-derby-county_7328312.jpg?20260822162228"
+    },
+    {
+      "source": "sky",
+      "title": "Blackburn hit back to sink Middlesbrough",
+      "link": "https://www.skysports.com/football/blackburn-rovers-vs-middlesbrough/report/560511",
+      "summary": "Blackburn stunned Middlesbrough with two goals in the space of six second-half minutes to earn a 2-1 victory at Ewood Park which continues their impressive start to the season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7328404.jpg?20260822170304"
     },
     {
       "source": "sky",
@@ -387,35 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Southampton strike late to beat Stoke",
-      "link": "https://www.skysports.com/football/southampton-vs-stoke-city/report/560517",
-      "summary": "Divin Mubama scored a dramatic late goal on his home debut to help Southampton to a 3-1 victory over former club Stoke.",
+      "title": "Antonelli: This weekend has been a great wake-up call",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
+      "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-southampton-fc_7328386.jpg?20260822165822"
-    },
-    {
-      "source": "sky",
-      "title": "Serena to play US Open mixed doubles with Alcaraz - but not singles!",
-      "link": "https://www.skysports.com/tennis/news/12040/13575872/serena-williams-tennis-icon-to-team-up-with-carlos-alcaraz-for-us-open-mixed-doubles-tournament",
-      "summary": "The dream team of Serena Williams and Carlos Alcaraz have signed up to the US Open mixed doubles championship, but the American great won't be playing in the women's singles.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-serena-williams-carlos-alcaraz_7328227.jpg?20260822154612"
-    },
-    {
-      "source": "sky",
-      "title": "Norris beats Russell to Dutch GP pole",
-      "link": "https://www.skysports.com/f1/news/12040/13575698/dutch-gp-lando-norris-beats-george-russell-and-kimi-antonelli-to-zandvoort-pole-as-lewis-hamilton-struggles",
-      "summary": "Lando Norris beat Mercedes duo George Russell and Kimi Antonelli to pole position at the Dutch Grand Prix in a hectic end to qualifying.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-lando-norris_7328293.jpg?20260822161723"
-    },
-    {
-      "source": "sky",
-      "title": "Notable Speech clinches City Of York crown for Appleby",
-      "link": "https://www.skysports.com/racing/news/12040/13575863/york-notable-speech-shines-in-city-of-york-stakes-for-charlie-appleby",
-      "summary": "Notable Speech bounced back to his brilliant best to claim his sixth Group One victory in the Sky Bet City of York Stakes.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-notable-speech-william-buick_7328220.jpg?20260822154057"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-f1-kimi-antonelli_7304329.jpg?20260722160311"
     },
     {
       "source": "sky",
@@ -427,91 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Dutch GP: Norris snatches pole from Russell, Antonelli LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-lando-norris_7328210.jpg?20260822153545"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham miss late pen in defeat! 10-man Leicester lose to Burton - EFL LIVE!",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/live/560520",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-charlton-athletic_7328182.jpg?20260822151246"
-    },
-    {
-      "source": "sky",
-      "title": "Birmingham strike late to hold Bristol City",
-      "link": "https://www.skysports.com/football/birmingham-city-vs-bristol-city/report/560510",
-      "summary": "Demarai Gray rescued a point for Birmingham with a late penalty in their 2-2 Championship draw at home to Bristol City.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-birmingham-city_7328070.jpg?20260822133757"
-    },
-    {
-      "source": "sky",
-      "title": "Three things we've learned from Man Utd's loss at Hull",
-      "link": "https://www.skysports.com/watch/video/13575951/hull-city-vs-manchester-united-three-things-weve-learned-from-man-utd-vs-hull",
-      "summary": "Danyal Khan gives us his three things to take away from Manchester United's loss to Hull City on the opening day of the season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-manchester-united_7328418.jpg?20260822170700"
-    },
-    {
-      "source": "sky",
-      "title": "Clarke haunts Sunderland as Ipswich get off to winning start",
-      "link": "https://www.skysports.com/football/ipswich-town-vs-sunderland/report/559448",
-      "summary": "Former Sunderland player Jack Clarke struck a 90th-minute winner for Ipswich Town on their return to the Premier League in a 2-1 win over the Black Cats.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-ipswich_7328397.jpg?20260822170028"
-    },
-    {
-      "source": "sky",
       "title": "Stach snatches win for Leeds at Forest",
       "link": "https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/559449",
       "summary": "Anton Stach's stunning late free-kick snatched the points for Leeds as Oliver Glasner lost his first Premier League game in charge of Nottingham Forest 1-0 at the City Ground.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-leeds-forest_7328371.jpg?20260822165508"
-    },
-    {
-      "source": "sky",
-      "title": "Lincoln beaten by Portsmouth as second-tier football returns to Sincil Bank",
-      "link": "https://www.skysports.com/football/lincoln-city-vs-portsmouth/report/560513",
-      "summary": "Portsmouth claimed their first win of the Championship season with a comprehensive 3-1 success at Lincoln.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7328120.jpg?20260822142104"
-    },
-    {
-      "source": "sky",
-      "title": "Millwall ease past 10-man Norwich",
-      "link": "https://www.skysports.com/football/millwall-vs-norwich-city/report/560514",
-      "summary": "Tairyk Arconte scored his first two goals for Millwall as they breezed past 10-man Norwich 3-0 to make it two wins from two in the Sky Bet Championship this season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-millwall-norwich_7328042.jpg?20260822125504"
-    },
-    {
-      "source": "sky",
-      "title": "Promising signs for new England but Pakistan absolutely dire",
-      "link": "https://www.skysports.com/cricket/news/12040/13575703/england-vs-pakistan-joe-roots-captaincy-and-harry-brooks-maturity-promising-for-hosts-in-first-test-as-tourists-outclassed",
-      "summary": "Joe Root's return match as England Test captain could hardly have gone better - a three-day win and a weekend off.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-joe-root-harry-brook_7327898.jpg?20260822101113"
-    },
-    {
-      "source": "sky",
-      "title": "​​​​​Russell wins Dutch Sprint to trim title gap to Antonelli",
-      "link": "https://www.skysports.com/f1/news/12040/13575695/dutch-gp-sprint-george-russell-wins-from-charles-leclerc-to-trim-f1-world-championship-deficit-to-kimi-antonelli-at-zandvoort",
-      "summary": "George Russell won the Dutch Grand Prix Sprint to maintain his perfect start to Formula 1's return to action and trim his championship deficit to Mercedes team-mate Kimi Antonelli.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-george-russell-mercedes_7327995.jpg?20260822121640"
-    },
-    {
-      "source": "sky",
-      "title": "Antonelli to take Monza grid penalty for engine change",
-      "link": "https://www.skysports.com/f1/news/12040/13575701/kimi-antonelli-to-take-grid-penalty-at-italian-gp-in-monza-for-engine-change-mercedes-boss-toto-wolff-confirms",
-      "summary": "World championship leader Kimi Antonelli will take a grid penalty at the upcoming Italian Grand Prix, Mercedes team principal Toto Wolff has confirmed.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-mercedes_7327986.jpg?20260822120630"
     }
   ]
 }
