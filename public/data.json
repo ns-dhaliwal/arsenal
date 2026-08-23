@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-23T17:15:03.153946+00:00",
+  "lastUpdated": "2026-08-23T18:20:19.722864+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
+      "published": "2026-08-23T17:37:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"
+    },
     {
       "source": "bbc",
       "title": "Martinelli deserves better from Arsenal - Wright",
@@ -306,14 +314,6 @@
       "image": "https://i.guim.co.uk/img/media/02925e9b09ba484beb76d20ce0ee9d2b8e4065c5/350_0_4455_3564/master/4455.jpg?width=140&quality=85&auto=format&fit=max&s=132d87f2a5d48bb920d02bb91cf0959b"
     },
     {
-      "source": "bbc",
-      "title": "Is the Community Shield cursed?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c89n205z3vyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Warning Arsenal and Manchester City! Only three clubs have won the Community Shield and the Premier League in the same season in the past 20 years.",
-      "published": "2026-08-16T10:15:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fd/live/d4011e20-97d4-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Premier League fans’ previews: our club-by-club guide to 2026-27",
       "link": "https://www.theguardian.com/football/2026/aug/16/premier-league-fans-previews-our-club-by-club-guide-to-2026-27",
@@ -355,11 +355,43 @@
     },
     {
       "source": "sky",
+      "title": "Somerset ramp up pressure on leaders Nottinghamshire",
+      "link": "https://www.skysports.com/cricket/news/12040/13576329/rothesay-county-championship-somerset-ramp-up-the-pressure-on-division-one-leaders-nottinghamshire",
+      "summary": "Somerset ramped up the pressure on County Championship Division One leaders Nottinghamshire with an eight-wicket victory at home against Essex.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tom-lammonby-somerset_7329478.jpg?20260823185347"
+    },
+    {
+      "source": "sky",
+      "title": "Late Liverpool pen sees Szoboszlai silence Newcastle in draw",
+      "link": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-premier-league_7329455.jpg?20260823183342"
+    },
+    {
+      "source": "sky",
+      "title": "Dream start for Rory! McIlroy cuts Clark's lead at BMW Championship LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13576356/bmw-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wyndham-clark-for-pga-tour-victory",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7329329.jpg?20260823170903"
+    },
+    {
+      "source": "sky",
       "title": "Warrington and Leeds win as Super League play-offs approach",
       "link": "https://www.skysports.com/rugby-league/news/12040/13576354/super-league-warrington-wolves-continue-winning-streak-against-huddersfield-giants-as-leeds-rhinos-rout-york-knights",
       "summary": "Warrington claimed their fifth consecutive Betfred Super League win with a 34-24 victory over Huddersfield Giants at Halliwell Jones Stadium.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-super-league-warrington_7329374.jpg?20260823172535"
+    },
+    {
+      "source": "sky",
+      "title": "'Could have been a lot worse' - Verstappen relieved after huge crash",
+      "link": "https://www.skysports.com/f1/news/12040/13576208/max-verstappen-red-bull-driver-says-huge-dutch-grand-prix-crash-could-have-been-a-lot-worse",
+      "summary": "Max Verstappen admitted his huge crash at the Dutch Grand Prix \"could have been a lot worse\" after he lost control of his Red Bull on the opening lap of his final home event.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-max-verstappen-crash_7329073.png?20260823140738"
     },
     {
       "source": "sky",
@@ -403,11 +435,11 @@
     },
     {
       "source": "sky",
-      "title": "Instant reply! Super-sub Willock restores Newcastle lead vs Liverpool LIVE!",
+      "title": "DRAMA! Szoboszlai snatches last-gasp leveller from spot at Newcastle LIVE!",
       "link": "https://www.skysports.com/football/newcastle-united-vs-liverpool/live/559452",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-joe-willock-newcastle_7329413.jpg?20260823175101"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-newcastle_7329461.jpg?20260823183457"
     },
     {
       "source": "sky",
@@ -424,6 +456,14 @@
       "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7329251.jpg?20260823161457"
+    },
+    {
+      "source": "sky",
+      "title": "Szoboszlai snatches 99th-min Liverpool leveller to deny Newcastle deserved win",
+      "link": "https://www.skysports.com/football/newcastle-united-vs-liverpool/report/559452",
+      "summary": "Dominik Szoboszlai's last-gasp penalty earned Andoni Iraola a debut Liverpool point to deny Newcastle a deserved win on Matthias Jaissle's managerial debut in a pulsating 2-2 draw at St James' Park.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-dominik-szoboszlai_7329452.jpg?20260823183212"
     },
     {
       "source": "sky",
@@ -472,46 +512,6 @@
       "summary": "Matthias Jaissle's new Newcastle United side go ahead against Liverpool thanks to Anthony Elanga's early goal.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/image_7329297.jpg?20260823164556"
-    },
-    {
-      "source": "sky",
-      "title": "'Great way of wasting time!' | Hamilton frustrated by Ferrari team orders",
-      "link": "https://www.skysports.com/watch/video/13576303/dutch-grand-prix-lewis-hamilton-frustrated-with-ferrari-over-team-orders",
-      "summary": "Lewis Hamilton was left frustrated with Ferrari for 'wasting time' by not swapping him and Charles Leclerc earlier.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-lewis-hamilton-f1_7329202.jpg?20260823153951"
-    },
-    {
-      "source": "sky",
-      "title": "'It's reflex!' | Incredible pictures show Hulkenberg narrowly avoid team-mate!",
-      "link": "https://www.skysports.com/watch/video/13576276/dutch-grand-prix-incredible-pictures-show-nico-hulkenberg-narrowly-avoid-teammate",
-      "summary": "Nico Hulkenberg performed an extraordinary move to avoid team-mate Gabriel Bortoleto after he span out at the Dutch Grand Prix.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-f1-nico-hulk_7329121.jpg?20260823143339"
-    },
-    {
-      "source": "sky",
-      "title": "Experimental Man City survive Bournemouth scare to win Maresca's first game",
-      "link": "https://www.skysports.com/football/manchester-city-vs-bournemouth/report/559451",
-      "summary": "Manchester City survived a serious scare in Enzo Maresca's first Premier League game in charge, forced to come from behind to earn a dramatic, late 2-1 victory over Bournemouth.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-josko-gvardiol-premier-league_7329227.jpg?20260823155933"
-    },
-    {
-      "source": "sky",
-      "title": "Dutch GP: Reaction to Mercedes' strategy call, Hamilton frustration LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13575290/f1-dutch-gp-live-race-updates-results-stream-highlights-video-from-12th-round-of-2026-formula-1-season-at-zandvoort",
-      "summary": "Follow live updates and watch the best video from the Dutch Grand Prix at Zandvoort on Sunday. Watch live on Sky Sports F1",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-george-russell-ferrari_7329326.jpg?20260823170534"
-    },
-    {
-      "source": "sky",
-      "title": "ECB investigating after Carse handcuffed by police outside Derby nightclub",
-      "link": "https://www.skysports.com/cricket/news/12040/13576318/brydon-carse-ecb-investigating-after-england-seamer-handcuffed-by-police-outside-derby-nightclub",
-      "summary": "The ECB is investigating an incident involving England player Brydon Carse, after footage emerged showing the bowler handcuffed by police outside a Derby nightclub on Saturday night.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carse-england_7329291.jpg?20260823164442"
     }
   ]
 }
