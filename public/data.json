@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:15:15.363532+00:00",
+  "lastUpdated": "2026-08-23T21:15:27.055124+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -371,6 +371,14 @@
     },
     {
       "source": "sky",
+      "title": "Hits and misses: Maresca's Man City experiment gets lucky",
+      "link": "https://www.skysports.com/football/news/12040/13576249/enzo-marescas-man-city-experiment-gets-lucky-alexander-isaks-struggles-continue-and-aston-villas-problems-exposed-premier-league-hits-and-misses",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-hits-and-misses_7329486.jpg?20260823190658"
+    },
+    {
+      "source": "sky",
       "title": "Late Liverpool pen sees Szoboszlai silence Newcastle in draw",
       "link": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights",
       "summary": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool.",
@@ -379,7 +387,15 @@
     },
     {
       "source": "sky",
-      "title": "McIlroy cuts Clark's lead from five to one in PGA Tour thriller LIVE!",
+      "title": "Nev: Wirtz and Isak Liverpool's biggest disappointments - they must improve",
+      "link": "https://www.skysports.com/football/news/12040/13576437/liverpools-alexander-isak-and-florian-wirtz-biggest-disappointments-says-gary-neville-after-pair-underwhelm-in-draw-at-newcastle",
+      "summary": "Gary Neville called on Florian Wirtz and Alexander Isak to improve after a year of \"being kind to\" Liverpool's &#163;200m+ duo, but said he had faith the pair would come good despite being their \"biggest disappointments\" at Newcastle.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alexander-isak-florian-wirtz_7329582.jpg?20260823211513"
+    },
+    {
+      "source": "sky",
+      "title": "McIlroy pulls level with Clark from five behind in PGA Tour thriller LIVE!",
       "link": "https://www.skysports.com/golf/live-blog/12040/13576356/bmw-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-chases-wyndham-clark-for-pga-tour-victory",
       "summary": "",
       "published": null,
@@ -496,22 +512,6 @@
       "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7329251.jpg?20260823161457"
-    },
-    {
-      "source": "sky",
-      "title": "Aventure ends Diamond Necklace's unbeaten record",
-      "link": "https://www.skysports.com/racing/news/12040/13576310/deauville-aventure-ends-diamond-necklaces-unbeaten-record-with-sumbe-prix-jean-et-louis-romanet-win",
-      "summary": "Diamond Necklace tasted defeat for the first time as Aventure served up a reminder of her top-class credentials in the Sumbe Prix Jean et Louis Romanet at Deauville.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-aventure-racing_7329230.jpg?20260823160133"
-    },
-    {
-      "source": "sky",
-      "title": "Jamieson ends 14-year drought with Nexo Championship win on home soil",
-      "link": "https://www.skysports.com/watch/video/13576369/nexo-championship-day-four-highlights",
-      "summary": "Highlights from day four of the Nexo Championship, where Scott Jamieson claimed an impressive victory on home soil.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-nexo_7329378.jpg?20260823173112"
     }
   ]
 }
