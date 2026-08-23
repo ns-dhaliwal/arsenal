@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T11:15:19.466847+00:00",
+  "lastUpdated": "2026-08-23T12:27:25.927653+00:00",
   "articles": [
-    {
-      "source": "bbc",
-      "title": "How Arsenal 'punished' newly promoted Coventry",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c70g0xnewwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss Arsenal's quality against Coventry City, praising the hosts but stressing that Frank Lampard's side shouldn't be judged.",
-      "published": "2026-08-22T23:13:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dade/live/976ffc90-9e7f-11f1-b109-879e35c24276.jpg"
-    },
     {
       "source": "bbc",
       "title": "Martinelli deserves better from Arsenal - Wright",
@@ -314,6 +306,14 @@
       "image": "https://i.guim.co.uk/img/media/02925e9b09ba484beb76d20ce0ee9d2b8e4065c5/350_0_4455_3564/master/4455.jpg?width=140&quality=85&auto=format&fit=max&s=132d87f2a5d48bb920d02bb91cf0959b"
     },
     {
+      "source": "bbc",
+      "title": "Is the Community Shield cursed?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c89n205z3vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Warning Arsenal and Manchester City! Only three clubs have won the Community Shield and the Premier League in the same season in the past 20 years.",
+      "published": "2026-08-16T10:15:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fd/live/d4011e20-97d4-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
       "source": "guardian",
       "title": "Premier League fans’ previews: our club-by-club guide to 2026-27",
       "link": "https://www.theguardian.com/football/2026/aug/16/premier-league-fans-previews-our-club-by-club-guide-to-2026-27",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Dutch GP: Rain falling ahead of race with Norris on pole from Russell LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13575290/f1-dutch-gp-live-race-updates-results-stream-highlights-video-from-12th-round-of-2026-formula-1-season-at-zandvoort",
+      "summary": "Follow live updates and watch the best video from the Dutch Grand Prix at Zandvoort on Sunday. Watch live on Sky Sports F1",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-lando-norris-george-russell_7328947.jpg?20260823105640"
+    },
+    {
+      "source": "sky",
+      "title": "McIlroy five shots behind leader Clark going into final day",
+      "link": "https://www.skysports.com/watch/video/13576189/bmw-championship-day-three-highlights",
+      "summary": "Highlights of day three of the BMW Championship at the Bellerive Country Club in St Louis, Missouri.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-bmw_7328892.jpg?20260823075800"
+    },
+    {
+      "source": "sky",
       "title": "Lopez takes Romero's WBA title to become three-weight champion",
       "link": "https://www.skysports.com/boxing/news/12040/13576201/teofimo-lopez-takes-rolly-romeros-wba-welterweight-title-to-become-three-division-world-champion",
       "summary": "Teofimo Lopez beat Rolly Romero in Las Vegas on Saturday night to capture the WBA welterweight title and become a three-division&#160;world champion.",
@@ -363,7 +379,31 @@
     },
     {
       "source": "sky",
-      "title": "Brighton vs Aston Villa team news LIVE!",
+      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
+      "link": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
+      "summary": "Manchester City have agreed a deal with Lille for Morocco international midfielder Ayyoub Bouaddi worth up to &#163;86m (&#8364;100m).",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-ayyoub-bouaddi_7318919.jpg?20260811132349"
+    },
+    {
+      "source": "sky",
+      "title": "Hull FC edge Catalans Dragons in comeback win",
+      "link": "https://www.skysports.com/watch/video/13576152/catalans-dragons-26-27-hull-fc-rugby-super-league-highlights",
+      "summary": "Highlights of the Super League clash between Catalans Dragons and Hull FC.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-fc-catalans_7328815.jpg?20260822230436"
+    },
+    {
+      "source": "sky",
+      "title": "Hull KR suffer shock loss to Toulouse",
+      "link": "https://www.skysports.com/watch/video/13576145/hull-kr-12-32-toulouse-rugby-super-league-highlights",
+      "summary": "Highlights of the Super League clash between Hull KR and Toulouse Olympique.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/hull-kr-toulouse-rugby-league_7328803.jpg?20260822224855"
+    },
+    {
+      "source": "sky",
+      "title": "Vuskovic makes PL debut for Brighton as Villa leave out star names LIVE!",
       "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/live/559450",
       "summary": "",
       "published": null,
@@ -472,46 +512,6 @@
       "summary": "Check out all the angles to Dom Ballard's incredible backheel goal for Bristol City.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-championship_7328896.jpg?20260823081709"
-    },
-    {
-      "source": "sky",
-      "title": "Dundee claim derby bragging rights with victory over winless Dundee United",
-      "link": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345",
-      "summary": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-owen-bevan-dundee_7328614.jpg?20260822192706"
-    },
-    {
-      "source": "sky",
-      "title": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
-      "link": "https://www.skysports.com/football/news/12040/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-premier-league-hits-and-misses_7328560.jpg?20260822183501"
-    },
-    {
-      "source": "sky",
-      "title": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
-      "link": "https://www.skysports.com/football/news/12040/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss",
-      "summary": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-brentford_7328911.jpg?20260823085335"
-    },
-    {
-      "source": "sky",
-      "title": "Caught napping! Crewe player HIDES before pouncing for cheeky goal",
-      "link": "https://www.skysports.com/watch/video/13576055/josh-march-catches-northampton-goalkeeper-zach-jeacock-out-to-score-for-crewe-alexandra",
-      "summary": "Josh March catches Northampton goalkeeper Zach Jeacock out to score a cheeky opener for Crewe Alexandra in their League Two clash at the Mornflake Stadium.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crewe-goal_7328573.jpg?20260822184841"
-    },
-    {
-      "source": "sky",
-      "title": "Sherrock claims first Women's Series title of 2026 in the absence of Greaves",
-      "link": "https://www.skysports.com/darts/news/12040/13576068/fallon-sherrock-sweeps-aside-lisa-ashton-5-0-to-claim-her-first-womens-series-title-of-2026",
-      "summary": "Lisa Ashton and Fallon Sherrock shared the spoils at Events 17-18 of the PDC Women&#8217;s Series on Saturday, as the duo scooped a title each to reinforce their positions of second and third in the rankings respectively.",
-      "published": null,
-      "image": "https://e0.365dm.com/25/07/1920x1080/skysports-fallon-sherrock-darts_6965888.jpg?20250716090159"
     }
   ]
 }
