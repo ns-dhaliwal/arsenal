@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T16:29:26.621053+00:00",
+  "lastUpdated": "2026-08-24T17:25:22.078060+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,6 +355,14 @@
     },
     {
       "source": "sky",
+      "title": "MNF is back! Fulham vs Chelsea LIVE!",
+      "link": "https://www.skysports.com/football/fulham-vs-chelsea/live/559453",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-fulham_7327945.jpg?20260822113900"
+    },
+    {
+      "source": "sky",
       "title": "Don't panic! Why Man Utd and Carrick get a pass after flat Hull defeat",
       "link": "https://www.skysports.com/football/news/12040/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day",
       "summary": "I was at the game on Saturday and it was clear early on in the game that Manchester United were not at the races against Hull City.",
@@ -504,14 +512,6 @@
       "summary": "Sky Sports' Sam Blitz takes a closer look at the future of striker Julian Alvarez and where he may end up should he leave Atletico Madrid.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-julian-alvarez-atletico_7330050.jpg?20260824133232"
-    },
-    {
-      "source": "sky",
-      "title": "Yamashita equals LPGA Tour record in dominant CPKC Women's Open win",
-      "link": "https://www.skysports.com/golf/news/12040/13576501/cpkc-womens-open-miyu-yamashita-matches-lpga-tour-72-hole-scoring-record-in-dominant-win-in-edmonton",
-      "summary": "Miyu Yamashita equaled the LPGA Tour's 72-hole scoring record in claiming a dominant, nine-stroke victory in the CPKC Women's Open..",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-miyu-yamashita-golf_7329702.jpg?20260824065841"
     }
   ]
 }
