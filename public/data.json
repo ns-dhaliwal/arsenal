@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T15:33:10.430013+00:00",
+  "lastUpdated": "2026-08-24T16:29:26.621053+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
+      "published": "2026-08-24T16:07:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 talking points from opening weekend of the season",
@@ -298,14 +306,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2519/live/9c827cb0-8a9a-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
-      "published": "2026-08-16T16:18:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/64893940-9989-11f1-a4eb-59b79ff5ff4f.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal 3-0 Manchester City: Community Shield – as it happened",
       "link": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
@@ -352,6 +352,22 @@
       "summary": "Bundesliga club want at least €50m for England defenderGunners remain interested in Aston Villa’s Ezri KonsaArsenal have opened talks with Bayer Leverkusen over a move for Jarell Quansah as they intensify efforts to bring in cover for William Saliba and&nbsp;Jurriën Timber.The England defender, who left Liverpool last summer for an initial £30m and was part of Thomas Tuchel’s World Cup squad, has ",
       "published": "2026-08-14T10:40:24+00:00",
       "image": "https://i.guim.co.uk/img/media/30babb52add44cb73482115e260ffba3993bfec6/586_192_3592_2875/master/3592.jpg?width=140&quality=85&auto=format&fit=max&s=b4f6700347419cc3089dfcb0acabf612"
+    },
+    {
+      "source": "sky",
+      "title": "Don't panic! Why Man Utd and Carrick get a pass after flat Hull defeat",
+      "link": "https://www.skysports.com/football/news/12040/13576671/man-utd-why-there-shouldnt-be-panic-after-michael-carricks-side-suffered-premier-league-loss-at-hull-on-opening-day",
+      "summary": "I was at the game on Saturday and it was clear early on in the game that Manchester United were not at the races against Hull City.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carrick-manchester-united_7330157.jpg?20260824160103"
+    },
+    {
+      "source": "sky",
+      "title": "Coventry latest: Deal agreed for Jamaica international",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "Miyu Yamashita equaled the LPGA Tour's 72-hole scoring record in claiming a dominant, nine-stroke victory in the CPKC Women's Open..",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-miyu-yamashita-golf_7329702.jpg?20260824065841"
-    },
-    {
-      "source": "sky",
-      "title": "Nev on title race: Liverpool, Man City nowhere near levels required",
-      "link": "https://www.skysports.com/football/news/12040/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville",
-      "summary": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-virgil-van-dijk-erling-haaland_7329835.jpg?20260824093834"
-    },
-    {
-      "source": "sky",
-      "title": "F1 2026 team-mate head-to-heads after Dutch GP",
-      "link": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-      "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-f1-2026-f1-field_7186813.jpg?20260309102551"
     }
   ]
 }
