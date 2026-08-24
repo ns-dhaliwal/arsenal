@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T21:22:34.298303+00:00",
+  "lastUpdated": "2026-08-24T22:19:25.230966+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
+      "published": "2026-08-24T21:37:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"
+    },
     {
       "source": "bbc",
       "title": "Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle",
@@ -16,14 +24,6 @@
       "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for EvertonArsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former",
       "published": "2026-08-24T07:00:54+00:00",
       "image": "https://i.guim.co.uk/img/media/e2dccb55f94968c56e0ee18a0581261d529ab5f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26ba6bcdc876e2dc25a5440e101cf0a9"
-    },
-    {
-      "source": "bbc",
-      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
-      "published": "2026-08-23T17:37:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"
     },
     {
       "source": "bbc",
@@ -363,6 +363,22 @@
     },
     {
       "source": "sky",
+      "title": "Five-goal thriller! Palmer & Rogers star as Alonso era begins with win",
+      "link": "https://www.skysports.com/watch/video/13576822/fulham-2-3-chelsea-premier-league-highlights",
+      "summary": "FREE TO WATCH: Highlights from Fulham&#8217;s match against Chelsea in the Premier League.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-chelsea-fulham_7330463.jpg?20260824225614"
+    },
+    {
+      "source": "sky",
+      "title": "Fulham latest: 'This is how I want us to play,' says Arbeloa after Chelsea loss",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446"
+    },
+    {
+      "source": "sky",
       "title": "Chelsea latest: VOTE! How do Blues solve goalkeeper 'problem'?",
       "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
@@ -392,6 +408,14 @@
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-premier-league-nottingham-forest_7287949.jpg?20260702112820"
+    },
+    {
+      "source": "sky",
+      "title": "Federer returns to play in US Open exhibition match, live on Sky Sports",
+      "link": "https://www.skysports.com/tennis/news/12040/13576812/roger-federer-returns-to-play-us-open-exhibition-match-live-on-sky-sports-but-has-no-interest-in-professional-comeback",
+      "summary": "Roger Federer is set to make a long-anticipated return to play at Flushing Meadows as the five-time consecutive US Open men's singles champion will play in an exhibition match, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-roger-federer_7330440.jpg?20260824222038"
     },
     {
       "source": "sky",
@@ -451,7 +475,7 @@
     },
     {
       "source": "sky",
-      "title": "Chelsea win five-goal MNF thriller at Fulham LIVE!",
+      "title": "Fulham 2-3 Chelsea highlights",
       "link": "https://www.skysports.com/football/fulham-vs-chelsea/live/559453",
       "summary": "",
       "published": null,
@@ -488,30 +512,6 @@
       "summary": "I was at the game on Saturday and it was clear early on in the game that Manchester United were not at the races against Hull City.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carrick-manchester-united_7330157.jpg?20260824160103"
-    },
-    {
-      "source": "sky",
-      "title": "Coventry latest: Deal agreed for Jamaica international",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
-    },
-    {
-      "source": "sky",
-      "title": "England's Carse unavailable for Lord's Test after nightclub incident",
-      "link": "https://www.skysports.com/cricket/news/12040/13576549/brydon-carse-to-miss-englands-second-test-vs-pakistan-as-cricket-regulator-conducts-investigation-into-nightclub-incident",
-      "summary": "England fast bowler Brydon Carse has been withdrawn from the squad for the second Test against Pakistan at Lord's from Thursday following an incident outside a Derby nightclub that is being investigated by the Cricket Regulator.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-brydon-carse-england-test-cricket_7329826.jpg?20260824092656"
-    },
-    {
-      "source": "sky",
-      "title": "Former world snooker champion Dott found guilty of child sex abuse",
-      "link": "https://www.skysports.com/snooker/news/12040/13576651/graeme-dott-former-world-snooker-champion-found-guilty-of-child-sex-abuse",
-      "summary": "Former world snooker champion Graeme Dott has been found guilty of historical child sex abuse.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-graeme-dott_7330105.jpg?20260824143654"
     }
   ]
 }
