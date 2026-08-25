@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T05:26:15.697173+00:00",
+  "lastUpdated": "2026-08-25T06:36:04.622562+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "McLaren, Red Bull appeal against Monaco GP result being heard today",
+      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-pierre-gasly-alpine_7270826.jpg?20260611141756"
+    },
+    {
+      "source": "sky",
+      "title": "Lazurite looks to make it third time lucky at Lingfield Park",
+      "link": "https://www.skysports.com/racing/news/12040/13576610/today-on-sky-sports-racing-all-weather-action-from-lingfield-park",
+      "summary": "We have a busy day&#8217;s racing on Tuesday with flat action from Lingfield Park, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e0.365dm.com/25/01/1920x1080/skysports-southwell-lingfield_6813565.jpg?20250129130925"
+    },
+    {
+      "source": "sky",
       "title": "Cameron: It will take someone special to beat me - Mayer's not that",
       "link": "https://www.skysports.com/boxing/news/12040/13576446/mayer-vs-cameron-wbo-champion-chantelle-cameron-targets-best-performance-of-career-against-mikaela-mayer",
       "summary": "Chantelle Cameron is aiming for a career-best performance when she takes on Mikaela Mayer in their blockbuster main event unification bout in Birmingham on Saturday.",
@@ -496,22 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-    },
-    {
-      "source": "sky",
-      "title": "Brighton latest: Seagulls work on Hadjam deal and exploring Hernandez move",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
-      "source": "sky",
-      "title": "Brentford latest: Carra explains how Bees battered Spurs",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
     }
   ]
 }
