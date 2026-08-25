@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T19:25:58.628817+00:00",
+  "lastUpdated": "2026-08-25T20:21:08.490895+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,19 +355,19 @@
     },
     {
       "source": "sky",
+      "title": "LASK score again to halve Celtic aggregate lead and pushing for more LIVE!",
+      "link": "https://www.skysports.com/football/linz-ask-vs-celtic/live/577269",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-celtic-champions-league_7331221.jpg?20260825204404"
+    },
+    {
+      "source": "sky",
       "title": "Brighton latest: Left-back Hadjam joins from Young Boys",
       "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic start strong vs LASK LIVE!",
-      "link": "https://www.skysports.com/football/linz-ask-vs-celtic/live/577269",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-celtic-nygren-benjamin_7326035.jpg?20260819203628"
     },
     {
       "source": "sky",
@@ -379,11 +379,19 @@
     },
     {
       "source": "sky",
-      "title": "Carabao Cup: Brentford, Coventry & Wolves lead LIVE!",
+      "title": "Carabao Cup: Brentford, Leeds & Coventry all lead LIVE!",
       "link": "https://www.skysports.com/football/live-blog/12040/13577036/carabao-cup-round-two-live-commentary-updates-scores-streams-and-team-news-with-leeds-brentford-west-ham-in-action",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-callum-wilson-brentford_7331197.jpg?20260825201811"
+    },
+    {
+      "source": "sky",
+      "title": "Fernandes crowned PFA Players' Player of the Year as Shaw wins women's award",
+      "link": "https://www.skysports.com/football/news/12040/13577089/bruno-fernandes-man-utd-captain-wins-2025-26-pfa-players-player-of-the-year-as-bunny-shaw-wins-womens-award",
+      "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bruno-fernandes-bunny-shaw_7331108.jpg?20260825183157"
     },
     {
       "source": "sky",
@@ -424,6 +432,14 @@
       "summary": "Manchester United have completed the signing of midfielder Carlos Baleba from Brighton.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-carlos-baleba_7330996.jpg?20260825170920"
+    },
+    {
+      "source": "sky",
+      "title": "'What a finish!' - Dowell's 'special' strike brings Hull level",
+      "link": "https://www.skysports.com/watch/video/13577132/stoke-city-vs-hull-city-kieran-dowell-levels-for-hull-with-pretty-special-finish",
+      "summary": "Kieran Dowell brings Hull level in their Carabao Cup clash with Stoke City.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-hull-stoke_7331218.jpg?20260825203911"
     },
     {
       "source": "sky",
@@ -496,22 +512,6 @@
       "summary": "All of this is a far cry from the euphoria of Istanbul in May, and that is what adds to the feeling of bemusement about how significant the changes have been to Aston Villa's squad and how quickly it has occurred.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-reporter-notebook_7330832.jpg?20260825140832"
-    },
-    {
-      "source": "sky",
-      "title": "'Stupid mistakes' - Root 'hacked off' by latest off-field incident",
-      "link": "https://www.skysports.com/cricket/news/12040/13576951/joe-root-furious-england-captain-hacked-off-after-brydon-carse-incident-overshadows-pakistan-victory",
-      "summary": "A furious Joe Root vowed England would earn back the trust of the nation after his return as Test captain was overshadowed by the latest off-field incident to rock English cricket.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-joe-root_7325715.jpg?20260819144112"
-    },
-    {
-      "source": "sky",
-      "title": "Baumgardner to face undefeated Turhan as blockbuster Dubois showdown nears",
-      "link": "https://www.skysports.com/boxing/news/12040/13576723/alycia-baumgardner-to-step-up-to-caroline-dubois-division-and-fight-elif-nur-turhan-for-ibf-world-title",
-      "summary": "Alycia Baumgardner will move up a division to fight Elif Nur Turhan for her IBF lightweight world title on November 8 in a seismic move that brings a blockbuster showdown with Caroline Dubois a step closer.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-alycia-baumgardner_7330240.jpg?20260824175148"
     }
   ]
 }
