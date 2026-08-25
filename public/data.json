@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T22:19:53.985354+00:00",
+  "lastUpdated": "2026-08-25T23:19:36.215404+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,11 +355,27 @@
     },
     {
       "source": "sky",
+      "title": "Williams and Alcaraz reach mixed doubles quarters before exit",
+      "link": "https://www.skysports.com/tennis/news/12040/13577085/serena-williams-and-carlos-alcaraz-exit-us-open-mixed-doubles-in-quarter-finals-top-seeds-novak-djokovic-and-aryna-sabalenka-out-in-first-round",
+      "summary": "Star pairing Serena Williams and Carlos Alcaraz reached the quarter-finals of the US Open mixed doubles before being beaten by fourth seeds Belinda Bencic and Flavio Cobolli.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-serena-williams-carlos-alcaraz_7331402.jpg?20260825234733"
+    },
+    {
+      "source": "sky",
       "title": "Leeds earn second win at Forest in three days in Carabao Cup",
       "link": "https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/577433",
       "summary": "Leeds United registered a second win at Nottingham Forest in three days as they booked their spot in the Carabao Cup third round.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-forest_7331339.jpg?20260825220722"
+    },
+    {
+      "source": "sky",
+      "title": "All Blacks need late surge to avoid shock defeat to Lions",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13577120/new-zealands-tour-of-south-africa-all-blacks-come-from-behind-to-beat-lions-41-35-after-huge-scare-in-tour-match",
+      "summary": "New Zealand fought back from an 18-point &#8204;deficit in the second half to beat the Lions 41-35 and avoid a shock defeat at Ellis Park on Tuesday.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-new-zealand-the-lions_7331391.jpg?20260825231228"
     },
     {
       "source": "sky",
@@ -419,11 +435,11 @@
     },
     {
       "source": "sky",
-      "title": "Tell us your views after Celtic stunned by LASK to crash out of CL LIVE!",
+      "title": "McGregor, O’Neill and YOU give verdicts on an embarrassing night for Celtic",
       "link": "https://www.skysports.com/football/linz-ask-vs-celtic/live/577269",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-celtic-callum-mcgregor_7331372.jpg?20260825225405"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-football-callum-mcgregor_7331315.jpg?20260825215852"
     },
     {
       "source": "sky",
@@ -432,6 +448,14 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "'We apologise to the fans' - Celtic throw away four-goal lead to crash out of CL",
+      "link": "https://www.skysports.com/football/linz-ask-vs-celtic/report/577269",
+      "summary": "Celtic suffered a stunning Champions League play-off collapse as LASK overturned a 3-0 first-leg deficit to win 5-4 after extra-time and sent the Scottish champions crashing into the Europa League.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-celtic-callum-mcgregor_7331372.jpg?20260825225405"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds get deserved breakthrough vs Forest through lovely James finish!",
-      "link": "https://www.skysports.com/watch/video/13577143/dan-james-claims-deserved-breakthrough-for-leeds-in-carabao-cup-tie-against-nottingham-forest",
-      "summary": "Dan James claims a well-deserved breakthrough for Leeds in their Carabao Cup tie against Nottingham Forest.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-leeds-nottingham-forest_7331254.jpg?20260825212458"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd complete Baleba signing",
-      "link": "https://www.skysports.com/football/news/12040/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton",
-      "summary": "Manchester United have completed the signing of midfielder Carlos Baleba from Brighton.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-carlos-baleba_7330996.jpg?20260825170920"
-    },
-    {
-      "source": "sky",
-      "title": "'What a finish!' - Dowell's 'special' strike brings Hull level",
-      "link": "https://www.skysports.com/watch/video/13577132/stoke-city-vs-hull-city-kieran-dowell-levels-for-hull-with-pretty-special-finish",
-      "summary": "Kieran Dowell brings Hull level in their Carabao Cup clash with Stoke City.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-hull-stoke_7331218.jpg?20260825203911"
     }
   ]
 }
