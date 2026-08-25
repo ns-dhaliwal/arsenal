@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T20:21:08.490895+00:00",
+  "lastUpdated": "2026-08-25T21:21:15.920234+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Rice on the 'it's not done' moment",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c05rggd86vpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Declan Rice tells BBC Sport about the moment he told his Arsenal team-mates \"it's not done\" after their defeat by Manchester City, before going on to win the Premier League.",
+      "published": "2026-08-25T21:11:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a26/live/66c6a0c0-a0c9-11f1-aed2-8d6da8d75094.jpg"
+    },
     {
       "source": "bbc",
       "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
@@ -298,14 +306,6 @@
       "image": "https://i.guim.co.uk/img/media/e50b2b463f1a38c779db11f3544de56b9e706617/314_0_3138_2510/master/3138.jpg?width=140&quality=85&auto=format&fit=max&s=4edd2d2c90b35fac24a97b4fab88dad5"
     },
     {
-      "source": "bbc",
-      "title": "Analysis: Arsenal find solace in Tzolis",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9ddp2ggnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "With two assists, forward Christos Tzolis starred on the left side of Arsenal's attack during their 3-0 Community Shield win.",
-      "published": "2026-08-16T16:29:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2519/live/9c827cb0-8a9a-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal 3-0 Manchester City: Community Shield – as it happened",
       "link": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
@@ -355,11 +355,51 @@
     },
     {
       "source": "sky",
-      "title": "LASK score again to halve Celtic aggregate lead and pushing for more LIVE!",
+      "title": "Wilson scores on full debut as Brentford hit Birmingham for six",
+      "link": "https://www.skysports.com/football/birmingham-city-vs-brentford/report/577421",
+      "summary": "Callum Wilson scored just six minutes into his full debut and captain Nathan Collins converted two headers as Brentford routed Championship side Birmingham 6-1.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-callum-wilson-brentford_7331317.jpg?20260825215933"
+    },
+    {
+      "source": "sky",
+      "title": "Ipswich latest: Bid made for Leverkusen midfielder",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-ipswich-town-news_7281011.jpg?20260623154649"
+    },
+    {
+      "source": "sky",
+      "title": "Nunez's halfway stunner helps Ipswich past Leicester",
+      "link": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431",
+      "summary": "Marcelino Nunez scored a sensational goal from the halfway line to help Ipswich claim a hard-fought 3-1 win over Leicester in the Carabao Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-marcelino-nunez_7331324.jpg?20260825220243"
+    },
+    {
+      "source": "sky",
+      "title": "West Ham hit back to thump four past Southampton",
+      "link": "https://www.skysports.com/football/southampton-vs-west-ham-united/report/577436",
+      "summary": "Teenager Josh Ayala scored twice on his full professional debut as West Ham came from behind to thrash Championship rivals Southampton 4-1 in the Carabao Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-jarrod-bowen-west-ham_7331301.jpg?20260825215411"
+    },
+    {
+      "source": "sky",
+      "title": "Coventry survive Plymouth scare to progress in Carabao Cup",
+      "link": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439",
+      "summary": "Premier League new boys Coventry survived an EFL Cup second-round scare at League One Plymouth before easing through 4-2 at Home Park.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-coventry-city_7331340.jpg?20260825220736"
+    },
+    {
+      "source": "sky",
+      "title": "Celtic throw away FOUR-goal lead as LASK force extra-time LIVE!",
       "link": "https://www.skysports.com/football/linz-ask-vs-celtic/live/577269",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-football-celtic-champions-league_7331221.jpg?20260825204404"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-football-celtic-champions-league_7331325.jpg?20260825220313"
     },
     {
       "source": "sky",
@@ -379,17 +419,9 @@
     },
     {
       "source": "sky",
-      "title": "Carabao Cup: Brentford, Leeds & Coventry all lead LIVE!",
-      "link": "https://www.skysports.com/football/live-blog/12040/13577036/carabao-cup-round-two-live-commentary-updates-scores-streams-and-team-news-with-leeds-brentford-west-ham-in-action",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-callum-wilson-brentford_7331197.jpg?20260825201811"
-    },
-    {
-      "source": "sky",
       "title": "Fernandes crowned PFA Players' Player of the Year as Shaw wins women's award",
       "link": "https://www.skysports.com/football/news/12040/13577089/bruno-fernandes-man-utd-captain-wins-2025-26-pfa-players-player-of-the-year-as-bunny-shaw-wins-womens-award",
-      "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season.",
+      "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season, as Manchester City's Bunny Shaw won the women's award for a second time.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bruno-fernandes-bunny-shaw_7331108.jpg?20260825183157"
     },
@@ -419,11 +451,27 @@
     },
     {
       "source": "sky",
-      "title": "Aston Villa latest: 'Talks begin with Chelsea over £65m striker deal'",
+      "title": "STUNNING! Nunez scores from near halfway line to seal Ipswich win",
+      "link": "https://www.skysports.com/watch/video/13577168/ipswich-v-leciester-marcelino-nunez-scores-from-near-the-halfway-line-in-stunning-strike-for-ipswich-against-leicester-in-the-carabao-cup",
+      "summary": "Marcelino Nunez scores from near the halfway line in a stunning strike for Ipswich against Leicester in the Carabao Cup.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-leicester_7331328.jpg?20260825220426"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa latest: 'Talks begin with Chelsea over £65m Jackson deal'",
       "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027"
+    },
+    {
+      "source": "sky",
+      "title": "Leeds get deserved breakthrough vs Forest through lovely James finish!",
+      "link": "https://www.skysports.com/watch/video/13577143/dan-james-claims-deserved-breakthrough-for-leeds-in-carabao-cup-tie-against-nottingham-forest",
+      "summary": "Dan James claims a well-deserved breakthrough for Leeds in their Carabao Cup tie against Nottingham Forest.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-leeds-nottingham-forest_7331254.jpg?20260825212458"
     },
     {
       "source": "sky",
@@ -464,54 +512,6 @@
       "summary": "Coventry stunned Plymouth with a quick-fire double as Taiwo Awoniyi opened his account for the club before Jack Rudoni added a second moments later.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-plymouth_7331185.jpg?20260825200218"
-    },
-    {
-      "source": "sky",
-      "title": "Abdulmalik releases statement as Boreham Wood reject ANOTHER £1m+ offer",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-abdul-abdulmalik_7330959.jpg?20260825162701"
-    },
-    {
-      "source": "sky",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "link": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-transfers-transfer_7312982.jpg?20260803150957"
-    },
-    {
-      "source": "sky",
-      "title": "Tour Championship will be played in a match play format from 2028",
-      "link": "https://www.skysports.com/golf/news/12040/13576998/pga-tour-tour-championship-to-be-played-in-a-match-play-format-from-2028-amid-huge-shake-up-to-season-ending-schedule",
-      "summary": "The PGA Tour has announced that the Tour Championship will be played in a two-week match play format as part of a new season-ending structure which will be implemented from the 2028 season.",
-      "published": null,
-      "image": "https://e0.365dm.com/25/09/1920x1080/skysports-tommy-fleetwood-tour-championship_7014888.jpg?20260825181926"
-    },
-    {
-      "source": "sky",
-      "title": "Your Views: What should Liverpool do with Wirtz?",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "source": "sky",
-      "title": "Warren thinks Fury-AJ fight will go ahead in America",
-      "link": "https://www.skysports.com/boxing/news/12040/13576995/tyson-fury-fight-with-anthony-joshua-will-go-ahead-in-2026-in-america-predicts-promoter-frank-warren",
-      "summary": "Frank Warren says he thinks a long-awaited heavyweight showdown between Tyson Fury and Anthony Joshua will go ahead in America despite claims the bout is in doubt.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-boxing-tyson-fury_7329017.jpg?20260823125152"
-    },
-    {
-      "source": "sky",
-      "title": "What is the reality of Villa's finances ahead of Deadline Day?",
-      "link": "https://www.skysports.com/football/news/12040/13576967/aston-villa-the-reality-of-the-finances-available-to-unai-emery-at-villa-park-following-a-summer-of-upheaval",
-      "summary": "All of this is a far cry from the euphoria of Istanbul in May, and that is what adds to the feeling of bemusement about how significant the changes have been to Aston Villa's squad and how quickly it has occurred.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-reporter-notebook_7330832.jpg?20260825140832"
     }
   ]
 }
