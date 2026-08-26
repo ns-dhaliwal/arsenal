@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-26T12:39:22.512626+00:00",
+  "lastUpdated": "2026-08-26T13:50:02.099475+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Why can't Real Madrid play at Anfield in the Champions League league phase?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg7k8jpxgjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Our Ask Me Anything team explains why Liverpool are not allowed to host Real Madrid in the Champions League's league phase",
+      "published": "2026-08-26T13:09:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d5/live/91e73c00-a142-11f1-9311-09d4e1fc9016.jpg"
+    },
     {
       "source": "bbc",
       "title": "When is the Champions League draw and who is in each pot?",
@@ -290,14 +298,6 @@
       "image": "https://i.guim.co.uk/img/media/d098d8f9d83787d54b1057a2d6a426cf0da01724/526_42_2888_2310/master/2888.jpg?width=140&quality=85&auto=format&fit=max&s=1308b81771a8eafdb20241a9f15ad446"
     },
     {
-      "source": "bbc",
-      "title": "Norwich struggles to assist king - Tzolis could be Arsenal gem",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwyee2rl9yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
-      "published": "2026-08-16T18:59:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08cb/live/48cee6b0-9992-11f1-b374-0b75862fe542.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsenal’s midfield depth signals ominous warning to title rivals – and Maresca’s City | Ed Aarons",
       "link": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league",
@@ -355,11 +355,83 @@
     },
     {
       "source": "sky",
+      "title": "Solheim Cup captain Nordqvist announces shock mid-season retirement",
+      "link": "https://www.skysports.com/golf/news/12040/13577373/anna-nordqvist-team-europes-solheim-cup-captain-announces-shock-mid-season-retirement-from-playing-professional-golf",
+      "summary": "Solheim Cup captain Anna Nordqvist has announced via social media that she will retire from playing professional golf after this week's FM Championship, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-anna-nordqvist-golf_7331853.jpg?20260826140931"
+    },
+    {
+      "source": "sky",
+      "title": "EFL latest: Wrexham set to complete two deals as medicals completed",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/25/12/1920x1080/skysports-ryan-reynolds-rob-mac_7109207.jpg?20251213173058"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea considering late move for Villa's Martinez",
+      "link": "https://www.skysports.com/football/news/12040/13577385/emiliano-martinez-transfer-news-chelsea-considering-late-move-for-aston-villa-and-argentina-goalkeeper",
+      "summary": "Chelsea are considering a late move for Aston Villa goalkeeper Emi Martinez.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-emiliano-martinez_7323112.jpg?20260816113331"
+    },
+    {
+      "source": "sky",
+      "title": "Hull latest: Deal for Stoke's Thomas could include Millar",
+      "link": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-hull-city-club-blog_7326699.jpg?20260820165339"
+    },
+    {
+      "source": "sky",
+      "title": "Brighton latest: Minteh still absent from training",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "Man City considering bid for Chelsea's Fernandez",
+      "link": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
+      "summary": "Manchester City are considering making a bid for Chelsea midfielder Enzo Fernandez before the transfer deadline.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-fernandez_7331664.jpg?20260826122332"
+    },
+    {
+      "source": "sky",
+      "title": "Celtic CL post-mortem: What went wrong and where do they go from here?",
+      "link": "https://www.skysports.com/football/news/12040/13577362/celtic-knocked-out-of-champions-league-how-will-the-hoops-respond-to-collapse-in-transfer-window",
+      "summary": "Celtic have spent the last couple of years making Champions League qualification look like a problem they simply cannot solve. But even by their recent standards, this was a collapse of remarkable proportions.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-celtic-oneill_7331804.jpg?20260826132232"
+    },
+    {
+      "source": "sky",
+      "title": "Sage provides updates on Mateta and Sarr - can Palace keep them?",
+      "link": "https://www.skysports.com/watch/video/13577368/crystal-palace-transfer-latest-sage-provides-update-on-jean-philippe-mateta-and-ismaila-sarr",
+      "summary": "Crystal Palace manager Pierre Sage provides a transfer update on Jean-Philippe Mateta and Ismaila Sarr and says he expects both of them to stay at the club.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-pierre-sage-crystal_7331813.jpg?20260826133410"
+    },
+    {
+      "source": "sky",
       "title": "Palace latest: Disasi joins on loan from Chelsea",
       "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+    },
+    {
+      "source": "sky",
+      "title": "Donald expects 'new faces' for Team Europe as Ryder Cup race begins",
+      "link": "https://www.skysports.com/golf/news/12040/13577351/ryder-cup-2027-luke-donald-expects-new-faces-for-team-europe-in-very-challenging-threepeat-bid-against-team-usa",
+      "summary": "Luke Donald insists it&#8217;s going to be \"very challenging\" to complete a historic Ryder Cup threepeat and expects \"new blood\" in Team Europe at Adare Manor next September.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-luke-donald-golf_7331808.png?20260826132420"
     },
     {
       "source": "sky",
@@ -379,11 +451,11 @@
     },
     {
       "source": "sky",
-      "title": "Man City considering bid for Chelsea's Fernandez",
-      "link": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
-      "summary": "Manchester City are considering making a bid for Enzo Fernandez before the deadline.",
+      "title": "Merson: If Watkins refused to play, it's disgusting - I don't see Emery staying",
+      "link": "https://www.skysports.com/football/news/12040/13576900/aston-villa-paul-merson-believes-unai-emery-could-leave-after-mass-sales-and-says-its-disgusting-if-ollie-watkins-refused-to-play",
+      "summary": "In his latest Sky Sports column, Paul Merson assesses Aston Villa's dreadful start to the season following their heavy defeat at Brighton.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-fernandez_7331664.jpg?20260826122332"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-premier-league-aston-villa_7330649.jpg?20260825101000"
     },
     {
       "source": "sky",
@@ -440,78 +512,6 @@
       "summary": "St Helens legend Jonny Lomax is to retire at the end of the 2026 Super League season, he announced on Tuesday.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-jonny-lomax-st-helens_7331403.jpg?20260826001446"
-    },
-    {
-      "source": "sky",
-      "title": "Serena and Alcaraz dazzle in mixed doubles before exit",
-      "link": "https://www.skysports.com/tennis/news/12040/13577085/serena-williams-and-carlos-alcaraz-exit-us-open-mixed-doubles-in-quarter-finals-top-seeds-novak-djokovic-and-aryna-sabalenka-out-in-first-round",
-      "summary": "Star pairing Serena Williams and Carlos Alcaraz reached the quarter-finals of the US Open mixed doubles before being beaten by fourth seeds Belinda Bencic and Flavio Cobolli.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-serena-williams-carlos-alcaraz_7331402.jpg?20260825234733"
-    },
-    {
-      "source": "sky",
-      "title": "Fresh apologies issued over golf advert showing woman pushed over",
-      "link": "https://www.skysports.com/golf/news/12040/13577320/pga-tour-chief-executive-questions-concerning-good-good-golf-video-showing-woman-pushed-over-in-new-driver-promo",
-      "summary": "PGA Tour chief executive Brian Rolapp has questioned whether Good Good Golf took enough accountability for their controversial video promoting a new Callaway driver.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-callaway-golf-ball_7331705.jpg?20260826114842"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds earn second win at Forest in three days in Carabao Cup",
-      "link": "https://www.skysports.com/football/nottingham-forest-vs-leeds-united/report/577433",
-      "summary": "Leeds United registered a second win at Nottingham Forest in three days as they booked their spot in the Carabao Cup third round.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-forest_7331339.jpg?20260826094345"
-    },
-    {
-      "source": "sky",
-      "title": "All Blacks need late surge to avoid shock defeat to Lions",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13577120/new-zealands-tour-of-south-africa-all-blacks-come-from-behind-to-beat-lions-41-35-after-huge-scare-in-tour-match",
-      "summary": "New Zealand fought back from an 18-point &#8204;deficit in the second half to beat the Lions 41-35 and avoid a shock defeat at Ellis Park on Tuesday.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-new-zealand-the-lions_7331391.jpg?20260825231228"
-    },
-    {
-      "source": "sky",
-      "title": "Wilson scores on full debut as Brentford hit Birmingham for six",
-      "link": "https://www.skysports.com/football/birmingham-city-vs-brentford/report/577421",
-      "summary": "Callum Wilson scored just six minutes into his full debut and captain Nathan Collins converted two headers as Brentford routed Championship side Birmingham 6-1.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-callum-wilson-brentford_7331317.jpg?20260825215933"
-    },
-    {
-      "source": "sky",
-      "title": "Inside the rebuild of Borussia Dortmund",
-      "link": "https://www.skysports.com/football/news/12040/13574800/how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-with-youth-under-niko-kovac",
-      "summary": "There is optimism at Borussia Dortmund again. A new season upon the German giants and the sense of a team not just rebuilding but recapturing something lost. &#8220;Overall, we are mixing a good team,&#8221; explains head coach Niko Kovac at the club&#8217;s training ground.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-niko-kovac-borussia-dortmund_7330136.jpg?20260824152301"
-    },
-    {
-      "source": "sky",
-      "title": "Warren: Itauma can secure status as sporting icon with world title",
-      "link": "https://www.skysports.com/boxing/news/12040/13577311/moses-itauma-vs-filip-hrgovic-world-title-would-earn-british-rising-star-sporting-icon-status-says-frank-warren",
-      "summary": "Moses Itauma can secure sporting icon status that transcends boxing if he completes his historic world title ascent, says Frank Warren.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-itauma-hrgovic_7331687.jpg?20260826114019"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Man City set for late Fernandez move as Chelsea replacement emerges",
-      "link": "https://www.skysports.com/football/news/12040/13577214/enzo-fernandez-transfer-news-manchester-city-to-make-late-move-for-chelsea-midfielder-paper-talk",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Tottenham agree deal for Man City's Marmoush",
-      "link": "https://www.skysports.com/football/news/12040/13577289/omar-marmoush-transfer-news-tottenham-agree-deal-to-sign-man-city-forward-on-loan-with-60m-obligation-to-buy",
-      "summary": "Tottenham&#160;have agreed a deal to sign&#160;Omar Marmoush from Manchester City.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-omar-marmoush-manchester_7317562.jpg?20260809142623"
     }
   ]
 }
