@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29T03:00:19.207379+00:00",
+  "lastUpdated": "2026-08-29T10:39:30.949800+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Salmon signs first professional contract",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpwl2rkrjn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal defender Marli Salmon signs his first professional contract on his 17th birthday.",
+      "published": "2026-08-29T08:58:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa0/live/199d55d0-a387-11f1-9e7c-cb942f2e97d9.jpg"
+    },
     {
       "source": "guardian",
       "title": "Who was given the toughest fixtures in the Champions League draw?",
@@ -322,14 +330,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f8/live/07dcc7a0-970b-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Stats that show Premier League is getting more competitive",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
-      "published": "2026-08-17T06:41:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f059a560-99a0-11f1-a10a-71ff76b28954.jpg"
-    },
-    {
       "source": "guardian",
       "title": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
       "link": "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
@@ -355,6 +355,70 @@
     },
     {
       "source": "sky",
+      "title": "Start delayed at Lord's as rain halts England's dominance against Pakistan LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-lords-cricket_7334350.jpg?20260829103358"
+    },
+    {
+      "source": "sky",
+      "title": "F1 contracts: How long is each driver signed up for?",
+      "link": "https://www.skysports.com/f1/news/12040/13511938/f1-driver-contracts-how-long-are-lewis-hamilton-max-verstappen-lando-norris-and-other-formula-1-stars-signed-for-ahead-of-2026-season",
+      "summary": "A look at how long each Formula 1 driver's contract is believed to be, as it stands in 2026, amid the potential for some key moves heading into the 2027 season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-f1-franco-colapinto_7174707.jpg?20260225130238"
+    },
+    {
+      "source": "sky",
+      "title": "'Nowhere else I want to be' - Norris extends McLaren contract until 2030",
+      "link": "https://www.skysports.com/f1/news/12040/13577711/lando-norris-mclaren-driver-signs-contract-extension-until-2030-with-target-of-more-world-championships",
+      "summary": "Reigning Formula 1 world champion Lando Norris has extended his contract with McLaren until at least 2030.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lando-norris-mclaren_7332556.jpg?20260827113701"
+    },
+    {
+      "source": "sky",
+      "title": "Scaffolding returns to site of viral O'Sullivan 'zombie-like' mural in Sheffield",
+      "link": "https://www.skysports.com/snooker/news/12040/13578435/ronnie-osullivan-scaffolding-returns-to-site-of-viral-zombie-like-mural-of-the-rocket-in-sheffield",
+      "summary": "Scaffolding has been put back up at a snooker club wall where its mural of Ronnie O'Sullivan went viral - with some comparing it to a zombie.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-mural-ronnie-osullivan_7334292.jpg?20260829073806"
+    },
+    {
+      "source": "sky",
+      "title": "Ghostwriter, Tenability and Silawi clash at Windsor",
+      "link": "https://www.skysports.com/racing/news/12040/13577891/today-on-sky-sports-racing-chepstow-windsor-and-saratoga",
+      "summary": "We have an action-packed day&#8217;s racing on Saturday with flat action from Chepstow, Windsor and Saratoga, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-windsor-racing_7254785.jpg?20260521135548"
+    },
+    {
+      "source": "sky",
+      "title": "City thrash Palace to give Maresca two wins from two",
+      "link": "https://www.skysports.com/watch/video/13578387/crystal-palace-1-4-manchester-city-premier-league-highlights",
+      "summary": "Highlights from Crystal Palace against Manchester City in the Premier League.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-crystal-palace-man-city_7334186.jpg?20260828220743"
+    },
+    {
+      "source": "sky",
+      "title": "Fight of the year? Mayer and Cameron seek to cement greatness",
+      "link": "https://www.skysports.com/boxing/news/12040/13578029/mayer-vs-cameron-mikaela-mayer-and-chantelle-cameron-seek-to-cement-boxing-greatness-in-clash-of-pound-for-pound-superstars",
+      "summary": "It was cordial, until it wasn't. Courteous, until it wasn't. Captivating, already.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-mikaela-mayer-chantelle-cameron_7334046.jpg?20260828200354"
+    },
+    {
+      "source": "sky",
+      "title": "Barcola set to sign Liverpool contract to 2031",
+      "link": "https://www.skysports.com/football/news/12040/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
+      "summary": "Bradley Barcola is set to sign a Liverpool contract to 2031 after the Premier League club reached an agreement with Paris Saint-Germain over the structure of the transfer.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bradley-barcola-psg_7334305.jpg?20260829081732"
+    },
+    {
+      "source": "sky",
       "title": "Wimbledon star Fery through to first career ATP final in Winston-Salem",
       "link": "https://www.skysports.com/tennis/news/12040/13578421/arthur-fery-britains-wimbledon-hero-reaches-winston-salem-open-final-after-his-opponent-james-duckworth-retires-injured",
       "summary": "Wimbledon star Arthur Fery continued his dream summer by reaching the final of the Winston-Salem Open on Friday.",
@@ -368,6 +432,14 @@
       "summary": "European Solheim Cup players Lottie Woad and Charley Hull are six shots off the pace at the LPGA Tour's FM Championship with US team rival Allisen Corpuz holding a share of the lead heading into the weekend.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-charley-hull-fm-championship_7334258.jpg?20260829004806"
+    },
+    {
+      "source": "sky",
+      "title": "Gakpo starts for Liverpool with Delap on Forest bench LIVE!",
+      "link": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554"
     },
     {
       "source": "sky",
@@ -403,7 +475,7 @@
     },
     {
       "source": "sky",
-      "title": "Wrexham's winless start continues with defeat to Birmingham",
+      "title": "Parkinson fumes at 'softest goals' as Wrexham beaten by Birmingham",
       "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/report/560533",
       "summary": "Wrexham's winless start to the season was extended to four games in all competitions after they were beaten 2-1 by Birmingham at the Racecourse Ground.",
       "published": null,
@@ -419,15 +491,15 @@
     },
     {
       "source": "sky",
-      "title": "Penge storms ahead on second rain-hit day at British Masters",
+      "title": "Penge maintains second-round lead following rain delays at British Masters",
       "link": "https://www.skysports.com/golf/news/12040/13578266/british-masters-marco-penge-makes-big-move-in-delayed-second-round-amid-continued-stormy-conditions-to-end-day-two-ahead",
-      "summary": "Marco Penge leads by two shots midway through the second round of the rain-affected Husqvarna British Masters after another day of stormy weather at The Belfry.",
+      "summary": "Marco Penge leads by a shot after the conclusion of his second round following a rain-affected Husqvarna British Masters amid another day of stormy weather at The Belfry.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-marco-penge-dp-world-tour_7334049.jpg?20260828200442"
     },
     {
       "source": "sky",
-      "title": "PL Predictions: Back Spurs to bounce back against Newcastle",
+      "title": "PL Predictions: Spurs to bounce back against Newcastle",
       "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
       "summary": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
       "published": null,
@@ -440,78 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334060.jpg?20260828201928"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy's Tour Championship hopes fade as Scheffler chases Hovland on day two",
-      "link": "https://www.skysports.com/watch/video/13578416/tour-championship-day-two-highlights",
-      "summary": "Highlights from day two of the Tour Championship held at East Lake Golf Club in Atlanta, Georgia.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-golf-hovland_7334250.jpg?20260828233621"
-    },
-    {
-      "source": "sky",
-      "title": "'Box-office' Archer spell stirs 'relentless' England bowling display",
-      "link": "https://www.skysports.com/cricket/news/12040/13578213/jofra-archer-englands-box-office-fast-bowler-touches-94-mph-in-blistering-spell-against-pakistan-at-lords",
-      "summary": "Jofra Archer bowled the fastest opening spell of his Test career as England produced a relentless, high-quality bowling display on day two of the second Test against Pakistan at Lord&#8217;s.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jofra-archer_7333711.jpg?20260828160000"
-    },
-    {
-      "source": "sky",
-      "title": "Robinson and Archer star as England take 261-run lead vs Pakistan",
-      "link": "https://www.skysports.com/cricket/news/12040/13578255/england-vs-pakistan-ollie-robinson-and-jofra-archer-skittle-visitors-as-joe-roots-side-take-261-run-lead-in-second-test",
-      "summary": "Ollie Robinson and Jofra Archer rattled their way through Pakistan's batting order as England took a 261-run lead on day two of the second Test at Lord's.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-ollie-robinson-england-test-cricket_7333699.jpg?20260828154427"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds beat St Helens to go back top as rivals' play-off hopes dented",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13578174/super-league-leeds-rhinos-return-to-the-top-of-the-league-with-win-at-st-helens-as-huddersfield-and-catalans-also-triumph",
-      "summary": "Leeds returned to the top of the Betfred Super League with a convincing 34-6 victory at St Helens on Friday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-newman-leeds-rhinos_7334233.jpg?20260828230841"
-    },
-    {
-      "source": "sky",
-      "title": "Itauma slapped after pushing Hrgovic off stage at fiery weigh-in",
-      "link": "https://www.skysports.com/boxing/news/12040/13578198/moses-itauma-vs-filip-hrgovic-weigh-in-turns-heated-with-push-and-slap-after-final-face-off-for-ibf-heavyweight-world-title-fight",
-      "summary": "Moses Itauma pushed Filip Hrgovic off stage before receiving a slap to the face from his opponent at a heated final face-off at the weigh-in ahead of their heavyweight world title fight in London on Saturday.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-moses-itauma-boxing_7333811.jpg?20260828174342"
-    },
-    {
-      "source": "sky",
-      "title": "Redknapp: Cherki is a genius",
-      "link": "https://www.skysports.com/football/news/12040/13578411/rayan-cherki-is-a-genius-who-just-painted-a-masterpiece-for-man-city-at-crystal-palace-says-jamie-redknapp",
-      "summary": "Jamie Redknapp hailed Rayan Cherki as a genius after he scored twice to inspire Manchester City to a 4-1 win over Crystal Palace at Selhurst Park.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rayan-cherki-man-city_7334225.jpg?20260828225136"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Arsenal hold talks with Real Madrid for Endrick",
-      "link": "https://www.skysports.com/football/news/12040/13578352/arsenal-transfer-news-gunners-hold-talks-for-real-madrid-and-brazil-forward-endrick-paper-talk",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Europa League and Conference League draws: British teams learn opponents",
-      "link": "https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents",
-      "summary": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-europa-league-conference-league_7330161.jpg?20260824160843"
-    },
-    {
-      "source": "sky",
-      "title": "Cherki magic inspires vintage Man City victory at Palace",
-      "link": "https://www.skysports.com/football/crystal-palace-vs-manchester-city/report/559458",
-      "summary": "Rayan Cherki did his best Lionel Messi impression, producing moments of pure magic as Enzo Maresca's Manchester City stayed perfect in the Premier League with a 4-1 win over Crystal Palace at Selhurst Park.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rayan-cherki-man-city_7334136.jpg?20260828212152"
     }
   ]
 }
