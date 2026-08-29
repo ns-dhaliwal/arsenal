@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29T10:39:30.949800+00:00",
+  "lastUpdated": "2026-08-29T15:24:19.149494+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Who was given the toughest fixtures in the Champions League draw?",
+      "link": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
+      "summary": "Liverpool and Arsenal have a decent set of fixtures, but Manchester City and Aston Villa do not have it so goodBy Opta AnalystThe 36 clubs in the Champions League know who they will play in the league phase, but which team has the kindest draw and who has the toughest assignment? Each side knows their eight opponents, but, given no two teams face the same set of opponents, this is not a level play",
+      "published": "2026-08-29T12:24:41+00:00",
+      "image": "https://i.guim.co.uk/img/media/6455755a8c53396653f10a3c4451c4935f7a2dd4/500_0_4773_3819/master/4773.jpg?width=140&quality=85&auto=format&fit=max&s=fbf8670224279d518bddcf91008ebc20"
+    },
     {
       "source": "bbc",
       "title": "Salmon signs first professional contract",
@@ -8,14 +16,6 @@
       "summary": "Arsenal defender Marli Salmon signs his first professional contract on his 17th birthday.",
       "published": "2026-08-29T08:58:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aa0/live/199d55d0-a387-11f1-9e7c-cb942f2e97d9.jpg"
-    },
-    {
-      "source": "guardian",
-      "title": "Who was given the toughest fixtures in the Champions League draw?",
-      "link": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
-      "summary": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so goodBy Opta AnalystThe 36 clubs in the Champions League know who they will play in the league phase, but which team has the kindest draw and who has the toughest assignment? Each side knows their eight opponents but, given that no two teams face the same set of opponents, this is not a level playing f",
-      "published": "2026-08-28T14:00:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/6455755a8c53396653f10a3c4451c4935f7a2dd4/500_0_4773_3819/master/4773.jpg?width=140&quality=85&auto=format&fit=max&s=fbf8670224279d518bddcf91008ebc20"
     },
     {
       "source": "guardian",
@@ -355,11 +355,99 @@
     },
     {
       "source": "sky",
-      "title": "Start delayed at Lord's as rain halts England's dominance against Pakistan LIVE!",
+      "title": "Fulham latest: Talks held to sign Romanian right-back",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
+    },
+    {
+      "source": "sky",
+      "title": "Munoz rescues point for Liverpool as Iraola's wait for a win goes on",
+      "link": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/report/559460",
+      "summary": "Victor Munoz thumped in a deflected leveller to rescue a point for Liverpool in a 2-2 draw with Nottingham Forest.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-victor-munoz-liverpool_7334605.jpg?20260829142212"
+    },
+    {
+      "source": "sky",
+      "title": "West Ham level at Watford; Norwich, Saints lead - EFL LIVE!",
+      "link": "https://www.skysports.com/football/watford-vs-west-ham-united/live/560531",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-watf-watford-west-ham_7334804.jpg?20260829161146"
+    },
+    {
+      "source": "sky",
+      "title": "Everton latest: Forest ready to pay £40m for Armstrong",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
+    },
+    {
+      "source": "sky",
+      "title": "Swansea cruise to away win at struggling Derby",
+      "link": "https://www.skysports.com/football/derby-county-vs-swansea-city/report/560527",
+      "summary": "Swansea remained unbeaten in this season's Championship after goals from Joseph Opoku, Eom Ji-sung and Ronald secured a convincing 3-0 win at Derby.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-swansea-city-ji-sung-eom_7334620.jpg?20260829143127"
+    },
+    {
+      "source": "sky",
+      "title": "Sublime Scott opener gives Bournemouth lead against Everton LIVE!",
+      "link": "https://www.skysports.com/football/bournemouth-vs-everton/live/559455",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alex-scott-bournemouth_7334758.jpg?20260829154710"
+    },
+    {
+      "source": "sky",
+      "title": "Wolves ease to victory against Stoke",
+      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-stoke-city/report/560532",
+      "summary": "Wolves came from behind to beat Stoke 4-1 and continue their unbeaten start in the Sky Bet Championship.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wolves-fc_7334481.jpg?20260829132009"
+    },
+    {
+      "source": "sky",
+      "title": "Champions League fixture schedule confirmed",
+      "link": "https://www.skysports.com/football/news/12040/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
+      "summary": "The Champions League fixture dates for Arsenal, Manchester City, Manchester United, Liverpool and Aston Villa have been confirmed.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-football-champions-league_7332655.jpg?20260827125607"
+    },
+    {
+      "source": "sky",
+      "title": "Offside controversy? Should Boro goal have been disallowed against West Brom?",
+      "link": "https://www.skysports.com/watch/video/13578528/offside-controversy-should-boro-goal-have-been-disallowed-against-west-brom",
+      "summary": "Should Will Lankshear's goal for Middlesbrough against West Brom have been disallowed?",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lankshear-boro-west-brom_7334539.jpg?20260829135120"
+    },
+    {
+      "source": "sky",
+      "title": "Savio absent from Spurs squad as Marmoush starts vs Newcastle LIVE!",
+      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/live/559463",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-spurs-newcastle-now_7333364.jpg?20260828085807"
+    },
+    {
+      "source": "sky",
+      "title": "Analysis: Why is Root struggling with lbw dismissals?",
+      "link": "https://www.skysports.com/watch/video/13578472/england-cricket-why-is-joe-root-struggling-with-lbw-dismissals",
+      "summary": "Sky Sports' Nasser Hussain and Michael Atherton discuss the reasons behind Joe Root's recent vulnerability to lbw dismissals in Test cricket.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-root-cricket_7334374.jpg?20260829112430"
+    },
+    {
+      "source": "sky",
+      "title": "England lead over Pakistan passes 300 before Brook, Smith fall LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13578445/england-vs-pakistan-second-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-lords-cricket_7334350.jpg?20260829103358"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-harry-brook-england-mens-test-cricket_7331698.jpg?20260826114522"
     },
     {
       "source": "sky",
@@ -395,6 +483,22 @@
     },
     {
       "source": "sky",
+      "title": "Celtic two up vs Falkirk after Duran double LIVE!",
+      "link": "https://www.skysports.com/football/celtic-vs-falkirk/live/558352",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-celtic-camilo-duran_7334709.jpg?20260829151708"
+    },
+    {
+      "source": "sky",
+      "title": "Hull improved at Coventry but still goalless LIVE!",
+      "link": "https://www.skysports.com/football/coventry-city-vs-hull-city/live/559457",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-taiwo-awoniyi-john-egan_7334768.jpg?20260829155426"
+    },
+    {
+      "source": "sky",
       "title": "City thrash Palace to give Maresca two wins from two",
       "link": "https://www.skysports.com/watch/video/13578387/crystal-palace-1-4-manchester-city-premier-league-highlights",
       "summary": "Highlights from Crystal Palace against Manchester City in the Premier League.",
@@ -403,115 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Fight of the year? Mayer and Cameron seek to cement greatness",
-      "link": "https://www.skysports.com/boxing/news/12040/13578029/mayer-vs-cameron-mikaela-mayer-and-chantelle-cameron-seek-to-cement-boxing-greatness-in-clash-of-pound-for-pound-superstars",
-      "summary": "It was cordial, until it wasn't. Courteous, until it wasn't. Captivating, already.",
+      "title": "Lankshear scores twice as Boro beat West Brom",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-west-bromwich-albion/report/560528",
+      "summary": "Will Lankshear made it six goals in five games following his summer move from Tottenham as Middlesbrough's strong start to the season continued with a 3-1 home win over West Brom.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-mikaela-mayer-chantelle-cameron_7334046.jpg?20260828200354"
-    },
-    {
-      "source": "sky",
-      "title": "Barcola set to sign Liverpool contract to 2031",
-      "link": "https://www.skysports.com/football/news/12040/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
-      "summary": "Bradley Barcola is set to sign a Liverpool contract to 2031 after the Premier League club reached an agreement with Paris Saint-Germain over the structure of the transfer.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-bradley-barcola-psg_7334305.jpg?20260829081732"
-    },
-    {
-      "source": "sky",
-      "title": "Wimbledon star Fery through to first career ATP final in Winston-Salem",
-      "link": "https://www.skysports.com/tennis/news/12040/13578421/arthur-fery-britains-wimbledon-hero-reaches-winston-salem-open-final-after-his-opponent-james-duckworth-retires-injured",
-      "summary": "Wimbledon star Arthur Fery continued his dream summer by reaching the final of the Winston-Salem Open on Friday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-arthur-fery-tennis_7334257.jpg?20260829004455"
-    },
-    {
-      "source": "sky",
-      "title": "Hull, Woad chasing US Solheim Cup rival as Korda just makes cut",
-      "link": "https://www.skysports.com/golf/news/12040/13578298/fm-championship-lottie-woad-charley-hull-six-off-the-pace-of-co-leader-allisen-corpuz-as-nelly-korda-just-makes-cut",
-      "summary": "European Solheim Cup players Lottie Woad and Charley Hull are six shots off the pace at the LPGA Tour's FM Championship with US team rival Allisen Corpuz holding a share of the lead heading into the weekend.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-charley-hull-fm-championship_7334258.jpg?20260829004806"
-    },
-    {
-      "source": "sky",
-      "title": "Gakpo starts for Liverpool with Delap on Forest bench LIVE!",
-      "link": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/live/559460",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554"
-    },
-    {
-      "source": "sky",
-      "title": "Super League's Final Charge: Play-off spots taking shape with two rounds left",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13570739/super-leagues-final-charge-leeds-rhinos-wakefield-trinity-wigan-warriors-warrington-wolves-hull-kr-leigh-leopards-and-st-helens-in-contention",
-      "summary": "The Super League season is in to its final three rounds of action and, with it, a whole lot of drama is unfolding as the Final Charge ramps up.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-super-league-rugby-league_7316787.jpg?20260808152136"
-    },
-    {
-      "source": "sky",
-      "title": "Order of play for opening Sunday with four Brits and Djokovic in action",
-      "link": "https://www.skysports.com/tennis/news/12040/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more",
-      "summary": "Take a look at Sunday's opening singles order of play at the US Open, Flushing Meadows, New York.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-novak-djokovic-tennis_7334237.jpg?20260828231427"
-    },
-    {
-      "source": "sky",
-      "title": "Greaves denied by Cross in last-leg thriller on European Tour debut",
-      "link": "https://www.skysports.com/darts/news/12040/13578173/hungarian-darts-trophy-beau-greaves-just-loses-out-to-rob-cross-in-last-leg-decider-on-european-tour-debut",
-      "summary": "Beau Greaves took Rob Cross to a last-leg decider before losing out 6-5 on her European Tour debut in the first round of the Hungarian Darts Trophy.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rob-cross-darts-hungarian-darts-trophy_7334255.jpg?20260828235350"
-    },
-    {
-      "source": "sky",
-      "title": "Scheffler chases Hovland at Tour Championship as McIlroy's hopes fade",
-      "link": "https://www.skysports.com/golf/news/12040/13578299/tour-championship-scottie-scheffler-chasing-viktor-hovland-in-fedexcup-finale-as-rory-mcilroy-falls-further-back",
-      "summary": "Viktor Hovland holds a share of the lead at the halfway stage of the PGA Tour's season-ending Tour Championship, with Scottie Scheffler firmly in FedExCup contention.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-scottie-scheffler_7334236.jpg?20260828231121"
-    },
-    {
-      "source": "sky",
-      "title": "Parkinson fumes at 'softest goals' as Wrexham beaten by Birmingham",
-      "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/report/560533",
-      "summary": "Wrexham's winless start to the season was extended to four games in all competitions after they were beaten 2-1 by Birmingham at the Racecourse Ground.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334153.jpg?20260828213501"
-    },
-    {
-      "source": "sky",
-      "title": "'I need competition' - Alcaraz returns from injury in time for US Open defence",
-      "link": "https://www.skysports.com/tennis/news/12040/13578200/us-open-carlos-alcaraz-admits-he-needs-competition-as-he-prepares-for-his-title-defence-after-wrist-injury",
-      "summary": "\"I need competition.\"",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-carlos-alcaraz-tennis_7334004.jpg?20260828193708"
-    },
-    {
-      "source": "sky",
-      "title": "Penge maintains second-round lead following rain delays at British Masters",
-      "link": "https://www.skysports.com/golf/news/12040/13578266/british-masters-marco-penge-makes-big-move-in-delayed-second-round-amid-continued-stormy-conditions-to-end-day-two-ahead",
-      "summary": "Marco Penge leads by a shot after the conclusion of his second round following a rain-affected Husqvarna British Masters amid another day of stormy weather at The Belfry.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-marco-penge-dp-world-tour_7334049.jpg?20260828200442"
-    },
-    {
-      "source": "sky",
-      "title": "PL Predictions: Spurs to bounce back against Newcastle",
-      "link": "https://www.skysports.com/football/news/12040/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933"
-    },
-    {
-      "source": "sky",
-      "title": "Wrexham 1-2 Birmingham highlights",
-      "link": "https://www.skysports.com/football/wrexham-vs-birmingham-city/live/560533",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-phil-neumann-birmingham_7334060.jpg?20260828201928"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836"
     }
   ]
 }
