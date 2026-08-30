@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-30T12:30:14.498980+00:00",
+  "lastUpdated": "2026-08-30T17:07:37.311008+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Barcelona close to deal for Arsenal's Jesus",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m.",
+      "published": "2026-08-30T16:01:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bd/live/0cb9e950-a477-11f1-bed8-470734b5b662.jpg"
+    },
     {
       "source": "bbc",
       "title": "Hamburg in advanced talks for Arsenal's Vieira",
@@ -306,14 +314,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/71150120-9b10-11f1-bb80-c1b1e1adeea5.jpg"
     },
     {
-      "source": "bbc",
-      "title": "How do Arsenal fans rate their summer signings?",
-      "link": "https://www.bbc.co.uk/sport/videos/c5yvdrx3nwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "We asked Arsenal fans what they really think of their new signings before their 3-0 victory in the Community Shield against Manchester City.",
-      "published": "2026-08-18T10:29:25+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f0/live/64993720-9aef-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
       "link": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona",
@@ -355,163 +355,163 @@
     },
     {
       "source": "sky",
-      "title": "Coventry latest: Man City youngster Mfuni joins Sky Blues on loan",
-      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Tour Championship LIVE! McIlroy chases Hovland in FedExCup finale",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13578968/tour-championship-final-round-live-latest-updates-highlights-as-scottie-scheffler-rory-mcilroy-chase-viktor-hovland",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-tour-championship_7335790.jpg?20260830163138"
     },
     {
       "source": "sky",
-      "title": "Spurs and Everton in advanced talks over Ndiaye and Richarlison",
-      "link": "https://www.skysports.com/football/news/12040/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals",
-      "summary": "Tottenham and Everton are in advanced talks over transfers for Iliman Ndiaye and Richarlison.",
+      "title": "Brighton latest: Three away goals should be enough to take something, says Hurzeler",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-iliman-ndiaye-richarlison_7335450.jpg?20260830103520"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
     },
     {
       "source": "sky",
-      "title": "Robinson strikes twice in over as England hunt series win vs Pakistan LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13578951/england-vs-pakistan-second-test-day-four-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win",
-      "summary": "",
+      "title": "Brook catch seals victory at Lord's | England win series!",
+      "link": "https://www.skysports.com/watch/video/13579166/england-v-pakistan-harry-brook-takes-final-catch-to-seal-test-series-at-lords",
+      "summary": "The moment Harry Brook caught Mohammad Ali off Josh Tongue to complete England's 194-run victory at Lord's and seal an unassailable 2-0 series lead over Pakistan.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-england-pakistan_7335900.jpg?20260830175813"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea beat Brighton in seven-goal thriller to continue Alonso's winning start",
+      "link": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/report/559456",
+      "summary": "Chelsea held off a Brighton fightback to clinch a thrilling 4-3 victory and continue their winning start under manager Xabi Alonso.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cole-palmer-chelsea_7335728.jpg?20260830154622"
+    },
+    {
+      "source": "sky",
+      "title": "England seal series victory against Pakistan as Robinson shines",
+      "link": "https://www.skysports.com/cricket/news/12040/13579083/england-vs-pakistan-joe-roots-side-seal-series-victory-in-second-test-at-lords-as-ruthless-ollie-robinson-shines-again",
+      "summary": "Joe Root&#8217;s second stint as England captain got off to a flying start as his side cruised to a comfortable 194-run win over Pakistan at Lord&#8217;s to seal the series, going 2-0 up with a game to go.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ollie-robinson_7325716.jpg?20260819144334"
     },
     {
       "source": "sky",
-      "title": "Chelsea sign Martinez in £7.5m deal from Villa",
-      "link": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
-      "summary": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-emiliano-martinez_7335481.jpg?20260830115012"
-    },
-    {
-      "source": "sky",
-      "title": "Hrgovic: Itauma is 'amazing' but boxed like an 'amateur'",
-      "link": "https://www.skysports.com/boxing/news/12040/13578936/filip-hrgovic-moses-itauma-amazing-but-boxed-like-an-amateur-in-thrilling-heavyweight-fight-at-the-o2",
-      "summary": "Filip Hrgovic praised Moses Itauma after his shock ninth-round stoppage but said his opponent had boxed &#8220;like an amateur&#8221;.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-filip-hrgovic-moses-itauma_7335406.jpg?20260830081349"
-    },
-    {
-      "source": "sky",
-      "title": "US Open key questions: Is Alcaraz fit? Will Sabalenka make history?",
-      "link": "https://www.skysports.com/tennis/news/12040/13578913/us-open-key-questions-gigi-salmon-dissects-the-draws-with-carlos-alcaraz-novak-djokovic-aryna-sabalenka-and-coco-gauff-in-the-mix",
-      "summary": "The US Open, of all the four slams, is notoriously the hardest to predict the winners of as it falls at a time of year when eight months into the season the players are more likely than not nursing aches and pains with their bodies battered from the grind of the tour.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-carlos-alcaraz-aryna-sabalenka_7335369.jpg?20260830032912"
-    },
-    {
-      "source": "sky",
-      "title": "US Open predictions: The Sky Sports Tennis panel pick their winners!",
-      "link": "https://www.skysports.com/tennis/news/12040/13577528/us-open-predictions-carlos-alcaraz-and-coco-gauff-the-sky-sports-tennis-panel-pick-their-winners-and-dark-horses-ahead-of-the-grand-slam-in-new-york",
-      "summary": "The Sky Sports Tennis panel pick their winners and dark horses ahead of the final Grand Slam of 2026 at the US Open.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-us-open-tennis-predictions_7332481.jpg?20260827100723"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: British raiders on show at Deauville",
-      "link": "https://www.skysports.com/racing/news/12040/13578151/today-on-sky-sports-racing-british-raiders-into-the-sky-and-mitbaahy-on-show-at-deauville",
-      "summary": "There is plenty of British interest on a quality card at Deauville this Sunday, all live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/24/08/1920x1080/skysports-al-aasy-horseracing_6658917.jpg?20240817142450"
-    },
-    {
-      "source": "sky",
-      "title": "Norris: I can be forceful to get what I want at McLaren",
-      "link": "https://www.skysports.com/f1/news/12040/13578159/lando-norris-mclaren-driver-says-he-can-be-forceful-to-get-what-he-wants-with-team-after-signing-new-contract",
-      "summary": "Reigning world champion Lando Norris says he is in a position at McLaren where he \"can be forceful to try to get what I want\" after signing a contract extension with the team.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-lando-norris-mclaren_7333696.jpg?20260830115645"
-    },
-    {
-      "source": "sky",
-      "title": "Fernandez absent, Martinez starts for Chelsea against Brighton LIVE!",
-      "link": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
+      "title": "Sunderland latest: We want to rebuild our home fortress, says Le Bris",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-emiliano-martinez_7335502.jpg?20260830125147"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
     },
     {
       "source": "sky",
-      "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
-      "link": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Turning point? Rangers lead Aberdeen LIVE!",
-      "link": "https://www.skysports.com/football/aberdeen-vs-rangers/live/558351",
+      "title": "EFL latest: Sheff Utd hijack Derby's move for Leicester's Choudhury",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-lawrence-shankland_7335522.jpg?20260830130558"
+      "image": "https://e2.365dm.com/25/04/1920x1080/skysports-choudhury-hamza-sheffield-united_6893675.jpg?20250422121307"
     },
     {
       "source": "sky",
-      "title": "Warrington continue winning streak after edging Hull FC and booking play-off spot!",
-      "link": "https://www.skysports.com/watch/video/13578907/hull-fc-14-16-warrington-wolves-super-league-highlights",
-      "summary": "Highlights of the Super League match between Hull FC and Warrington Wolves.",
+      "title": "'That was mighty low!' | Flyover SO CLOSE to stadium roof before SA-NZ Test!",
+      "link": "https://www.skysports.com/watch/video/13578870/that-was-mighty-low-flyover-so-close-to-stadium-roof",
+      "summary": "Two planes were involved in a very close call doing a flyover before South Africa and New Zealand's rugby union Test in Cape Town.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rugby-warrington_7335341.jpg?20260829232740"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-planes-too-low_7335249.jpg?20260829211619"
     },
     {
       "source": "sky",
-      "title": "Sunderland vs Fulham team news LIVE!",
-      "link": "https://www.skysports.com/football/sunderland-vs-fulham/live/559462",
+      "title": "England continue to chip away at Pakistan whilst Saud battles hard for the visitors",
+      "link": "https://www.skysports.com/watch/video/13579009/england-vs-pakistan-2nd-test-day-four-morning-session-highlights",
+      "summary": "Highlights from the morning and afternoon session on day four of the second Test match between England and Pakistan.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-england-pakistan_7335814.jpg?20260830165234"
+    },
+    {
+      "source": "sky",
+      "title": "Leeds latest: Farke hopeful of more signings",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-fulham_7329892.jpg?20260824105654"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
     },
     {
       "source": "sky",
-      "title": "Wilson on Leeds bench vs Brentford LIVE!",
-      "link": "https://www.skysports.com/football/leeds-united-vs-brentford/live/559459",
+      "title": "Fulham latest: Arbeloa laments 'terrible' display at Sunderland",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-leeds-brentford-premier-league_7329889.jpg?20260824105552"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
     },
     {
       "source": "sky",
-      "title": "Wakefield secure play-off spot after beating York!",
-      "link": "https://www.skysports.com/watch/video/13578909/wakefield-trinity-28-12-york-knights-super-league-highlights",
-      "summary": "Highlights of the Super League match between Wakefield Trinity and York Knights.",
+      "title": "Barcelona agree deal to sign Jesus from Arsenal",
+      "link": "https://www.skysports.com/football/news/12040/13579021/gabriel-jesus-barcelona-agree-8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward",
+      "summary": "Barcelona have agreed a deal in principle with Arsenal to sign Gabriel Jesus for &#163;8.6m (&#8364;10m).&#160;",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-wakefield_7335344.jpg?20260829233417"
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-gabriel-jesus-arsenal_7151359.jpg?20260131165341"
     },
     {
       "source": "sky",
-      "title": "Highlights: Hrgovic stops Itauma in incredible comeback to win IBF heavyweight title",
-      "link": "https://www.skysports.com/watch/video/13578912/moses-itauma-vs-filip-hrgovic-fight-highlights",
-      "summary": "Highlights of the IBF heavyweight world title fight between Moses Itauma and Filip Hrgovic. Video credit: Courtesy of DAZN",
+      "title": "Maguire finishes fourth on home soil ahead of Solheim Cup as Alexander wins",
+      "link": "https://www.skysports.com/golf/news/12040/13578955/kpmg-womens-irish-open-leona-maguire-finishes-fourth-on-home-soil-ahead-of-solheim-cup-as-casandra-alexander-claims-second-let-victory",
+      "summary": "South Africa's Casandra Alexander claimed victory at a weather affected KPMG Irish Open with a dominant performance across a sodden week in County Kildare.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-boxing-itauma-hrgovic_7335353.jpg?20260830000816"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-leona-maguire-irish-open_7335844.jpg?20260830172108"
     },
     {
       "source": "sky",
-      "title": "Cameron stuns Mayer with unanimous decision victory",
-      "link": "https://www.skysports.com/watch/video/13578904/mikaela-mayer-vs-chantelle-cameron-fight-highlights",
-      "summary": "Highlights of the WBC, WBA and WBO super-welterweight fight between Mikaela Mayer and Chantelle Cameron.",
+      "title": "Chelsea latest: I came to here to win the Premier League, says Martinez",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-boxing-fight-night_7335324.jpg?20260829225743"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
     },
     {
       "source": "sky",
-      "title": "Bradford fall short in comeback attempt against stern Toulouse",
-      "link": "https://www.skysports.com/watch/video/13578910/toulouse-olympique-28-18-bradford-bulls-super-league-highlights",
-      "summary": "Highlights of the Super League clash between Toulouse Olympique and Bradford Bulls.",
+      "title": "US Open day one LIVE! Norrie, Boulter, Fearnley and Samuel lead the British charge",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13578915/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york",
+      "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-rugby-toulouse_7335345.jpg?20260829233848"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cameron-norrie-katie-boulter_7335368.jpg?20260830021201"
     },
     {
       "source": "sky",
-      "title": "Springboks level Greatest Rivalry series with win against All Blacks!",
-      "link": "https://www.skysports.com/watch/video/13578810/south-africa-33-26-new-zealand-rugbys-greatest-rivalry-second-test-highlights",
-      "summary": "Highlights of the Greatest Rivalry second Test between South Africa and New Zealand.",
+      "title": "Dean claims first DP World Tour title with remarkable comeback win on home soil!",
+      "link": "https://www.skysports.com/watch/video/13579133/husqvarna-british-masters-day-four-highlights",
+      "summary": "Highlights from day four of the Husqvarna British Masters hosted by Sir Nick Faldo at The Belfry.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rugby-south-africa_7335081.jpg?20260829184514"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-dean_7335831.jpg?20260830171521"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal agree club-record £55.7m Martinelli sale as Jesus heads to Barcelona",
+      "link": "https://www.skysports.com/football/news/12040/13579053/arsenal-agree-55-7m-club-record-gabriel-martinelli-sale-to-al-hilal-with-deal-also-agreed-in-principle-with-barcelona-for-gabriel-jesus",
+      "summary": "Arsenal have agreed a club-record &#163;55.7m fee with Al Hilal to sell Gabriel Martinelli, with a deal also agreed in principle for fellow Brazilian Gabriel Jesus to depart for Barcelona.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-gabriel-martinelli_7329148.jpg?20260823144928"
+    },
+    {
+      "source": "sky",
+      "title": "McInnes' Rangers earn first league win as VAR denies Aberdeen equaliser",
+      "link": "https://www.skysports.com/football/aberdeen-vs-rangers/report/558351",
+      "summary": "Lawrence Shankland's penalty proved decisive as Rangers secured a 1-0 win at Aberdeen, their first Scottish Premiership win of the season, after the home side were denied a late equaliser by VAR at Pittodrie, easing the pressure on Derek McInnes.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-lawrence-shankland_7335555.jpg?20260830134425"
+    },
+    {
+      "source": "sky",
+      "title": "Isidor steers Sunderland to narrow win against Fulham",
+      "link": "https://www.skysports.com/football/sunderland-vs-fulham/report/559462",
+      "summary": "Sunderland secured their first points of the season as Wilson Isidor's effort earned them a 1-0 win against Fulham.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wilson-isidor-sunderland_7335734.jpg?20260830155144"
+    },
+    {
+      "source": "sky",
+      "title": "Calvert-Lewin rescues draw for Leeds against impressive Brentford",
+      "link": "https://www.skysports.com/football/leeds-united-vs-brentford/report/559459",
+      "summary": "Dominic Calvert-Lewin scored a late tap-in to earn Leeds United a 1-1 draw with Brentford at Elland Road.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-dominic-calvert-lewin_7335725.jpg?20260830154527"
     }
   ]
 }
