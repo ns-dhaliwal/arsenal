@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-31T02:59:54.729522+00:00",
+  "lastUpdated": "2026-08-31T09:35:55.284185+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "The transfers to watch before window closes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "published": "2026-08-31T08:12:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ab/live/00b64170-a496-11f1-b109-879e35c24276.png"
+    },
     {
       "source": "guardian",
       "title": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
@@ -314,14 +322,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a06/live/d41a7bc0-9bb4-11f1-ae8a-8d57110c5ba6.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
-      "link": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
-      "published": "2026-08-18T15:01:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4134/live/71150120-9b10-11f1-bb80-c1b1e1adeea5.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Football transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
       "link": "https://www.theguardian.com/football/2026/aug/18/football-transfer-rumour-mill-atletico-madrid-julian-alvarez-arsenal-barcelona",
@@ -355,6 +355,70 @@
     },
     {
       "source": "sky",
+      "title": "Brighton latest: Azeez pursuit still on despite Millwall rejecting £10m bid",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa latest: Harwood-Bellis undergoes medical as Watkins pens farewell",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+    },
+    {
+      "source": "sky",
+      "title": "Djokovic breaks down in tears midway through deciding set in shock defeat",
+      "link": "https://www.skysports.com/watch/video/13579363/novak-djokovic-breaks-down-in-tears-midway-through-deciding-set-in-shock-defeat",
+      "summary": "Novak Djokovic was visibly upset during the final set in his US Open first round defeat to Mariano Navone.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-novak-djokovic-tennis_7336440.jpg?20260831102618"
+    },
+    {
+      "source": "sky",
+      "title": "Ponting: Labuschagne's Australia Test place 'almost untenable'",
+      "link": "https://www.skysports.com/cricket/news/12040/13578618/marnus-labuschagne-ricky-ponting-says-australia-batters-place-in-test-team-almost-untenable-after-lean-run-of-form",
+      "summary": "Ricky Ponting said Marnus Labuschagne's spot in the Australia Test team has become \"untenable\" as he insisted England have the talent to \"serve it up\" to the Baggy Greens during The Ashes next summer.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-marnus-labuschagne_7320238.jpg?20260813070324"
+    },
+    {
+      "source": "sky",
+      "title": "Today on Sky Sports Racing: Two-year-old Trophy up for grabs at Ripon",
+      "link": "https://www.skysports.com/racing/news/12040/13578656/today-on-sky-sports-racing-two-year-old-trophy-up-for-grabs-at-ripon",
+      "summary": "Ripon&#8217;s Champion Two Years Old Trophy is up for grabs on Bank Holiday Monday, plus action from Chepstow and Southwell, all live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-ripon-racing_7228587.jpg?20260423181530"
+    },
+    {
+      "source": "sky",
+      "title": "Why Arsenal still needed Konsa - despite having so many defenders",
+      "link": "https://www.skysports.com/football/news/12040/13578303/ezri-konsa-why-arsenal-signed-aston-villas-top-defender-for-55m-despite-having-so-many-defenders",
+      "summary": "The final hours of the transfer window could see Arsenal bring in an attacker. But before the window shuts, a defensive purchase could take centre stage on Monday night.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-konsa-arsenal_7336314.jpg?20260831071741"
+    },
+    {
+      "source": "sky",
+      "title": "What could trigger driver-market drama after new Verstappen, Norris deals?",
+      "link": "https://www.skysports.com/f1/news/12040/13578230/f1-why-there-could-still-be-drama-in-the-driver-market-despite-max-verstappen-and-lando-norris-signing-new-contracts",
+      "summary": "After a summer of speculation, contract extensions for Max Verstappen and Lando Norris suggest the elite seats on the Formula 1 grid are locked in for at least the next couple of years.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-lando-norris-max_7333839.jpg?20260828180227"
+    },
+    {
+      "source": "sky",
+      "title": "'My body started to collapse' - Djokovic falls at first hurdle in shock US Open exit",
+      "link": "https://www.skysports.com/tennis/news/12040/13579310/us-open-novak-djokovic-loses-to-mariano-navone-in-longest-first-round-match-of-his-career-in-grand-slams",
+      "summary": "Novak Djokovic fell at the first hurdle as his tilt at a record-breaking 25th Grand Slam came to a shocking end to Argentine Mariano Navone in a five-set marathon at the US Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-novak-djokovic-tennis_7336302.jpg?20260831055400"
+    },
+    {
+      "source": "sky",
       "title": "PGA Tour: Every result from the 2026 FedExCup season",
       "link": "https://www.skysports.com/golf/news/12040/13415204/pga-tour-2026-schedule-dates-venues-events-for-the-new-fedexcup-season-signature-events-and-golf-majors",
       "summary": "Every PGA Tour result from the 2026 FedExCup season, with nine Signature Events across a 35-tournament calendar.",
@@ -375,7 +439,31 @@
       "link": "https://www.skysports.com/watch/video/13579299/heartwarming-moments-as-ross-smith-celebrates-his-title-with-his-son",
       "summary": "Ross Smith defeats Gary Anderson at the Hungarian Darts Trophy and celebrated in heartwarming fashion with his son.",
       "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-s-a_7336227.jpg?20260830225919"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-s-a_7336227.jpg?20260831063901"
+    },
+    {
+      "source": "sky",
+      "title": "Williams' US Open ends short after Kenin challenge",
+      "link": "https://www.skysports.com/watch/video/13579340/venus-williams-vs-sofia-kenin-us-open-highlights",
+      "summary": "Highlights of the US Open first-round match between Venus Williams and Sofia Kenin.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-williams-kenin_7336362.jpg?20260831081235"
+    },
+    {
+      "source": "sky",
+      "title": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
+      "link": "https://www.skysports.com/football/news/12040/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-euro-debrief-real-madrid_7336379.jpg?20260831085933"
+    },
+    {
+      "source": "sky",
+      "title": "'It's all there for them' - Root challenges England bowlers to 'create legacy'",
+      "link": "https://www.skysports.com/cricket/news/12040/13579269/joe-root-england-captain-challenges-team-to-create-a-legacy-after-sealing-series-victory-against-pakistan-at-lords",
+      "summary": "Joe Root has challenged his England team to carve out their own legacy in the game, after his side secured a series victory against Pakistan at Lord's.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-joe-root_7336165.jpg?20260830213536"
     },
     {
       "source": "sky",
@@ -395,7 +483,7 @@
     },
     {
       "source": "sky",
-      "title": "Arsenal latest: Alvarez returns to Atletico training as deadline expires",
+      "title": "Arsenal latest: Uncertainty still shrouding Alvarez's future",
       "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
@@ -419,99 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Palace latest: Sarr wants out but Eagles refusing to sell",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
+      "title": "Biggest fight in women's boxing? Dubois: Baumgardner is a coward",
+      "link": "https://www.skysports.com/boxing/news/12040/13579006/caroline-dubois-calls-alycia-baumgardner-a-coward-and-challenges-american-to-make-biggest-fight-in-womens-boxing",
+      "summary": "Caroline Dubois labelled Alycia Baumgardner a coward after the pair were involved in a heated confrontation at ringside on Saturday night.",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-    },
-    {
-      "source": "sky",
-      "title": "Scheffler produces final-day fightback to win FedExCup title!",
-      "link": "https://www.skysports.com/watch/video/13579306/tour-championship-day-four-highlights",
-      "summary": "Highlights from day four of the Tour Championship held at East Lake Golf Club in Atlanta, Georgia.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/d-a-aa_7336246.jpg?20260830234438"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Neville questions Gakpo exit and lack of full-backs",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "source": "sky",
-      "title": "Ipswich latest: We must respond better to setbacks, says O'Neil",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
-    },
-    {
-      "source": "sky",
-      "title": "Explained: Why Hovland avoided penalty after viral bunker debate",
-      "link": "https://www.skysports.com/watch/video/13579295/explained-why-viktor-hovland-avoided-penalty-after-viral-bunker-debate",
-      "summary": "Viktor Hovland avoided a penalty shot after fans online speculated that he improved his lie in the bunker at the Tour Championship.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-g-a_7336213.jpg?20260830221648"
-    },
-    {
-      "source": "sky",
-      "title": "Emotional moment Nordqvist finishes her final round before retirement",
-      "link": "https://www.skysports.com/watch/video/13579247/emotional-moment-anna-nordqvist-finishes-her-final-round-before-retirement",
-      "summary": "Solheim Cup captain Anna Nordqvist played her final round on the LPGA Tour at the FM Championship.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-f-a_7336116.jpg?20260830202820"
-    },
-    {
-      "source": "sky",
-      "title": "Scheffler holds off Hovland to break more records with FedExCup win",
-      "link": "https://www.skysports.com/golf/news/12040/13578960/tour-championship-scottie-scheffler-holds-off-viktor-hovland-to-claim-fedexcup-title-and-break-more-pga-tour-records",
-      "summary": "Scottie Scheffler came through a final-round tussle with Viktor Hovland to cap off another PGA Tour season in style with FedExCup glory at the Tour Championship.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-scottie-scheffler_7336251.jpg?20260830235747"
-    },
-    {
-      "source": "sky",
-      "title": "England player ratings: Seamers sizzle again as Cox impresses with the bat",
-      "link": "https://www.skysports.com/cricket/news/12040/13579054/england-player-ratings-for-second-test-at-lords-ollie-robinson-and-jofra-archer-star-as-jordan-cox-looks-assured-with-bat",
-      "summary": "We rate England's players after the 194-run, series-sealing victory over Pakistan at Lord's, with the seamers once again standing out...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jofra-archer-england-test-cricket_7336107.jpg?20260830202445"
-    },
-    {
-      "source": "sky",
-      "title": "National League record sale as Abdulmalik leaves Boreham Wood",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-abdul-abdulmalik_7336096.jpg?20260830201102"
-    },
-    {
-      "source": "sky",
-      "title": "SLAM-DUNK ACE! | Justin Rose makes incredible hole-in-one!",
-      "link": "https://www.skysports.com/watch/video/13579228/slam-dunk-ace-justin-rose-makes-incredible-hole-in-one",
-      "summary": "Justin Rose made a slam-dunk ace during his final round of the Tour Championship.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-d-a_7336056.jpg?20260830193316"
-    },
-    {
-      "source": "sky",
-      "title": "Tottenham latest: Spurs must get themselves right quickly, says Neville",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-    },
-    {
-      "source": "sky",
-      "title": "Hits and misses: Mainoo impresses as well as Fernandes",
-      "link": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kobbie-mainoo-man-utd_7336086.jpg?20260830195642"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-caroline-dubois-boxing_7335553.jpg?20260830134237"
     }
   ]
 }
