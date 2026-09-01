@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T12:58:12.668072+00:00",
+  "lastUpdated": "2026-09-01T17:12:41.455186+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Barcelona complete signing of Arsenal striker Jesus",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal.",
+      "published": "2026-09-01T13:08:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/4df68720-a607-11f1-83fc-0df57e6b3866.jpg"
+    },
     {
       "source": "bbc",
       "title": "'Starboy Bukayo Saka' is key to Arsenal's title defence",
@@ -330,14 +338,6 @@
       "image": "https://i.guim.co.uk/img/media/78d0950938743168afc1898584193627964c2aa2/431_0_2376_1901/master/2376.jpg?width=140&quality=85&auto=format&fit=max&s=5b008db8162a55491723dadf702cbf5a"
     },
     {
-      "source": "bbc",
-      "title": "Konsa set for Arsenal medical before £50m-plus move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
-      "published": "2026-08-20T10:25:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Premier League: nine newcomers to watch in the top flight this season",
       "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window",
@@ -355,11 +355,51 @@
     },
     {
       "source": "sky",
-      "title": "Wong strikes early for England against Ireland in first ODI LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
+      "title": "West Ham latest: Todibo joins Lens on loan",
+      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-issy-wong-england_7337535.jpg?20260901134306"
+      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
+    },
+    {
+      "source": "sky",
+      "title": "Leeds latest: Talks begin to sign Bundesliga's fastest player",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+    },
+    {
+      "source": "sky",
+      "title": "Carra: Enzo signing makes Man City Arsenal's closest title challengers",
+      "link": "https://www.skysports.com/watch/video/13579949/manchester-city-agree-deal-for-enzo-fernandez-jamie-carragher-explains-impact-of-big-money-signing",
+      "summary": "Sky Sports' Jamie Carragher believes the signing of Enzo Fernandez will make Manchester City the biggest challenge to Arsenal in the race for the Premier League title.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-enzo-fernandez-chelsea_7337827.jpg?20260901171915"
+    },
+    {
+      "source": "sky",
+      "title": "Man City agree record-equalling deal to sign Fernandez",
+      "link": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
+      "summary": "Manchester City have agreed a deal with Chelsea to sign Enzo Fernandez for &#163;125m.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-fernandez_7331664.jpg?20260826122332"
+    },
+    {
+      "source": "sky",
+      "title": "Sunderland latest: Benfica winger being lined up as Fofana alternative",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Rain delays play on outside courts as Britain's Fery returns",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13579618/us-open-live-scores-updates-news-commentary-and-results-from-flushing-meadows-new-york-with-arthur-fery-elena-rybakina-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arthur-fery-tennis_7337059.jpg?20260901005231"
     },
     {
       "source": "sky",
@@ -368,6 +408,46 @@
       "summary": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
       "published": null,
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-transfer-done-deals_7153029.jpg?20260202091021"
+    },
+    {
+      "source": "sky",
+      "title": "Scot Prem latest: Sorensen joins Celtic as club close in on FIVE signings",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-oliver-sorensen-parma_7336649.jpg?20260831151211"
+    },
+    {
+      "source": "sky",
+      "title": "England openers canter to hundred stand in chase of 282 to beat Ireland LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sophia-dunkley-england_7337830.jpg?20260901172232"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Zirkzee key to left-back move as talks continue for Page",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "Fofana tug-of-war! Sunderland, Palace agree deals - but where will he go?",
+      "link": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
+      "summary": "Crystal Palace and Sunderland have both agreed deals to sign Malick Fofana, leaving the winger at the centre of a transfer tug-of-war with his next destination still to be decided on Deadline Day.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-transfer-transfers_7337767.jpg?20260901165515"
+    },
+    {
+      "source": "sky",
+      "title": "Can GB and Ireland cause big Walker Cup upset and shock United States?",
+      "link": "https://www.skysports.com/golf/news/12040/13579785/walker-cup-2026-can-great-britain-and-ireland-end-united-states-dominance-line-ups-format-and-past-players",
+      "summary": "Great Britain and Ireland look to end the United States&#8217; Walker Cup dominance and claim a famous victory on home soil this week, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-walker-cup-2026-luke-poulter_7337638.jpg?20260901153129"
     },
     {
       "source": "sky",
@@ -395,11 +475,11 @@
     },
     {
       "source": "sky",
-      "title": "Chelsea close to agreeing deal for Roma's Kone",
+      "title": "Kone? Camara? Chelsea working hard to bring in Fernandez replacement",
       "link": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
-      "summary": "Chelsea are close to an agreement with Roma to sign France midfielder Manu Kone, but Roma boss Gian Piero Gasperini is trying to keep hold of the player according to Sky in Italy.",
+      "summary": "Chelsea are working hard to line up a replacement for Enzo Fernandez before the transfer deadline.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-manu-kone-roma-serie-a_7337286.jpg?20260901102349"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-manu-kone-lamine-camara_7337573.jpg?20260901141636"
     },
     {
       "source": "sky",
@@ -419,99 +499,19 @@
     },
     {
       "source": "sky",
+      "title": "Newcastle sign Fernandez-Pardo from Lille",
+      "link": "https://www.skysports.com/football/news/12040/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-51m",
+      "summary": "Newcastle United have signed Matias Fernandez-Pardo from French club Lille in a deal worth &#163;51m.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-fernandez-pardo_7336595.jpg?20260831141146"
+    },
+    {
+      "source": "sky",
       "title": "Osaka's look inspired by NBA legend Iverson in opening US Open win",
       "link": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-nba-legend-allen-iverson-for-night-session-outfit",
       "summary": "Naomi Osaka made her usual fashionable entrance as she channelled former NBA superstar Allen Iverson at the US Open.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-naomi-osaka-tennis_7337079.jpg?20260901061753"
-    },
-    {
-      "source": "sky",
-      "title": "Saka goal leads Arsenal to victory at Villa Park",
-      "link": "https://www.skysports.com/watch/video/13579605/aston-villa-0-0-arsenal-premier-league-highlights",
-      "summary": "FREE TO WATCH: Highlights from Aston Villa&#8217;s match against Arsenal in the Premier League.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-arsenal-villa_7336965.jpg?20260831221707"
-    },
-    {
-      "source": "sky",
-      "title": "Saka earns hard-fought win for Arsenal at Villa",
-      "link": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
-      "summary": "Bukayo Saka's goal just before the hour mark was enough for champions Arsenal to maintain their perfect start with a 1-0 win over Aston Villa at Villa Park.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-saka-bukayo-arsenal_7336940.jpg?20260831212209"
-    },
-    {
-      "source": "sky",
-      "title": "Villa sign PSG forward Mbaye and Saints defender Harwood-Bellis",
-      "link": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
-      "summary": "Aston Villa&#160;have confirmed the signings of&#160;both&#160;Paris Saint-Germain forward Ibrahim Mbaye&#160;and Southampton centre-back Taylor Harwood-Bellis.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paris-saint-germain_7314281.jpg?20260805085619"
-    },
-    {
-      "source": "sky",
-      "title": "Alcaraz impresses on return from injury as Sabalenka also wins",
-      "link": "https://www.skysports.com/tennis/news/12040/13579551/us-open-2026-carlos-alcaraz-impresses-on-return-from-injury-as-aryna-sabalenka-harriet-dart-also-win",
-      "summary": "Carlos Alcaraz impressed on his return to tennis with a straight-sets win over Russia's Roman Safiullin in the first round of the US Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-carlos-alcaraz_7336917.jpg?20260831210046"
-    },
-    {
-      "source": "sky",
-      "title": "How good is Fernandez-Pardo? Explosive winger can thrill like Doku",
-      "link": "https://www.skysports.com/football/news/12040/13569269/matias-fernandez-pardo-to-newcastle-signing-from-lille-is-very-fast-with-unbelievable-power-like-jeremy-doku",
-      "summary": "There is one special quality that will have convinced Newcastle United that Matias Fernandez-Pardo can thrive in the Premier League. \"He is very explosive, very fast,\" his former coach Arnar Vidarsson tells Sky Sports. \"He has this unbelievable power.\"",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-matias-fernandez-pardo_7333570.jpg?20260828122700"
-    },
-    {
-      "source": "sky",
-      "title": "Stokes signs for Adelaide Strikers in Big Bash League",
-      "link": "https://www.skysports.com/cricket/news/12040/13579756/ben-stokes-former-england-test-captain-signs-for-adelaide-strikers-in-big-bash-league",
-      "summary": "Former England Test captain Ben Stokes has signed for the Adelaide Strikers in the Big Bash League (BBL).",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-ben-stokes-cricket_7327645.jpg?20260822112511"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
-    },
-    {
-      "source": "sky",
-      "title": "'I'm so tired of the miserable haters' - Sabalenka hits back at critics",
-      "link": "https://www.skysports.com/tennis/news/12040/13579468/us-open-aryna-sabalenka-tired-of-the-miserable-haters-as-she-hits-back-at-critics-after-first-round-win",
-      "summary": "Aryna Sabalenka hit back at her critics, saying \"haters can go and get on with their own lives\" after she made a winning start in her quest for a &#8204;third successive US Open title.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aryna-sabalenka-tennis_7336935.jpg?20260831211550"
-    },
-    {
-      "source": "sky",
-      "title": "Scot Prem latest: Celtic close in on FOUR new signings",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sam-johnstone-wolves_7337172.jpg?20260901083421"
-    },
-    {
-      "source": "sky",
-      "title": "Tsitsipas not surprised by Kyrgios’ suspension for cocaine",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-nick-kyrgios-tennis_7291323.jpg?20260706161931"
-    },
-    {
-      "source": "sky",
-      "title": "Everton latest: Grealish set for medical as deal agreed for Maitland-Niles",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
     }
   ]
 }
