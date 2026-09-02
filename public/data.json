@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T21:30:23.428362+00:00",
+  "lastUpdated": "2026-09-02T23:46:33.006656+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -371,19 +371,19 @@
     },
     {
       "source": "sky",
-      "title": "Charlton hit back to hold West Brom",
-      "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
-      "summary": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charlton-athletic_7339236.jpg?20260902212224"
-    },
-    {
-      "source": "sky",
       "title": "Burnley battle back to hold Middlesbrough",
       "link": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
       "summary": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-burnley-fc_7339241.jpg?20260902212440"
+    },
+    {
+      "source": "sky",
+      "title": "Charlton hit back to hold West Brom",
+      "link": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
+      "summary": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charlton-athletic_7339236.jpg?20260902212224"
     },
     {
       "source": "sky",
@@ -411,7 +411,7 @@
     },
     {
       "source": "sky",
-      "title": "Wrexham, QPR win; Burnley hold Boro - EFL highlights",
+      "title": "Wrexham, QPR win as Burnley hold Boro - EFL highlights",
       "link": "https://www.skysports.com/football/live-blog/12040/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one",
       "summary": "",
       "published": null,
@@ -424,6 +424,46 @@
       "summary": "Rumarn Burrell scored both QPR goals as they beat Cardiff 2-1 at Loftus Road to continue their impressive start to the Championship season.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-qpr-fc_7339225.jpg?20260902210917"
+    },
+    {
+      "source": "sky",
+      "title": "Celtic 3-0 Aberdeen",
+      "link": "https://www.skysports.com/watch/video/13580665/celtic-3-0-aberdeen-scottish-premiership-highlights",
+      "summary": "Watch highlights from the Scottish Premiership match between Celtic and Aberdeen.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/6511232b7ea263c7b2c0dfcfc4a2b637cc869be084c4002a008c071da1503a3a_7339440.jpg?20260903003519"
+    },
+    {
+      "source": "sky",
+      "title": "Dundee 1-1 St Johnstone",
+      "link": "https://www.skysports.com/watch/video/13580666/dundee-1-1-st-johnstone-scottish-premiership-highlights",
+      "summary": "Watch highlights from the Scottish Premiership match between Dundee and St Johnstone.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/267c54fecab07b28cfe975fc923bdddae3748bb98a689590bee009db3b830c14_7339441.jpg?20260903003749"
+    },
+    {
+      "source": "sky",
+      "title": "Motherwell 3-0 Dundee United",
+      "link": "https://www.skysports.com/watch/video/13580661/motherwell-3-0-dundee-utd-scottish-premiership-highlights",
+      "summary": "Watch highlights from the Scottish Premiership match between Motherwell and Dundee Utd.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/92cf74de123859cae7b98e7b19b10424a1755d2a25c65fd1db8c72c51b8513b6_7339434.jpg?20260903001359"
+    },
+    {
+      "source": "sky",
+      "title": "Wasteful Falkirk punished as Rangers seal successive wins",
+      "link": "https://www.skysports.com/watch/video/13580576/falkirk-1-2-rangers-scottish-premiership-highlights",
+      "summary": "Watch highlights from the Scottish Premiership match between Falkirk and Rangers.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-rangers_7339309.jpg?20260902220814"
+    },
+    {
+      "source": "sky",
+      "title": "Kilmarnock 0-1 St Mirren",
+      "link": "https://www.skysports.com/watch/video/13580650/kilmarnock-0-1-st-mirren-scottish-premiership-highlights",
+      "summary": "Highlights from the Scottish Premiership match between Kilmarnock and St Mirren.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/215084ae6d8ea5f57d1898be45f5a38c56e349e1cf3738fdafebbfdfae619c5e_7339428.jpg?20260902234541"
     },
     {
       "source": "sky",
@@ -445,9 +485,17 @@
       "source": "sky",
       "title": "Clippers fined $30m and owner suspended after Leonard scandal",
       "link": "https://www.skysports.com/nba/news/12040/13580599/kawhi-leonard-los-angeles-clippers-fined-30m-and-stripped-of-five-first-round-picks-after-leonard-salary-cap-scandal",
-      "summary": "The Los Angeles Clippers were fined $30m and star player Kawhi Leonard was hit with a $700,000 penalty by the NBA on Wednesday for violating salary cap circumvention rules.",
+      "summary": "The Los Angeles Clippers have been fined $30m and star player Kawhi Leonard has been hit with a $700,000 penalty for violating salary cap circumvention rules.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-kawhi-leonard-los-angeles-clippers_7339329.jpg?20260902221217"
+    },
+    {
+      "source": "sky",
+      "title": "Motherwell continue unbeaten league start with stroll against Dundee United",
+      "link": "https://www.skysports.com/football/motherwell-vs-dundee-united/report/558362",
+      "summary": "Motherwell continued their Lanarkshire stranglehold over 10-man Dundee United with a 3-0 home win in a one-sided contest.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-motherwell-dundee-utd_7339351.jpg?20260902222907"
     },
     {
       "source": "sky",
@@ -459,59 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
-      "link": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
-      "summary": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
+      "title": "St Johnstone secure Tayside derby draw after late drama at Dundee",
+      "link": "https://www.skysports.com/football/dundee-vs-st-johnstone/report/558358",
+      "summary": "St Johnstone claimed a 1-1 draw in the Tayside derby after a dramatic conclusion at Dens Park.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-balogun-usa_7287725.jpg?20260702023831"
-    },
-    {
-      "source": "sky",
-      "title": "Medvedev FUMES as birds halt play!",
-      "link": "https://www.skysports.com/watch/video/13580444/us-open-daniil-medvedev-fumes-as-birds-halt-play",
-      "summary": "Much to the frustration of Daniil Medvedev, the umpire calls a let due to the presence of two sparrows on the net cord at the US Open!",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-tennos-us-open_7339053.jpg?20260902172509"
-    },
-    {
-      "source": "sky",
-      "title": "Burrell brace sees QPR beat Cardiff",
-      "link": "https://www.skysports.com/watch/video/13580544/qpr-2-1-cardiff-city-championship-highlights",
-      "summary": "Highlights of the Sky Bet Championship match between QPR and Cardiff City.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-qpr-cardiff_7339278.jpg?20260902215312"
-    },
-    {
-      "source": "sky",
-      "title": "Duran nets again as Celtic maintain perfect start with win over Aberdeen",
-      "link": "https://www.skysports.com/football/celtic-vs-aberdeen/report/558357",
-      "summary": "Camilo Duran scored another stunner as Celtic continued their perfect start to the Scottish Premiership season with a 3-0 win over Aberdeen.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-camilo-duran-celtic_7339171.jpg?20260902200518"
-    },
-    {
-      "source": "sky",
-      "title": "Wrexham breeze past Millwall to claim first win",
-      "link": "https://www.skysports.com/watch/video/13580547/millwall-0-3-wrexham-championship-highlights",
-      "summary": "Highlights of the Sky Bet Championship match between Millwall and Wrexham.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-wrexham-millwall_7339274.jpg?20260902215147"
-    },
-    {
-      "source": "sky",
-      "title": "Norris launches single-seater team LN4 Fusion ahead of 2027 debut",
-      "link": "https://www.skysports.com/f1/news/12040/13580435/lando-norris-f1-world-champion-launches-new-junior-single-seater-team-ln4-fusion-ahead-of-2027-racing-debut",
-      "summary": "Lando Norris has launched a new junior single-seater team, LN4 Fusion, which will race in multiple championships in 2027.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lando-norris-ln4_7339055.jpg?20260902173100"
-    },
-    {
-      "source": "sky",
-      "title": "US Open LIVE! Fearnley, Jones in action with Samuel to come after Boulter bows out",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13580222/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-katie-boulter-jacob-fearnley-jan-choinski-and-toby-samuel-in-action",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jacob-fearnley-tennis_7339336.jpg?20260902221653"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-josh-fowler_7339341.jpg?20260902222228"
     }
   ]
 }
