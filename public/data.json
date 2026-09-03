@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-03T12:29:12.474466+00:00",
+  "lastUpdated": "2026-09-03T16:50:49.704490+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+      "published": "2026-09-03T16:30:43+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/61713bd0-a4b6-11f1-a35f-6d34e03b9d9f.jpg"
+    },
+    {
+      "source": "guardian",
+      "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+      "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
+      "summary": "Forward follows Gabriel Jesus out of championsMartinelli fee includes sell-on clauseArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the fee for Brazil forward included a sell-on clause.Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Prem",
+      "published": "2026-09-03T16:30:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/ba6ef746e994c3f9ffe9cdddd499c3c98690d76f/134_0_1976_1580/master/1976.jpg?width=140&quality=85&auto=format&fit=max&s=9a241129966dc98932f481815eb19a70"
+    },
     {
       "source": "guardian",
       "title": "Arsenal bank on continuity after big names elude them late in transfer window",
@@ -338,28 +354,60 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Gyokeres proud of impact at Arsenal last season",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cy5dxg3kv6eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Striker Viktor Gyokeres says he is proud of his contribution to Arsenal last season as they begin the defence of their Premier League title at home to his former side Coventry City on Friday.",
-      "published": "2026-08-21T12:46:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7710/live/fe82dd50-9d5b-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "source": "guardian",
-      "title": "Premier League: 10 things to look out for as the new season kicks off",
-      "link": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
-      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at NewcastleWhile Myles Lewis-Skelly looks likely to remain at the Emirates, the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Arsenal in 2024-25 but barely featured last season and was sent on loan to Marseille. That didn’t really work out and Arsena",
-      "published": "2026-08-20T23:01:18+00:00",
-      "image": "https://i.guim.co.uk/img/media/9582f87c8db86570ee73d59bec8f3afaa67d3ffe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=975d51eb772fe100537616ebbd2eb6cf"
+      "source": "sky",
+      "title": "Penalised Antonelli to help Russell at Italian GP",
+      "link": "https://www.skysports.com/f1/news/12040/13580797/italian-gp-kimi-antonelli-to-help-mercedes-team-mate-george-russell-in-monza-qualifying-due-to-engine-grid-penalty",
+      "summary": "Kimi Antonelli is ready to help Mercedes team-mate and title rival George Russell in qualifying at the Italian Grand Prix for a race the world championship leader will start at the back of the grid due to an engine penalty.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7340076.jpg?20260903165322"
     },
     {
       "source": "sky",
-      "title": "Ireland go one down early as England look to clinch ODI series LIVE!",
+      "title": "England four down and need less than 50 runs to win series vs Ireland LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charlie-dean-england-women-odi-cricket_7339643.jpg?20260903101514"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-sophia-dunkley_7340096.jpg?20260903170714"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli: Ferrari an incredible brand but I’m happy at Mercedes",
+      "link": "https://www.skysports.com/f1/news/12040/13580796/kimi-antonelli-mercedes-driver-plays-down-speculation-around-future-switch-to-ferrari-ahead-of-italian-gp",
+      "summary": "Kimi Antonelli played down suggestions that he could drive for Ferrari in the future as he claimed he could spend his entire career with Mercedes.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7340033.jpg?20260903161745"
+    },
+    {
+      "source": "sky",
+      "title": "Pakistan's cricket crisis: Have radical changes made side 'a laughing stock'?",
+      "link": "https://www.skysports.com/cricket/news/12040/13580890/pakistan-cricket-nasser-hussain-says-dramatic-changes-from-board-in-england-series-have-made-side-a-laughing-stock",
+      "summary": "Nasser Hussain has criticised Pakistan's dramatic changes ahead of the final Test against England and feels the cricket board's decisions have made the team a \"laughing stock.\"",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-imam-ul-haq-pakistan-test-cricket_7339989.jpg?20260903154752"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Britain's Dart in action with Osaka in control on Arthur Ashe",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-harriet-dart-tennis_7339463.jpg?20260903021201"
+    },
+    {
+      "source": "sky",
+      "title": "Martinelli joins Al Hilal in Arsenal club-record sale",
+      "link": "https://www.skysports.com/football/news/12040/13579276/gabriel-martinelli-transfer-news-forward-joins-al-hilal-in-a-club-record-sale-for-arsenal-in-60m-deal",
+      "summary": "Gabriel Martinelli has joined Al Hilal in a club-record &#163;60m sale for Arsenal.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-gabriel-martinelli_7329148.jpg?20260823144928"
+    },
+    {
+      "source": "sky",
+      "title": "Hamilton reveals hope of becoming first black Ferrari driver to win in Italy",
+      "link": "https://www.skysports.com/f1/news/12040/13580792/lewis-hamilton-shares-thoughts-about-possibility-of-becoming-first-black-ferrari-driver-to-win-in-italy-ahead-of-italian-gp",
+      "summary": "Lewis Hamilton says he has been considering the magnitude of potentially becoming the first black Ferrari Formula 1 driver to win a home race for the team, ahead of this weekend's Italian Grand Prix.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7339925.jpg?20260903144503"
     },
     {
       "source": "sky",
@@ -379,11 +427,27 @@
     },
     {
       "source": "sky",
+      "title": "BIG crowds gather in Milan as Ferrari fans cheer for Hamilton & Leclerc!",
+      "link": "https://www.skysports.com/watch/video/13580707/formula-1-ferrari-fans-flock-to-peroni-event-to-cheer-on-lewis-hamilton-and-charles-leclerc",
+      "summary": "Lewis Hamilton and Charles Leclerc were greeted with a big reception as Ferrari fans gathered in Milan to cheer on the F1 stars at a House of Peroni Nastro Azzurro 0.0% event.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ferrari-hamilton_7339551.jpg?20260903080204"
+    },
+    {
+      "source": "sky",
       "title": "British NFL player Traore: I'll do what I need to do to make Dolphins impact",
       "link": "https://www.skysports.com/nfl/news/12040/13559821/seydou-traore-interview-british-tight-end-on-nfl-draft-miami-dolphins-and-goals-in-the-league",
       "summary": "You may have heard Seydou Traore's story before. The likelihood is that you'll hear it many more times throughout his NFL career.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-seydou-traore-miami-dolphins_7332511.jpg?20260827105604"
+    },
+    {
+      "source": "sky",
+      "title": "Is Chelsea's style under Alonso a major surprise?",
+      "link": "https://www.skysports.com/football/news/12040/13580427/arsenal-vs-chelsea-does-xabi-alonso-have-a-style-issue-and-will-it-affect-ability-to-compete-at-top-of-premier-league",
+      "summary": "Much of the last week in the Premier League has bordered on the ridiculous. Spending in the transfer window went stratospheric. Total expenditure topped &#163;3.4bn by Deadline Day's close.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-chelsea-cole-palmer_7340034.jpg?20260903161919"
     },
     {
       "source": "sky",
@@ -400,6 +464,22 @@
       "summary": "Lingfield, Southwell, Newcastle and ParisLongchamp are the venues for today's action - live on Sky Sports Racing.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graffard-racing_7338524.jpg?20260902095254"
+    },
+    {
+      "source": "sky",
+      "title": "Pakistan's dramatic changes assessed as Imam 'thrown under the bus'",
+      "link": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-cricket-podcast_7236076.png?20260501102841"
+    },
+    {
+      "source": "sky",
+      "title": "Saints' Percival to retire at end of 2026 Super League season",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13580897/super-league-mark-percival-to-retire-at-end-of-season-after-13-year-career-with-st-helens",
+      "summary": "St Helens' centre Mark Percival has announced he will retire at the end of the 2026 Super League season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-mark-percival-rugby-league_7184404.jpg?20260314113808"
     },
     {
       "source": "sky",
@@ -423,7 +503,7 @@
       "link": "https://www.skysports.com/darts/news/12040/13580802/czech-darts-open-latest-draw-schedule-results-as-luke-littler-luke-humphries-beau-greaves-feature-in-prague",
       "summary": "Beau Greaves faces a showdown with world No 2 and reigning champion Luke Humphries if she beats Daryl Gurney in the opening round of the European Tour's Czech Darts Open.",
       "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-luke-humphries-darts_7249068.jpg?20260514224207"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-luke-humphries-beau-greaves_7339849.jpg?20260903133005"
     },
     {
       "source": "sky",
@@ -432,86 +512,6 @@
       "summary": "Highlights of Aryna Sabalenka against Polina Iatchenko from the US Open.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-sabalenka-iatchenko_7339507.jpg?20260903065216"
-    },
-    {
-      "source": "sky",
-      "title": "Alcaraz reaches US Open R3 after overpowering Faria on Arthur Ashe",
-      "link": "https://www.skysports.com/watch/video/13580692/carlos-alcaraz-vs-jaime-faria-us-open-highlights",
-      "summary": "Highlights of Carlos Alcaraz against Jaime Faria from the US Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-alcaraz-faria_7339506.jpg?20260903064916"
-    },
-    {
-      "source": "sky",
-      "title": "Shields or Taylor the greatest? \"We're 1A and 1B!\"",
-      "link": "https://www.skysports.com/boxing/news/12040/13579959/claressa-shields-not-upset-katie-taylor-fight-didnt-happen-and-sends-retirement-message-to-irish-great",
-      "summary": "Claressa Shields has hailed the greatness of Katie Taylor and says she holds no qualms over a fight between the boxing greats never materialising.&#160;",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-katie-taylor-boxing_7339398.jpg?20260902231137"
-    },
-    {
-      "source": "sky",
-      "title": "'Think before you say stuff!' - Sabalenka fumes at preparation questions",
-      "link": "https://www.skysports.com/tennis/news/12040/13580662/us-open-aryna-sabalenka-hits-back-at-party-line-of-questioning-after-latest-win-at-flushing-meadows",
-      "summary": "Aryna Sabalenka cut short questions about her pre-tournament activities in an excruciating exchange with a reporter following her second-round win.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-aryna-sabalenka-tennis_7339471.jpg?20260903040741"
-    },
-    {
-      "source": "sky",
-      "title": "Spanish wonderkid Jodar in testy exchange after shock US Open exit",
-      "link": "https://www.skysports.com/tennis/news/12040/13580660/us-open-spanish-wonderkid-rafael-jodar-involved-in-testy-exchange-with-journalist-following-shock-exit-at-flushing-meadows",
-      "summary": "Spanish wonderkid Rafael Jodar was involved in a testy exchange with a journalist following his stunning exit to Chinese lucky loser Bu Yunchaokete at the US Open on Wednesday.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rafael-jodar-tennis_7339448.jpg?20260903010820"
-    },
-    {
-      "source": "sky",
-      "title": "Shankland at the double as Rangers win at Falkirk",
-      "link": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
-      "summary": "Lawrence Shankland's stunning double secured back-to-back Scottish Premiership wins for Rangers with a 2-1 victory at Falkirk on Wednesday night.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-shankland-lawrence_7339261.jpg?20260902214252"
-    },
-    {
-      "source": "sky",
-      "title": "'I thought it was very fair' | Trump has his say on Tiger plea agreement",
-      "link": "https://www.skysports.com/watch/video/13580728/us-president-donald-trump-calls-tiger-woods-plea-agreement-very-fair",
-      "summary": "US President Donald Trump says he was relieved to hear about Tiger Woods' plea deal, describing the resolution of the case as 'very fair'.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tiger-woods-donaldo_7339598.jpg?20260903091957"
-    },
-    {
-      "source": "sky",
-      "title": "Good Good Golf execs leave roles after backlash over controversial video",
-      "link": "https://www.skysports.com/golf/news/12040/13580726/good-good-golf-chief-executive-and-president-leave-roles-after-backlash-over-controversial-deleted-callaway-advert",
-      "summary": "Two senior executives from Good Good Golf have both left their roles, following backlash over a golf advert which showed a woman being pushed to the ground.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-golf-callaway-golf-ball_7331705.jpg?20260826114842"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool spent big but this squad is still imbalanced and it could be a problem",
-      "link": "https://www.skysports.com/football/news/12040/13580278/liverpools-first-transfer-window-under-andoni-iraola-sees-bradley-barcola-sign-but-this-squad-is-still-not-balanced",
-      "summary": "It might be surprising to discover that Liverpool&#8217;s net spend this summer was actually bigger than it was last summer. Another &#163;200m plus invested. But Andoni Iraola finishes the transfer window with more questions than answers surrounding his squad.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-andoni-iraola-liverpool_7339560.jpg?20260903101510"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic sign SIX ahead of European deadline but will more follow?",
-      "link": "https://www.skysports.com/football/news/12040/13579754/celtic-transfer-news-martin-oneills-hoops-add-six-ahead-of-uefa-deadline-but-will-more-follow",
-      "summary": "Celtic made it six signings in little over 24 hours ahead of Wednesday night's UEFA registration deadline.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-celtic-signings-sam-johnstone_7339616.jpg?20260903095615"
-    },
-    {
-      "source": "sky",
-      "title": "'What kind of question is that?!' - Sabalenka hits out over partying questions after win",
-      "link": "https://www.skysports.com/watch/video/13580695/us-open-aryna-sabalenka-left-annoyed-over-partying-questions-during-press-conference",
-      "summary": "Aryna Sabalenka was left furious over questions during her press conference at the US Open following her round two victory, as one reporter asked her about her pre-tournament 'partying'.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-sabalenka-us-open_7339505.jpg?20260903063733"
     }
   ]
 }
