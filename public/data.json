@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-03T16:50:49.704490+00:00",
+  "lastUpdated": "2026-09-03T19:34:30.258617+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+      "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
+      "summary": "Forward follows Gabriel Jesus out of championsRicharlison not in Tottenham’s Premier League squadArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause.Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad tha",
+      "published": "2026-09-03T17:26:25+00:00",
+      "image": "https://i.guim.co.uk/img/media/da93fcb449b519d1b85bff3763186b10b4867bfe/345_0_1838_1470/master/1838.jpg?width=140&quality=85&auto=format&fit=max&s=b7376175f68fa91a0aaffc5aa305dd9a"
+    },
     {
       "source": "bbc",
       "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
@@ -8,14 +16,6 @@
       "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
       "published": "2026-09-03T16:30:43+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf1e/live/61713bd0-a4b6-11f1-a35f-6d34e03b9d9f.jpg"
-    },
-    {
-      "source": "guardian",
-      "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-      "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-      "summary": "Forward follows Gabriel Jesus out of championsMartinelli fee includes sell-on clauseArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the fee for Brazil forward included a sell-on clause.Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Prem",
-      "published": "2026-09-03T16:30:08+00:00",
-      "image": "https://i.guim.co.uk/img/media/ba6ef746e994c3f9ffe9cdddd499c3c98690d76f/134_0_1976_1580/master/1976.jpg?width=140&quality=85&auto=format&fit=max&s=9a241129966dc98932f481815eb19a70"
     },
     {
       "source": "guardian",
@@ -355,19 +355,67 @@
     },
     {
       "source": "sky",
+      "title": "Carlos Alcaraz planning more breaks in 'impossible' tennis schedule",
+      "link": "https://www.skysports.com/tennis/news/12040/13580916/us-open-carlos-alcaraz-planning-more-breaks-in-impossible-tennis-schedule-after-more-than-four-months-out-with-a-wrist-injury",
+      "summary": "Carlos Alcaraz has taken a swipe at the hectic tennis calendar and said he will skip tournaments from now on.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-carlos-alcaraz-tennis_7340108.jpg?20260903171635"
+    },
+    {
+      "source": "sky",
+      "title": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
+      "link": "https://www.skysports.com/football/news/12040/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts",
+      "summary": "FIFA has accused European football&#8217;s governing body of launching a &#8220;smear campaign&#8221; against Gianni Infantino in a challenge to legal action over the aborted attempt to sell part of the World Cup to private investors.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-gianni-infantino_7316467.jpg?20260807222346"
+    },
+    {
+      "source": "sky",
+      "title": "A squad once worth over £1bn! The free agents your club could still sign",
+      "link": "https://www.skysports.com/football/news/12040/13580813/free-agents-jadon-sancho-paul-pogba-and-dele-alli-among-players-available-on-free-transfer-after-summer-window-shuts",
+      "summary": "The summer transfer window might be shut, but a host of free agents once worth a combined value of &#163;1.15bn are still available to sign.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-free-agent-image_7340253.jpg?20260903193238"
+    },
+    {
+      "source": "sky",
+      "title": "England cruise to series win with six-wicket victory in Derby",
+      "link": "https://www.skysports.com/watch/video/13580959/england-vs-ireland-second-odi-highlights",
+      "summary": "The best of the action from Derby as England raced to a target of 166 in just 23 overs to clinch a series win over Ireland with a game to spare.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cricket-england-cricket_7340187.jpg?20260903182457"
+    },
+    {
+      "source": "sky",
+      "title": "All right for Wong as England seamer 'keeps things simple'",
+      "link": "https://www.skysports.com/cricket/news/12040/13580998/england-vs-ireland-issy-wong-rewarded-for-keeping-things-simple-as-five-wicket-haul-helps-side-secure-odi-series-win",
+      "summary": "England bowler Issy Wong likes delving into her box of tricks - off the field when she completes Rubik's Cubes in next to no time and on it as she tries to get batters out.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-issy-wong-england-women-odi-cricket_7340286.jpg?20260903195314"
+    },
+    {
+      "source": "sky",
+      "title": "Osaka overcomes serving struggles to reach US Open third round",
+      "link": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-overcomes-serving-struggles-to-beat-katerina-siniakova-and-clinch-spot-in-third-round",
+      "summary": "Naomi Osaka overcame a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round of the US Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-naomi-osaka-tennis_7340123.jpg?20260903172200"
+    },
+    {
+      "source": "sky",
+      "title": "Where should Kemp bat in England's ODI side?",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-freya-kemp_7340165.jpg?20260903175509"
+    },
+    {
+      "source": "sky",
       "title": "Penalised Antonelli to help Russell at Italian GP",
       "link": "https://www.skysports.com/f1/news/12040/13580797/italian-gp-kimi-antonelli-to-help-mercedes-team-mate-george-russell-in-monza-qualifying-due-to-engine-grid-penalty",
       "summary": "Kimi Antonelli is ready to help Mercedes team-mate and title rival George Russell in qualifying at the Italian Grand Prix for a race the world championship leader will start at the back of the grid due to an engine penalty.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7340076.jpg?20260903165322"
-    },
-    {
-      "source": "sky",
-      "title": "England four down and need less than 50 runs to win series vs Ireland LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-sophia-dunkley_7340096.jpg?20260903170714"
     },
     {
       "source": "sky",
@@ -387,11 +435,19 @@
     },
     {
       "source": "sky",
-      "title": "US Open LIVE! Britain's Dart in action with Osaka in control on Arthur Ashe",
+      "title": "US Open LIVE! Britain's Dart beaten and Auger-Aliassime suffers shock exit",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-harriet-dart-tennis_7339463.jpg?20260903021201"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-harriet-dart-tennis_7336702.jpg?20260831162857"
+    },
+    {
+      "source": "sky",
+      "title": "Crocombe takes second hat-trick in eight days for Sussex",
+      "link": "https://www.skysports.com/cricket/news/12040/13580972/county-championship-henry-crocombe-takes-hat-tricks-in-successive-games-as-23-wickets-fall-in-surrey-vs-yorkshire-round-up",
+      "summary": "Sussex seamer Henry Crocombe took his second hat-trick in eight days to help condemn Essex to 177 all out having been 171-3 just 26 balls before.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-henry-crocombe-cricket_7276657.jpg?20260619143304"
     },
     {
       "source": "sky",
@@ -419,6 +475,22 @@
     },
     {
       "source": "sky",
+      "title": "Wong stars with five-for as England clinch ODI series win over Ireland",
+      "link": "https://www.skysports.com/cricket/news/12040/13580912/england-seal-odi-series-win-over-ireland-after-issy-wongs-five-fer-in-six-wicket-victory-in-derby",
+      "summary": "Issy Wong's maiden international five-wicket haul inspired England to a&#160;comprehensive victory&#160;over Ireland in the second ODI as they clinched the three-match series with a game to spare in Derby.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-issy-wong_7340018.jpg?20260903190417"
+    },
+    {
+      "source": "sky",
+      "title": "Clements one shot off Wu for first-round European Masters lead",
+      "link": "https://www.skysports.com/golf/news/12040/13580931/dp-world-tour-englands-todd-clements-one-shot-off-ashun-wu-in-omega-european-masters-at-crans-montana",
+      "summary": "England's Todd Clements is one shot behind course leader Ashun Wu after posting a six-under 64 in the first round of the Omega European Masters at Crans Montana.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-dp-world-tour_7340131.jpg?20260903172712"
+    },
+    {
+      "source": "sky",
       "title": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
       "link": "https://www.skysports.com/football/news/12040/13580349/devs-digest-mal-benning-to-be-honoured-hamza-choudhury-wins-on-sheffield-united-debut-amit-bhatia-attends-liverpool-match-at-anfield",
       "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects some of the key developments for British South Asians in Football.",
@@ -427,91 +499,19 @@
     },
     {
       "source": "sky",
+      "title": "Rangers sign Kelsy and Bouanani on Deadline Day",
+      "link": "https://www.skysports.com/football/news/12040/13579735/rangers-transfer-news-kevin-kelsy-and-badredine-bouanani-join-on-deadline-day-as-nico-raskin-bid-rejected",
+      "summary": "Rangers have signed Kevin Kelsy from Portland Timbers in a deal worth &#163;9m with winger Badredine Bouanani joining on loan from Stuttgart.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kevin-kelsy-badredine_7339974.jpg?20260903153433"
+    },
+    {
+      "source": "sky",
       "title": "BIG crowds gather in Milan as Ferrari fans cheer for Hamilton & Leclerc!",
       "link": "https://www.skysports.com/watch/video/13580707/formula-1-ferrari-fans-flock-to-peroni-event-to-cheer-on-lewis-hamilton-and-charles-leclerc",
       "summary": "Lewis Hamilton and Charles Leclerc were greeted with a big reception as Ferrari fans gathered in Milan to cheer on the F1 stars at a House of Peroni Nastro Azzurro 0.0% event.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ferrari-hamilton_7339551.jpg?20260903080204"
-    },
-    {
-      "source": "sky",
-      "title": "British NFL player Traore: I'll do what I need to do to make Dolphins impact",
-      "link": "https://www.skysports.com/nfl/news/12040/13559821/seydou-traore-interview-british-tight-end-on-nfl-draft-miami-dolphins-and-goals-in-the-league",
-      "summary": "You may have heard Seydou Traore's story before. The likelihood is that you'll hear it many more times throughout his NFL career.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-seydou-traore-miami-dolphins_7332511.jpg?20260827105604"
-    },
-    {
-      "source": "sky",
-      "title": "Is Chelsea's style under Alonso a major surprise?",
-      "link": "https://www.skysports.com/football/news/12040/13580427/arsenal-vs-chelsea-does-xabi-alonso-have-a-style-issue-and-will-it-affect-ability-to-compete-at-top-of-premier-league",
-      "summary": "Much of the last week in the Premier League has bordered on the ridiculous. Spending in the transfer window went stratospheric. Total expenditure topped &#163;3.4bn by Deadline Day's close.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-chelsea-cole-palmer_7340034.jpg?20260903161919"
-    },
-    {
-      "source": "sky",
-      "title": "Italian GP declared heat hazard race",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-italian-gp-f1-2026_7339613.jpg?20260903095250"
-    },
-    {
-      "source": "sky",
-      "title": "Graffard's Drazinda faces Armor Supreme",
-      "link": "https://www.skysports.com/racing/news/12040/13580265/today-on-sky-sports-racing-francis-henri-graffards-drazinda-faces-armor-supreme",
-      "summary": "Lingfield, Southwell, Newcastle and ParisLongchamp are the venues for today's action - live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graffard-racing_7338524.jpg?20260902095254"
-    },
-    {
-      "source": "sky",
-      "title": "Pakistan's dramatic changes assessed as Imam 'thrown under the bus'",
-      "link": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-cricket-podcast_7236076.png?20260501102841"
-    },
-    {
-      "source": "sky",
-      "title": "Saints' Percival to retire at end of 2026 Super League season",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13580897/super-league-mark-percival-to-retire-at-end-of-season-after-13-year-career-with-st-helens",
-      "summary": "St Helens' centre Mark Percival has announced he will retire at the end of the 2026 Super League season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-mark-percival-rugby-league_7184404.jpg?20260314113808"
-    },
-    {
-      "source": "sky",
-      "title": "Solheim Cup | Best winning moments!",
-      "link": "https://www.skysports.com/watch/video/12961988/solheim-cup-best-winning-moments",
-      "summary": "Take a look back at some Solheim Cup classic winning moments through the years between Team USA and Team Europe.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-solheim-cup-golf_7338869.jpg?20260902142631"
-    },
-    {
-      "source": "sky",
-      "title": "Norris reveals other 'opportunities' before committing future to McLaren",
-      "link": "https://www.skysports.com/f1/news/12040/13580417/lando-norris-reveals-other-opportunities-before-signing-new-mclaren-contract-ahead-of-italian-grand-prix",
-      "summary": "Lando Norris has revealed he had other opportunities before signing a new contract to stay at McLaren until at least the end of 2030.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-lando-norris-mclaren_7339148.jpg?20260902191125"
-    },
-    {
-      "source": "sky",
-      "title": "Humphries could face Greaves as Littler returns at Czech Darts Open",
-      "link": "https://www.skysports.com/darts/news/12040/13580802/czech-darts-open-latest-draw-schedule-results-as-luke-littler-luke-humphries-beau-greaves-feature-in-prague",
-      "summary": "Beau Greaves faces a showdown with world No 2 and reigning champion Luke Humphries if she beats Daryl Gurney in the opening round of the European Tour's Czech Darts Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-luke-humphries-beau-greaves_7339849.jpg?20260903133005"
-    },
-    {
-      "source": "sky",
-      "title": "Sabalenka breezes past Iatcenko in US Open",
-      "link": "https://www.skysports.com/watch/video/13580690/aryna-sabalenka-vs-polina-iatchenko-us-open-highlights",
-      "summary": "Highlights of Aryna Sabalenka against Polina Iatchenko from the US Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-sabalenka-iatchenko_7339507.jpg?20260903065216"
     }
   ]
 }
