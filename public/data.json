@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T14:42:58.709227+00:00",
+  "lastUpdated": "2026-09-04T17:59:02.744313+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,11 +355,91 @@
     },
     {
       "source": "sky",
-      "title": "Italian GP: Mercedes responding to Ferrari pace in close-fought practice LIVE!",
+      "title": "Putellas starts but Earps on the bench for London City vs Man Utd LIVE!",
+      "link": "https://www.skysports.com/football/london-city-lionesses-vs-manchester-united-women/live/575755",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-womens-super-league_7336422.jpg?20260831095601"
+    },
+    {
+      "source": "sky",
+      "title": "Ipswich vs Liverpool LIVE on Sky! Barcola on bench for visitors",
+      "link": "https://www.skysports.com/football/ipswich-town-vs-liverpool/live/559470",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-barcola-liverpool_7341164.jpg?20260904185531"
+    },
+    {
+      "source": "sky",
+      "title": "'It's going to be tight' - Hamilton eyes 'dream' Monza pole",
+      "link": "https://www.skysports.com/f1/news/12040/13581165/lewis-hamilton-eyes-dream-italian-gp-pole-position-for-ferrari-after-predicting-very-close-monza-qualifying-battle",
+      "summary": "Lewis Hamilton is predicting a &#8220;very close&#8221; battle in Italian Grand Prix qualifying on Saturday for what he says would he says would be a &#8220;dream&#8221; pole position at Monza.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7341108.jpg?20260904180046"
+    },
+    {
+      "source": "sky",
+      "title": "Stella fumes at 'insulting' Briatore allegations after Alpine lose podium",
+      "link": "https://www.skysports.com/f1/news/12040/13581166/andrea-stella-says-allegations-from-alpine-chief-flavio-briatore-are-insulting-for-mclaren-after-court-rules-on-monaco-podium",
+      "summary": "Andrea Stella has accused Alpine chief Flavio Briatore of \"insulting\" McLaren by questioning the relationship between the reigning constructors' champions and a judge at the FIA's International Court of Appeal.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-flavio-briatore-alpine_7340942.jpg?20260904151117"
+    },
+    {
+      "source": "sky",
+      "title": "Sabalenka beats Rakhimova to reach fourth round of US Open",
+      "link": "https://www.skysports.com/tennis/news/12040/13581383/us-open-aryna-sabalenka-beats-kamilla-rakhimova-in-straight-sets-to-reach-fourth-round-in-flushing-meadows",
+      "summary": "Aryna Sabalenka came through a tough test against Kamilla Rakhimova - particularly in the second set - to reach the fourth round of the US Open.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tennis-aryna-sabalenka_7336731.jpg?20260831172211"
+    },
+    {
+      "source": "sky",
+      "title": "F1 reveals location as season launch event returns for 2027",
+      "link": "https://www.skysports.com/f1/news/12040/13581325/f1-2027-season-launch-event-to-be-held-in-milan-in-february-ahead-of-next-campaign-with-teams-drivers-present",
+      "summary": "Formula 1 will stage its second-ever season launch event in Milan in February ahead of the 2027 campaign.",
+      "published": null,
+      "image": "https://e0.365dm.com/24/12/1920x1080/skysports-f1-logo-2023-las-vegas-gp_6774817.jpg?20241213120300"
+    },
+    {
+      "source": "sky",
+      "title": "Surrey ease relegation fears with nerve-shredding win over Yorkshire",
+      "link": "https://www.skysports.com/cricket/news/12040/13581420/county-championship-cricket-surrey-ease-relegation-fears-with-nerve-shredding-win-over-yorkshire-at-the-oval",
+      "summary": "Surrey eased their County Championship relegation fears with a nerve-shredding one-wicket win over Yorkshire as last man Dan Worrall whipped away the winning four and Josh Blake battled to 43 not out off 183 deliveries after over four hours at the crease.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-surrey-county-cricket_7341106.jpg?20260904175921"
+    },
+    {
+      "source": "sky",
+      "title": "Russell tops second practice as Mercedes respond to Ferrari at Monza",
+      "link": "https://www.skysports.com/f1/news/12040/13581162/italian-gp-george-russell-fastest-in-practice-two-as-mercedes-edge-ahead-of-fast-starting-ferrari-at-monza",
+      "summary": "George Russell beat Charles Leclerc to the fastest time of second practice at the Italian Grand Prix as Mercedes responded to Ferrari's early pace at Monza.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7341003.jpg?20260904160419"
+    },
+    {
+      "source": "sky",
+      "title": "Pakistan 'used to chaos', says coach Hesson, as he searches for 'x-factor'",
+      "link": "https://www.skysports.com/cricket/news/12040/13581387/pakistan-used-to-chaos-says-interim-red-ball-coach-mike-hesson-after-massive-upheaval-ahead-of-final-england-test",
+      "summary": "Interim head coach Mike Hesson says Pakistan are used to a \"a little bit of chaos\" as they aim to end a sobering tour of England on a high in the final Test after a week of dramatic upheaval.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-salman-ali-agha-pakistan-test-cricket_7332895.jpg?20260827173823"
+    },
+    {
+      "source": "sky",
+      "title": "'Just struggling' - Norris rules McLaren out of Monza pole fight",
       "link": "https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7340974.jpg?20260904153121"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7341087.jpg?20260904174832"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Alcaraz in action ahead of Williams sisters playing doubles",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13581049/us-open-live-scores-updates-news-commentary-results-from-new-york-with-carlos-alcaraz-aryna-sabalenka-ben-shelton-serena-and-venus-williams-in-action",
+      "summary": "Get the latest scores, updates, news, results at the US Open; watch the action from New York - live on Sky Sports' dedicated tennis channel",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-carlos-alcaraz-tennis_7340108.jpg?20260903171635"
     },
     {
       "source": "sky",
@@ -395,6 +475,22 @@
     },
     {
       "source": "sky",
+      "title": "O'Neill satisfied with Celtic signings | McInnes has Rangers squad he craved",
+      "link": "https://www.skysports.com/football/news/12040/13581374/old-firm-celtic-manager-martin-oneill-satisfied-with-signings-derek-mcinnes-believes-he-has-rangers-squad-he-craved",
+      "summary": "Martin O'Neill declared himself happy with Celtic's transfer business while Derek McInnes insists he now has the type of dressing room he desires at Rangers.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-old-firm-rangers_7341038.jpg?20260904164951"
+    },
+    {
+      "source": "sky",
+      "title": "Clubs to be offered incentives to play more Scottish youngsters",
+      "link": "https://www.skysports.com/football/news/12040/13581358/scottish-fa-summit-spfl-clubs-to-be-offered-incentives-to-play-more-home-grown-youth-players",
+      "summary": "The Scottish FA is proposing financial incentives for clubs to play more young home-grown footballers.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-sfa-wilson-curtis_7341005.jpg?20260904160631"
+    },
+    {
+      "source": "sky",
       "title": "Arsenal’s ever-improving defence meets one that got away in Rogers",
       "link": "https://www.skysports.com/football/news/12040/13581188/arsenals-defence-still-improving-even-without-william-saliba-but-morgan-rogers-and-chelsea-are-tougher-test-the-radar",
       "summary": "",
@@ -416,102 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-    },
-    {
-      "source": "sky",
-      "title": "Hollie Doyle blog: How my husband Tom can clinch Sprint Cup title",
-      "link": "https://www.skysports.com/racing/news/12040/13581292/hollie-doyle-blog-ascot-kempton-and-haydock-preview-as-almeraq-headlines-sprint-cup-field-for-husband-tom-marquand",
-      "summary": "Sky Sports Racing ambassador Hollie Doyle unpicks four big handicaps at Ascot on Saturday, live on Sky Sports Racing, plus the two feature events at Haydock and Kempton.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
-    },
-    {
-      "source": "sky",
-      "title": "Leclerc leads Hamilton as Ferrari seal practice one-two after upgrades",
-      "link": "https://www.skysports.com/f1/news/12040/13581158/italian-gp-charles-leclerc-leads-lewis-hamilton-as-ferrari-seal-one-two-in-first-monza-practice-after-revealing-upgrades",
-      "summary": "Charles Leclerc led a one-two from team-mate Lewis Hamilton in Italian Grand Prix first practice as Ferrari impressed after debuting an engine upgrade at Monza.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charles-leclerc-ferrari_7340765.jpg?20260904121827"
-    },
-    {
-      "source": "sky",
-      "title": "Can Korda guide experienced Team USA to away Solheim Cup success?",
-      "link": "https://www.skysports.com/golf/news/12040/13581191/solheim-cup-2026-who-is-playing-for-team-usa-angela-stanfords-line-up-to-face-team-europe-and-how-they-qualified",
-      "summary": "Team USA look to retain the Solheim Cup in the Netherlands this month, live on Sky Sports, with Angela Stanford&#8217;s experienced side eyeing a rare away win over Team Europe.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-solheim-cup-2026_7340963.jpg?20260904152053"
-    },
-    {
-      "source": "sky",
-      "title": "Big Mojo fancied to return Sprint Cup crown",
-      "link": "https://www.skysports.com/racing/news/12040/13581228/haydock-tips-big-mojo-fancied-to-retain-sprint-cup-crown",
-      "summary": "Kate Tracey was joined by Callum Helliwell and Declan Rix to preview another busy weekend of action, which includes the Group 1 Sprint Cup from Haydock.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7340741.png?20260904120213"
-    },
-    {
-      "source": "sky",
-      "title": "More Scottish Premiership games live on Sky Sports",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-spfl-sky-sports-premiership_7340975.jpg?20260904153230"
-    },
-    {
-      "source": "sky",
-      "title": "Fulham latest: Arbeloa calls for patience as new signings get up to speed",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
-    },
-    {
-      "source": "sky",
-      "title": "Gasly loses Monaco GP podium again after McLaren, Red Bull win appeal",
-      "link": "https://www.skysports.com/f1/news/12040/13581163/pierre-gasly-alpine-driver-loses-monaco-gp-podium-for-second-time-after-mclaren-red-bull-win-appeal",
-      "summary": "Alpine's Pierre Gasly has lost his third-place finish from June's Monaco Grand Prix again after his penalties from the race were reinstated after a successful appeal by McLaren and Red Bull.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-pierre-gasly-alpine_7340693.jpg?20260904111553"
-    },
-    {
-      "source": "sky",
-      "title": "Emotional Arrow leads out Rabbitohs for final time after MND diagnosis",
-      "link": "https://www.skysports.com/watch/video/13581216/nrl-emotional-arrow-leads-out-rabbitohs-for-final-time-after-mnd-diagnosis",
-      "summary": "South Sydney Rabbitohs player Jai Arrow receives an emotional welcome as he leads out the side for the last time after his MND diagnosis.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arrow-nrl_7340709.jpg?20260904113704"
-    },
-    {
-      "source": "sky",
-      "title": "The assistant headteacher about to become England manager for a week",
-      "link": "https://www.skysports.com/football/news/12040/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week",
-      "summary": "Andy McCann has only just returned to work.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-andy-mccann-cheshire-league_7340119.jpg?20260903172059"
-    },
-    {
-      "source": "sky",
-      "title": "Women's CL draw: Arsenal to face reigning champions Barcelona",
-      "link": "https://www.skysports.com/football/news/12040/13581187/womens-champions-league-2026-27-draw-x",
-      "summary": "Arsenal will face reigning champions Barcelona in the league phase of the 2026/27 Women's Champions League.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-uefa-womens-champions_7340660.jpg?20260904101312"
-    },
-    {
-      "source": "sky",
-      "title": "Andrews: Brentford are playing with verve - let's see if we can break the ceiling",
-      "link": "https://www.skysports.com/football/news/12040/13580770/keith-andrews-exclusive-brentford-head-coach-on-the-improvements-he-hopes-can-help-break-the-ceiling-and-help-the-bees-reach-europe",
-      "summary": "Seconds before the curtain came down on the 2025/26 season, Brentford had a golden chance to do what they had never done before: qualify for Europe.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-keith-andrews-brentford_7339692.jpg?20260903111725"
-    },
-    {
-      "source": "sky",
-      "title": "No away fans at Old Firm Premiership and League Cup games this season",
-      "link": "https://www.skysports.com/football/news/12040/13581296/celtic-and-rangers-away-fans-barred-from-all-old-firm-premiership-and-league-cup-games-this-season",
-      "summary": "There will be no fans allowed at Old Firm games between Celtic and Rangers in this season's Premiership and League Cup, the SPFL has announced.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-celtic-rangers-fans_7333548.jpg?20260828120836"
     }
   ]
 }
