@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-05T18:44:30.921907+00:00",
+  "lastUpdated": "2026-09-05T20:53:37.544149+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+      "published": "2026-09-05T19:08:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/28ce1350-a95e-11f1-99c3-dba02712eb49.jpg"
+    },
+    {
+      "source": "guardian",
+      "title": "Arteta v Alonso, part one: a desire for control and the theory behind the chaos | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/sep/05/mikel-arteta-xabi-alonso-chelsea-arsenal",
+      "summary": "Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friendsControl v chaos. On the one hand, the forces of order, regimented, playing in precise patterns and, on the other, something darker, more visceral, a method that acknowledges the imperfection of the human soul, the unknowability of football in all its randomness; better, tha",
+      "published": "2026-09-05T19:00:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/f07ed745601dddcee2e7150b33e2b0f95d70996e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a036a74a916e6e909ddc33068f76e76a"
+    },
     {
       "source": "guardian",
       "title": "‘Reverse bucket list’: Arteta channels Wenger in defence of Arsenal window",
@@ -338,44 +354,44 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c227/live/96954180-9e12-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Swaggering Arsenal want title attack, not defence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
-      "published": "2026-08-21T22:55:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54a/live/2cad59d0-9dac-11f1-b8c4-c1e59b96cddc.jpg"
-    },
-    {
-      "source": "guardian",
-      "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass",
-      "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay ",
-      "published": "2026-08-21T22:43:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/7ccc9ea50a9d5b9213ca57f31b729838758dcaa5/173_0_3777_3023/master/3777.jpg?width=140&quality=85&auto=format&fit=max&s=0c47f2fddfd646bb8c6230ce54c389fd"
-    },
-    {
       "source": "sky",
-      "title": "Villa take first points but rue missed chances in Hull stalemate",
-      "link": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal",
+      "title": "Villa take first point but rue missed chances in Hull stalemate",
+      "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
       "summary": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-emiliano-buendia_7342467.jpg?20260905192217"
     },
     {
       "source": "sky",
-      "title": "Super League LIVE! Build-up to Leeds vs Wigan in crunch top-of-table clash",
+      "title": "Super League LIVE! Wigan take top spot from Leeds with one round left",
       "link": "https://www.skysports.com/rugby-league/live-blog/12040/13580353/super-league-live-updates-videos-scores-commentary-analysis-as-leeds-rhinos-take-on-wigan-warriors-in-round-26",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-super-league-rugby-league_7338698.jpg?20260902124748"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wigan-liam-marshall_7342611.jpg?20260905211805"
     },
     {
       "source": "sky",
-      "title": "Swansea vs Wrexham LIVE on Sky!",
+      "title": "Taylor faces Pili in final fight of career at packed Croke Park LIVE!",
+      "link": "https://www.skysports.com/boxing/live-blog/12040/13582083/taylor-vs-pili-live-updates-and-result-as-katie-taylor-faces-flora-pili-in-final-fight-of-career-at-croke-park",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-katie-taylor-croke_7342619.jpg?20260905212658"
+    },
+    {
+      "source": "sky",
+      "title": "Wrexham and Swansea looking for late winner LIVE on Sky!",
       "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/live/560555",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7336406.jpg?20260831093302"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-ohare_7342616.jpg?20260905212222"
+    },
+    {
+      "source": "sky",
+      "title": "Hits and misses: Gakpo steals Barcola's thunder as Anderson passes like Rodri",
+      "link": "https://www.skysports.com/football/news/12040/13581444/cody-gakpo-outshines-new-liverpool-signing-bradley-barcola-as-elliot-anderson-gives-his-best-rodri-impression-pl-hits-and-misses",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554"
     },
     {
       "source": "sky",
@@ -427,6 +443,14 @@
     },
     {
       "source": "sky",
+      "title": "GB and Ireland lead USA in Walker Cup after early controversy",
+      "link": "https://www.skysports.com/golf/news/12040/13581718/walker-cup-great-britain-ireland-6-5-5-5-usa-luke-poulter-takes-crucial-point-following-morning-controversy",
+      "summary": "Great Britain and Ireland lead the USA 6&#189;-5&#189; as day one of the Walker Cup witnessed some early controversy.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-poulter-niall-shiels-donegan_7342511.jpg?20260905201022"
+    },
+    {
+      "source": "sky",
       "title": "Walker Cup controversy! GB&I player scoops up ball before putt is conceded",
       "link": "https://www.skysports.com/watch/video/13581684/walker-cup-niall-shiels-donegan-scoops-up-ball-before-hole-is-conceded",
       "summary": "GB&I's Niall Sheils Donegan made the mistake of scooping up the ball before his short putt was conceded by Team USA at the Walker Cup.",
@@ -467,11 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Van den Berg and Lotomba on bench for Celtic at St Mirren LIVE!",
+      "title": "Yang strikes as Celtic come from behind to lead St Mirren LIVE! & highlights",
       "link": "https://www.skysports.com/football/st-mirren-vs-celtic/live/558368",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-scottish-premiership_7336405.jpg?20260831093235"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-celtic-st-mirren_7342613.jpg?20260905211915"
     },
     {
       "source": "sky",
@@ -488,30 +512,6 @@
       "summary": "South Africa's Thriston Lawrence looks frustrated as he fails to play his ball out of a water hazard at the Omega Masters.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-golf-lawrence-water_7342256.jpg?20260905173354"
-    },
-    {
-      "source": "sky",
-      "title": "Italian Grand Prix | Qualifying Highlights",
-      "link": "https://www.skysports.com/watch/video/13581845/italian-grand-prix-qualifying-highlights",
-      "summary": "Highlights from qualifying for the 2026 Italian Grand Prix.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-formula-one-italian-gp_7342098.jpg?20260905162958"
-    },
-    {
-      "source": "sky",
-      "title": "Springboks edge All Blacks in thriller to take series lead",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13582037/south-africa-29-24-new-zealand-springboks-edge-thriller-to-take-2-1-series-lead-in-soweto",
-      "summary": "South Africa came from behind to edge New Zealand 29-24 in a ferocious third Test that moved them 2-1 ahead in the 'Rugby's Greatest Rivalry' series with one game remaining.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-malcolm-marx-rugby_7342382.jpg?20260905183156"
-    },
-    {
-      "source": "sky",
-      "title": "Millwall thump four past Bolton",
-      "link": "https://www.skysports.com/football/millwall-vs-bolton-wanderers/report/560549",
-      "summary": "Lyndon Dykes scored his first two goals for injury-hit Millwall as they returned to winning ways in the Sky Bet Championship in some style with a 4-0 victory over Bolton at The Den.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lyndon-dykes-millwall_7342167.jpg?20260905170140"
     }
   ]
 }
