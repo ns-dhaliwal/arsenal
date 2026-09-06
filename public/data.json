@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-06T13:53:26.697318+00:00",
+  "lastUpdated": "2026-09-06T16:39:21.283737+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal v Chelsea: Premier League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+      "summary": "Minute-by-minute updates from the action at the Emirates StadiumArsenal bank on continuity after window closesAnd now a third goal…There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
+      "published": "2026-09-06T16:38:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/1965cb08f60dd2819e277bf117f8342601685835/402_206_3611_2889/master/3611.jpg?width=140&quality=85&auto=format&fit=max&s=8f70c0d87cd10bbdc02bf7473e88c2a3"
+    },
     {
       "source": "guardian",
       "title": "‘When there’s joy, there’s room for hope’: Eberechi Eze, Leona Lewis, and Yinka Ilori in conversation with Ezra Collective",
@@ -306,14 +314,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664a/live/17dbbbe0-a217-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "source": "guardian",
-      "title": "The big transfer stories to follow in final week of summer window",
-      "link": "https://www.theguardian.com/football/who-scored-blog/2026/aug/27/transfer-window-barcola-alvarez-fernandez-gakpo-liverpool-arsenal-manchester-city-spurs",
-      "summary": "Bradley Barcola, Julián Alvarez, Enzo Fernández and Cody Gakpo could be on the move in the next few daysBy WhoScoredEvery transfer window has at least one saga that dominates. Barcola’s potential move to Liverpool has been that story this summer. Given Liverpool are crying out for a right-winger to replace Mohamed Salah, one of their greatest players, it may seem surprising their attention has bee",
-      "published": "2026-08-27T07:00:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/694dd44b1074ad79a427ebf64c800cdd2c0f7da0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c483cd703dc1c83cd09b5f22431b7bbe"
-    },
-    {
       "source": "bbc",
       "title": "Is Saka getting back to his best at Arsenal?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo?at_medium=RSS&at_campaign=rss",
@@ -355,27 +355,75 @@
     },
     {
       "source": "sky",
-      "title": "Italian GP: Russell battles Verstappen for lead after huge Leclerc crash LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
-      "summary": "",
+      "title": "Fowler at the double as St Johnstone beat Hibs",
+      "link": "https://www.skysports.com/football/st-johnstone-vs-hibernian/report/558367",
+      "summary": "Josh Fowler's first-half double secured St Johnstone a 2-1 win over Hibernian and moved them above their opponents in the table.",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-charles-leclerc_7343073.png?20260906141015"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-st-johnstone-josh_7343237.jpg?20260906155042"
     },
     {
       "source": "sky",
-      "title": "England take early wicket as Ireland chase 292 to win third ODI LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
+      "title": "Everton latest: George was problem for Man Utd, he'll get better too, says Moyes",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-lauren-filer-england_7244276.jpg?20260510111717"
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
     },
     {
       "source": "sky",
-      "title": "Arsenal vs Chelsea build-up LIVE on Sky!",
+      "title": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
+      "link": "https://www.skysports.com/cricket/news/12040/13582326/england-clinch-odi-series-sweep-of-ireland-as-sophia-dunkley-hits-second-international-century-in-114-run-win",
+      "summary": "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the series by 114 runs in Worcester on Sunday.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-sophia-dunkley-england-women-odi-cricket_7339636.jpg?20260903101144"
+    },
+    {
+      "source": "sky",
+      "title": "19th to victory! Antonelli sensationally wins thrilling Italian GP",
+      "link": "https://www.skysports.com/f1/news/12040/13582217/italian-gp-kimi-antonelli-sensationally-wins-thrilling-monza-race-from-george-russell-and-max-verstappen",
+      "summary": "Kimi Antonelli completed a remarkable comeback to win his home Italian Grand Prix from 19th place after a race-long battle against Mercedes team-mate George Russell.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7343322.jpg?20260906162242"
+    },
+    {
+      "source": "sky",
+      "title": "Neto hits the post with Arsenal and Chelsea level in thrilling derby LIVE!",
       "link": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-arsenal_7336356.jpg?20260831080249"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arsenal-kai-havertz_7343400.jpg?20260906170104"
+    },
+    {
+      "source": "sky",
+      "title": "Late SCENES! Maitland-Niles' incredible last-gasp goal nicks point for Everton",
+      "link": "https://www.skysports.com/watch/video/13582401/everton-2-2-man-united-premier-league-highlights",
+      "summary": "FREE TO WATCH: Highlights from Everton&#8217;s match against Manchester United in the Premier League.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-everton-man-united_7343343.jpg?20260906163347"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Sabalenka and Alcaraz in action as they target quarter-finals",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13582160/us-open-live-scores-updates-news-commentary-results-from-new-york-with-coco-gauff-taylor-fritz-naomi-osaka-and-alexander-zverev-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aryna-sabalenka-tennis_7336935.jpg?20260831211550"
+    },
+    {
+      "source": "sky",
+      "title": "England clinch 3-0 ODI series sweep of Ireland with 114-run win- as it happened",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tilly-corteen-coleman_7343298.jpg?20260906161401"
+    },
+    {
+      "source": "sky",
+      "title": "Italian GP: Reaction to Antonelli's remarkable win on big day in title race",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13581630/f1-italian-gp-live-race-updates-results-stream-highlights-from-13th-round-of-2026-formula-1-season-at-hungaroring-at-monza",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7343310.jpg?20260906161658"
     },
     {
       "source": "sky",
@@ -387,6 +435,14 @@
     },
     {
       "source": "sky",
+      "title": "Casey left to regret missed putts as Lawrence snatches European Masters title",
+      "link": "https://www.skysports.com/golf/news/12040/13582287/dp-world-tour-paul-casey-misses-crucial-putts-at-omega-european-masters-as-thriston-lawrence-claims-third-title",
+      "summary": "Paul Casey astonishingly missed a series of putts to win the Omega European Masters before losing to defending champion Thriston Lawrence at the fourth play-off hole.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-thriston-lawrence_7343378.jpg?20260906165030"
+    },
+    {
+      "source": "sky",
       "title": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
       "link": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
       "summary": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the Gunners.",
@@ -395,11 +451,43 @@
     },
     {
       "source": "sky",
+      "title": "'Utter precision' as Havertz levels for Gunners",
+      "link": "https://www.skysports.com/watch/video/13582433/goal-k-havertz-25-arsenal-1-1-chelsea",
+      "summary": "Kai Havertz finds a gap at the near post and levels for Arsenal vs Chelsea.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-premier-league_7343420.jpg?20260906170851"
+    },
+    {
+      "source": "sky",
       "title": "Taylor ecstatic with Croke Park swansong",
       "link": "https://www.skysports.com/boxing/news/12040/13582203/katie-taylor-ecstatic-after-beating-flora-pili-to-make-perfect-end-to-dream-career-at-dublins-croke-park",
       "summary": "Katie Taylor acclaimed becoming a three-time undisputed world champion in her farewell fight at Croke Park as the most special moment of her decorated career.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-katie-taylor-croke-park_7342728.jpg?20260905232255"
+    },
+    {
+      "source": "sky",
+      "title": "Itoje back in England squad but Lawes and Marchant made to wait",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13582424/england-rugby-squad-captain-maro-itoje-returns-but-courtney-lawes-and-joe-marchant-made-to-wait-after-prem-returns",
+      "summary": "Maro Itoje has been named in England's first squad since the summer tour but Courtney Lawes and Joe Marchant must prove themselves for Sale before being recalled.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-maro-itoje-england_7343386.jpg?20260906165623"
+    },
+    {
+      "source": "sky",
+      "title": "90+5! Maitland-Niles stuns Man Utd as Everton salvage dramatic draw",
+      "link": "https://www.skysports.com/football/everton-vs-manchester-united/report/559467",
+      "summary": "Manchester United were held to a pulsating 2-2 draw with Everton at the Hill Dickinson after leading twice but conceding to an outrageous 95th-minute leveller from Ainsley Maitland-Niles on his Toffees debut.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-everton_7343272.jpg?20260906160154"
+    },
+    {
+      "source": "sky",
+      "title": "'Instinct and precision!' | Rogers fires Chelsea ahead inside 2 mins",
+      "link": "https://www.skysports.com/watch/video/13582414/goal-m-rogers-2-arsenal-0-1-chelsea",
+      "summary": "Morgan Rogers gives Chelsea an early lead inside 2 mins vs Arsenal.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-premier-league_7343351.jpg?20260906163854"
     },
     {
       "source": "sky",
@@ -419,99 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Infantino to stand for re-election as FIFA president",
-      "link": "https://www.skysports.com/football/news/12040/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march",
-      "summary": "Gianni Infantino will stand for re-election as FIFA president next March.&#160;",
+      "title": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
+      "link": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
+      "summary": "Ainsley Maitland-Niles score a last-minute stunner to snatch a point for Everton in their Premier League clash with Manchester United.",
       "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
-    },
-    {
-      "source": "sky",
-      "title": "WSL LIVE on Sky! Man City begin title defence after Arsenal, Spurs win",
-      "link": "https://www.skysports.com/football/manchester-city-women-vs-birmingham-city-women/live/575760",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-wsl-womens-super-league_7336459.jpg?20260831110026"
-    },
-    {
-      "source": "sky",
-      "title": "Gauff progresses at US Open, compatriots Fritz, Anisimova, Keys knocked out",
-      "link": "https://www.skysports.com/tennis/news/12040/13582102/us-open-coco-gauff-progresses-to-fourth-round-while-compatriots-taylor-fritz-amanda-anisimova-madison-keys-knocked-out",
-      "summary": "Coco Gauff ensured the watching American public had something to cheer at the US Open as she progressed to the fourth round on a day when Taylor Fritz, Amanda Anisimova and Madison Keys suffered shock defeats.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-coco-gauff-tennis_7342726.jpg?20260905232046"
-    },
-    {
-      "source": "sky",
-      "title": "WSL round-up: New signings Baum and Hanson secure wins for Arsenal and Spurs",
-      "link": "https://www.skysports.com/football/news/12040/13581388/womens-super-league-round-up-lisa-baum-shines-on-arsenal-debut-to-beat-brighton-and-tottenham-dominate-west-ham",
-      "summary": "Sky Sports' round-up of Sunday's action across the Women's Super League as new signings for Arsenal and Tottenham shine to secure wins for both clubs.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-lisa-baum_7342956.jpg?20260906122330"
-    },
-    {
-      "source": "sky",
-      "title": "Off the crossbar! Bruno comes close early on for Man Utd",
-      "link": "https://www.skysports.com/watch/video/13582311/post-b-fernandes-8-everton-0-0-manchester-utd",
-      "summary": "Bruno Fernandes hits the crossbar early in Manchester United's Premier League clash with Everton",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-united-everton_7343088.jpg?20260906141617"
-    },
-    {
-      "source": "sky",
-      "title": "Aberdeen and Kilmarnock end losing streaks with draw",
-      "link": "https://www.skysports.com/football/aberdeen-vs-kilmarnock/report/558363",
-      "summary": "Aberdeen and 10-man Kilmarnock battled out a tetchy 0-0 Premiership draw at Pittodrie as both sides brought their losing streaks to an end.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kilmarnock-djenairo_7342302.jpg?20260905175618"
-    },
-    {
-      "source": "sky",
-      "title": "Villa take first point but rue missed chances in Hull stalemate",
-      "link": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
-      "summary": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-emiliano-buendia_7342467.jpg?20260905192217"
-    },
-    {
-      "source": "sky",
-      "title": "Wigan thrash Leeds to take control of Shield race",
-      "link": "https://www.skysports.com/watch/video/13582137/leeds-rhinos-v-wigan-warriors-wigan-hit-40-to-take-control-of-league-leaders-shield-race",
-      "summary": "Wigan Warriors thrashed Leeds Rhinos 40-8 at Headingley to move two points clear at the top of Super League with one regular-season game remaining.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wigan-leeds_7342658.jpg?20260905215743"
-    },
-    {
-      "source": "sky",
-      "title": "Crazy own goal sees Birmingham hold Wolves",
-      "link": "https://www.skysports.com/football/birmingham-city-vs-wolverhampton-wanderers/report/560546",
-      "summary": "Birmingham and Wolves played out a chaotic 2-2 draw as Jackson Tchatchoua's own goal saw the spoils shared.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-birmingham-wolves_7343019.jpg?20260906132106"
-    },
-    {
-      "source": "sky",
-      "title": "Barry spurns big chance with Everton frustrating Man Utd LIVE! & highlights",
-      "link": "https://www.skysports.com/football/everton-vs-manchester-united/live/559467",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-bruno-fernandes_7343111.jpg?20260906142744"
-    },
-    {
-      "source": "sky",
-      "title": "Swansea miss chance to go three points clear with Wrexham draw",
-      "link": "https://www.skysports.com/football/swansea-city-vs-wrexham/report/560555",
-      "summary": "Championship leaders Swansea and visitors Wrexham fought out a 0-0 draw in a passionate all-Welsh affair.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-swansea_7342668.jpg?20260905220849"
-    },
-    {
-      "source": "sky",
-      "title": "Wakefield edge Warrington 25-18",
-      "link": "https://www.skysports.com/watch/video/13581945/wakefield-trinity-25-18-warrington-wolves-super-league-highlights",
-      "summary": "Highlights from the Super League clash between Wakefield and Warrington.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/sky-spots-wakefield-warringotn_7342261.jpg?20260905173654"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-everton-man-united_7343295.jpg?20260906161238"
     }
   ]
 }
