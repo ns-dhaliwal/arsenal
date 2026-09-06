@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-06T18:48:07.836102+00:00",
+  "lastUpdated": "2026-09-06T21:00:06.727629+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "published": "2026-09-06T20:25:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3715/live/5e5aa660-aa2f-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "source": "guardian",
+      "title": "‘Exceptional performance’: Arteta hails fightback win and says best yet to come",
+      "link": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea",
+      "summary": "Manager delighted by reaction to Chelsea’s openerAlonso says his side must be ‘tighter’ Mikel Arteta warned that Arsenal are capable of hitting even greater heights after the Premier League champions sent a statement to their title rivals by fighting back from a goal down to beat Chelsea on Sunday.Arteta’s side were under pressure after conceding for the first time this season when Morgan Rogers s",
+      "published": "2026-09-06T19:52:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/7037443ba35818418f42f74904282c675412fb5a/598_88_1931_1545/master/1931.jpg?width=140&quality=85&auto=format&fit=max&s=a6cb8be7aae0a8320ed11f2b42ed4fcb"
+    },
     {
       "source": "bbc",
       "title": "Arsenal fan ecstatic with win over Chelsea",
@@ -306,14 +322,6 @@
       "image": "https://i.guim.co.uk/img/media/19cdd40797eddce0801dff11a95672f3a7bbb070/184_0_1933_1546/master/1933.jpg?width=140&quality=85&auto=format&fit=max&s=abbf7aa4f369b9708f717a6014244a29"
     },
     {
-      "source": "guardian",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "link": "https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend",
-      "summary": "Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi KonsaEnzo Maresca has a shiny new £85m midfielder he could select for a debut but he may want Ayyoub Bouaddi, at 18 years old, to have a bit of time watching on from the bench to learn about the Premier League from his elders. The Moroccan may not have expected one of those to be a centre-bac",
-      "published": "2026-08-27T23:01:41+00:00",
-      "image": "https://i.guim.co.uk/img/media/3bad4ce69efc6e2782bbea32b00f9831ba5f31e9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eaf8ed40226ca3fe06188580fd1d882d"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal only likely exit for Alvarez as striker skips training",
       "link": "https://www.bbc.co.uk/sport/football/articles/c980e1d2vpgo?at_medium=RSS&at_campaign=rss",
@@ -346,12 +354,28 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a26/live/66c6a0c0-a0c9-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
-      "published": "2026-08-24T21:37:26+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"
+      "source": "sky",
+      "title": "'Just unheard of! - Antonelli's miracle win likened to 'walking on water'",
+      "link": "https://www.skysports.com/f1/news/12040/13582221/kimi-antonelli-mercedes-driver-hailed-by-pundits-and-toto-wolff-after-remarkable-19th-to-first-italian-gp-comeback-win",
+      "summary": "On a Monza weekend that had already produced one implausible result in qualifying, Italy's new young star Kimi Antonelli delivered a second in Sunday's thrilling race to ensure its own prominent place in Formula 1's history books.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7343697.jpg?20260906204434"
+    },
+    {
+      "source": "sky",
+      "title": "Great Britain and Ireland claim historic win in Walker Cup thriller",
+      "link": "https://www.skysports.com/golf/news/12040/13582280/walker-cup-great-britain-and-ireland-produce-stunning-late-comeback-to-beat-usa-13-5-12-5-in-thrilling-contest",
+      "summary": "Great Britain and Ireland won the Walker Cup for the first time since 2015 after a nerve-shredding late comeback saw them beat the USA by a  13&#189;-12&#189; scoreline.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-walker-bup-britain_7343714.jpg?20260906205445"
+    },
+    {
+      "source": "sky",
+      "title": "'There are no rules here' - Hamilton criticises Ferrari after Leclerc clash",
+      "link": "https://www.skysports.com/f1/news/12040/13582222/lewis-hamilton-claims-there-are-no-rules-at-ferrari-after-clash-with-team-mate-charles-leclerc-during-italian-gp",
+      "summary": "Lewis Hamilton has accused Ferrari of having \"no rules\" after a clash with his team-mate Charles Leclerc during the Italian Grand Prix.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charles-leclerc-lewis_7343650.jpg?20260906194416"
     },
     {
       "source": "sky",
@@ -360,6 +384,14 @@
       "summary": "George Russell feels Mercedes were correct to split strategies despite losing out to Kimi Antonelli in a thrilling Italian Grand Prix.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-george-russell_7343585.jpg?20260906184855"
+    },
+    {
+      "source": "sky",
+      "title": "No blockbuster signing but Arsenal's attack still finding another level",
+      "link": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
+      "summary": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose flick allowed the onrushing Bukayo Saka to test Emiliano Martinez.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-kai-havertz_7343653.jpg?20260906194619"
     },
     {
       "source": "sky",
@@ -379,6 +411,14 @@
     },
     {
       "source": "sky",
+      "title": "Hearts 2-1 Dundee",
+      "link": "https://www.skysports.com/watch/video/13582541/hearts-2-1-dundee-scottish-premiership-highlights",
+      "summary": "Highlights from the Scottish Premiership match between Hearts and Dundee.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/b895192b40822f052ae6e76a8f5b5ad72b9bd0ee7fac83ce93c370ff2a69f534_7343672.jpg?20260906201313"
+    },
+    {
+      "source": "sky",
       "title": "A winning day for Francis-Henri Graffard!",
       "link": "https://www.skysports.com/watch/video/13582507/a-winning-day-for-francis-henri-graffard",
       "summary": "Erdenali, Varandir and Daryz all made it a winning day for the top trainer at Parislongchamp on Arc Trials Day.",
@@ -387,11 +427,51 @@
     },
     {
       "source": "sky",
+      "title": "St Johnstone 2-1 Hibernian",
+      "link": "https://www.skysports.com/watch/video/13582524/st-johnstone-2-1-hibernian-scottish-premiership-highlights",
+      "summary": "Watch highlights from the Scottish Premiership match between St Johnstone and Hibernian.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/4d7f79cdb3d9509435ab4f5288fe6377aff977be73cba1032ebf7fad3a7dae47_7343628.jpg?20260906193154"
+    },
+    {
+      "source": "sky",
       "title": "Sabalenka edges Townsend to reach US Open quarters and retain No 1 spot",
       "link": "https://www.skysports.com/tennis/news/12040/13582495/us-open-2026-aryna-sabalenka-beats-taylor-townsend-to-reach-quarter-finals-and-retain-world-no-1-spot",
       "summary": "Aryna Sabalenka is clinging on to her US Open title and the world No 1 spot after an unconvincing win over Taylor Townsend.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aryna-sabalenka-tennis_7336935.jpg?20260831211550"
+    },
+    {
+      "source": "sky",
+      "title": "'All over the place' - Neville questions Chelsea defence after defeat",
+      "link": "https://www.skysports.com/football/news/12040/13582543/arsenal-2-1-chelsea-gary-neville-questions-chelseas-all-over-the-place-back-three-after-defeat-but-is-confident-they-can-finish-top-three",
+      "summary": "Gary Neville criticised Chelsea's \"all over the place\" back three in their Super Sunday defeat to Arsenal - but believes Xabi Alonso's side are capable of finshing second or third in the Premier League table.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wesley-fofana-chelsea_7343683.jpg?20260906202759"
+    },
+    {
+      "source": "sky",
+      "title": "Nev fearful Man Utd's habit of conceding goals isn't going away",
+      "link": "https://www.skysports.com/football/news/12040/13582539/everton-2-2-man-utd-gary-neville-fearful-that-manchester-uniteds-liability-of-conceding-goals-isnt-going-away",
+      "summary": "Gary Neville is fearful that Manchester United's habit of conceding goals isn't going away after they shipped two goals for the third game running at Everton.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-manchester-united_7343319.jpg?20260906162144"
+    },
+    {
+      "source": "sky",
+      "title": "Czech Darts Open LIVE! Littler beats Humphries in final to take title",
+      "link": "https://www.skysports.com/darts/live-blog/12040/13582276/czech-darts-open-live-scores-updates-commentary-from-third-round-as-luke-littler-and-luke-humphries-in-action-in-prague",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-luke-littler-luke-humphries_7268610.jpg?20260608200651"
+    },
+    {
+      "source": "sky",
+      "title": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
+      "link": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-bruno-fernandes_7343111.jpg?20260906142744"
     },
     {
       "source": "sky",
@@ -419,14 +499,6 @@
     },
     {
       "source": "sky",
-      "title": "Czech Darts Open LIVE! Littler, Humphries and Van Gerwen hunt Euro glory",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13582276/czech-darts-open-live-scores-updates-commentary-from-third-round-as-luke-littler-and-luke-humphries-in-action-in-prague",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-darts-premier-league-darts_7253761.jpg?20260520094218"
-    },
-    {
-      "source": "sky",
       "title": "Friendly Soul makes all to strike in Prix Vermeille",
       "link": "https://www.skysports.com/racing/news/12040/13582480/friendly-soul-makes-all-to-strike-in-prix-vermeille",
       "summary": "Friendly Soul led from pillar to post to double her Group One tally in the Qatar Prix Vermeille at ParisLongchamp.",
@@ -440,78 +512,6 @@
       "summary": "Sabah Kerjota scored a stoppage-time winner as Hearts staged a dramatic late fightback to defeat Dundee 2-1 at Tynecastle and make it four Premiership victories in a row.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-sabah-kerjota-hearts_7343461.jpg?20260906173531"
-    },
-    {
-      "source": "sky",
-      "title": "What did we learn from opening weekend in WSL?",
-      "link": "https://www.skysports.com/football/news/12040/13582432/wsl-talking-points-london-city-arsenal-and-man-city-make-winning-starts-on-opening-weekend-but-chelsea-and-man-utd-stutter",
-      "summary": "After an opening weekend that saw new contenders arrive on the scene and old ones flatter to deceive, Sky Sports analyses the key talking points from the opening fixtures of the 2026/27 Women's Super League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wsl-james-putellas_7343529.jpg?20260906181047"
-    },
-    {
-      "source": "sky",
-      "title": "Daryz warms up for Arc with dominant display in Prix Foy",
-      "link": "https://www.skysports.com/racing/news/12040/13582459/daryz-warms-up-for-arc-with-dominant-display-in-prix-foy",
-      "summary": "Daryz looks perfectly placed to defend his Prix de l&#8217;Arc de Triomphe crown in four weeks, judged on his dominant display in the Prix Foy.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-daryz-parislongchamp_7343453.jpg?20260906173300"
-    },
-    {
-      "source": "sky",
-      "title": "Fowler at the double as St Johnstone beat Hibs",
-      "link": "https://www.skysports.com/football/st-johnstone-vs-hibernian/report/558367",
-      "summary": "Josh Fowler's first-half double secured St Johnstone a 2-1 win over Hibernian and moved them above their opponents in the table.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-st-johnstone-josh_7343237.jpg?20260906155042"
-    },
-    {
-      "source": "sky",
-      "title": "Erdenali shines at top table to claim Prix du Moulin honours",
-      "link": "https://www.skysports.com/racing/news/12040/13582466/erdenali-shines-at-top-table-to-claim-prix-du-moulin-honours",
-      "summary": "Erdenali graduated to the highest level in impressive style when proving too strong for the raiding party in the Qatar Prix du Moulin de Longchamp.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-erdenali-parislongchamp_7343457.jpg?20260906173329"
-    },
-    {
-      "source": "sky",
-      "title": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
-      "link": "https://www.skysports.com/cricket/news/12040/13582326/england-clinch-odi-series-sweep-of-ireland-as-sophia-dunkley-hits-second-international-century-in-114-run-win",
-      "summary": "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the series by 114 runs in Worcester on Sunday.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-sophia-dunkley-england-women-odi-cricket_7339636.jpg?20260903101144"
-    },
-    {
-      "source": "sky",
-      "title": "Wimbledon set to take stand against US Open-style influencer influx",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-achieng-agutu-jordan-e-cooper_7341040.jpg?20260904171545"
-    },
-    {
-      "source": "sky",
-      "title": "Everton latest: George was problem for Man Utd, he'll get better too, says Moyes",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-    },
-    {
-      "source": "sky",
-      "title": "Barcelona dominate with FIVE goals at Valencia",
-      "link": "https://www.skysports.com/watch/video/13582483/valencia-0-5-barcelona-la-liga-highlights",
-      "summary": "Highlights of the La Liga match between Valencia and Barcelona.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-barcelona_7343526.jpg?20260906180820"
-    },
-    {
-      "source": "sky",
-      "title": "19th to victory! Antonelli sensationally wins thrilling Italian GP",
-      "link": "https://www.skysports.com/f1/news/12040/13582217/italian-gp-kimi-antonelli-sensationally-wins-thrilling-monza-race-from-george-russell-and-max-verstappen",
-      "summary": "Kimi Antonelli completed a remarkable comeback to win his home Italian Grand Prix from 19th place after a race-long battle against Mercedes team-mate George Russell.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7343322.jpg?20260906162242"
     }
   ]
 }
