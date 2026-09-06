@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-06T05:26:01.458027+00:00",
+  "lastUpdated": "2026-09-06T10:06:40.021482+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "‘When there’s joy, there’s room for hope’: Eberechi Eze, Leona Lewis, and Yinka Ilori in conversation with Ezra Collective",
+      "link": "https://www.theguardian.com/music/2026/sep/06/interview-ezra-collective-femi-koleoso-yinka-illori-leona-lewis-eberechi-eze",
+      "summary": "Bandleader Femi Koleoso brings together the England and Arsenal star, the musician and the artist to discuss adversity, creativity and Black British culture• ‘On the other side of pain there can be renewal’: Ezra Collective’s Femi Koleoso on reasons to hold onto hope• ‘Like painting with light’: photographer Temi Adegbayibi on capturing the energy of music• My cultural awakening , featuring Ezra C",
+      "published": "2026-09-06T09:00:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/d6b86df923b189c04c9d2d8dd82028c7ce0f59ff/0_1_2347_1877/master/2347.jpg?width=140&quality=85&auto=format&fit=max&s=651aa1b805716e5f6f8f71db44765160"
+    },
     {
       "source": "bbc",
       "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
@@ -338,20 +346,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097a/live/784830d0-9fb5-11f1-bff6-57f1422ebb0b.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Premier League: 10 talking points from opening weekend of the season",
-      "link": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action",
-      "summary": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for EvertonArsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former",
-      "published": "2026-08-24T07:00:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/e2dccb55f94968c56e0ee18a0581261d529ab5f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=26ba6bcdc876e2dc25a5440e101cf0a9"
-    },
-    {
       "source": "bbc",
       "title": "Martinelli deserves better from Arsenal - Wright",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
       "summary": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
       "published": "2026-08-22T11:49:08+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c227/live/96954180-9e12-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Ireland bowl first as England eye ODI series sweep LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13581569/england-vs-ireland-third-womens-odi-live-cricket-score-updates-video-and-analysis-from-final-match-of-series-in-worcester",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sophia-dunkley-england_7337830.jpg?20260901172232"
+    },
+    {
+      "source": "sky",
+      "title": "Scorecard: England vs Ireland, third women's ODI",
+      "link": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca",
+      "summary": "Latest score from the third and final one-day international between England and Ireland in Worcester. Watch on Sky Sports Cricket.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-charlie-dean-england-women-odi-cricket_7247766.jpg?20260818074001"
+    },
+    {
+      "source": "sky",
+      "title": "Taylor ecstatic with Croke Park swansong",
+      "link": "https://www.skysports.com/boxing/news/12040/13582203/katie-taylor-ecstatic-after-beating-flora-pili-to-make-perfect-end-to-dream-career-at-dublins-croke-park",
+      "summary": "Katie Taylor acclaimed becoming a three-time undisputed world champion in her farewell fight at Croke Park as the most special moment of her decorated career.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-katie-taylor-croke-park_7342728.jpg?20260905232255"
     },
     {
       "source": "sky",
@@ -365,7 +389,7 @@
       "source": "sky",
       "title": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
       "link": "https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller",
-      "summary": "Naomi Osaka stepped on court in another new look and she eventually took care of business against Elise Mertens in a tense three-set victory to reach the fourth round of the US Open.",
+      "summary": "Naomi Osaka stepped on court in another new look and eventually took care of business against Elise Mertens in a tense three-set victory to reach the fourth round of the US Open.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-naomi-osaka-tennis_7342766.jpg?20260906031406"
     },
@@ -475,43 +499,19 @@
     },
     {
       "source": "sky",
+      "title": "Van Dam: Europe Junior Solheim Cup team will fight to last putt to win",
+      "link": "https://www.skysports.com/golf/news/12040/13581656/ping-junior-solheim-cup-europe-captain-anne-van-dam-says-her-side-will-fight-to-last-putt-to-win",
+      "summary": "Team Europe's PING Junior Solheim Cup captain Anne Van Dam believes her side have a very good chance of winning back the trophy from Team USA at Bernardus Golf this week, adding her players will \"fight to the last putt\" to secure victory.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-anne-van-dam_7341729.jpg?20260905130517"
+    },
+    {
+      "source": "sky",
       "title": "Czech Darts Open: Humphries knocks out Greaves as Littler marches on",
       "link": "https://www.skysports.com/darts/news/12040/13581713/czech-darts-open-luke-humphries-knocks-out-beau-greaves-as-luke-littler-and-michael-van-gerwen-also-win",
       "summary": "Defending champion Luke Humphries ended Beau Greaves' historic run at the Czech Darts Open with a 6-2 victory on Saturday night.",
       "published": null,
       "image": "https://e2.365dm.com/26/03/1920x1080/skysports-luke-humphries-darts_7200552.jpg?20260323070019"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic come from behind at St Mirren to maintain winning start",
-      "link": "https://www.skysports.com/football/st-mirren-vs-celtic/report/558368",
-      "summary": "Celtic came from behind to hold onto their winning start to their Scottish Premiership title defence as St Mirren suffered their first defeat of the season.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-celtic-st-mirren_7342667.jpg?20260905220728"
-    },
-    {
-      "source": "sky",
-      "title": "Could THAT be the try that wins Wigan the League Leaders’ Shield?!",
-      "link": "https://www.skysports.com/watch/video/13582129/leeds-rhinos-v-wigan-warriors-bevan-french-scores-huge-try-in-league-leaders-shield-race",
-      "summary": "Bevan French chases down Harry Smith&#8217;s grubber to score a brilliant try from seemingly nothing and put Wigan Warriors firmly in control against Leeds Rhinos.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-french-try_7342636.jpg?20260905213622"
-    },
-    {
-      "source": "sky",
-      "title": "'We've got one hand on it!' - Partington on Super League title chances",
-      "link": "https://www.skysports.com/watch/video/13582159/leeds-leopards-vs-wigan-warriors-oliver-partington-fancies-wigans-chances-to-win-the-league-leaders-shield-after-emphatic-win-over-leeds",
-      "summary": "Oliver Partington speaks after Wigan Warriors' huge win over Leeds Rhinos in their pursuit to win the League Leaders' Shield.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-super-league-rugby_7342712.jpg?20260905224418"
-    },
-    {
-      "source": "sky",
-      "title": "Wigan close in on domestic double with statement win over Leeds",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13580363/leeds-rhinos-8-40-wigan-warriors-matt-peets-side-close-in-on-domestic-double-with-statement-win-over-leeds",
-      "summary": "Wigan Warriors moved within one win of a domestic double after defeating Leeds Rhinos 40-8 in a battle of Super League's top two.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wigan-leeds-jai-field_7342653.jpg?20260905215134"
     }
   ]
 }
