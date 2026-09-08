@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T07:42:49.989987+00:00",
+  "lastUpdated": "2026-09-08T12:31:37.085017+00:00",
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Arsenal look so far ahead of rivals - Coady",
-      "link": "https://www.bbc.co.uk/sport/videos/c3re9zxl28jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conor Coady says Arsenal's early-season form and performances have made them look far ahead of any other Premier League side.",
-      "published": "2026-09-07T19:12:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a900/live/f5f6e4a0-aaef-11f1-b109-879e35c24276.jpg"
-    },
     {
       "source": "guardian",
       "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
@@ -354,6 +346,22 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ef/live/39a812e0-a222-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
+      "source": "bbc",
+      "title": "Fit and among the goals - is Saka back to his best?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cn0j1lnkj59o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's Football news reporter Alex Howell explains how Bukayo Saka is getting back to his best for Arsenal as they attempt to defend their Premier League title.",
+      "published": "2026-08-27T12:52:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664a/live/17dbbbe0-a217-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Newcastle chief: Summer was 'not chaotic' with Howe exit prepared for",
+      "link": "https://www.skysports.com/football/news/12040/13583036/ross-wilson-newcastle-chief-reveals-club-prepared-for-eddie-howe-exit-in-summer-that-never-felt-chaotic",
+      "summary": "Newcastle sporting director Ross Wilson says they were \"prepared for a number of months\" for Eddie Howe's exit in a summer that \"never felt chaotic\".",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-newcastle_7344796.jpg?20260908082623"
+    },
+    {
       "source": "sky",
       "title": "Bosa and Kittle return for 49ers in Melbourne opener",
       "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
@@ -403,11 +411,11 @@
     },
     {
       "source": "sky",
-      "title": "'Insanely talented' USA build dominant Junior Solheim Cup lead over Europe",
+      "title": "Solheim Cup LIVE! Captain's press conferences and Team Europe latest",
       "link": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-team-usa-golf-solheim-cup-junior_7344585.jpg?20260907215845"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lottie-woad-golf_7344989.jpg?20260908131735"
     },
     {
       "source": "sky",
@@ -416,6 +424,22 @@
       "summary": "Elena Rybakina cruised into the US Open quarter-finals with a straight-sets victory over Naomi Osaka to keep her push for the world No 1 ranking on track.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rybakina-osaka-tennis_7344605.jpg?20260907223038"
+    },
+    {
+      "source": "sky",
+      "title": "An F1 car underground? Red Bull take to Madrid Metro in epic first-of-its-kind stunt",
+      "link": "https://www.skysports.com/watch/video/13583079/madrid-grand-prix-next-stop-madrid-red-bull-take-to-the-metro-in-epic-first-of-its-kind-stunt",
+      "summary": "Oracle Red Bull Racing swapped the asphalt for the underground, as the iconic RB8 took to the tracks of the Madrid Metro in a first-of-its-kind stunt.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-red-bull_7344856.jpg?20260908103554"
+    },
+    {
+      "source": "sky",
+      "title": "Root rejects 'disrespectul' Pakistan comments ahead of third Test",
+      "link": "https://www.skysports.com/cricket/news/12040/13583044/england-vs-pakistan-joe-root-hits-back-at-disrespectful-notion-opposition-have-shown-no-fight-ahead-of-third-test",
+      "summary": "Joe Root hit back at the idea Pakistan have showed \"no fight\" in their Test series against England and described the notion as \"disrespectful\" to both outfits.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-joe-root-england-cricket_7332396.jpg?20260827085210"
     },
     {
       "source": "sky",
@@ -451,11 +475,19 @@
     },
     {
       "source": "sky",
-      "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "title": "Liverpool latest: New £300m main shirt sponsor from next season",
       "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+    },
+    {
+      "source": "sky",
+      "title": "EFL latest: Duff sacked as Wycombe boss after nightmare start",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-duff-wycombe_7344829.jpg?20260908095403"
     },
     {
       "source": "sky",
@@ -480,38 +512,6 @@
       "summary": "The Pakistan Cricket Board has launched an investigation into \"media reports concerning discipline and conduct\" amid the team's crisis tour of England.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-pakistan-babar-azam_7344419.jpg?20260907171821"
-    },
-    {
-      "source": "sky",
-      "title": "Leicester have sunk to new low under Martin but can he turn it around?",
-      "link": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
-      "summary": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-russell-martin-leicester_7344281.jpg?20260907134812"
-    },
-    {
-      "source": "sky",
-      "title": "Farrell on retirement, fond memories, and next steps with Wigan",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13582772/liam-farrell-wigan-warriors-captain-on-retirement-fond-memories-and-next-steps-after-super-league-career-to-remember",
-      "summary": "Wigan Warriors captain Liam Farrell says he is not sure if he will play for the club again after he announced he will retireat the end of the 2026 Super League season.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7344277.jpg?20260907134702"
-    },
-    {
-      "source": "sky",
-      "title": "The flap of a wing: How St Helens let success become stagnation",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13582671/how-st-helens-let-super-league-success-become-long-term-stagnation-the-flap-of-a-wing",
-      "summary": "The dust has settled on the fact that St Helens have missed out on play-off rugby for the first time after their seventh-placed finish in Super League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7344235.jpg?20260907130823"
-    },
-    {
-      "source": "sky",
-      "title": "Putellas outshone by Cascarino on debut but is spine of London City's success",
-      "link": "https://www.skysports.com/football/news/12040/13582679/womens-super-league-alexia-putellas-debut-for-london-city-analysed-with-more-on-man-city-and-chelsea",
-      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the first round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-london-city-man-city_7344315.jpg?20260907144433"
     }
   ]
 }
