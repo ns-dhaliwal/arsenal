@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-08T16:59:54.441401+00:00",
+  "lastUpdated": "2026-09-08T19:48:30.195136+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
+      "link": "https://www.theguardian.com/football/2026/sep/08/air-traffic-chaos-delays-arsenal-flight-to-naples-for-champions-league",
+      "summary": "Team arriving late at their hotel in southern ItalyJurriën Timber in squad for first time since MayArsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the United Kingdom.Mikel Arteta was forced to cancel his pre-match press conference at the Stadio Diego Armando Maradona on Tue",
+      "published": "2026-09-08T18:38:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/5e98115c9132ac5efa8107a0789efd54844ee150/283_0_5505_4404/master/5505.jpg?width=140&quality=85&auto=format&fit=max&s=3a942bac6796d1e4c3c29ddc83fbb9a6"
+    },
     {
       "source": "guardian",
       "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
@@ -274,14 +282,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
-      "link": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
-      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-HilalArsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in deals collectively worth more than £70m.Álvarez has his heart set on joining Barcelona despite Atlético’s insistence they ",
-      "published": "2026-08-31T22:36:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/7ececfd513df4a77deae2747de106dff8fe17b0b/252_55_1545_1236/master/1545.jpg?width=140&quality=85&auto=format&fit=max&s=9bb312f0a0696026733b0a8b44c241e9"
-    },
-    {
       "source": "bbc",
       "title": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss",
@@ -355,6 +355,54 @@
     },
     {
       "source": "sky",
+      "title": "Aston Villa attack clicks in thrilling win over Club Brugge",
+      "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
+      "summary": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-nicolas-jackson_7345387.jpg?20260908200209"
+    },
+    {
+      "source": "sky",
+      "title": "Sabalenka survives Noskova battle to keep US Open three-peat bid alive",
+      "link": "https://www.skysports.com/tennis/news/12040/13583242/us-open-2026-aryna-sabalenka-edges-into-semi-finals-with-three-set-win-over-linda-noskova-in-thriller",
+      "summary": "Aryna Sabalenka maintained her hopes of a third successive US Open title with a three-set victory over Wimbledon champion Linda Noskova in an absorbing quarter-final - a result that retains her status as world No 1 for at least one more day.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-us-open-tennis-2026_7345323.jpg?20260908182319"
+    },
+    {
+      "source": "sky",
+      "title": "Carabao Cup LIVE on Sky! Bournemouth, Palace ahead - FIVE PL teams in action",
+      "link": "https://www.skysports.com/football/live-blog/12040/13582785/carabao-cup-third-round-live-scores-updates-and-free-match-highlights-with-newcastle-sunderland-crystal-palace-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-carabao-cup-crystal-palace_7344354.jpg?20260907153659"
+    },
+    {
+      "source": "sky",
+      "title": "West Ham hit back at Bolton; Burnley, Saints ahead - Championship on Sky LIVE!",
+      "link": "https://www.skysports.com/football/bolton-wanderers-vs-west-ham-united/live/560559",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-burnley_7345390.jpg?20260908200801"
+    },
+    {
+      "source": "sky",
+      "title": "How are Man City not ahead at FC Porto? LIVE!",
+      "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/live/577600",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345410.jpg?20260908202840"
+    },
+    {
+      "source": "sky",
+      "title": "Sky Sports Golf Podcast: Can 'Lahinch legends' inspire Europe to Solheim glory?",
+      "link": "https://www.skysports.com/golf/news/12040/11933264/sky-sports-golf-podcast",
+      "summary": "The Sky Sports Golf Podcast delivers the latest news from the golfing world, expert analysis and big-name interviews.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-golf-podcast_7236075.png?20260501102738"
+    },
+    {
+      "source": "sky",
       "title": "'Most pressure in the NFL' Finally Allen's time to win Super Bowl?",
       "link": "https://www.skysports.com/nfl/news/12040/13583197/buffalo-bills-joe-brady-under-pressure-to-lead-josh-allen-to-super-bowl-says-phoebe-schecter",
       "summary": "Buffalo Bills head coach Joe Brady is under the most pressure in the NFL as he seeks to lead Josh Allen's side from 'bridesmaid to bride', says Sky Sports' Phoebe Schecter.&#160;",
@@ -379,6 +427,14 @@
     },
     {
       "source": "sky",
+      "title": "Wigglesworth explains Lawes and Marchant’s England absence",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13583267/england-rugby-squad-courtney-lawes-and-joe-marchant-told-to-go-above-gallagher-prem-rivals-to-earn-spot-back",
+      "summary": "Courtney Lawes and Joe Marchant must &#8220;go and play well&#8221; for Sale Sharks before earning a spot in England&#8217;s autumn squad.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-rugby-courtney-lawes_7212765.jpg?20260406232348"
+    },
+    {
+      "source": "sky",
       "title": "Nelson: Fury vs Joshua is less and less likely",
       "link": "https://www.skysports.com/boxing/news/12040/13583203/tyson-fury-vs-anthony-joshua-is-less-and-less-likely-to-happen-says-johnny-nelson",
       "summary": "Anthony Joshua has 'every reason' to stand his ground in negotiations for the Tyson Fury fight, which is looking 'less and less likely', says Sky Sports expert Johnny Nelson.",
@@ -387,19 +443,19 @@
     },
     {
       "source": "sky",
-      "title": "Villa take an early lead over Club Brugge LIVE!",
+      "title": "Villa claim first win of the season after Club Brugge thriller LIVE!",
       "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/live/577599",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aston-villa-brugge_7345302.jpg?20260908175546"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-aston-villa-buendia_7345316.jpg?20260908181405"
     },
     {
       "source": "sky",
-      "title": "US Open LIVE! Sabalenka a set up on Noskova in quarter-finals",
+      "title": "US Open LIVE! Michelsen a set up on Tiafoe in all-American quarter-final",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13583196/us-open-live-scores-updates-news-results-and-video-with-aryna-sabalenka-and-frances-tiafoe-in-action-in-new-york",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aryna-sabalenka-us-open-tennis_7345212.jpg?20260908154841"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alex-michelsen-us-open-tennis-2026_7345397.jpg?20260908202159"
     },
     {
       "source": "sky",
@@ -456,62 +512,6 @@
       "summary": "As a Test summer during which English cricket appeared to be in crisis nears its end, Joe Root's side go into their final fixture against Pakistan with the only major talking point being whether the bowling attack will be rotated.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jofra-archer-josh_7344660.jpg?20260908000045"
-    },
-    {
-      "source": "sky",
-      "title": "O'Neill could rejig Celtic system to accommodate his best players",
-      "link": "https://www.skysports.com/football/news/12040/13583209/celtic-martin-oneill-could-rejig-system-to-accommodate-his-best-players-against-st-johnstone-live-on-sky-sports",
-      "summary": "Celtic manager Martin O'Neill will aim to shape the system around his best players as he ponders how to manage the absence of Hyun-jun Yang and return of Kasper Hogh.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kasper-hogh-camilo_7345246.jpg?20260908162108"
-    },
-    {
-      "source": "sky",
-      "title": "How Calafiori has become 'the best left-back in the league by far'",
-      "link": "https://www.skysports.com/football/news/12040/13582771/riccardo-calafiori-how-arsenals-defender-has-emerged-as-one-of-the-premier-leagues-best-left-backs",
-      "summary": "Riccardo Calafiori returns to Italy with Arsenal this week - and he's a very different player compared to the one who departed for England two years ago.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-calafiori-arsenal_7344220.jpg?20260907124727"
-    },
-    {
-      "source": "sky",
-      "title": "Why the F1 title race is not over yet...",
-      "link": "https://www.skysports.com/f1/news/12040/13582715/f1-title-race-why-championship-is-not-over-despite-spectacular-kimi-antonelli-win-at-italian-grand-prix",
-      "summary": "Kimi Antonelli's stunning Italian Grand Prix victory felt like a key moment in this year's championship as he landed a psychological blow on his title rivals by winning from 19th.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-lewis-hamilton-kimi_7289488.jpg?20260907145556"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Roadlesstravelled makes chase debut at Bangor",
-      "link": "https://www.skysports.com/racing/news/12040/13582709/today-on-sky-sports-racing-jumps-action-from-bangor-on-dee-features-live-on-tuesday",
-      "summary": "Jumps action from Bangor-on-Dee features live on Sky Sports Racing on Tuesday.",
-      "published": null,
-      "image": "https://e0.365dm.com/24/02/1920x1080/skysports-bangor-racecourse_6448345.jpg?20250422181818"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers captain Shankland expected to miss three to four months",
-      "link": "https://www.skysports.com/football/news/12040/13583189/lawrence-shankland-rangers-captain-expected-to-be-out-for-three-to-four-months-with-hamstring-tear-confirms-derek-mcinnes",
-      "summary": "Rangers captain Lawrence Shankland will be out for up to four months, with the striker waiting to discover if he requires surgery.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rangers-lawrence_7342093.jpg?20260905162831"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
-      "link": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Solheim Cup LIVE! Captains' press conferences and Team Europe latest",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lottie-woad-golf_7344989.jpg?20260908131735"
     }
   ]
 }
