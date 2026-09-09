@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-09T14:58:40.530866+00:00",
+  "lastUpdated": "2026-09-09T18:23:37.824717+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Napoli v Arsenal: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "summary": "⚽ Champions League updates from the 8pm BST kick-off⚽ Live scoreboard | Read Football Daily | And email ScottArsenal make four changes to their starting XI following the 2-1 victory over Chelsea. Typically, having just posted a large picture of Kai Havertz, he’s one of four players stood down, along with Myles Lewis-Skelly, Christos Tzolis and the increasingly influential Riccardo Calafiori. Piero",
+      "published": "2026-09-09T18:07:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/423b7a8edf0e9935d534428fc93cf659424f315a/886_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7344e6566c3783669eda5626e4e70512"
+    },
     {
       "source": "bbc",
       "title": "Arsenal wrongly denied penalty at Villa and Maatsen escaped red - panel",
@@ -250,14 +258,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c5/live/73cc1b70-a640-11f1-b109-879e35c24276.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Stan Kroenke, owner of Arsenal and LA Rams, to buy MLB’s Angels for reported $4bn",
-      "link": "https://www.theguardian.com/sport/2026/sep/01/stan-kroenke-los-angeles-angels-purchase",
-      "summary": "Arte Moreno sells after owning team since 2003Deal gives KSE teams in NFL, MLB, NBA, NHL and MLSKroenke Sports + Entertainment announced Tuesday that it will buy a controlling interest in the Los Angeles Angels from Arte Moreno in a deal that is expected to close in the first quarter ⁠of 2027.The sale will require the approval of Major League Baseball and its owners. Continue reading...",
-      "published": "2026-09-01T20:27:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/b865d9982f4f7ad6769fe581d93d131fdd93d441/1065_0_5338_4273/master/5338.jpg?width=140&quality=85&auto=format&fit=max&s=c091424eb685bc054b440bbd8191f86b"
-    },
-    {
       "source": "bbc",
       "title": "'Not bothered I am plan B' - Jesus joins Barcelona",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
@@ -355,11 +355,75 @@
     },
     {
       "source": "sky",
-      "title": "US Open LIVE! Rybakina goes for world No 1 with Gauff vs Andreeva to come",
+      "title": "Alonso gives 16-year-old Watson debut vs Leeds in Carabao Cup LIVE! on Sky",
+      "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-reggie-watson-chelsea_7346365.jpg?20260909185940"
+    },
+    {
+      "source": "sky",
+      "title": "Barcola starts for Liverpool as Alvarez comes in for Atletico LIVE!",
+      "link": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/live/577604",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-barcola-liverpool_7341209.jpg?20260904193612"
+    },
+    {
+      "source": "sky",
+      "title": "Gurney called up to World Series of Darts after withdrawals due to visa issues",
+      "link": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
+      "summary": "Daryl Gurney has been called up to play at the World Series of Darts Finals in Amsterdam after visa issues led to the withdrawal of Philippines players Lourence Ilagan and Alexis Toylo from the September 17-20 event.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-daryl-gurney-world-masters_7346334.jpg?20260909180407"
+    },
+    {
+      "source": "sky",
+      "title": "Tongue tears through sorry Pakistan as England earn lead on day one",
+      "link": "https://www.skysports.com/cricket/news/12040/13583562/england-bowl-pakistan-out-for-133-as-josh-tongue-and-harry-brook-secure-lead-on-day-one-of-final-test-at-edgbaston",
+      "summary": "England dominated a sorry-looking Pakistan yet again on day one of the third Test at Edgbaston, bowling the tourists out for 133 before closing on 156-4, with a 23-run lead.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-pakistan_7346042.jpg?20260909152106"
+    },
+    {
+      "source": "sky",
+      "title": "Gyokeres starts as Arsenal make four changes against Napoli LIVE!",
+      "link": "https://www.skysports.com/football/napoli-vs-arsenal/live/577605",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-gyokeres-arsenal_7346361.jpg?20260909185656"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Q&A with Bartoli during Gauff vs Andreeva as Rybakina becomes No 1",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-elena-rybakina-tennis_7345623.jpg?20260909020841"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-coco-gauff-mirra-andreeva_7345624.jpg?20260909021848"
+    },
+    {
+      "source": "sky",
+      "title": "Doyle: Waardah the one to beat in the Park Hill",
+      "link": "https://www.skysports.com/racing/news/12040/13583627/hollie-doyle-owen-burrows-filly-can-claim-park-hill-success",
+      "summary": "Our ambassador Hollie Doyle gives her verdict on the action from Town Moor, providing her take on the Park Hill, May Hill and Sales Race.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "Norwich, Derby & QPR in action - Championship LIVE on Sky!",
+      "link": "https://www.skysports.com/football/live-blog/12040/13583696/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-efl-championship_7344851.jpg?20260908102831"
+    },
+    {
+      "source": "sky",
+      "title": "'Chickens come home to roost' for PCB as 'dismal' batting costs Pakistan",
+      "link": "https://www.skysports.com/cricket/news/12040/13583609/england-vs-pakistan-chickens-come-home-to-roost-for-pcb-as-dismal-batting-sees-tourists-bowled-out-within-34-overs-in-final-test",
+      "summary": "It is not unreasonable to say that Pakistan entered the third Test of their three-match series against England with a dark cloud over them - off-field issues, coupled with the underwhelming on-field displays, combining to create the perfect storm.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cricket-pakistan_7346183.jpg?20260909152338"
     },
     {
       "source": "sky",
@@ -375,11 +439,11 @@
       "link": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/c2f248cf-f4cf-5338-8bf2-475060a6a70f",
       "summary": "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch live on Sky Sports Cricket.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-pakistan_7346042.jpg?20260909152106"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-joe-root-england-test-cricket_7278724.jpg?20260620185839"
     },
     {
       "source": "sky",
-      "title": "Merson: Arsenal didn't make X factor signing to win Champions League",
+      "title": "Merson: Arsenal didn't make X-factor signing to win Champions League",
       "link": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
       "summary": "Arsenal's record last year was amazing in the Champions League and they're going to be there or thereabouts again &#8211; but I don't think they bought that X factor signing to take them to that next level.",
       "published": null,
@@ -395,11 +459,11 @@
     },
     {
       "source": "sky",
-      "title": "Solheim Cup LIVE! Hull ready to handle home 'pressure' for Team Europe",
+      "title": "Maguire excited to see 'new dynamic' from 'fresher' Team Europe",
       "link": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charley-hull-mel-reid_7346018.jpg?20260909123751"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-leona-maguire-golf_7346243.jpg?20260909161028"
     },
     {
       "source": "sky",
@@ -411,6 +475,22 @@
     },
     {
       "source": "sky",
+      "title": "Johnstone in for Celtic as Hogh returns, Kelsy & Bouanani start for Rangers LIVE!",
+      "link": "https://www.skysports.com/football/st-johnstone-vs-celtic/live/558350",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-kasper-hogh-scottish-premiership_7317548.jpg?20260809141649"
+    },
+    {
+      "source": "sky",
+      "title": "Yin on Solheim fitness concerns: 'I would never jeopardise Team USA'",
+      "link": "https://www.skysports.com/golf/news/12040/13583451/solheim-cup-2026-angel-yin-opens-up-on-illness-battle-team-usa-doubts-and-how-angela-stanford-helped-her-decision",
+      "summary": "Angel Yin considered not featuring at the Solheim Cup due to illness and insisted she would &#8216;never jeopardise&#8217; Team USA&#8217;s hopes of away glory in the Netherlands.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-angel-yin-golf-solheim-cup_7346236.jpg?20260909160405"
+    },
+    {
+      "source": "sky",
       "title": "Leeds full-back Miller ruled out of Super League play-offs",
       "link": "https://www.skysports.com/rugby-league/news/12040/13583618/leeds-rhinos-full-back-lachie-miller-ruled-out-of-super-league-play-offs-due-to-hamstring-injury",
       "summary": "Leeds Rhinos will be without Lachie Miller for the Super League play-offs after head coach Brad Arthur revealed the star full-back will be sidelined for 10 to 12 weeks, due to a torn hamstring. &#160;",
@@ -419,99 +499,19 @@
     },
     {
       "source": "sky",
-      "title": "Duckett and Cox go early as England bat after Pakistan all out for 133 LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
-      "summary": "",
+      "title": "Richards: England doing well but Pakistan not providing proper challenge",
+      "link": "https://www.skysports.com/watch/video/13583656/viv-richards-england-doing-well-but-pakistan-not-providing-proper-challenge",
+      "summary": "Former West Indies captain Sir Viv Richards spoke to Sky Sports about England's current Test series against an underperforming Pakistan.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-duckett-ali_7346184.jpg?20260909151934"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-q-a_7346288.jpg?20260909165547"
     },
     {
       "source": "sky",
-      "title": "Shelton beats Alcaraz at 3.33am in New York epic",
-      "link": "https://www.skysports.com/tennis/news/12040/13583380/us-open-ben-shelton-beats-carlos-alcaraz-in-five-set-thriller-in-latest-ever-finish-to-us-open-match-at-3-33am",
-      "summary": "Ben Shelton clinched the biggest win of his career as he defeated defending champion Carlos Alcaraz in a five-set epic stretching deep into the New York night to reach the semi-finals of the US Open.&#160;",
+      "title": "What's next for LIV Golf and it's players after filing for bankruptcy?",
+      "link": "https://www.skysports.com/watch/video/13583633/liv-golf-whats-next-for-liv-golf-and-its-players-after-filing-for-bankruptcy",
+      "summary": "Geraint Hughes explains what is next for LIV Golf and what will happen to their players after they filed for bankruptcy.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ben-shelton-golf_7345750.jpg?20260909102709"
-    },
-    {
-      "source": "sky",
-      "title": "The 'clear and obvious error' that VAR missed",
-      "link": "https://www.skysports.com/watch/video/13583510/ian-maatsen-on-bruno-guimaraes-the-tackle-that-var-missed",
-      "summary": "Watch the tackle that the Key Match Incident Panel (KMI) admitted was a  missed VAR intervention during Arsenal's 1-0 win at Aston Villa.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-iam-maatsen-bruno_7345968.jpg?20260909114831"
-    },
-    {
-      "source": "sky",
-      "title": "NFL 2026 predictions: Super Bowl, MVP and more",
-      "link": "https://www.skysports.com/nfl/news/12040/13583402/nfl-2026-predictions-super-bowl-mvp-offensive-and-defensive-player-of-the-year-best-offseason-addition-and-more",
-      "summary": "It's prediction time! As the 2026 NFL season gets under way, the Sky Sports NFL team make their picks - from their MVP favourites to their Super Bowl matchups...",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-joe-burrow-cincinnati-bengals_7346128.jpg?20260909142321"
-    },
-    {
-      "source": "sky",
-      "title": "F1's toughest street track ever? Why new Madring could cause Spanish GP chaos",
-      "link": "https://www.skysports.com/f1/news/12040/13583094/spanish-gp-what-to-expect-from-new-madring-track-in-madrid-with-carlos-sainz-predicting-safety-cars-and-red-flags",
-      "summary": "Formula 1 has a brand-new track to look forward to this weekend and the expectation is there will be carnage and the drivers will be seriously tested at the Madring.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-madrid_7345035.jpg?20260908133637"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy predicts players will leave LIV Golf amid uncertainty over league's future",
-      "link": "https://www.skysports.com/golf/news/12040/13583449/rory-mcilroy-predicts-players-will-leave-liv-golf-as-he-questions-appeal-of-revamped-league",
-      "summary": "Rory McIlroy predicts players will leave LIV Golf and seek opportunities elsewhere, as he questioned the appeal of the rebel league's revamped circuit after it announced it had filed for bankruptcy protection.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rory-mcilroy_7346148.jpg?20260909144128"
-    },
-    {
-      "source": "sky",
-      "title": "Carra: Haaland will be greatest goalscorer of all time",
-      "link": "https://www.skysports.com/football/news/12040/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time",
-      "summary": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-erling-haaland-man-city_7345823.jpg?20260909102520"
-    },
-    {
-      "source": "sky",
-      "title": "Benn blasts ‘bottler’ Garcia after American’s no-show at face-off",
-      "link": "https://www.skysports.com/boxing/news/12040/13583502/conor-benn-hits-out-at-ryan-garcia-for-bottling-it-after-american-fails-to-show-up-for-face-off-in-las-vegas",
-      "summary": "Conor Benn has hit out at Ryan Garcia, branding him a &#8216;bottler&#8217; after the American was a no-show for their face-off ahead of Saturday&#8217;s WBC welterweight showdown in Las Vegas.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-conor-benn_7345906.jpg?20260909123340"
-    },
-    {
-      "source": "sky",
-      "title": "Today on Sky Sports Racing: Loriko looks to continue winning run at Sedgefield",
-      "link": "https://www.skysports.com/racing/news/12040/13582883/today-on-sky-sports-racing-jumps-action-from-sedgefield-features-live-on-wednesday",
-      "summary": "Jumps action from Sedgefield features live on Sky Sports Racing on Wednesday.",
-      "published": null,
-      "image": "https://e2.365dm.com/24/02/1920x1080/skysports-sedgefield-races_6448237.jpg?20240208084136"
-    },
-    {
-      "source": "sky",
-      "title": "From honeymoon vision to the Super Bowl - can Seahawks win it all again?",
-      "link": "https://www.skysports.com/nfl/news/12040/13583048/seattle-seahawks-jaxon-smith-njigbas-nfl-warning-mike-macdonalds-honeymoon-vision-and-the-super-bowl-champions-quest-for-repeat",
-      "summary": "Honeymoons are for newlyweds celebrating true love and for future NFL head coaches plotting Super Bowl glory. At least in the case of Mike Macdonald, who has now turned to the Chicago Bulls as his recipe reference for a repeat.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mike-macdonald-seattle-seahawks_7344831.jpg?20260908100037"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Blow for Man Utd as top target agrees new contract",
-      "link": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Osaka's defence of US Open outfits - 'I don't care if you don't like me'",
-      "link": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite",
-      "summary": "Naomi Osaka has hit back at critics of her iconic fashion choices after lighting up the US Open with her menu of statement outfits.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-naomi-osaka-tennis_7337079.jpg?20260901061753"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-liv-golf_7346242.jpg?20260909160749"
     }
   ]
 }
