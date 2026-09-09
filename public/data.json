@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-09T05:47:26.481110+00:00",
+  "lastUpdated": "2026-09-09T10:36:39.701232+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal wrongly denied penalty at Villa and Maatsen escaped red - panel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2z95nk0zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal should have been awarded a penalty at Aston Villa for Ian Maatsen's challenge on Bruno Guimaraes, the Premier League's Key Match Incidents Panel has ruled.",
+      "published": "2026-09-09T10:03:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4372/live/812e1820-ac32-11f1-b483-f5be285e6b7e.jpg"
+    },
+    {
+      "source": "guardian",
+      "title": "Revitalised Ødegaard’s forward thinking gives Arsenal new lines of attack",
+      "link": "https://www.theguardian.com/football/2026/sep/09/martin-odegaard-forward-thinking-arsenal-new-lines-of-attack",
+      "summary": "Midfielder has been pivotal to the champions’ rampant start, becoming a potent threat with his runs into the boxAs Christos Tzolis cut in from the left flank and drove towards the penalty area, Kai Havertz could see history repeating itself.Tzolis had done just the same on his competitive debut for Arsenal against Manchester City in the Community Shield a few weeks earlier, running at his oppositi",
+      "published": "2026-09-09T08:59:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/1784391ee0722c846f96518f608d93384ad8960d/279_0_4474_3579/master/4474.jpg?width=140&quality=85&auto=format&fit=max&s=1460cc82820aa71279d62564d24e0f8a"
+    },
     {
       "source": "guardian",
       "title": "Air traffic chaos delays Arsenal flight to Naples for Champions League",
@@ -258,14 +274,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ccb/live/8a0cb860-a567-11f1-86d4-95b193638b63.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
-      "link": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
-      "summary": "Gabriel Jesus completes move from Arsenal to BarcelonaHarvey Elliott joins Valencia on loan from LiverpoolAston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident that the club’s radical summer overhaul has left Villa in position to replicate their recent success. Villa, who have lost both of their Premier League games this campaign, ",
-      "published": "2026-09-01T17:58:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/7b6fd73c5331588cad62408a4b73fc551209ddc1/436_84_2368_1894/master/2368.jpg?width=140&quality=85&auto=format&fit=max&s=0a9d682c45a2e4aabdb7bdb90fe80e82"
-    },
-    {
       "source": "bbc",
       "title": "'Starboy Bukayo Saka' is key to Arsenal's title defence",
       "link": "https://www.bbc.co.uk/sport/videos/c1j4g6p2zxxo?at_medium=RSS&at_campaign=rss",
@@ -346,12 +354,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ef/live/39a812e0-a222-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Fit and among the goals - is Saka back to his best?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cn0j1lnkj59o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport's Football news reporter Alex Howell explains how Bukayo Saka is getting back to his best for Arsenal as they attempt to defend their Premier League title.",
-      "published": "2026-08-27T12:52:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664a/live/17dbbbe0-a217-11f1-a291-b542ee92de7c.jpg"
+      "source": "sky",
+      "title": "Solheim Cup LIVE! Team Europe practice and every player speaks to media",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13582746/solheim-cup-live-latest-news-build-up-highlights-as-anna-nordqvists-team-europe-host-team-usa-at-bernardus-golf",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mimi-rhodes-nastasia-nadaud_7345895.jpg?20260909111044"
+    },
+    {
+      "source": "sky",
+      "title": "Ipswich latest: Maguire goal backed by KMI Panel despite 'deliberate' handball",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
+    },
+    {
+      "source": "sky",
+      "title": "New-look Pakistan lose two early wickets vs unchanged England LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13583439/england-vs-pakistan-third-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-england-pakistan_7345911.jpg?20260909112326"
+    },
+    {
+      "source": "sky",
+      "title": "Shelton beats Alcaraz at 3.33am in New York epic",
+      "link": "https://www.skysports.com/tennis/news/12040/13583380/us-open-ben-shelton-beats-carlos-alcaraz-in-five-set-thriller-in-latest-ever-finish-to-us-open-match-at-3-33am",
+      "summary": "Ben Shelton clinched the biggest win of his career as he defeated defending champion Carlos Alcaraz in a five-set epic stretching deep into the New York night to reach the semi-finals of the US Open.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ben-shelton-golf_7345750.jpg?20260909102709"
     },
     {
       "source": "sky",
@@ -360,6 +392,14 @@
       "summary": "Formula 1 has a brand-new track to look forward to this weekend and the expectation is there will be carnage and the drivers will be seriously tested at the Madring.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-madrid_7345035.jpg?20260908133637"
+    },
+    {
+      "source": "sky",
+      "title": "Carra: Haaland will be greatest goalscorer of all time",
+      "link": "https://www.skysports.com/football/news/12040/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time",
+      "summary": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-erling-haaland-man-city_7345823.jpg?20260909102520"
     },
     {
       "source": "sky",
@@ -387,9 +427,9 @@
     },
     {
       "source": "sky",
-      "title": "Osaka's US Open fashion ensemble: Which outfit was your favourite?",
+      "title": "Osaka's defence of US Open outfits - 'I don't care if you don't like me'",
       "link": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite",
-      "summary": "Naomi Osaka may have exited the US Open, but she went out with a burst - of colour, and a bit of swag. Which outfit was your best of the tournament?",
+      "summary": "Naomi Osaka has hit back at critics of her iconic fashion choices after lighting up the US Open with her menu of statement outfits.&#160;",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-naomi-osaka-tennis_7337079.jpg?20260901061753"
     },
@@ -400,6 +440,22 @@
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-federico-valverde_7345472.jpg?20260908213657"
+    },
+    {
+      "source": "sky",
+      "title": "Angel Yin arrives at Solheim Cup, but how much will she play?",
+      "link": "https://www.skysports.com/watch/video/13583459/angel-yin-arrives-at-solhiem-cup-but-how-much-she-play",
+      "summary": "Geraint Hughes updates us on Angel Yin as she arrives at Solheim Cup after a serious illness but how much she play?",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-angel-yin-golf-solheim-cup_7345802.jpg?20260909093330"
+    },
+    {
+      "source": "sky",
+      "title": "Latest Solheim Cup scores, pairings and full schedule",
+      "link": "https://www.skysports.com/golf/news/12040/13583025/solheim-cup-2026-latest-scores-tee-times-pairings-schedule-leaderboard-as-europe-host-team-usa-at-bernardus-golf",
+      "summary": "Latest scores, results, pairings and tee times for the 20th Solheim Cup, as Team Europe host Team USA at Bernardus Golf in the Netherlands.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leona-maguire-golf_7345184.jpg?20260908152942"
     },
     {
       "source": "sky",
@@ -419,6 +475,14 @@
     },
     {
       "source": "sky",
+      "title": "Can Carrick afford to rotate before Manchester derby?",
+      "link": "https://www.skysports.com/football/news/12040/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return",
+      "summary": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-manchester-united_7345804.jpg?20260909093508"
+    },
+    {
+      "source": "sky",
       "title": "Willock grabs late goal as Newcastle edge Millwall",
       "link": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
       "summary": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship outfit Millwall.",
@@ -427,11 +491,19 @@
     },
     {
       "source": "sky",
+      "title": "Grehan reveals source of GB&I's Walker Cup comeback",
+      "link": "https://www.skysports.com/golf/news/12040/13583281/stuart-grehan-reveals-walker-cup-responsibility-and-source-of-great-britain-and-irelands-historic-comeback",
+      "summary": "Walker Cup winner Stuart Grehan has admitted he felt responsibility to lead Great Britain and Ireland through the tournament as he detailed the trigger behind his side's historic comeback.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-great-britain-ireland_7343713.jpg?20260906205407"
+    },
+    {
+      "source": "sky",
       "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
       "link": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
       "summary": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260908221222"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-porto_7345520.jpg?20260909101940"
     },
     {
       "source": "sky",
@@ -440,78 +512,6 @@
       "summary": "Ryan Christie scored a hat-trick to give Marco Rose his first win as Bournemouth manager as the Cherries swept aside Sky Bet Championship side Lincoln 4-0.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-christie-bournemouth_7345497.jpg?20260908215326"
-    },
-    {
-      "source": "sky",
-      "title": "Hull 'buzzing' for Team Europe return | 'She embraces the Solheim!'",
-      "link": "https://www.skysports.com/golf/news/12040/13583026/solheim-cup-2026-charley-hull-buzzing-for-team-europe-return-as-anna-nordqvist-explains-practice-tee-time-mistake",
-      "summary": "Anna Nordqvist says Charley Hull is \"buzzing\" to tee it at the Solheim Cup this week and is pleased to see the Englishwoman embrace her growing role for Team Europe.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charley-hull-golf_7345301.jpg?20260908175354"
-    },
-    {
-      "source": "sky",
-      "title": "Southampton knock Swansea off Championship top spot",
-      "link": "https://www.skysports.com/football/southampton-vs-swansea-city/report/560563",
-      "summary": "Cyle Larin scored his fifth goal of the season as Southampton beat Swansea 3-1 to humble a table-topper for the second home match in a row.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-leo-scienza-southampton_7345513.jpg?20260908220249"
-    },
-    {
-      "source": "sky",
-      "title": "Colwill earns Cardiff point but winless start continues",
-      "link": "https://www.skysports.com/football/cardiff-city-vs-stoke-city/report/560561",
-      "summary": "Cardiff's winless start to the season continued as Stoke held on for a 1-1 draw and their first away point since January in the Welsh capital.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-joel-colwill-cardiff_7345517.jpg?20260908220810"
-    },
-    {
-      "source": "sky",
-      "title": "Burnley still without a win after draw at Wrexham",
-      "link": "https://www.skysports.com/football/wrexham-vs-burnley/report/560569",
-      "summary": "Wrexham's wait for a home win goes on after they were held to a 1-1 draw by winless Burnley who sit one place off the bottom of the Sky Bet Championship.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wrexham-burnley_7345390.jpg?20260908200801"
-    },
-    {
-      "source": "sky",
-      "title": "Watford comeback condemns Preston to fifth defeat in six",
-      "link": "https://www.skysports.com/football/watford-vs-preston-north-end/report/560564",
-      "summary": "Watford shook off an awful first-half display to grab a 2-1 victory over Preston, who suffered their fifth defeat in six league games.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-paul-heckingbottom_7345493.jpg?20260908215102"
-    },
-    {
-      "source": "sky",
-      "title": "Warwickshire put pressure on Somerset and Nottingham with Glamorgan 19-year first",
-      "link": "https://www.skysports.com/cricket/news/12040/13583334/warwickshire-turn-up-the-heat-on-somerset-and-nottingham-in-county-championship-as-they-inflict-glamorgan-19-year-first",
-      "summary": "Warwickshire ramped up their bid for the Rothesay County Championship Division One title as they rolled Glamorgan for 69 all out in Cardiff.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ethan-bamber-warwickshire_7345581.jpg?20260908225703"
-    },
-    {
-      "source": "sky",
-      "title": "Sheff Utd return to winning ways at Blackburn",
-      "link": "https://www.skysports.com/football/blackburn-rovers-vs-sheffield-united/report/560558",
-      "summary": "Sheffield United returned to winning ways after a display of ruthless finishing secured a 2-1 win at Blackburn.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tom-cannon-sheffield-united_7345502.jpg?20260908215653"
-    },
-    {
-      "source": "sky",
-      "title": "Arsenal latest: Will Arteta rotate vs Napoli as fixture schedule piles up?",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-    },
-    {
-      "source": "sky",
-      "title": "Aston Villa attack clicks in thrilling win over Club Brugge",
-      "link": "https://www.skysports.com/football/club-brugge-vs-aston-villa/report/577599",
-      "summary": "Aston Villa produced a superb attacking display to end their scoring concerns and begin their Champions League campaign with a thrilling 3-2 win over Club Brugge.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-nicolas-jackson_7345387.jpg?20260908200209"
     }
   ]
 }
