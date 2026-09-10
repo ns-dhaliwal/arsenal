@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T02:40:35.789657+00:00",
+  "lastUpdated": "2026-09-10T07:47:15.374593+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+      "link": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
+      "summary": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy Award for best actor in 1929? It was Emil Jannings, even if someone else might have been tempted to go with Charlie Chaplin. Which country publishes the highest numb",
+      "published": "2026-09-10T06:00:19+00:00",
+      "image": "https://i.guim.co.uk/img/media/b4de689f6d173080a8042654badf206771eb9325/397_0_3971_3177/master/3971.jpg?width=140&quality=85&auto=format&fit=max&s=c7e09470346aedc7283ec46e35dcfb32"
+    },
     {
       "source": "bbc",
       "title": "Arsenal are passing every test - and Odegaard is in form of his life",
@@ -226,14 +234,6 @@
       "image": "https://i.guim.co.uk/img/media/5bf1a265f9f72c0f7330c22f61b2af9c752c40fc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9ab0819f44e88af4f8ab6122a820c139"
     },
     {
-      "source": "guardian",
-      "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-      "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-      "summary": "Forward follows Gabriel Jesus out of championsRicharlison not in Tottenham’s Premier League squadArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause.Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad tha",
-      "published": "2026-09-03T17:26:25+00:00",
-      "image": "https://i.guim.co.uk/img/media/da93fcb449b519d1b85bff3763186b10b4867bfe/345_0_1838_1470/master/1838.jpg?width=140&quality=85&auto=format&fit=max&s=b7376175f68fa91a0aaffc5aa305dd9a"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
@@ -355,11 +355,51 @@
     },
     {
       "source": "sky",
-      "title": "Top four in the world set for US Open women's semi-final showdown",
+      "title": "Park Hill and May Hill clashes feature as Leger meeting begins at Doncaster",
+      "link": "https://www.skysports.com/racing/news/12040/13583212/today-on-sky-sports-racing-leger-meeting-at-doncaster-kicks-off-with-park-hill-and-may-hill-clashes",
+      "summary": "Doncaster's St Leger meeting gets under way on Thursday, all live on Sky Sports Racing, with a pair of classy Group Two contests taking centre stage.",
+      "published": null,
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-santorini-star-tom-marquand_7017222.jpg?20250911152952"
+    },
+    {
+      "source": "sky",
+      "title": "Zverev's US Open rocky road turns into smooth sailing to the semi-finals",
+      "link": "https://www.skysports.com/tennis/news/12040/13583806/us-open-alexander-zverev-passes-botic-van-de-8203zandschulp-test-to-set-up-semi-final-date-with-karen-khachanov",
+      "summary": "Alexander Zverev &#8204;took another big step towards a second Grand Slam &#8204;title by beating Dutchman Botic van de &#8203;Zandschulp 6-2 7-5 6-1 to reach the US Open semi-finals.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7346669.jpg?20260910035155"
+    },
+    {
+      "source": "sky",
+      "title": "Welcome to the NFL! Rookie Eli Raridon scores season opening TD",
+      "link": "https://www.skysports.com/watch/video/13583848/eli-raridon-scores-the-first-touchdown-of-the-nfl-season",
+      "summary": "Eli Raridon's 2-yard touchdown against Seattle Seahawks gets the new NFL season underway!",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-nfl-american-football_7346769.jpg?20260910073518"
+    },
+    {
+      "source": "sky",
+      "title": "Poch: I hope to return to Premier League in future",
+      "link": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
+      "summary": "Mauricio Pochettino has always been good company - warm, engaging and likeable. Having had a few weeks to reset away from the spotlight, there were enthusiastic hugs all round for the Sky Sports News team as we all swapped summer stories. His, though, has been rather busier than ours.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
+    },
+    {
+      "source": "sky",
+      "title": "Top four in the world set for US Open semi-finals showdown",
       "link": "https://www.skysports.com/tennis/news/12040/13583805/us-open-top-seeded-quartet-set-for-womens-semi-final-showdown-with-aryna-sabalenka-and-coco-gauff-in-action",
       "summary": "Two-time defending champion Aryna Sabalenka will bid to move one step closer to a third straight US Open title when she faces familiar foe &#8204;Jessica Pegula, while Elena Rybakina will take on home favourite Coco Gauff in the semi-finals on Thursday from midnight - live on Sky Sports Tennis.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jessica-pegula-aryna-sabalenka_7346649.jpg?20260910000917"
+    },
+    {
+      "source": "sky",
+      "title": "First tease of Madrid! | F3 drivers test F1's new Madring track",
+      "link": "https://www.skysports.com/watch/video/13583084/spanish-grand-prix-first-tease-of-madrid-f3-drivers-test-f1s-new-madring-track",
+      "summary": "Watch F3 drivers complete in-season testing at the Madring for the first ever time.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f3-madring_7344871.jpg?20260908105724"
     },
     {
       "source": "sky",
@@ -387,6 +427,14 @@
     },
     {
       "source": "sky",
+      "title": "NINE-goal thriller! Phenomenal turnaround sees Chelsea advance past Leeds!",
+      "link": "https://www.skysports.com/watch/video/13583792/chelsea-6-3-leeds-carabao-cup-highlights",
+      "summary": "Highlights from the Carabao Cup match between Chelsea and Leeds.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-chelsea-leeds-carabao-cup_7346610.jpg?20260909224742"
+    },
+    {
+      "source": "sky",
       "title": "Is change needed after Shelton's early-morning finish against Alcaraz?",
       "link": "https://www.skysports.com/tennis/news/12040/13583739/us-open-3-33am-local-time-and-another-early-morning-finish-as-ben-shelton-beat-carlos-alcaraz-so-does-something-have-to-change",
       "summary": "The clock ticked to 3.33am local time in New York City when Ben Shelton beat Carlos Alcaraz with a clean ace to the delight of thousands of delirious tennis fans still inside Arthur Ashe Stadium, but does something have to be done to stop these early-morning finishes?",
@@ -408,6 +456,22 @@
       "summary": "Coco Gauff saved two match points on her way to a three-set victory over teenage French Open winner Mirra Andreeva which set up a semi-final showdown with newly crowned world No 1 Elena Rybakina.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-coco-gauff-tennis_7346548.jpg?20260909215940"
+    },
+    {
+      "source": "sky",
+      "title": "Can Team USA overcome Solheim Cup 'heartbreak' to retain title in Europe?",
+      "link": "https://www.skysports.com/golf/news/12040/13583452/solheim-cup-2026-how-team-usa-look-to-overcome-heart-breaking-near-misses-against-team-europe-and-retain-trophy",
+      "summary": "Team USA are determined to overcome &#8216;heart-breaking&#8217; near-misses in away Solheim Cups and successfully retain their trophy on European soil this week, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-anna-nordqvist-golf_7346282.jpg?20260909165121"
+    },
+    {
+      "source": "sky",
+      "title": "Seahawks beat Patriots in NFL opener but suffer Darnold blow",
+      "link": "https://www.skysports.com/nfl/news/12040/13583822/seattle-seahawks-beat-new-england-patriots-after-drake-mayes-three-interceptions-and-sam-darnold-injury-in-nfl-season-opener",
+      "summary": "Backup quarterback Drew Lock led two late scoring drives as the Seattle Seahawks intercepted Drake Maye three times in the fourth quarter to overcome an early injury to Sam Darnold and beat the New England Patriots 13-10 in Wednesday night's season-opening Super Bowl rematch.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-josh-jobe-seattle-seahawks_7346700.jpg?20260910053503"
     },
     {
       "source": "sky",
@@ -448,70 +512,6 @@
       "summary": "Prince William will bring together leading figures from across sport on Thursday to launch a new first-of-its-kind suicide prevention toolkit designed to help organisations recognise warning signs and support those at risk.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-prince-william-prince-of-wales_7346287.jpg?20260909165357"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
-      "link": "https://www.skysports.com/football/news/12040/13583799/liverpool-transfer-news-as-roma-midfielder-manu-kone-on-anfield-radar-ahaed-of-january-transfer-window-paper-talk",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "QPR miss chance to move top after goalless draw at Charlton",
-      "link": "https://www.skysports.com/football/charlton-athletic-vs-queens-park-rangers/report/560566",
-      "summary": "QPR missed the chance to go top of the Championship table as they were held to a 0-0 draw at Charlton.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-qpr-charlton_7346581.jpg?20260909222603"
-    },
-    {
-      "source": "sky",
-      "title": "Napoli 0-1 Arsenal commentary and reaction",
-      "link": "https://www.skysports.com/football/napoli-vs-arsenal/live/577605",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-saka-arsenal-napoli_7346414.jpg?20260909201547"
-    },
-    {
-      "source": "sky",
-      "title": "Baur's first Celtic goal secures victory against St Johnstone",
-      "link": "https://www.skysports.com/football/st-johnstone-vs-celtic/report/558350",
-      "summary": "Mika Baur scored his first Celtic goal as they extended the winning start to their latest Scottish Premiership title defence to six games.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-celtic-st-johnstone_7346496.jpg?20260909211413"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers snatch late win over St Mirren as sub Miovski extends winning run",
-      "link": "https://www.skysports.com/football/rangers-vs-st-mirren/report/558349",
-      "summary": "Bojan Miovski's cute dink in stoppage time sealed a dramatic 1-0 victory for Rangers over St Mirren and extended their winning run to four games in the Scottish Premiership.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-bojan-miovski-rangers_7346529.jpg?20260909214216"
-    },
-    {
-      "source": "sky",
-      "title": "'A victory few in the world are capable of' - How Gauff stunned Andreeva to reach semis",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13583384/us-open-live-scores-updates-news-commentary-results-from-new-york-with-elena-rybakina-coco-gauff-and-mirra-andreeva-all-in-action",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-coco-gauff-tennis_7346535.jpg?20260909214621"
-    },
-    {
-      "source": "sky",
-      "title": "Doyle: Waardah the one to beat in the Park Hill",
-      "link": "https://www.skysports.com/racing/news/12040/13583627/hollie-doyle-owen-burrows-filly-can-claim-park-hill-success",
-      "summary": "Our ambassador Hollie Doyle gives her verdict on the action from Town Moor, providing her take on the Park Hill, May Hill and Sales Race.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
-    },
-    {
-      "source": "sky",
-      "title": "Norwich hold on to beat Birmingham at Carrow Road",
-      "link": "https://www.skysports.com/football/norwich-city-vs-birmingham-city/report/560568",
-      "summary": "Norwich continued their rapid climb up the Sky Bet Championship table as they edged past visitors Birmingham 2-1 to make it three wins in four league games.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-norwich-city-philippe-clement_7346558.jpg?20260909220450"
     }
   ]
 }
