@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-11T05:32:35.692821+00:00",
+  "lastUpdated": "2026-09-11T10:26:39.949117+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
+      "link": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
+      "summary": "Manager wants players to cope with things going wrongOther tactics include making dressing room even hotterMikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality.Arsenal’s flight to Italy for their Champions League opener against Napoli this week was de",
+      "published": "2026-09-11T10:04:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&quality=85&auto=format&fit=max&s=3f975d1380e44e54033e9e8c373de7ba"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 things to look out for this weekend",
@@ -226,14 +234,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/28ce1350-a95e-11f1-99c3-dba02712eb49.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Arteta v Alonso, part one: a desire for control and the theory behind the chaos | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/sep/05/mikel-arteta-xabi-alonso-chelsea-arsenal",
-      "summary": "Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friendsControl v chaos. On the one hand, the forces of order, regimented, playing in precise patterns and, on the other, something darker, more visceral, a method that acknowledges the imperfection of the human soul, the unknowability of football in all its randomness; better, tha",
-      "published": "2026-09-05T19:00:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/f07ed745601dddcee2e7150b33e2b0f95d70996e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a036a74a916e6e909ddc33068f76e76a"
-    },
-    {
       "source": "bbc",
       "title": "Arteta laughs at nickname for Arsenal's front three",
       "link": "https://www.bbc.co.uk/sport/football/videos/cy7z0zde4pro?at_medium=RSS&at_campaign=rss",
@@ -355,11 +355,67 @@
     },
     {
       "source": "sky",
-      "title": "Caballo De Mar faces Queenstown in Doncaster Cup",
-      "link": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
-      "summary": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
+      "title": "Chelsea latest: Joao Pedro speaks after PL player of the month award",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caballo-de-mar-racing_7345985.jpg?20260909120314"
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
+    },
+    {
+      "source": "sky",
+      "title": "Fulham latest: Arbeloa responds to squad unrest reports",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
+    },
+    {
+      "source": "sky",
+      "title": "Arteta: I sabotaged our travel plans so players get used to problems",
+      "link": "https://www.skysports.com/football/news/12040/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
+      "summary": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arteta-arsenal_7347769.jpg?20260911100417"
+    },
+    {
+      "source": "sky",
+      "title": "England look to wrap up Test series sweep of Pakistan on day three LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-england-pakistan_7345911.jpg?20260909152156"
+    },
+    {
+      "source": "sky",
+      "title": "Hall signs new deal at Newcastle after Man Utd interest",
+      "link": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
+      "summary": "Lewis Hall&#160;has signed a new long-term contract at&#160;Newcastle United.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lewis-hall-newcastle_7347763.jpg?20260911095550"
+    },
+    {
+      "source": "sky",
+      "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
+      "link": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
+      "summary": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-merson-says-premier-league_7344828.jpg?20260908094410"
+    },
+    {
+      "source": "sky",
+      "title": "Rogers and Palmer helping each other thrive",
+      "link": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cole-palmer-morgan-rogers_7347410.jpg?20260910194039"
+    },
+    {
+      "source": "sky",
+      "title": "York Knights finish maiden season with thrashing of Bradford Bulls",
+      "link": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights",
+      "summary": "Highlights from the Super League clash between York Knights and Bradford Bulls.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rugby-league-york-nights_7347558.jpg?20260910233507"
     },
     {
       "source": "sky",
@@ -371,11 +427,43 @@
     },
     {
       "source": "sky",
+      "title": "No wins and no goals - how concerned should Spurs be over PL start?",
+      "link": "https://www.skysports.com/football/news/12040/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
+      "summary": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-tottenham-hotspur_7346118.jpg?20260909141814"
+    },
+    {
+      "source": "sky",
+      "title": "Caballo De Mar faces Queenstown in Doncaster Cup",
+      "link": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
+      "summary": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caballo-de-mar-racing_7345985.jpg?20260909120314"
+    },
+    {
+      "source": "sky",
+      "title": "Three things we learned from United's 4-0 win over Sabah | The Verdict",
+      "link": "https://www.skysports.com/watch/video/13584307/three-things-we-learnt-from-uniteds-4-0-over-sabah",
+      "summary": "Danyal Khan gives us his verdict on Manchester United's 4-0 victory over Sabah in the Champions League.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-united_7347802.jpg?20260911102218"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Zubimendi may push to leave Arsenal",
       "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Linn Grant holes out from bunker! | 'That's how you make a par!'",
+      "link": "https://www.skysports.com/watch/video/13584261/solheim-cup-thats-how-you-make-a-par-grant-holes-out-from-bunker",
+      "summary": "Linn Grant holed out for par from a greenside bunker to tie the hole at the Solheim Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-e-a_7347732.jpg?20260911092708"
     },
     {
       "source": "sky",
@@ -411,107 +499,19 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd put four past Sabah on Champions League return",
-      "link": "https://www.skysports.com/football/manchester-united-vs-sabah/report/577612",
-      "summary": "Manchester United made a winning return to the Champions League as they beat Sabah FC in style with a 4-0 victory at Old Trafford.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-bruno-fernandes-youri_7347456.jpg?20260910205714"
-    },
-    {
-      "source": "sky",
-      "title": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
-      "link": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy four off Irish Open lead in tough conditions with Lowry near top",
-      "link": "https://www.skysports.com/golf/news/12040/13583854/irish-open-rory-mcilroy-four-off-lead-in-tough-conditions-with-shane-lowry-two-off-top",
-      "summary": "Rory McIlroy battled on against testing blustery conditions at the Amgen Irish Open to sit four shots off the clubhouse lead following a one-under par opening round, with Ireland's Shane Lowry two off the top.&#160;",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rory-mcilroy-golf_7347332.jpg?20260910175406"
-    },
-    {
-      "source": "sky",
-      "title": "Hull, Woad lead out Europe against Korda, Corpuz at Solheim Cup LIVE!",
+      "title": "Solheim Cup LIVE! Europe make it 2-2 after Hull, Woad thrashed",
       "link": "https://www.skysports.com/golf/live-blog/12040/13584196/solheim-cup-live-latest-scores-updates-highlights-from-day-one-as-team-europe-host-team-usa-at-bernardus-golf",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charley-hull-golf_7345301.jpg?20260908175354"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lottie-woad-charley-hull_7347832.jpg?20260911110403"
     },
     {
       "source": "sky",
-      "title": "Erasmus urges South Africa to risk more in finale with New Zealand in Baltimore",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13583078/south-africa-vs-new-zealand-rassie-erasmus-urges-springboks-to-risk-more-as-all-blacks-series-finale-looms-in-baltimore",
-      "summary": "After a flat beginning, South Africa finally spread their wings in the Test series against New Zealand in Tests two and three, and head coach Rassie Erasmus wants his side to fly high in the finale on US soil.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-siya-kolisi-south-africa_7335131.jpg?20260829192459"
-    },
-    {
-      "source": "sky",
-      "title": "Britain's Skupski reaches US Open doubles final",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york",
+      "title": "Live on Sky: West Ham vs Wrexham",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-wrexham/live/560581",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-neal-skupski-tennis_7347575.jpg?20260911015731"
-    },
-    {
-      "source": "sky",
-      "title": "Root's lbw struggles and century drought - Nasser assesses post-Bazball batting",
-      "link": "https://www.skysports.com/cricket/news/12040/13584099/joe-roots-struggles-and-england-century-drought-against-pakistan-the-only-concerns-from-improved-post-bazball-batting-says-nasser-hussain",
-      "summary": "Joe Root's susceptibility to lbw and England's failure to convert starts into centuries are the only blots on an improved post-Bazball batting display, according to Nasser Hussain.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-cricket_7347370.jpg?20260910184406"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham latest: Sky Sports sits down with new signings Piroe, Engels & Solomon",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
-    },
-    {
-      "source": "sky",
-      "title": "Russell: I have an answer to Antonelli's pace",
-      "link": "https://www.skysports.com/f1/news/12040/13583903/george-russell-insists-he-has-an-answer-to-kimi-antonellis-pace-amid-his-mercedes-team-mates-dominance-in-title-battle",
-      "summary": "George Russell insists he does \"have an answer\" to Kimi Antonelli's pace but admits he will need good fortune to catch his Mercedes team-mate at the top of the Drivers' Championship.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7347334.jpg?20260910175520"
-    },
-    {
-      "source": "sky",
-      "title": "Joshua's driver in fatal car crash has trial adjourned",
-      "link": "https://www.skysports.com/boxing/news/12040/13584095/anthony-joshua-car-crash",
-      "summary": "The trial of Adeniyi Mobolaji Kayode, the driver involved in the&#160;crash that injured boxer Anthony Joshua and killed two members of his team, has been adjourned until November 17.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-adeniyi-mobolaji-kayode_7140505.jpg?20260120122501"
-    },
-    {
-      "source": "sky",
-      "title": "England closing in on emphatic series sweep of Pakistan",
-      "link": "https://www.skysports.com/cricket/news/12040/13584068/england-vs-pakistan-ollie-robinson-strikes-twice-in-first-over-of-second-innings-as-hosts-dominate-day-two-of-third-test-at-edgbaston",
-      "summary": "England are closing in on the most emphatic of series sweeps of Pakistan after reducing the visitors to 52-2 - still 268 runs behind - before rain ended play early on day two of the third Test at Edgbaston.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-robinson-cricket_7347219.jpg?20260910161719"
-    },
-    {
-      "source": "sky",
-      "title": "Overton, Leach help Somerset remain top with crushing win at Leicestershire",
-      "link": "https://www.skysports.com/cricket/news/12040/13584039/county-championship-cricket-craig-overton-jack-leach-help-somerset-to-crushing-win-at-leicestershire-to-remain-top",
-      "summary": "Craig Overton and Jack Leach combined to inflict a 377-run thrashing on Leicestershire and keep Somerset top of the Rothesay County Championship with only two more rounds to go.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-craig-overton-somerset_7347364.jpg?20260910183321"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen: New Madring circuit 'probably a car killer'",
-      "link": "https://www.skysports.com/f1/news/12040/13583902/spanish-gp-max-verstappen-says-new-madring-f1-circuit-probably-a-car-killer-as-drivers-anticipate-disruptive-weekend",
-      "summary": "Max Verstappen says the new Madring F1 circuit is \"probably a car killer\" with several drivers expecting a disruptive Spanish Grand Prix weekend.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-max-verstappen_7347349.jpg?20260910181952"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-west-ham-wrexham_7344374.jpg?20260907155031"
     }
   ]
 }
