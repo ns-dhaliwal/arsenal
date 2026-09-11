@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-11T18:06:08.729263+00:00",
+  "lastUpdated": "2026-09-11T21:30:16.931667+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "summary": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighterPremier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist. Manchester United’s Bruno Fernandes and Manchester City’s Erling Haaland are there but Cole Palmer, one of the nominees in 2025, is out aft",
+      "published": "2026-09-11T19:00:13+00:00",
+      "image": "https://i.guim.co.uk/img/media/206c16e144003781c4c8c9369ce6bf01a104e860/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=68193b03994ba5e22019e98997b7418c"
+    },
     {
       "source": "bbc",
       "title": "I disrupted pre-season travel plans to prepare players - Arteta",
@@ -234,14 +242,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/319e/live/0c6eebd0-aa44-11f1-b109-879e35c24276.jpg"
     },
     {
-      "source": "guardian",
-      "title": "‘When there’s joy, there’s room for hope’: Eberechi Eze, Leona Lewis, and Yinka Ilori in conversation with Ezra Collective",
-      "link": "https://www.theguardian.com/music/2026/sep/06/interview-ezra-collective-femi-koleoso-yinka-illori-leona-lewis-eberechi-eze",
-      "summary": "Bandleader Femi Koleoso brings together the England and Arsenal star, the musician and the artist to discuss adversity, creativity and Black British culture• ‘On the other side of pain there can be renewal’: Ezra Collective’s Femi Koleoso on reasons to hold onto hope• ‘Like painting with light’: photographer Temi Adegbayibi on capturing the energy of music• My cultural awakening , featuring Ezra C",
-      "published": "2026-09-06T09:00:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/d6b86df923b189c04c9d2d8dd82028c7ce0f59ff/0_1_2347_1877/master/2347.jpg?width=140&quality=85&auto=format&fit=max&s=651aa1b805716e5f6f8f71db44765160"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
       "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
@@ -355,19 +355,67 @@
     },
     {
       "source": "sky",
-      "title": "Super League's Frantic Friday LIVE! Five games on Sky with League Leaders' Shield on line",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
-      "summary": "",
+      "title": "West Ham thrash Wrexham to go top of the Championship",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-wrexham/report/560581",
+      "summary": "West Ham made easy work of Wrexham in a 6-0 victory at the London Stadium to make it four in a row and go top of the Championship.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7348219.jpg?20260911162014"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-west-ham-wrexham_7348581.jpg?20260911221118"
     },
     {
       "source": "sky",
-      "title": "Antonelli sets pace as Lindblad suffers first F1 crash at challenging Madring",
-      "link": "https://www.skysports.com/f1/news/12040/13584259/spanish-gp-kimi-antonelli-edges-ferrari-in-madrid-practice-as-arvid-lindblad-suffers-first-f1-crash-at-challenging-madring-circuit",
-      "summary": "World championship leader Kimi Antonelli was fastest on Formula 1's first day of running at the Spanish Grand Prix's new Madrid circuit as the hugely challenging nature of the Madring was exhibited by a big crash for British rookie Arvid Lindblad.",
+      "title": "Wigan storm to Super League's League Leaders' Shield and remain on treble course",
+      "link": "https://www.skysports.com/rugby-league/wigan-vs-catalans/report/63344",
+      "summary": "Wigan Warriors clinched Super League's top spot and the League Leaders' Shield after a final-round 50-12 victory over Catalans Dragons, meaning Matt Peet's side remain on course for a domestic treble.&#160;&#160;",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lindblad-arvid-racing-bulls_7348234.png?20260911164154"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wigan-warriors-super-league_7348518.jpg?20260911212125"
+    },
+    {
+      "source": "sky",
+      "title": "Mumtaz: Razaullah wrote 'perfect chapter' to revive reeling Pakistan",
+      "link": "https://www.skysports.com/cricket/news/12040/13584563/england-vs-pakistan-razaullah-writes-perfect-chapter-to-revive-reeling-pakistan-and-force-england-into-unwanted-day-four",
+      "summary": "Former Pakistan captain Urooj Mumtaz lauded youngster Razaullah and said he wrote the \"perfect chapter\" to revive his reeling side after his sensational 81 off 63 balls against England on day three at Edgbaston.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-razaullah-pakistan_7348396.jpg?20260911192155"
+    },
+    {
+      "source": "sky",
+      "title": "Will it be a Sabalenka 'three-peat' or maiden US Open for new No 1 Rybakina?",
+      "link": "https://www.skysports.com/tennis/news/12040/13584186/us-open-will-it-be-a-three-peat-for-aryna-sabalenka-or-a-maiden-title-in-new-york-for-new-no-1-elena-rybakina",
+      "summary": "Two-time defending champion Aryna Sabalenka is looking to become the first woman to achieve the 'three-peat' in New York since Serena Williams in 2014 but she faces incoming world No 1 Elena Rybakina in the US Open final on Saturday.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-tennis-us-open_7348405.jpg?20260911193002"
+    },
+    {
+      "source": "sky",
+      "title": "Remarkable Razaullah knock denies England series sweep inside three days",
+      "link": "https://www.skysports.com/cricket/news/12040/13584462/england-vs-pakistan-razaullah-21-hits-remarkable-81-off-63-balls-featuring-nine-sixes-to-force-final-test-into-fourth-day",
+      "summary": "England were denied a series sweep of Pakistan inside three days of the final Test at Edgbaston after a remarkable display of six-hitting from 21-year-old Razaullah late on Friday.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-razaullah-pakistan_7348395.jpg?20260911192043"
+    },
+    {
+      "source": "sky",
+      "title": "'Beautifully worked, perfectly finished!' | Bowen strike opens the scoring",
+      "link": "https://www.skysports.com/watch/video/13584587/west-ham-vs-wrexham-jarrod-bowen-strike-opens-the-scoring",
+      "summary": "Jarrod Bowen opens the scoring for West Ham against Wrexham.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-bowen-goal_7348468.jpg?20260911204220"
+    },
+    {
+      "source": "sky",
+      "title": "Super League's Frantic Friday LIVE! Wigan dominate League Leaders' Shield race",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-liam-farrell-keighran_7348487.jpg?20260911205641"
+    },
+    {
+      "source": "sky",
+      "title": "US Open LIVE! Top seed Zverev one set away from spot in final",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13584187/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-ben-shelton-and-frances-tiafoe-all-in-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7348488.jpg?20260911205720"
     },
     {
       "source": "sky",
@@ -379,11 +427,27 @@
     },
     {
       "source": "sky",
+      "title": "Antonelli sets pace as Lindblad suffers first F1 crash at challenging Madring",
+      "link": "https://www.skysports.com/f1/news/12040/13584259/spanish-gp-kimi-antonelli-edges-ferrari-in-madrid-practice-as-arvid-lindblad-suffers-first-f1-crash-at-challenging-madring-circuit",
+      "summary": "World championship leader Kimi Antonelli was fastest on Formula 1's first day of running at the Spanish Grand Prix's new Madrid circuit as the hugely challenging nature of the Madring was exhibited by a big crash for British rookie Arvid Lindblad.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-arvid-lindblad-racing-bulls_7348383.jpg?20260911190730"
+    },
+    {
+      "source": "sky",
       "title": "Stokes back in top flight of County Championship as Durham secure promotion",
       "link": "https://www.skysports.com/cricket/news/12040/13584501/county-championship-ben-stokes-back-in-top-flight-as-durham-promoted-after-victory-over-middlesex",
       "summary": "Durham clinched promotion to Division One of the Rothesay County Championship with a 93-run victory over Middlesex at Chester-le-Street.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-brydon-carse-ben-stokes_7333468.jpg?20260828104314"
+    },
+    {
+      "source": "sky",
+      "title": "Highlights: Lowry sets new course record as he surges top of the leaderboard",
+      "link": "https://www.skysports.com/watch/video/13584584/amgen-irish-open-day-two-highlights",
+      "summary": "Highlights from day two of the Amgen Irish Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-golf-irish-open_7348462.jpg?20260911203703"
     },
     {
       "source": "sky",
@@ -411,6 +475,22 @@
     },
     {
       "source": "sky",
+      "title": "Ciganda saves Europe blushes as day ends tied at 4-4",
+      "link": "https://www.skysports.com/watch/video/13584550/solheim-cup-8211-friday-fourballs-highlights",
+      "summary": "Highlights of the Friday fourballs from the Solheim Cup at Bernardus Golf, in the Netherlands.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-solheim-fourballs_7348376.jpg?20260911190311"
+    },
+    {
+      "source": "sky",
+      "title": "‘How on Earth did you do that!?’ Ciganda SOMEHOW ties final hole",
+      "link": "https://www.skysports.com/watch/video/13584547/solheim-cup-carlota-ciganda-somehow-ties-final-hole",
+      "summary": "Carlota Ciganda recovered from two wayward shots to somehow tie the final hole for Europe in the Solheim Cup Friday fourballs.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-putt_7348373.jpg?20260911190139"
+    },
+    {
+      "source": "sky",
       "title": "EFL latest: Antonio signs for Watford",
       "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "summary": "",
@@ -432,86 +512,6 @@
       "summary": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-martin-oneill-celtic_7335029.jpg?20260911150306"
-    },
-    {
-      "source": "sky",
-      "title": "Scottish Premiership latest: Rangers director Purdy steps down",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dan-purdy-gretar-steinsson_7348084.jpg?20260911141532"
-    },
-    {
-      "source": "sky",
-      "title": "Late Ciganda magic keeps Europe locked with USA at Solheim Cup",
-      "link": "https://www.skysports.com/golf/news/12040/13584202/solheim-cup-2026-team-europe-and-team-usa-tied-4-4-after-tight-opening-day-and-carlota-cigandas-dramatic-finish",
-      "summary": "Carlota Ciganda delivered final-hole magic for Team Europe to leave them tied 4-4 with Team USA after a dramatic opening day at the Solheim Cup, where Charley Hull and Lottie Woad let a big lead slip as Team Europe&#8217;s star pair.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-carlota-ciganda-golf_7348352.jpg?20260911183818"
-    },
-    {
-      "source": "sky",
-      "title": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
-    },
-    {
-      "source": "sky",
-      "title": "Latest golf scores: Lowry leads Amgen Irish Open with McIlroy also in action",
-      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "summary": "Latest golf scores and results from around the world, including the DP World Tour's Amgen Irish Open and more.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7333728.jpg?20260828162430"
-    },
-    {
-      "source": "sky",
-      "title": "Inside the Solheim Cup: How players embraced 'insane' first-tee experience",
-      "link": "https://www.skysports.com/golf/news/12040/13584203/solheim-cup-how-team-europe-and-team-usa-stars-embraced-first-tee-party-and-insane-atmosphere-at-bernardus-golf",
-      "summary": "Team Europe captain Anna Nordqvist said that the Solheim Cup first tee would be 'the place to be in the golfing world,' with that pre-tournament assessment spot on as she witnessed a spectacle unlike any other in the women's game.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-solheim-cup-team-europe_7347639.jpg?20260911065907"
-    },
-    {
-      "source": "sky",
-      "title": "Lowry fires course record to lead Irish Open as McIlroy feels 'frustration'",
-      "link": "https://www.skysports.com/golf/news/12040/13584204/amgen-irish-open-shane-lowry-fires-course-record-to-top-leaderboard-as-rory-mcilroy-left-feeling-putting-frustration",
-      "summary": "Shane Lowry broke the course record and raced top of the leaderboard on home soil at the Amgen Irish Open, as Rory McIlroy was left feeling \"frustration\" in his putting.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-shane-lowry-golf_7348173.jpg?20260911154359"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers vs Celtic: Talking points ahead of first Old Firm clash of season",
-      "link": "https://www.skysports.com/football/news/12040/13584331/rangers-vs-celtic-key-talking-points-ahead-of-first-old-firm-clash-of-season-with-league-cup-semi-final-spot-at-stake",
-      "summary": "It is the first Old Firm clash of the season and there is a League Cup semi-final place at stake.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-scottish-league-cup_7347851.jpg?20260911111718"
-    },
-    {
-      "source": "sky",
-      "title": "Several drivers FUME at Hamilton for getting in the way!",
-      "link": "https://www.skysports.com/watch/video/13584401/spanish-grand-prix-arvid-linblad-fumes-at-lewis-hamilton-and-kimi-antonelli-during-first-practice",
-      "summary": "Several drivers were left frustrated by Lewis Hamilton for getting in the way during first practice of the Spanish Grand Prix.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-formula-1-hamilton_7348051.jpg?20260911135201"
-    },
-    {
-      "source": "sky",
-      "title": "‘A complete performance’ | Lowry storms into Irish Open lead with round of 62",
-      "link": "https://www.skysports.com/watch/video/13584468/shane-lowry-storms-into-irish-open-lead-with-round-of-62",
-      "summary": "Shane Lowry hit a round of eight under par to storm into the lead at the Irish Open.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-shane-lowry_7348178.jpg?20260911154815"
-    },
-    {
-      "source": "sky",
-      "title": "Everton latest: Grealish ready to start at Spurs, says Moyes",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
     }
   ]
 }
