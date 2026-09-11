@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-11T10:26:39.949117+00:00",
+  "lastUpdated": "2026-09-11T14:47:30.698764+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
+      "published": "2026-09-11T12:32:20+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff94/live/5ac14c20-add6-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "source": "bbc",
+      "title": "Arteta's suprise tactics to deal with travel issues",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx2zr3p3rllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal manager Mikel Arteta reveals the methods he uses to prepare his squad for unexpected pre-match disruption after his side's flight was delayed before their Champions League game against Napoli.",
+      "published": "2026-09-11T11:06:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ef/live/d2a4fea0-adcf-11f1-bc1f-3f186ca4140c.jpg"
+    },
     {
       "source": "guardian",
       "title": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
@@ -338,28 +354,148 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bd/live/0cb9e950-a477-11f1-bed8-470734b5b662.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Hamburg in advanced talks for Arsenal's Vieira",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ymvz83dy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamburg are in advanced talks to buy Arsenal midfielder Fabio Vieira in a 10m euro (£8.6m) deal.",
-      "published": "2026-08-30T11:27:02+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38a9/live/e5885cc0-a464-11f1-b370-b9b7934350c8.jpg"
-    },
-    {
-      "source": "bbc",
-      "title": "Teenage Cardiff midfielder Donczew joins Arsenal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy6z3j04mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cardiff City teenager Axel Donczew has joined Arsenal as part of the Premier League champions' first-year scholarship intake.",
-      "published": "2026-08-30T09:21:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d765/live/ffa7bda0-a453-11f1-94c9-7de5456f4d18.jpg"
+      "source": "sky",
+      "title": "Spanish GP: Ferrari, McLaren look to fight back against early Mercedes pace LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7347979.jpg?20260911130239"
     },
     {
       "source": "sky",
-      "title": "Chelsea latest: Joao Pedro speaks after PL player of the month award",
+      "title": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
+      "link": "https://www.skysports.com/football/news/12040/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
+      "summary": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-martin-oneill-celtic_7335029.jpg?20260911150306"
+    },
+    {
+      "source": "sky",
+      "title": "Scottish Premiership latest: Rangers director Purdy steps down",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dan-purdy-gretar-steinsson_7348084.jpg?20260911141532"
+    },
+    {
+      "source": "sky",
+      "title": "Tottenham latest: De Zerbi on Kudus and Maddison availability vs Everton",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+    },
+    {
+      "source": "sky",
+      "title": "Latest golf scores: Lowry leads Amgen Irish Open with McIlroy also in action",
+      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "summary": "Latest golf scores and results from around the world, including the DP World Tour's Amgen Irish Open and more.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7333728.jpg?20260828162430"
+    },
+    {
+      "source": "sky",
+      "title": "Inside the Solheim Cup: How players embraced 'insane' first-tee experience",
+      "link": "https://www.skysports.com/golf/news/12040/13584203/solheim-cup-how-team-europe-and-team-usa-stars-embraced-first-tee-party-and-insane-atmosphere-at-bernardus-golf",
+      "summary": "Team Europe captain Anna Nordqvist said that the Solheim Cup first tee would be 'the place to be in the golfing world,' with that pre-tournament assessment spot on as she witnessed a spectacle unlike any other in the women's game.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-solheim-cup-team-europe_7347639.jpg?20260911065907"
+    },
+    {
+      "source": "sky",
+      "title": "Everton latest: Grealish ready to start at Spurs, says Moyes",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
+    },
+    {
+      "source": "sky",
+      "title": "Sky Sports agrees three-year US Open extension",
+      "link": "https://www.skysports.com/tennis/news/12040/13584343/us-open-sky-sports-agrees-three-year-extension-to-show-the-us-open-until-end-of-2030",
+      "summary": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-us-open-sky-extension_7348003.jpg?20260911132341"
+    },
+    {
+      "source": "sky",
+      "title": "Russell tops first practice in Madrid as Hamilton frustrates other drivers",
+      "link": "https://www.skysports.com/f1/news/12040/13584257/spanish-gp-george-russell-tops-first-practice-at-new-madring-as-lewis-hamilton-frustrates-other-drivers",
+      "summary": "George Russell was fastest from Mercedes team-mate Kimi Antonelli in the first practice session at the new Madring circuit in Madrid.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-george-russell_7348006.jpg?20260911132632"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd's £1bn rebuild faces toughest test",
+      "link": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
+      "summary": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michale-michael-carrick_7345147.jpg?20260908145237"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: 685 season-ticket holders banned after touting investigation",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "Amelia Earhart fancied for St Leger upset",
+      "link": "https://www.skysports.com/racing/news/12040/13584254/doncaster-tips-amelia-earhart-fancied-for-st-leger-upset-at-doncaster",
+      "summary": "The Weekend Winners team return to discuss their top tips for Saturday at the St Leger Festival.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
+    },
+    {
+      "source": "sky",
+      "title": "‘No energy, no more!’ - Benn hushes Garcia during heated face-off!",
+      "link": "https://www.skysports.com/watch/video/13584239/conor-benn-hushes-ryan-garcia-during-heated-face-off",
+      "summary": "Ryan Garcia and Conor Benn shared a heated face-off ahead of their blockbuster showdown in Las Vegas.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-benn-garcia_7347683.jpg?20260911080323"
+    },
+    {
+      "source": "sky",
+      "title": "'Fight 100 per cent on!' - Cardiff emerges as potential venue for Fury vs AJ",
+      "link": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
+      "summary": "Tyson Fury&#8217;s manager has confirmed that the Anthony Joshua fight is \"100 per cent happening\" as Cardiff emerges as a potential venue.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-boxing-tyson-fury_7329017.jpg?20260823125152"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool latest: Barcola should be available for Fulham, says Iraola",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+    },
+    {
+      "source": "sky",
+      "title": "Europe share spoils with Team USA in tight foursomes session",
+      "link": "https://www.skysports.com/watch/video/13584421/solheim-cup-8211-friday-foursomes-highlights",
+      "summary": "Highlights of the Friday foursomes from the Solheim Cup at Bernardus Golf, in the Netherlands.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-solheim-hul_7347993.jpg?20260911131315"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea latest: Caicedo out of Hull game as Neto signs new contract",
       "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
+    },
+    {
+      "source": "sky",
+      "title": "Korda, Corpuz thrash Hull, Woad to make history in tied foursomes session",
+      "link": "https://www.skysports.com/golf/news/12040/13584200/solheim-cup-2026-nelly-korda-allisen-corpuz-thrash-charley-hull-lottie-woad-to-make-history-for-team-usa-in-friday-foursomes",
+      "summary": "Nelly Korda and Allisen Corpuz created Solheim Cup history with their statement victory over Charley Hull and Lottie Woad in the Friday foursomes, as Team Europe and Team USA shared the spoils in the opening session.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-nelly-korda-golf_7347822.jpg?20260911104538"
     },
     {
       "source": "sky",
@@ -371,147 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Arteta: I sabotaged our travel plans so players get used to problems",
+      "title": "Arteta: I sabotage our travel plans so players get used to problems",
       "link": "https://www.skysports.com/football/news/12040/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
       "summary": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arteta-arsenal_7347769.jpg?20260911100417"
-    },
-    {
-      "source": "sky",
-      "title": "England look to wrap up Test series sweep of Pakistan on day three LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13584253/england-vs-pakistan-third-test-day-three-live-latest-cricket-score-updates-videos-and-analysis-from-edgbaston-as-joe-roots-side-eye-series-sweep",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-england-pakistan_7345911.jpg?20260909152156"
-    },
-    {
-      "source": "sky",
-      "title": "Hall signs new deal at Newcastle after Man Utd interest",
-      "link": "https://www.skysports.com/football/news/12040/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
-      "summary": "Lewis Hall&#160;has signed a new long-term contract at&#160;Newcastle United.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lewis-hall-newcastle_7347763.jpg?20260911095550"
-    },
-    {
-      "source": "sky",
-      "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
-      "link": "https://www.skysports.com/football/news/12040/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
-      "summary": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-merson-says-premier-league_7344828.jpg?20260908094410"
-    },
-    {
-      "source": "sky",
-      "title": "Rogers and Palmer helping each other thrive",
-      "link": "https://www.skysports.com/football/news/12040/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cole-palmer-morgan-rogers_7347410.jpg?20260910194039"
-    },
-    {
-      "source": "sky",
-      "title": "York Knights finish maiden season with thrashing of Bradford Bulls",
-      "link": "https://www.skysports.com/watch/video/13584179/york-knights-35-16-bradford-bulls-super-league-highlights",
-      "summary": "Highlights from the Super League clash between York Knights and Bradford Bulls.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rugby-league-york-nights_7347558.jpg?20260910233507"
-    },
-    {
-      "source": "sky",
-      "title": "Rybakina denies Gauff to set up blockbuster US Open final with Sabalenka",
-      "link": "https://www.skysports.com/tennis/news/12040/13584185/us-open-elena-rybakina-defeats-coco-gauff-to-silence-new-york-crowd-and-set-up-blockbuster-final-with-aryna-sabalenka",
-      "summary": "American hearts were broken as Elena Rybakina silenced Coco Gauff and the New York crowd to set up a blockbuster US Open final against Aryna Sabalenka, who defeated Jessica Pegula to move a win away from her third straight title at Flushing Meadows.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-aryna-sabalenka-elena-rybakina_7347590.jpg?20260911041207"
-    },
-    {
-      "source": "sky",
-      "title": "No wins and no goals - how concerned should Spurs be over PL start?",
-      "link": "https://www.skysports.com/football/news/12040/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
-      "summary": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-tottenham-hotspur_7346118.jpg?20260909141814"
-    },
-    {
-      "source": "sky",
-      "title": "Caballo De Mar faces Queenstown in Doncaster Cup",
-      "link": "https://www.skysports.com/racing/news/12040/13583527/today-on-sky-sports-racing-caballo-de-mar-faces-queenstown-in-doncaster-cup",
-      "summary": "Caballo De Mar locks horns with Queenstown in the Doncaster Cup - live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caballo-de-mar-racing_7345985.jpg?20260909120314"
-    },
-    {
-      "source": "sky",
-      "title": "Three things we learned from United's 4-0 win over Sabah | The Verdict",
-      "link": "https://www.skysports.com/watch/video/13584307/three-things-we-learnt-from-uniteds-4-0-over-sabah",
-      "summary": "Danyal Khan gives us his verdict on Manchester United's 4-0 victory over Sabah in the Champions League.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-united_7347802.jpg?20260911102218"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Zubimendi may push to leave Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Linn Grant holes out from bunker! | 'That's how you make a par!'",
-      "link": "https://www.skysports.com/watch/video/13584261/solheim-cup-thats-how-you-make-a-par-grant-holes-out-from-bunker",
-      "summary": "Linn Grant holed out for par from a greenside bunker to tie the hole at the Solheim Cup.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-e-a_7347732.jpg?20260911092708"
-    },
-    {
-      "source": "sky",
-      "title": "'A great sporting ticket' - US Open chief vows to keep day, night session format",
-      "link": "https://www.skysports.com/tennis/news/12040/13583815/us-open-chief-craig-tiley-tells-sky-sports-tennis-he-plans-on-keeping-day-and-night-format-at-flushing-meadows-in-2027",
-      "summary": "US Open chief Craig Tiley has told Sky Sports Tennis he plans on keeping two matches during the day and two at night at Flushing Meadows in 2027.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ben-shelton-tennis_7347486.jpg?20260910221628"
-    },
-    {
-      "source": "sky",
-      "title": "Euro latest: Kane scores as Bayern thrash Bodo",
-      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern_7347497.jpg?20260910222819"
-    },
-    {
-      "source": "sky",
-      "title": "Is US Open win a formality for Zverev or could home hope break long drought?",
-      "link": "https://www.skysports.com/tennis/news/12040/13583808/us-open-is-mens-singles-victory-a-formality-for-alexander-zverev-or-will-ben-shelton-frances-tiafoe-or-karen-khachanov-trouble-him",
-      "summary": "Ben Shelton and Frances Tiafoe will continue their &#8288;quest to become the first American men's Grand Slam champion &#8288;since Andy Roddick's 2003 triumph at Flushing Meadows as the US Open reaches its semi-final stage.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-karen-khachanov-alexander-zverev_7346679.jpg?20260910043100"
-    },
-    {
-      "source": "sky",
-      "title": "York Knights finish maiden Super League season with thrashing of Bradford",
-      "link": "https://www.skysports.com/rugby-league/york-vs-bradford/report/63342",
-      "summary": "York saw off bottom club Bradford 35-16 in their final match of the regular Super League campaign at the LNER Community Stadium, where Paul Vaughan slotted over a late drop goal on his farewell appearance before retirement.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jesse-dee-york-super-league_7347495.jpg?20260910222507"
-    },
-    {
-      "source": "sky",
-      "title": "Solheim Cup LIVE! Europe make it 2-2 after Hull, Woad thrashed",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13584196/solheim-cup-live-latest-scores-updates-highlights-from-day-one-as-team-europe-host-team-usa-at-bernardus-golf",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lottie-woad-charley-hull_7347832.jpg?20260911110403"
-    },
-    {
-      "source": "sky",
-      "title": "Live on Sky: West Ham vs Wrexham",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-wrexham/live/560581",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-west-ham-wrexham_7344374.jpg?20260907155031"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arteta-arsenal_7347769.jpg?20260911125801"
     }
   ]
 }
