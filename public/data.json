@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T14:47:30.698764+00:00",
+  "lastUpdated": "2026-09-11T18:06:08.729263+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
       "source": "guardian",
       "title": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
       "link": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
-      "summary": "Manager wants players to cope with things going wrongOther tactics include making dressing room even hotterMikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality.Arsenal’s flight to Italy for their Champions League opener against Napoli this week was de",
+      "summary": "Manager wants players to cope with things going wrongOther tactics include making dressing room even hotterMikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality.Arsenal’s flight to Italy on Tuesday for their Champions League opener against Napoli was d",
       "published": "2026-09-11T10:04:37+00:00",
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&quality=85&auto=format&fit=max&s=3f975d1380e44e54033e9e8c373de7ba"
     },
@@ -355,11 +355,75 @@
     },
     {
       "source": "sky",
-      "title": "Spanish GP: Ferrari, McLaren look to fight back against early Mercedes pace LIVE!",
+      "title": "Super League's Frantic Friday LIVE! Five games on Sky with League Leaders' Shield on line",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13582812/super-leagues-frantic-friday-live-updates-commentary-videos-scores-as-wigan-warriors-and-leeds-rhinos-go-for-league-leaders-shield",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7348219.jpg?20260911162014"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli sets pace as Lindblad suffers first F1 crash at challenging Madring",
+      "link": "https://www.skysports.com/f1/news/12040/13584259/spanish-gp-kimi-antonelli-edges-ferrari-in-madrid-practice-as-arvid-lindblad-suffers-first-f1-crash-at-challenging-madring-circuit",
+      "summary": "World championship leader Kimi Antonelli was fastest on Formula 1's first day of running at the Spanish Grand Prix's new Madrid circuit as the hugely challenging nature of the Madring was exhibited by a big crash for British rookie Arvid Lindblad.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lindblad-arvid-racing-bulls_7348234.png?20260911164154"
+    },
+    {
+      "source": "sky",
+      "title": "'A six-stop race!' - Russell reveals fears over tyre wear at new Madrid track",
+      "link": "https://www.skysports.com/f1/news/12040/13584262/spanish-gp-george-russell-reveals-fears-over-tyre-wear-at-new-madring-track-in-madrid-for-sundays-race",
+      "summary": "George Russell has revealed fears over tyre wear for Sunday's Spanish Grand Prix after the first day's running at the new Madring.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-george-russell_7348357.jpg?20260911184053"
+    },
+    {
+      "source": "sky",
+      "title": "Stokes back in top flight of County Championship as Durham secure promotion",
+      "link": "https://www.skysports.com/cricket/news/12040/13584501/county-championship-ben-stokes-back-in-top-flight-as-durham-promoted-after-victory-over-middlesex",
+      "summary": "Durham clinched promotion to Division One of the Rothesay County Championship with a 93-run victory over Middlesex at Chester-le-Street.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-brydon-carse-ben-stokes_7333468.jpg?20260828104314"
+    },
+    {
+      "source": "sky",
+      "title": "Kings of Manchester: Who will reign when United and City clash?",
+      "link": "https://www.skysports.com/football/news/12040/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
+      "summary": "Manchester City have been \"the Kings of Manchester\".",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-carrick-maresca-united_7348189.png?20260911155510"
+    },
+    {
+      "source": "sky",
+      "title": "Caballo De Mar bounces back to form in Doncaster Cup",
+      "link": "https://www.skysports.com/racing/news/12040/13584439/doncaster-cup-george-scotts-caballo-de-mar-bounces-back-to-form-in-town-moor-group-2",
+      "summary": "Caballo De Mar bounced back from disappointing efforts at Royal Ascot and York to win the Betfred Howards Wright Doncaster Cup.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-caballo-de-mar-racing_7348168.jpg?20260911153539"
+    },
+    {
+      "source": "sky",
+      "title": "Hollie Doyle blog: Backing Pierre Bonnard to bag 10th Leger for O'Brien",
+      "link": "https://www.skysports.com/racing/news/12040/13584477/hollie-doyle-blog-backing-pierre-bonnard-to-bag-10th-leger-for-aidan-obrien-at-doncaster",
+      "summary": "Sky Sports Racing ambassador Hollie Doyle marks your card for the 250th St Leger and a stellar undercard at Doncaster on Saturday - live on Sky Sports Racing &#8211; and has a look at Leopardstown.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "EFL latest: Antonio signs for Watford",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-michail-antonio-watford_7348182.jpg?20260911155001"
+    },
+    {
+      "source": "sky",
+      "title": "Spanish GP: Leclerc predicts 'exciting' Madrid qualifying",
       "link": "https://www.skysports.com/f1/live-blog/12040/13583697/f1-spanish-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-at-new-madring-circuit-in-madrid",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7347979.jpg?20260911130239"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charles-leclerc-ferrari_7348374.jpg?20260911190252"
     },
     {
       "source": "sky",
@@ -376,6 +440,14 @@
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dan-purdy-gretar-steinsson_7348084.jpg?20260911141532"
+    },
+    {
+      "source": "sky",
+      "title": "Late Ciganda magic keeps Europe locked with USA at Solheim Cup",
+      "link": "https://www.skysports.com/golf/news/12040/13584202/solheim-cup-2026-team-europe-and-team-usa-tied-4-4-after-tight-opening-day-and-carlota-cigandas-dramatic-finish",
+      "summary": "Carlota Ciganda delivered final-hole magic for Team Europe to leave them tied 4-4 with Team USA after a dramatic opening day at the Solheim Cup, where Charley Hull and Lottie Woad let a big lead slip as Team Europe&#8217;s star pair.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-carlota-ciganda-golf_7348352.jpg?20260911183818"
     },
     {
       "source": "sky",
@@ -403,115 +475,43 @@
     },
     {
       "source": "sky",
+      "title": "Lowry fires course record to lead Irish Open as McIlroy feels 'frustration'",
+      "link": "https://www.skysports.com/golf/news/12040/13584204/amgen-irish-open-shane-lowry-fires-course-record-to-top-leaderboard-as-rory-mcilroy-left-feeling-putting-frustration",
+      "summary": "Shane Lowry broke the course record and raced top of the leaderboard on home soil at the Amgen Irish Open, as Rory McIlroy was left feeling \"frustration\" in his putting.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-shane-lowry-golf_7348173.jpg?20260911154359"
+    },
+    {
+      "source": "sky",
+      "title": "Rangers vs Celtic: Talking points ahead of first Old Firm clash of season",
+      "link": "https://www.skysports.com/football/news/12040/13584331/rangers-vs-celtic-key-talking-points-ahead-of-first-old-firm-clash-of-season-with-league-cup-semi-final-spot-at-stake",
+      "summary": "It is the first Old Firm clash of the season and there is a League Cup semi-final place at stake.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-scottish-league-cup_7347851.jpg?20260911111718"
+    },
+    {
+      "source": "sky",
+      "title": "Several drivers FUME at Hamilton for getting in the way!",
+      "link": "https://www.skysports.com/watch/video/13584401/spanish-grand-prix-arvid-linblad-fumes-at-lewis-hamilton-and-kimi-antonelli-during-first-practice",
+      "summary": "Several drivers were left frustrated by Lewis Hamilton for getting in the way during first practice of the Spanish Grand Prix.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-formula-1-hamilton_7348051.jpg?20260911135201"
+    },
+    {
+      "source": "sky",
+      "title": "‘A complete performance’ | Lowry storms into Irish Open lead with round of 62",
+      "link": "https://www.skysports.com/watch/video/13584468/shane-lowry-storms-into-irish-open-lead-with-round-of-62",
+      "summary": "Shane Lowry hit a round of eight under par to storm into the lead at the Irish Open.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-shane-lowry_7348178.jpg?20260911154815"
+    },
+    {
+      "source": "sky",
       "title": "Everton latest: Grealish ready to start at Spurs, says Moyes",
       "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-    },
-    {
-      "source": "sky",
-      "title": "Sky Sports agrees three-year US Open extension",
-      "link": "https://www.skysports.com/tennis/news/12040/13584343/us-open-sky-sports-agrees-three-year-extension-to-show-the-us-open-until-end-of-2030",
-      "summary": "Sky has agreed a three-year extension to its US Open deal, ensuring Sky Sports and NOW remains the exclusive home of the tournament in the UK and Ireland until the end of 2030.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-us-open-sky-extension_7348003.jpg?20260911132341"
-    },
-    {
-      "source": "sky",
-      "title": "Russell tops first practice in Madrid as Hamilton frustrates other drivers",
-      "link": "https://www.skysports.com/f1/news/12040/13584257/spanish-gp-george-russell-tops-first-practice-at-new-madring-as-lewis-hamilton-frustrates-other-drivers",
-      "summary": "George Russell was fastest from Mercedes team-mate Kimi Antonelli in the first practice session at the new Madring circuit in Madrid.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-george-russell_7348006.jpg?20260911132632"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd's £1bn rebuild faces toughest test",
-      "link": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
-      "summary": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-michale-michael-carrick_7345147.jpg?20260908145237"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd latest: 685 season-ticket holders banned after touting investigation",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-    },
-    {
-      "source": "sky",
-      "title": "Amelia Earhart fancied for St Leger upset",
-      "link": "https://www.skysports.com/racing/news/12040/13584254/doncaster-tips-amelia-earhart-fancied-for-st-leger-upset-at-doncaster",
-      "summary": "The Weekend Winners team return to discuss their top tips for Saturday at the St Leger Festival.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
-    },
-    {
-      "source": "sky",
-      "title": "‘No energy, no more!’ - Benn hushes Garcia during heated face-off!",
-      "link": "https://www.skysports.com/watch/video/13584239/conor-benn-hushes-ryan-garcia-during-heated-face-off",
-      "summary": "Ryan Garcia and Conor Benn shared a heated face-off ahead of their blockbuster showdown in Las Vegas.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-benn-garcia_7347683.jpg?20260911080323"
-    },
-    {
-      "source": "sky",
-      "title": "'Fight 100 per cent on!' - Cardiff emerges as potential venue for Fury vs AJ",
-      "link": "https://www.skysports.com/boxing/news/12040/13584352/tyson-fury-vs-anthony-joshua-fight-is-100-per-cent-happening-says-furys-manager-as-cardiff-emerges-as-potential-venue",
-      "summary": "Tyson Fury&#8217;s manager has confirmed that the Anthony Joshua fight is \"100 per cent happening\" as Cardiff emerges as a potential venue.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-boxing-tyson-fury_7329017.jpg?20260823125152"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Barcola should be available for Fulham, says Iraola",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "source": "sky",
-      "title": "Europe share spoils with Team USA in tight foursomes session",
-      "link": "https://www.skysports.com/watch/video/13584421/solheim-cup-8211-friday-foursomes-highlights",
-      "summary": "Highlights of the Friday foursomes from the Solheim Cup at Bernardus Golf, in the Netherlands.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-solheim-hul_7347993.jpg?20260911131315"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea latest: Caicedo out of Hull game as Neto signs new contract",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
-    },
-    {
-      "source": "sky",
-      "title": "Korda, Corpuz thrash Hull, Woad to make history in tied foursomes session",
-      "link": "https://www.skysports.com/golf/news/12040/13584200/solheim-cup-2026-nelly-korda-allisen-corpuz-thrash-charley-hull-lottie-woad-to-make-history-for-team-usa-in-friday-foursomes",
-      "summary": "Nelly Korda and Allisen Corpuz created Solheim Cup history with their statement victory over Charley Hull and Lottie Woad in the Friday foursomes, as Team Europe and Team USA shared the spoils in the opening session.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-nelly-korda-golf_7347822.jpg?20260911104538"
-    },
-    {
-      "source": "sky",
-      "title": "Fulham latest: Arbeloa responds to squad unrest reports",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
-    },
-    {
-      "source": "sky",
-      "title": "Arteta: I sabotage our travel plans so players get used to problems",
-      "link": "https://www.skysports.com/football/news/12040/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
-      "summary": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arteta-arsenal_7347769.jpg?20260911125801"
     }
   ]
 }
