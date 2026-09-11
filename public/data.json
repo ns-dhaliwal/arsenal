@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T22:11:42.655217+00:00",
+  "lastUpdated": "2026-09-11T00:46:34.723483+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "link": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
+      "summary": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old TraffordPremier League top scorers 2026-27: who is leading race for the golden boot?With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most",
+      "published": "2026-09-10T23:01:48+00:00",
+      "image": "https://i.guim.co.uk/img/media/75098c550d1b5197b781d02cb9523c0c7e59d891/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bb20dccb2697fc71adad8bd70770ddc4"
+    },
     {
       "source": "bbc",
       "title": "Arsenal close to finalising new contract for Arteta",
@@ -226,14 +234,6 @@
       "image": "https://i.guim.co.uk/img/media/f07ed745601dddcee2e7150b33e2b0f95d70996e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a036a74a916e6e909ddc33068f76e76a"
     },
     {
-      "source": "guardian",
-      "title": "‘Reverse bucket list’: Arteta channels Wenger in defence of Arsenal window",
-      "link": "https://www.theguardian.com/football/2026/sep/05/premier-league-arsenal-transfers-reverse-bucket-list-mikel-arteta-channels-arsene-wenger-defence-window",
-      "summary": "The champions’ manager echoed his illustrious predecessor and urged fans unhappy at the lack of a deadline-day arrival to see the bigger pictureFor many people connected to Arsenal, it has been a time to remember the old line from Arsène Wenger. “We live in a society of ‘news’,” the club’s former manager once said, and by that he meant new things – the shinier the better.Nowhere is the obsession m",
-      "published": "2026-09-05T07:00:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/57732db1c955c3faee5078a80a5b1b8ee23cb808/0_113_2058_1645/master/2058.jpg?width=140&quality=85&auto=format&fit=max&s=dc6b4fbd94c6ff94b60db46ff91c88bd"
-    },
-    {
       "source": "bbc",
       "title": "Arteta laughs at nickname for Arsenal's front three",
       "link": "https://www.bbc.co.uk/sport/football/videos/cy7z0zde4pro?at_medium=RSS&at_campaign=rss",
@@ -352,6 +352,14 @@
       "summary": "Cardiff City teenager Axel Donczew has joined Arsenal as part of the Premier League champions' first-year scholarship intake.",
       "published": "2026-08-30T09:21:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d765/live/ffa7bda0-a453-11f1-94c9-7de5456f4d18.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Zubimendi may push to leave Arsenal",
+      "link": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "sky",
@@ -504,14 +512,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-    },
-    {
-      "source": "sky",
-      "title": "Musical Times 6/1 for 1000 Guineas after May Hill romp at Doncaster",
-      "link": "https://www.skysports.com/racing/news/12040/13584038/leger-festival-musical-times-6-1-for-1000-guineas-after-may-hill-stakes-romp-at-doncaster",
-      "summary": "Musical Times burst into the next year's Classic picture with a wide-margin victory in the Betfred May Hill Stakes at Doncaster.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-musical-times-may-hill_7347243.jpg?20260910163217"
     }
   ]
 }
