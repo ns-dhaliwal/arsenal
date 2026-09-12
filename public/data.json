@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-12T14:50:44.109745+00:00",
+  "lastUpdated": "2026-09-12T17:38:04.259721+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Sunderland v Arsenal: Premier League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
+      "summary": "⚽️ Premier League updates from the 8pm BST kick-off⚽️ Live scores | Tables | Top scorers | And email BillyToday’s Premier League scores and reportsChelsea 2-2 Hull Continue reading...",
+      "published": "2026-09-12T17:35:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/4eb5169d0b9c10e666cb34b9ed7242a6120ae003/271_0_3807_3046/master/3807.jpg?width=140&quality=85&auto=format&fit=max&s=bfef0299e95ffafe37733b1c5f599448"
+    },
     {
       "source": "guardian",
       "title": "Premier League today: how to watch Sunderland v Arsenal, TV channels & live stream",
@@ -226,14 +234,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14df/live/e7188d10-aa1f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Arsenal 2-1 Chelsea: Premier League – as it happened",
-      "link": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "summary": "Kai Havertz scored and made the winner for Martin Odegaard as Arsenal asserted their supremacyAnd now a third goal…There’s been a second goal at Hill Dickinson Stadium. Clickity click click click! Continue reading...",
-      "published": "2026-09-06T17:55:11+00:00",
-      "image": "https://i.guim.co.uk/img/media/68c1c975959b6c727d6f9b617a1f0dc2ae49c68a/300_79_2776_2221/master/2776.jpg?width=140&quality=85&auto=format&fit=max&s=21759e24806574bade069b2417e96a57"
-    },
-    {
       "source": "bbc",
       "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
@@ -355,6 +355,134 @@
     },
     {
       "source": "sky",
+      "title": "Hollie Doyle blog: Big fan of Forty Years On in Sceptre Stakes",
+      "link": "https://www.skysports.com/racing/news/12040/13584748/hollie-doyle-blog-big-fan-of-forty-years-on-in-sceptre-stakes-on-final-day-of-doncasters-leger-festival",
+      "summary": "Sky Sports Racing ambassador Hollie Doyle previews the final day of the St Leger Festival at Doncaster - live on Sky Sports Racing &#8211; alongside top-quality action on Champions&#8217; Weekend at The Curragh.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
+    },
+    {
+      "source": "sky",
+      "title": "Norris beats Antonelli with 'masterpiece' to take Spanish GP pole",
+      "link": "https://www.skysports.com/f1/news/12040/13584719/spanish-gp-lando-norris-beats-kimi-antonelli-to-first-pole-position-at-madring-after-thrilling-qualifying-finale",
+      "summary": "Lando Norris produced a stunning lap to beat Kimi Antonelli to the first pole position at Formula 1's all-new Madring circuit in a thrilling Spanish Grand Prix Qualifying.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7349305.jpg?20260912162204"
+    },
+    {
+      "source": "sky",
+      "title": "Spanish GP: Antonelli warned for 'driving unnecessarily slowly'",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7349217.jpg?20260912154013"
+    },
+    {
+      "source": "sky",
+      "title": "Boro strike late to beat Norwich in epic encounter",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-norwich-city/report/560574",
+      "summary": "Ashley Phillips was the unlikely late match-winner as Middlesbrough edged a seven-goal thriller, beating Norwich 4-3 at Riverside Stadium.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-middlesbrough-fc_7349261.jpg?20260912160025"
+    },
+    {
+      "source": "sky",
+      "title": "Swansea see off struggling Burnley",
+      "link": "https://www.skysports.com/football/swansea-city-vs-burnley/report/560578",
+      "summary": "Swansea moved back into the automatic promotion places as they piled more misery on new Burnley boss Nicky Hayen, whose side slumped to the bottom of the Championship with a 3-1 defeat.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-swansea-city_7349259.jpg?20260912155928"
+    },
+    {
+      "source": "sky",
+      "title": "Glasner haunts Emery again as Forest win at Aston Villa",
+      "link": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/559474",
+      "summary": "Nottingham Forest beat Aston Villa 2-1 at Villa Park to leave Unai Emery's side still searching for their first Premier League victory of the season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-igor-jesus-nottingham-forest_7349383.jpg?20260912165738"
+    },
+    {
+      "source": "sky",
+      "title": "Blackburn see off Millwall",
+      "link": "https://www.skysports.com/football/blackburn-rovers-vs-millwall/report/560570",
+      "summary": "Dapo Afolayan's brace helped Blackburn secure a much-needed 3-1 win over Millwall at a discontented Ewood Park.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-blackburn-rovers_7349276.jpg?20260912160701"
+    },
+    {
+      "source": "sky",
+      "title": "Charlton & Portsmouth battle to draw",
+      "link": "https://www.skysports.com/football/charlton-athletic-vs-portsmouth/report/560572",
+      "summary": "Charlton maintained their unbeaten home record this season with a 0-0 draw against Portsmouth.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charlton-portsmouth_7349275.jpg?20260912160642"
+    },
+    {
+      "source": "sky",
+      "title": "Resurgent Stoke win at Watford",
+      "link": "https://www.skysports.com/football/watford-vs-stoke-city/report/560579",
+      "summary": "Jack McGlynn orchestrated Stoke's first away win since January with a deserved 2-1 success at Watford.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-eric-bocat-stoke_7349356.jpg?20260912164652"
+    },
+    {
+      "source": "sky",
+      "title": "Lincoln earn late win at Preston",
+      "link": "https://www.skysports.com/football/preston-north-end-vs-lincoln-city/report/560575",
+      "summary": "Freddie Draper came off the bench to net a late winner in a 1-0 win for Lincoln away at Preston.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-freddie-draper-lincoln-city_7349427.jpg?20260912171047"
+    },
+    {
+      "source": "sky",
+      "title": "Larin nets twice as Saints ease past Bristol City",
+      "link": "https://www.skysports.com/football/southampton-vs-bristol-city/report/560577",
+      "summary": "Cyle Larin scored twice as Southampton hammered Bristol City 4-1 in the Championship at St Mary's.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cyle-larin-southampton_7349432.jpg?20260912171152"
+    },
+    {
+      "source": "sky",
+      "title": "Sunderland vs Arsenal team news LIVE!",
+      "link": "https://www.skysports.com/football/sunderland-vs-arsenal/live/559482",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-saka-bukayo-arsenal_7336977.jpg?20260831222227"
+    },
+    {
+      "source": "sky",
+      "title": "Huddersfield thrash Castleford in Accu Stadium swansong",
+      "link": "https://www.skysports.com/rugby-league/huddersfield-vs-castleford/report/63338",
+      "summary": "Huddersfield signed off from the Accu Stadium with a morale-boosting 48-16 win over Castleford in the final game of the regular Betfred Super League season.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-taane-milne-huddersfield-giants_7349470.jpg?20260912172241"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool held at Anfield as Fulham pick up first point",
+      "link": "https://www.skysports.com/football/liverpool-vs-fulham/report/559480",
+      "summary": "Liverpool were held to a frustrating goalless draw as Fulham picked up their first point of the Premier League season at Anfield.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-oscar-bobb-milos-kerkez_7349317.jpg?20260912162621"
+    },
+    {
+      "source": "sky",
+      "title": "Kupcho sinks TWO huge putts to steal the match for Team USA",
+      "link": "https://www.skysports.com/watch/video/13585085/solheim-cup-jennifer-kupcho-sinks-monster-putt-to-tie-match-on-the-17th",
+      "summary": "Jennifer Kupcho nailed two incredible putts on the 17th and 18th hole to steal the win and spark wild celebrations from Team USA.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kuptcho-solheim_7349600.jpg?20260912182653"
+    },
+    {
+      "source": "sky",
+      "title": "History! Osborne first woman to win British Classic as Highwayman lands Leger",
+      "link": "https://www.skysports.com/racing/news/12040/13584907/betfred-st-leger-saffie-osborne-becomes-first-female-to-win-a-british-classic-as-highwayman-lands-doncaster-feature",
+      "summary": "Saffie Osborne made history at Doncaster as she became the first female jockey to win a British Classic, steering Highwayman to victory in the 250th Betfred St Leger.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-leger-saffie-osborne_7349244.jpg?20260912154944"
+    },
+    {
+      "source": "sky",
       "title": "Wolff fumes at 'couch warriors' questioning Mercedes' treatment of Russell",
       "link": "https://www.skysports.com/f1/news/12040/13584723/mercedes-chief-toto-wolff-fumes-at-couch-warriors-questioning-teams-treatment-of-george-russell-in-title-battle-with-kimi-antonelli",
       "summary": "Mercedes chief Toto Wolff has dismissed suggestions from \"couch warriors\" that the Silver Arrows failed to treat George Russell fairly during the Italian Grand Prix.",
@@ -363,153 +491,25 @@
     },
     {
       "source": "sky",
-      "title": "'158mph?! That's not right!' - Either way, Shelton's serve is UNMATCHED!",
-      "link": "https://www.skysports.com/watch/video/13584721/us-open-speed-gun-clocks-ben-sheltons-serve-at-158mph",
-      "summary": "Ben Shelton thought he hit a 158mph serve at the US Open semi-finals, but in fact it was an impressive 144mph according to Hawk-Eye.",
+      "title": "Late Ipswich winner sinks 10-man Palace",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-ipswich-town/report/559478",
+      "summary": "Ipswich came from behind to secure their first Premier League away win since April 2025 after beating 10-man Crystal Palace 3-2.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-tennis-shelton_7348809.jpg?20260912094036"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-zian-flemming-ipswich_7349417.jpg?20260912170637"
     },
     {
       "source": "sky",
-      "title": "Shelton and Tiafoe produce INCREDIBLE rally at US Open!",
-      "link": "https://www.skysports.com/watch/video/13584712/ben-shelton-and-francis-tiafoe-produce-incredible-rally-at-us-open",
-      "summary": "Ben Shelton and Frances Tiafoe produce an incredible rally in their US Open semi-final.",
+      "title": "Schade double earns Brentford point as Bournemouth await first PL win",
+      "link": "https://www.skysports.com/football/bournemouth-vs-brentford/report/559475",
+      "summary": "Kevin Schade netted a double as Brentford twice came from behind to earn a 2-2 draw at Bournemouth, leaving Marco Rose still waiting for his first Premier League win as head coach.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-tennis-shelton-tiafoe_7348781.jpg?20260912090552"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kevin-schade-brentford_7349218.jpg?20260912154118"
     },
     {
       "source": "sky",
-      "title": "'How did I look?' - Benn and Garcia weigh in ahead of welterweight title clash",
-      "link": "https://www.skysports.com/watch/video/13584707/conor-benn-and-ryan-garcia-weigh-in-ahead-of-welterweight-title-clash",
-      "summary": "Conor Benn and Ryan Garcia weigh in ahead of the welterweight fight in Las Vegas.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-benn-garcia-boxing_7348761.jpg?20260912080759"
-    },
-    {
-      "source": "sky",
-      "title": "England seal Pakistan series clean sweep with third Test victory",
-      "link": "https://www.skysports.com/watch/video/13584799/england-vs-pakistan-third-test-day-four-highlights",
-      "summary": "Highlights from day four of the third Test between England and Pakistan at Edgbaston.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-pakistan_7349012.jpg?20260912132418"
-    },
-    {
-      "source": "sky",
-      "title": "Australia lead Red Roses in WXV Global Series opener LIVE!",
-      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13584758/england-vs-australia-live-score-updates-analysis-from-wxv-opener-in-salford",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rugby-union-red-roses_7349209.jpg?20260912153421"
-    },
-    {
-      "source": "sky",
-      "title": "Spanish GP: Verstappen battling Antonelli for pole LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13584285/f1-spanish-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-madring",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-max-verstappen-red-bull_7349210.jpg?20260912153502"
-    },
-    {
-      "source": "sky",
-      "title": "West Brom hit back to hold QPR",
-      "link": "https://www.skysports.com/football/west-bromwich-albion-vs-queens-park-rangers/report/560580",
-      "summary": "Callum Styles earned West Brom a point as they came from behind to draw 1-1 against QPR in the Sky Bet Championship at The Hawthorns.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-callum-styles-west-brom_7349042.jpg?20260912134607"
-    },
-    {
-      "source": "sky",
-      "title": "'Stop the car!' - Hamilton crashes and then ignores team orders!",
-      "link": "https://www.skysports.com/watch/video/13584760/spanish-grand-prix-lewis-hamilton-crashes-and-then-ignores-team-orders",
-      "summary": "Lewis Hamilton found the barrier during third practice and then ignored team orders to stop as he tried to make his way back to the pits.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-f1_7348897.jpg?20260912120744"
-    },
-    {
-      "source": "sky",
-      "title": "Tottenham vs Everton team news LIVE!",
-      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/live/559483",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-spurs-everton_7344372.jpg?20260907154941"
-    },
-    {
-      "source": "sky",
-      "title": "No, really... Is this actually the worst miss ever?",
-      "link": "https://www.skysports.com/watch/video/13584832/derby-v-birmingham-that-is-an-extraordinary-miss-vazquez-skies-golden-opportunity",
-      "summary": "Luis Vasquez was gifted with an easy chance to make it three for Birmingham vs Derby but somehow skied it.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-birmingham_7349119.jpg?20260912144442"
-    },
-    {
-      "source": "sky",
-      "title": "'Glad he's OK!' - F1 pundits shocked by huge Bearman crash!",
-      "link": "https://www.skysports.com/watch/video/13584786/spanish-grand-prix-ollie-bearman-takes-big-hit-at-the-end-of-third-practice",
-      "summary": "Ollie Bearman took a huge hit right at the end of P3 at the Spanish Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-haas_7348975.jpg?20260912125658"
-    },
-    {
-      "source": "sky",
-      "title": "Shelton sets up US Open final with Zverev after beating Tiafoe",
-      "link": "https://www.skysports.com/watch/video/13584699/frances-tiafoe-vs-ben-shelton-us-open-highlights",
-      "summary": "Highlights of the US Open semi-final match between Frances Tiafoe and Ben Shelton.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-tennis-ben-shelton_7348741.jpg?20260912072329"
-    },
-    {
-      "source": "sky",
-      "title": "Bolton edge late win against Cardiff",
-      "link": "https://www.skysports.com/football/bolton-wanderers-vs-cardiff-city/report/560571",
-      "summary": "Substitute Thierry Gale headed a 90th-minute winner as Bolton ended a run of four successive Championship defeats with a 1-0 victory over last season's League One rivals Cardiff.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-thierry-gale-bolton-wanderers_7349202.jpg?20260912152817"
-    },
-    {
-      "source": "sky",
-      "title": "Birmingham hit back to win at Derby",
-      "link": "https://www.skysports.com/football/derby-county-vs-birmingham-city/report/560573",
-      "summary": "Paik Seung-Ho scored his first goal since December to give Birmingham a 2-1 victory over Derby at Pride Park.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-birmingham-city_7349062.jpg?20260912140033"
-    },
-    {
-      "source": "sky",
-      "title": "Root steers England to series sweep of Pakistan after early scare",
-      "link": "https://www.skysports.com/cricket/news/12040/13584761/england-clinch-test-series-sweep-of-pakistan-joe-root-and-jordan-cox-steer-hosts-to-eight-wicket-win-at-edgbaston",
-      "summary": "England clinched a first home series whitewash of Pakistan despite an early scare by chasing down 130 on day four of the third Test at Edgbaston.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-joe-root-england_7348978.jpg?20260912125913"
-    },
-    {
-      "source": "sky",
-      "title": "Kluivert hits back for Bournemouth minutes after Brentford opener LIVE!",
-      "link": "https://www.skysports.com/football/bournemouth-vs-brentford/live/559475",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-justin-kluivert-bournemouth_7349226.jpg?20260912154317"
-    },
-    {
-      "source": "sky",
-      "title": "'It's always going to be balanced' | Wolff reveals Mercedes team orders strategy",
-      "link": "https://www.skysports.com/watch/video/13584826/spanish-gp-toto-wolff-reveals-mercedes-team-orders-strategy",
-      "summary": "Toto Wolff reveals Mercedes' team orders strategy.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-toto-wolff-f1_7349091.jpg?20260912143120"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton crashes as Antonelli tops final practice in Madrid",
-      "link": "https://www.skysports.com/f1/news/12040/13584715/spanish-gp-lewis-hamilton-crashes-at-kimi-antonelli-tops-final-practice-from-charles-leclerc-in-madrid",
-      "summary": "Championship leader Kimi Antonelli was fastest in final practice at the Spanish Grand Prix as Lewis Hamilton crashed and lost valuable track time ahead of qualifying in Madrid.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-lewis-hamilton_7348941.jpg?20260912122442"
-    },
-    {
-      "source": "sky",
-      "title": "Unbelievable turnaround! Hull lead Chelsea and currently top of Premier League LIVE!",
-      "link": "https://www.skysports.com/football/chelsea-vs-hull-city/live/559476",
-      "summary": "",
+      "title": "Poor Chelsea defending sees Hull extend unbeaten run",
+      "link": "https://www.skysports.com/football/chelsea-vs-hull-city/report/559476",
+      "summary": "Hull continued their unbeaten start in the Premier League as they capitalised on some poor Chelsea defending to draw 2-2 at Stamford Bridge.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-mohamed-belloumi_7349211.jpg?20260912153510"
     }
