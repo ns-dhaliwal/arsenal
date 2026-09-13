@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T14:47:53.188844+00:00",
+  "lastUpdated": "2026-09-13T17:51:14.000067+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,11 +355,147 @@
     },
     {
       "source": "sky",
+      "title": "US Open LIVE! Zverev faces home-favourite Shelton in men's final",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7349711.jpg?20260912200314"
+    },
+    {
+      "source": "sky",
+      "title": "Montgomery bundles over for Texans' first TD of season",
+      "link": "https://www.skysports.com/watch/video/13585535/nfl-david-montgomery-bundles-over-for-houston-texans-first-touchdown-of-season",
+      "summary": "David Montgomery powered over as the Houston Texans went ahead against the Buffalo Bills in the first quarter.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350705.jpg?20260913184428"
+    },
+    {
+      "source": "sky",
+      "title": "Haaland scores controversial derby winner for Man City after Foden red",
+      "link": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481",
+      "summary": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-erling-haaland-man-city_7350636.jpg?20260913175744"
+    },
+    {
+      "source": "sky",
+      "title": "Europe's big names shine in Solheim Cup victory over USA",
+      "link": "https://www.skysports.com/watch/video/13585500/solheim-cup-sunday-singles-highlights",
+      "summary": "Highlights of the Sunday Singles from the Solheim Cup at Bernardus Golf, in the Netherlands.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-solheim-cup_7350606.jpg?20260913173004"
+    },
+    {
+      "source": "sky",
+      "title": "‘Bruno’s the violent one!’ - Keane and Micah DEBATE Foden red",
+      "link": "https://www.skysports.com/watch/video/13585506/man-utd-vs-man-city-roy-keane-and-micah-richards-debate-phil-foden-red-bruno-fernandes-is-the-violent-one",
+      "summary": "Roy Keane and Micah Richards debate the Phil Foden red card.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-keane-foden-red_7350617.jpg?20260913173800"
+    },
+    {
+      "source": "sky",
+      "title": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
+      "link": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
+      "summary": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-phil-foden-man-city_7350587.jpg?20260913171734"
+    },
+    {
+      "source": "sky",
+      "title": "Dominant Lowry storms to record 11-stroke triumph at Irish Open",
+      "link": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
+      "summary": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-shane-lowry-golf_7350634.jpg?20260913175447"
+    },
+    {
+      "source": "sky",
+      "title": "NFL scores: Burrow's Bengals and Lamar's Ravens in action",
+      "link": "https://www.nbcsports.com/nfl/scores",
+      "summary": "Follow the latest scores from around the NFL in Week One of the 2026 season.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-lamar-jackson-baltimore-ravens_7124383.jpg?20260102115151"
+    },
+    {
+      "source": "sky",
+      "title": "What we learned from first Old Firm clash of season",
+      "link": "https://www.skysports.com/football/news/12040/13585456/rangers-3-0-celtic-what-we-learned-from-old-firm-league-cup-clash-ahead-of-first-premiership-meeting-of-season",
+      "summary": "Rangers dominated Celtic in the first Old Firm clash of the season - of that there is no doubt.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kevin-kelsy-rangers_7350527.jpg?20260913163740"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli wins Spanish GP after luckless Norris loses out",
+      "link": "https://www.skysports.com/f1/news/12040/13585287/spanish-gp-kimi-antonelli-wins-first-f1-race-at-madring-to-increase-title-lead-after-lando-norris-misfortune",
+      "summary": "Kimi Antonelli took another step in his quest towards winning the 2026 world championship by benefitting from pit-stop misfortune for Lando Norris to win the first Spanish Grand Prix at the Madring.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7350455.jpg?20260913161025"
+    },
+    {
+      "source": "sky",
+      "title": "Rams star Garrett to undergo surgery and miss at least four weeks",
+      "link": "https://www.skysports.com/nfl/news/12040/13585490/myles-garrett-los-angeles-ram-pass-rusher-to-undergo-surgery-and-miss-at-least-four-weeks-after-being-placed-on-injured-reserve",
+      "summary": "Los Angeles Rams star Myles Garrett will be sidelined for at least the next four weeks after being placed on injured reserve with a knee injury that requires surgery.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-myles-garrett-los-angeles-rams_7344114.jpg?20260911130414"
+    },
+    {
+      "source": "sky",
+      "title": "Foden SENT OFF after clash with Bruno Fernandes!",
+      "link": "https://www.skysports.com/watch/video/13585486/off-p-foden-23-man-utd-0-0-man-city",
+      "summary": "Phil Foden SENT OFF after clash with Bruno Fernandes!",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-red-foden_7350569.jpg?20260913170723"
+    },
+    {
+      "source": "sky",
+      "title": "Spanish Grand Prix | Race highlights",
+      "link": "https://www.skysports.com/watch/video/13585469/spanish-grand-prix-race-highlights",
+      "summary": "Highlights from the 2026 Spanish Grand Prix.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-spain-f1_7350509.jpg?20260913162817"
+    },
+    {
+      "source": "sky",
+      "title": "'I need the offside law explaining to me!' - VAR drama as Haaland fires Man City ahead!",
+      "link": "https://www.skysports.com/watch/video/13585518/goal-e-haaland-60-man-utd-0-1-man-city",
+      "summary": "VAR drama as Erling Haaland fires Man City ahead!",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-var-goal_7350648.jpg?20260913180200"
+    },
+    {
+      "source": "sky",
+      "title": "Brighton hit FIVE to leave Coventry without point or goal",
+      "link": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477",
+      "summary": "Coventry remain pointless on their Premier League return as they were dismantled 5-0 by brilliant Brighton at the CBS Arena.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lewis-dunk-brighton_7350423.jpg?20260913155656"
+    },
+    {
+      "source": "sky",
       "title": "Jimenez hits 90th-minute winner for Wolves at Sheff Utd",
       "link": "https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/report/560576",
       "summary": "Raul Jimenez came off the bench to score a 90th-minute winner and earn Wolves a 1-0 win over Sheffield United.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-raul-jimenez-wolves_7350209.jpg?20260913135952"
+    },
+    {
+      "source": "sky",
+      "title": "Woad claims vital Solheim Cup point for Europe to spark victory celebrations!",
+      "link": "https://www.skysports.com/watch/video/13585434/solheim-cup-lottie-woad-claims-vital-point-for-europe-to-spark-victory-celebrations",
+      "summary": "Lottie Woad moved Team Europe on the brink of Solheim Cup glory with an impressive victory over Auston Kim, sparking wild celebrations on the 17th green.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-woad-lottie_7350436.jpg?20260913160222"
+    },
+    {
+      "source": "sky",
+      "title": "Spaniards collide! Sainz handed five-second penalty for Alonso crash",
+      "link": "https://www.skysports.com/watch/video/13585393/spanish-grand-prix-carlos-sainz-handed-five-second-penalty-for-fernando-alonso-crash",
+      "summary": "Carlos Sainz was given a five-second time penalty for causing a collision with Fernando Alonso.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-sainz_7350303.jpg?20260913145200"
     },
     {
       "source": "sky",
@@ -371,147 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Hamilton forced to retire after brake issue in Madrid",
-      "link": "https://www.skysports.com/watch/video/13585379/spanish-grand-prix-lewis-hamilton-forced-to-retire-after-break-issue-in-madrid",
-      "summary": "Lewis Hamilton was forced to retire early at the Spanish Grand Prix.",
+      "title": "'Have some class!' - Korda hits back at fan in Solheim Cup crowd",
+      "link": "https://www.skysports.com/watch/video/13585424/solheim-cup-nelly-korda-hits-back-at-fan-in-bernardus-crowd",
+      "summary": "Team USA's Nelly Korda appeared to tell a fan to 'have some class' after playing a shot on the sixteenth hole at Bernadus Golf in the Netherlands.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-f1_7350256.jpg?20260913142906"
-    },
-    {
-      "source": "sky",
-      "title": "'What the **** are you on about?!' - Max FUMES at Lewis after being forced off track",
-      "link": "https://www.skysports.com/watch/video/13585373/spanish-gp-max-verstappen-fumes-at-lewis-hamilton-after-being-forced-off-track",
-      "summary": "Max Verstappen FUMES at Lewis Hamilton after being forced off track",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-max-lewis_7350258.jpg?20260913143014"
-    },
-    {
-      "source": "sky",
-      "title": "'A new Solheim Cup star!' | Nadaud's crucial point for Europe sparks wild celebrations!",
-      "link": "https://www.skysports.com/watch/video/13585404/solheim-cup-nastasia-nadaud-crucial-point-for-europe-sparks-wild-celebrations",
-      "summary": "French rookie Nastasia Nadaud claims a vital point for Europe as she defeats Andrea Lee 3&2.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-solheim-nadaud_7350317.jpg?20260913150031"
-    },
-    {
-      "source": "sky",
-      "title": "Spanish GP: Antonelli takes first win at Madring after Norris misfortune LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13585122/f1-spanish-gp-live-race-updates-results-stream-highlights-from-14th-round-of-2026-formula-1-season-at-madring",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7350366.jpg?20260913152636"
-    },
-    {
-      "source": "sky",
-      "title": "Hull wins first full point | 'Now one point's on the board, the rest can follow!'",
-      "link": "https://www.skysports.com/watch/video/13585350/solheim-cup-charley-hull-wins-her-first-full-point",
-      "summary": "Charley Hull beat Megan Khang 3&2 during the singles session at the Solheim Cup.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-a-d_7350188.jpg?20260913134627"
-    },
-    {
-      "source": "sky",
-      "title": "Madrid madness! Antonelli goes wide TWICE on opening lap",
-      "link": "https://www.skysports.com/watch/video/13585365/spanish-grand-prix-madrid-madness-kimi-antonelli-goes-wide-twice-on-opening-lap",
-      "summary": "Kimi Antonelli found himself going wide twice on the opening lap of the Spanish Grand Prix.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-madrid-f1_7350222.jpg?20260913140845"
-    },
-    {
-      "source": "sky",
-      "title": "WSL: Chelsea thrash Man Utd as Olid's tough start continues",
-      "link": "https://www.skysports.com/football/news/12040/13584291/womens-super-league-round-up-chelsea-thrash-man-utd-to-leave-eva-olid-still-looking-for-first-win",
-      "summary": "Sky Sports' round-up of Sunday's action across the Women's Super League as Chelsea recorded their first win of the season after thrashing Man Utd 5-0 at the Leigh Sports Village.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-lauren-james-chelsea_7350164.jpg?20260913133234"
-    },
-    {
-      "source": "sky",
-      "title": "WSL: Liverpool and Arsenal level, with Blues and Everton ahead LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-women-vs-crystal-palace-women/live/575763",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-chloe-kelly-shannon-o-brien_7350390.jpg?20260913153548"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers thump Celtic to reach League Cup semi-finals",
-      "link": "https://www.skysports.com/football/rangers-vs-celtic/report/577540",
-      "summary": "Derek McInnes won his first Old Firm game as Rangers manager with an utterly dominant 3-0 victory over rivals Celtic to advance to the last four of the Scottish League Cup.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-daniel-neil-rangers_7350118.jpg?20260913125625"
-    },
-    {
-      "source": "sky",
-      "title": "Leeds Rhinos make up majority of 2026 Super League Dream Team",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13585131/2026-super-league-dream-team-leeds-rhinos-lead-with-six-inclusions-with-wigan-wakefield-warrington-leigh-toulouse-represented",
-      "summary": "The Super League Dream Team for 2026 has been revealed, with six Leeds Rhinos players included.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-super-league-dream-team_7350100.jpg?20260913123927"
-    },
-    {
-      "source": "sky",
-      "title": "Touleen faces Forty Years On at Doncaster",
-      "link": "https://www.skysports.com/racing/news/12040/13584516/today-on-sky-sports-racing-touleen-faces-forty-years-on-at-doncaster",
-      "summary": "The final day of the St Leger Festival sees Touleen clash with Forty Years On.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-touleen-racing_7348266.png?20260911171110"
-    },
-    {
-      "source": "sky",
-      "title": "'She wants the noise' | Hull and Khang tee off in wild atmosphere",
-      "link": "https://www.skysports.com/watch/video/13585289/solheim-cup-she-wants-the-noise-hull-and-khang-tee-off-in-wild-atmosphere",
-      "summary": "Charley Hull and Megan Khang both asked for the Solheim Cup crowd to make some noise whilst they tee'd off on the final day.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-d-a_7350011.jpg?20260913102857"
-    },
-    {
-      "source": "sky",
-      "title": "Rashford and Anderson start the Manchester derby, but no Shaw LIVE!",
-      "link": "https://www.skysports.com/football/manchester-united-vs-manchester-city/live/559481",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-utd-man-city_7344370.jpg?20260907154847"
-    },
-    {
-      "source": "sky",
-      "title": "Garcia takes out Benn in just two rounds",
-      "link": "https://www.skysports.com/boxing/news/12040/13584754/ryan-garcia-finishes-conor-benn-in-just-two-rounds-to-defend-wbc-welterweight-world-championship-in-las-vegas",
-      "summary": "Ryan Garcia hammered Conor Benn to defeat inside two rounds at the T-Mobile Arena in Las Vegas.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-conor-benn-ryan-garcia_7349912.jpg?20260913065743"
-    },
-    {
-      "source": "sky",
-      "title": "Dominant FIVE-star performance as Chelsea sweep Man United",
-      "link": "https://www.skysports.com/watch/video/13585364/man-united-0-5-chelsea-wsl-highlights",
-      "summary": "Highlights of Manchester United against Chelsea in the WSL.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-wsl_7350224.jpg?20260913141242"
-    },
-    {
-      "source": "sky",
-      "title": "Garcia targets Lopez next | ‘Benn will be back’",
-      "link": "https://www.skysports.com/boxing/news/12040/13585279/ryan-garcia-targets-world-championship-unification-with-teofimo-lopez-next-conor-benn-will-be-back",
-      "summary": "Ryan Garcia will look to unify world championships with Teofimo Lopez next after his stunning stoppage victory over Conor Benn.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ryan-garcia-conor-benn_7349988.jpg?20260913095309"
-    },
-    {
-      "source": "sky",
-      "title": "Jimenez nets late winner for Wolves at Sheffield United",
-      "link": "https://www.skysports.com/watch/video/13585362/sheffield-united-0-1-wolverhampton-wanderers-championship-highlights",
-      "summary": "Highlights of Sheffield United against Wolverhampton Wanderers in the Sky Bet Championship.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sheff-utd-wolves_7350219.jpg?20260913140645"
-    },
-    {
-      "source": "sky",
-      "title": "How to watch Man Utd v Man City",
-      "link": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
-      "summary": "Manchester United host rivals Manchester City in a huge Premier League Manchester derby on September 13, live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-now-tv_7345860.jpg?20260909103704"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-nelly-korda_7350407.jpg?20260913154718"
     }
   ]
 }
