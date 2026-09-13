@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-13T20:08:50.813545+00:00",
+  "lastUpdated": "2026-09-13T22:47:06.139645+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
+      "summary": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to createA gentleman is never rude unintentionally, only by design. Nobody really knows who said this first. But&nbsp;it could easily be a line from the Elite Football Manager’s Guide to Press Conferences (Premier League edition). Because nothing happens by accident in these spaces.Every word ",
+      "published": "2026-09-13T20:35:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/d6a6c7df63cfcb256c9b9b2a5c319a0f23dbd3f1/174_0_2245_1796/master/2245.jpg?width=140&quality=85&auto=format&fit=max&s=fcd42264643f7b4c34962ee32d2c3376"
+    },
     {
       "source": "bbc",
       "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
@@ -226,14 +234,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5a/live/2f9fbfc0-aa9a-11f1-ab09-7f2415c9a652.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "link": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action",
-      "summary": "Fulham need a win, Tottenham show some spirit and Jack Grealish offers Everton much-needed energyWith 25 minutes to go against Manchester United, the Everton supporters had something to roar about as Jack Grealish made his return after rejoining on loan. The attacking midfielder remains universally popular thanks to his desire to entertain, getting the hosts back on their feet by creating dangerou",
-      "published": "2026-09-07T07:00:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/f771da918d6305721c0db0205896ca2500f8c3bd/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6239ff91a0651e3d544975738ced93dd"
-    },
-    {
       "source": "bbc",
       "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
@@ -355,11 +355,99 @@
     },
     {
       "source": "sky",
+      "title": "Zverev ends Shelton’s run and American dreams with US Open triumph",
+      "link": "https://www.skysports.com/tennis/news/12040/13585617/us-open-top-seed-alexander-zverev-breaks-ben-sheltons-heart-and-ends-american-dreams-by-winning-title-in-four-sets",
+      "summary": "Top seed Alexander Zverev dashed Ben Shelton&#8217;s hopes and ended American dreams by defeating him in four sets on Sunday to claim his maiden US Open title.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7351006.jpg?20260913232229"
+    },
+    {
+      "source": "sky",
+      "title": "Hilarious moment as Zverev wins US Open…and doesn’t realise!!!",
+      "link": "https://www.skysports.com/watch/video/13585649/alexander-zverev-wins-us-openand-doesnt-realise",
+      "summary": "Alexander Zverev won the US Open and didn't even realise!",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7350999.jpg?20260913231048"
+    },
+    {
+      "source": "sky",
+      "title": "Zverev breaks American hearts to become US Open champion",
+      "link": "https://www.skysports.com/watch/video/13585657/alexander-zverev-vs-ben-shelton-us-open-highlights",
+      "summary": "Highlights of Alexander Zverev against Ben Shelton from the men's US Open final.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7351014.jpg?20260913233707"
+    },
+    {
+      "source": "sky",
+      "title": "Wade ends 10-year European title drought with victory in Flanders",
+      "link": "https://www.skysports.com/darts/news/12040/13585608/flanders-darts-trophy-james-wade-ends-10-year-wait-for-european-tour-title-with-win-over-ross-smith-in-antwerp",
+      "summary": "James Wade ended a decade-long wait for a European Tour title as he beat Ross Smith 8-4 in the final of the Flanders Darts Trophy.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-james-wade-darts_7327304.jpg?20260821150945"
+    },
+    {
+      "source": "sky",
+      "title": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
+      "link": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
+      "summary": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730"
+    },
+    {
+      "source": "sky",
+      "title": "High-scoring EPIC in season opener",
+      "link": "https://www.skysports.com/watch/video/13585630/chicago-bears-carolina-panthers-week-1-nfl-highlights",
+      "summary": "Highlights of the Week 1 matchup between Chicago Bears and Carolina Panthers.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-americanfootball_7350938.jpg?20260913222318"
+    },
+    {
+      "source": "sky",
+      "title": "WOW! Watson wizardry for the 81-yard touchdown",
+      "link": "https://www.skysports.com/watch/video/13585631/nfl-christian-watson-wizardry-for-the-81-yard-touchdown",
+      "summary": "Christian Watson's spectacular 81-yard touchdown saw Green Bay extend their lead over Minnesota in the first quarter.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350946.jpg?20260913222750"
+    },
+    {
+      "source": "sky",
+      "title": "Overtime thriller in opening game of the season",
+      "link": "https://www.skysports.com/watch/video/13585643/new-orleans-saints-detroit-lions-week-1-nfl-highlights",
+      "summary": "Highlights of the Week 1 matchup between New Orleans Saints and Detroit Lions.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350972.jpg?20260913224655"
+    },
+    {
+      "source": "sky",
+      "title": "OUCH! Cameraman taken out in Packers-Vikings game!",
+      "link": "https://www.skysports.com/watch/video/13585646/nfl-cameraman-taken-out-in-packers-vikings-game",
+      "summary": "A cameraman was wiped out in the first quarter of Green Bay's NFL clash at Minnesota!",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350983.jpg?20260913230031"
+    },
+    {
+      "source": "sky",
       "title": "Nordqvist hits back at USA ‘dig’ over Solheim course set-up",
       "link": "https://www.skysports.com/golf/news/12040/13585550/solheim-cup-2026-europe-captain-anna-nordqvist-dismisses-usa-captain-angela-stanfords-dig-at-course-set-up",
       "summary": "Team Europe captain Anna Nordqvist was quick to shut down suggestions the Bernardus Golf course set-up had been tailored to suit the home team at the Solheim Cup.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-angela-stanford-usa_7350734.jpg?20260913190512"
+    },
+    {
+      "source": "sky",
+      "title": "Trotter scores on NFL debut after pick six on Burrow",
+      "link": "https://www.skysports.com/watch/video/13585593/nfl-josiah-trotter-scores-on-debut-after-pick-six-on-joe-burrow",
+      "summary": "Josiah Trotter took advantage of Joe Burrow's loose pass as he completed the pick six, reducing Cincinnati's lead over Tampa Bay.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350849.jpg?20260913202431"
+    },
+    {
+      "source": "sky",
+      "title": "Heartbreak for Houston! Palmer scores late game-winning TD for Bills",
+      "link": "https://www.skysports.com/watch/video/13585610/nfl-joshua-palmer-scores-late-game-winning-touchdown-for-buffalo-bills",
+      "summary": "Joshua Palmer scored a touchdown with less than two minutes to go as Buffalo overcame Houston in an opening game thriller.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350886.jpg?20260913211703"
     },
     {
       "source": "sky",
@@ -395,11 +483,19 @@
     },
     {
       "source": "sky",
-      "title": "US Open LIVE! Frustrated Shelton a set down to top seed Zverev in final",
+      "title": "US Open LIVE! Reaction as Zverev beats home hope Shelton in four sets to win title",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ben-shelton-tennis_7350868.jpg?20260913204540"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7351007.jpg?20260913232346"
+    },
+    {
+      "source": "sky",
+      "title": "NFL Week One results: Bears and Panthers set scoring record",
+      "link": "https://www.skysports.com/nfl/live-blog/12040/13585427/nfl-2026-results-and-highlights-chicago-bears-cincinnati-bengals-and-baltimore-ravens-win-on-wild-sunday",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-caleb-williams-chicago-bears_7350930.jpg?20260913221930"
     },
     {
       "source": "sky",
@@ -416,102 +512,6 @@
       "summary": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-erling-haaland-man-city_7350636.jpg?20260913175744"
-    },
-    {
-      "source": "sky",
-      "title": "Lowry claims Irish Open with record 11-stroke victory",
-      "link": "https://www.skysports.com/watch/video/13585561/amgen-irish-open-day-four-highlights",
-      "summary": "Highlights from day four of the Amgen Irish Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-golf-irish-open_7350761.jpg?20260913191915"
-    },
-    {
-      "source": "sky",
-      "title": "Deja vu for Pro Ref? Neville slams 'shocker' VAR decision to give Haaland goal",
-      "link": "https://www.skysports.com/watch/video/13585582/gary-neville-slams-var-decision-to-give-erling-haalands-goal-in-manchester-derby",
-      "summary": "Gary Neville slams VAR's decision to give Erling Haaland's goal in the Manchester derby.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/neville-football-premeir-league_7350828.jpg?20260913195918"
-    },
-    {
-      "source": "sky",
-      "title": "Montgomery bundles over for Texans' first TD of season",
-      "link": "https://www.skysports.com/watch/video/13585535/nfl-david-montgomery-bundles-over-for-houston-texans-first-touchdown-of-season",
-      "summary": "David Montgomery powered over as the Houston Texans went ahead against the Buffalo Bills in the first quarter.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350705.jpg?20260913184428"
-    },
-    {
-      "source": "sky",
-      "title": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
-      "link": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
-      "summary": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red card.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-phil-foden-man-city_7350587.jpg?20260913171734"
-    },
-    {
-      "source": "sky",
-      "title": "Europe's big names shine in Solheim Cup victory over USA",
-      "link": "https://www.skysports.com/watch/video/13585500/solheim-cup-sunday-singles-highlights",
-      "summary": "Highlights of the Sunday Singles from the Solheim Cup at Bernardus Golf, in the Netherlands.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-solheim-cup_7350606.jpg?20260913173004"
-    },
-    {
-      "source": "sky",
-      "title": "‘Bruno’s the violent one!’ - Keane and Micah DEBATE Foden red",
-      "link": "https://www.skysports.com/watch/video/13585506/man-utd-vs-man-city-roy-keane-and-micah-richards-debate-phil-foden-red-bruno-fernandes-is-the-violent-one",
-      "summary": "Roy Keane and Micah Richards debate the Phil Foden red card.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-keane-foden-red_7350617.jpg?20260913173800"
-    },
-    {
-      "source": "sky",
-      "title": "'Superb strike' - Fowler doubles Man City's lead against Aston Villa",
-      "link": "https://www.skysports.com/watch/video/13585558/mary-fowler-doubles-man-citys-lead-against-aston-villa",
-      "summary": "Mary Fowler doubles Man City's lead with a superb strike against Aston Villa.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-fowler_7350742.jpg?20260913191048"
-    },
-    {
-      "source": "sky",
-      "title": "Trump presents Lowry with Irish Open after record 11-stroke win",
-      "link": "https://www.skysports.com/golf/news/12040/13585479/amgen-irish-open-shane-lowry-secures-record-11-stroke-victory-at-trump-international-links-in-doonbeg",
-      "summary": "Shane Lowry stormed to a record 11-shot victory at the Amgen Irish Open, the home crowd favourite shooting a seven-under 63 on Sunday to finish a staggering 23 under par.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-donald-trump-shane-lowry_7350756.jpg?20260913191656"
-    },
-    {
-      "source": "sky",
-      "title": "Nordqvist savours Solheim glory | 'No-brainer to send out Charley first!'",
-      "link": "https://www.skysports.com/golf/news/12040/13585334/solheim-cup-2026-anna-nordqvist-savours-team-europe-win-and-explains-no-brainer-call-to-put-charley-hull-out-first",
-      "summary": "Anna Nordqvist says she was impressed \"with every single player\" during Team Europe&#8217;s Solheim Cup victory and insists it was a 'no-brainer' to send Charley Hull out first in the Sunday singles.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-charley-hull-anna-nordqvist_7350687.jpg?20260913183310"
-    },
-    {
-      "source": "sky",
-      "title": "'A HUGE error!' - Okuma gifts Man City the opener against Villa!",
-      "link": "https://www.skysports.com/watch/video/13585549/aston-villa-vs-manchester-city-akane-okuma-gifts-manchester-city-the-opener-against-aston-villa",
-      "summary": "Take a look as Akane Okuma's error gifted Manchester City the opener against Aston Villa.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-1st-goal-asotn-villa_7350731.jpg?20260913190143"
-    },
-    {
-      "source": "sky",
-      "title": "NFL scores: Burrow's Bengals and Lamar's Ravens in action",
-      "link": "https://www.nbcsports.com/nfl/scores",
-      "summary": "Follow the latest scores from around the NFL in Week One of the 2026 season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lamar-jackson-colts_7350721.jpg?20260913185129"
-    },
-    {
-      "source": "sky",
-      "title": "Neville: Officials got Haaland winner wrong - Man Utd can expect apology",
-      "link": "https://www.skysports.com/football/news/12040/13585530/gary-neville-man-utd-can-expect-apology-from-pro-ref-for-erling-haalands-winner-in-manchester-derby",
-      "summary": "Gary Neville believes the VAR officials were \"wrong\" to award Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730"
     }
   ]
 }
