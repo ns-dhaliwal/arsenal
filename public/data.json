@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-14T05:39:46.141135+00:00",
+  "lastUpdated": "2026-09-14T11:30:53.252963+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "link": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action",
+      "summary": "Controversy rules the Manchester derby, Coventry are dunked on and Tottenham still can’t score a goalThe 199th Manchester derby was defined by two refereeing decisions: Phil Foden’s first-half red card for kicking out at Bruno Fernandes, and the intervention by the video assistant referee to award Erling Haaland’s winning goal despite Enzo Fernández appearing to interfere with play from an offside",
+      "published": "2026-09-14T07:00:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/9b1ce66a4cedb465f774f8c0b30367d43b8cedfb/26_1_4974_3977/master/4974.jpg?width=140&quality=85&auto=format&fit=max&s=337e5e2c46f66556b78931c22882873e"
+    },
     {
       "source": "guardian",
       "title": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
@@ -218,14 +226,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7501/live/2cebc9e0-aac7-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "source": "guardian",
-      "title": "‘Relief’ of Premier League title has given Arsenal confidence, says David Raya",
-      "link": "https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief",
-      "summary": "Keeper says Gunners ‘can beat anybody in this league’Arteta’s side have started title defence with three winsDavid Raya says Arsenal are playing with greater confidence after the “relief” of winning the Premier League. The champions continued their perfect start to the defence of their crown with the 2-1 home win against Chelsea on Sunday, making it nine points out of nine.It was a powerhouse perf",
-      "published": "2026-09-07T11:00:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/b5f841f08305ebce522e2f0ec6dc1441367cc49d/882_342_4590_3674/master/4590.jpg?width=140&quality=85&auto=format&fit=max&s=36ff7cf0055b2ad2692d78d30e4df3fc"
-    },
-    {
       "source": "bbc",
       "title": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
@@ -355,6 +355,46 @@
     },
     {
       "source": "sky",
+      "title": "'Obvious changes' - F1 drivers want Madring overtaking improvements",
+      "link": "https://www.skysports.com/f1/news/12040/13585296/f1-drivers-team-bosses-hopeful-over-madring-track-changes-for-overtaking-after-new-venues-first-spanish-gp",
+      "summary": "Formula 1 drivers and team chiefs are hopeful there is scope at the Madring for organisers to make changes to the track to aid overtaking for future seasons.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-charles-leclerc-kimi-antonelli_7350796.jpg?20260913193609"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: VOTE! Is pressure beginning to build on Carrick?",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "We know Haaland's goal was a mistake - but WHY did it happen?",
+      "link": "https://www.skysports.com/football/news/12040/13585716/erling-haalands-goal-for-man-city-against-man-utd-was-a-mistake-but-why-did-it-happen",
+      "summary": "Erling Haaland's winning goal in Sunday's Manchester derby came in controversial circumstances - and there are still a number of questions left unanswered.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-manchester-united_7351193.jpg?20260914092442"
+    },
+    {
+      "source": "sky",
+      "title": "Windsor’s flat season finale headlines Monday’s action",
+      "link": "https://www.skysports.com/racing/news/12040/13585370/today-on-sky-sports-racing-windsors-flat-season-finale-headlines-mondays-action",
+      "summary": "The Sky Sports Racing cameras head to Windsor for the track's final flat fixture this season, where Leger hero Saffie Osborne will be in action.",
+      "published": null,
+      "image": "https://e2.365dm.com/23/10/1920x1080/skysports-windsor-racing_6321989.png?20231015112000"
+    },
+    {
+      "source": "sky",
+      "title": "What next for Benn? 'I don't have the answer'",
+      "link": "https://www.skysports.com/boxing/news/12040/13585732/conor-benn-confronts-his-future-options-after-crushing-loss-to-ryan-garcia-what-next-i-dont-have-the-answer",
+      "summary": "Conor Benn is left contemplating his next options after suffering a heavy stoppage loss to Ryan Garcia in Las Vegas.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-conor-benn-ryan-garcia_7351188.jpg?20260914091948"
+    },
+    {
+      "source": "sky",
       "title": "'Pietersen will add spark' as he begins England white-ball coaching role",
       "link": "https://www.skysports.com/cricket/news/12040/13585312/kevin-pietersen-buzzing-at-england-white-ball-coaching-role-as-specialist-mentor-says-marcus-trescothick",
       "summary": "Kevin Pietersen is &#8220;buzzing&#8221; to be back with the England set-up, having joined the white-ball coaching staff for the series against Sri Lanka, according to interim head coach Marcus Trescothick.",
@@ -363,11 +403,19 @@
     },
     {
       "source": "sky",
-      "title": "'I am the best in the world right now' - Zverev sends warning to Sinner and Alcaraz",
+      "title": "Zverev: I am best player in the world right now",
       "link": "https://www.skysports.com/tennis/news/12040/13585668/us-open-alexander-zverev-sends-out-warning-to-jannik-sinner-and-carlos-alcaraz-claiming-he-is-currently-the-best-tennis-player-in-the-world",
-      "summary": "Alexander Zverev sent out firm warning to world No 1 Jannik Sinner and Carlos Alcaraz, claiming he is currently the best tennis player in the world following his US Open victory.",
+      "summary": "Alexander Zverev believes he is currently the best tennis player in the world following his US Open victory.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7351075.jpg?20260914034632"
+    },
+    {
+      "source": "sky",
+      "title": "Giants defeat divisional rivals Cowboys in opening week thriller",
+      "link": "https://www.skysports.com/watch/video/13585697/new-york-giants-vs-dallas-cowboys-nfl-highlights",
+      "summary": "Highlights of the opening weekend NFL match between the New York Giants and the Dallas Cowboys.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nfl-giants-cowboys_7351101.jpg?20260914065939"
     },
     {
       "source": "sky",
@@ -379,11 +427,35 @@
     },
     {
       "source": "sky",
+      "title": "Should Fernandes have seen red along with Foden?",
+      "link": "https://www.skysports.com/watch/video/13585777/ref-watch-should-bruno-fernandes-have-seen-red-along-with-phil-foden",
+      "summary": "Dermot Gallagher and Jay Bothroyd discuss whether Bruno Fernandes and Phil Foden should have both been sent off in the Manchester derby?",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-foden-fernandes-ref-watch_7351315.jpg?20260914113637"
+    },
+    {
+      "source": "sky",
       "title": "Hilarious moment as Zverev wins US Open…and doesn’t realise!!!",
       "link": "https://www.skysports.com/watch/video/13585649/alexander-zverev-wins-us-openand-doesnt-realise",
       "summary": "Alexander Zverev won the US Open and didn't even realise!",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7350999.jpg?20260913231048"
+    },
+    {
+      "source": "sky",
+      "title": "Joint-worst Man Utd PL start! Neville says pressure is growing on Carrick",
+      "link": "https://www.skysports.com/football/news/12040/13585707/man-utd-pressure-on-michael-carrick-increasing-after-man-city-defeat-says-gary-neville",
+      "summary": "Gary Neville described Manchester United's derby defeat as a \"bad day\" for Michael Carrick's side, with the pressure increasing after failing to beat 10-man Manchester City at Old Trafford.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-carrick-manchester-united_7351245.jpg?20260914103712"
+    },
+    {
+      "source": "sky",
+      "title": "'You can't lose focus' | Why did VAR get Haaland goal so wrong?",
+      "link": "https://www.skysports.com/watch/video/13585778/ref-watch-why-did-var-get-erling-haaland-goal-so-wrong",
+      "summary": "Former Premier League referee Dermot Gallagher and former Coventry striker Jay Bothroyd dissect the biggest talking point of the weekend and ask how VAR got Erling Haaland's winner for Manchester City against rivals United so wrong.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-erling-haaland-michael_7351303.jpg?20260914113143"
     },
     {
       "source": "sky",
@@ -395,11 +467,27 @@
     },
     {
       "source": "sky",
+      "title": "Ronaldo calls for lifetime bans for fans involved in Jota chants",
+      "link": "https://www.skysports.com/football/news/12040/13585733/cristiano-ronaldo-portugal-captain-calls-for-lifetime-bans-after-diogo-jota-chanting-aimed-at-ruben-neves",
+      "summary": "Cristiano Ronaldo has called for lifetime stadium bans for supporters who repeatedly chanted the name of the late Diogo Jota at his Portugal team-mate Ruben Neves.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cristiano-ronaldo_7351199.jpg?20260914092738"
+    },
+    {
+      "source": "sky",
       "title": "Wade ends 10-year European title drought with victory in Flanders",
       "link": "https://www.skysports.com/darts/news/12040/13585608/flanders-darts-trophy-james-wade-ends-10-year-wait-for-european-tour-title-with-win-over-ross-smith-in-antwerp",
       "summary": "James Wade ended a decade-long wait for a European Tour title as he beat Ross Smith 8-4 in the final of the Flanders Darts Trophy.",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-james-wade-darts_7327304.jpg?20260821150945"
+    },
+    {
+      "source": "sky",
+      "title": "Farke's plan to deliver Leeds to 'fun' new heights",
+      "link": "https://www.skysports.com/football/news/12040/13585548/leeds-vs-newcastle-daniel-farke-sets-out-blueprint-for-success-after-unbeaten-premier-league-start",
+      "summary": "Monday Night Football marks the first managerial meeting between Daniel Farke and Matthias Jaissle, two of four German managers currently operating in the Premier League. Both have enjoyed unbeaten starts to this season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-daniel-farke-leeds_7350728.jpg?20260913185553"
     },
     {
       "source": "sky",
@@ -411,107 +499,19 @@
     },
     {
       "source": "sky",
-      "title": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
+      "title": "Euro Debrief: Ballon d'Or candidates Kane, Mbappe and Lamine Yamal all deliver",
+      "link": "https://www.skysports.com/football/news/12040/13585293/harry-kane-kylian-mbappe-and-lamine-yamal-on-target-plus-ruben-amorim-still-unbeaten-and-more-in-the-euro-debrief",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-euro-debrief-bundesliga_7351174.jpg?20260914090648"
+    },
+    {
+      "source": "sky",
+      "title": "Man City winner an error admits refereeing body as Man Utd receive apology",
       "link": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
       "summary": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730"
-    },
-    {
-      "source": "sky",
-      "title": "High-scoring EPIC in season opener",
-      "link": "https://www.skysports.com/watch/video/13585630/chicago-bears-carolina-panthers-week-1-nfl-highlights",
-      "summary": "Highlights of the Week 1 matchup between Chicago Bears and Carolina Panthers.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-americanfootball_7350938.jpg?20260913222318"
-    },
-    {
-      "source": "sky",
-      "title": "WOW! Watson wizardry for the 81-yard touchdown",
-      "link": "https://www.skysports.com/watch/video/13585631/nfl-christian-watson-wizardry-for-the-81-yard-touchdown",
-      "summary": "Christian Watson's spectacular 81-yard touchdown saw Green Bay extend their lead over Minnesota in the first quarter.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350946.jpg?20260913222750"
-    },
-    {
-      "source": "sky",
-      "title": "Overtime thriller in opening game of the season",
-      "link": "https://www.skysports.com/watch/video/13585643/new-orleans-saints-detroit-lions-week-1-nfl-highlights",
-      "summary": "Highlights of the Week 1 matchup between New Orleans Saints and Detroit Lions.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350972.jpg?20260913224655"
-    },
-    {
-      "source": "sky",
-      "title": "OUCH! Cameraman taken out in Packers-Vikings game!",
-      "link": "https://www.skysports.com/watch/video/13585646/nfl-cameraman-taken-out-in-packers-vikings-game",
-      "summary": "A cameraman was wiped out in the first quarter of Green Bay's NFL clash at Minnesota!",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350983.jpg?20260913230031"
-    },
-    {
-      "source": "sky",
-      "title": "Nordqvist hits back at USA ‘dig’ over Solheim course set-up",
-      "link": "https://www.skysports.com/golf/news/12040/13585550/solheim-cup-2026-europe-captain-anna-nordqvist-dismisses-usa-captain-angela-stanfords-dig-at-course-set-up",
-      "summary": "Team Europe captain Anna Nordqvist was quick to shut down suggestions the Bernardus Golf course set-up had been tailored to suit the home team at the Solheim Cup.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-angela-stanford-usa_7350734.jpg?20260913190512"
-    },
-    {
-      "source": "sky",
-      "title": "Trotter scores on NFL debut after pick six on Burrow",
-      "link": "https://www.skysports.com/watch/video/13585593/nfl-josiah-trotter-scores-on-debut-after-pick-six-on-joe-burrow",
-      "summary": "Josiah Trotter took advantage of Joe Burrow's loose pass as he completed the pick six, reducing Cincinnati's lead over Tampa Bay.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-americanfootball_7350849.jpg?20260913202431"
-    },
-    {
-      "source": "sky",
-      "title": "Heartbreak for Houston! Palmer scores late game-winning TD for Bills",
-      "link": "https://www.skysports.com/watch/video/13585610/nfl-joshua-palmer-scores-late-game-winning-touchdown-for-buffalo-bills",
-      "summary": "Joshua Palmer scored a touchdown with less than two minutes to go as Buffalo overcame Houston in an opening game thriller.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350886.jpg?20260913211703"
-    },
-    {
-      "source": "sky",
-      "title": "'This game is incredible!' - Allen finds Moore for 43-yard TD",
-      "link": "https://www.skysports.com/watch/video/13585572/nfl-josh-allen-finds-dj-moore-for-43-yard-touchdown-vs-houston-texans",
-      "summary": "Josh Allen found DJ Moore for the 43-yard touchdown as Buffalo extended their lead over Houston late in the first half.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350792.jpg?20260913193338"
-    },
-    {
-      "source": "sky",
-      "title": "Norris calls for rule changes after 'unfair' Madrid defeat",
-      "link": "https://www.skysports.com/f1/news/12040/13585294/lando-norris-mclaren-driver-calls-for-rule-changes-to-formula-1-virtual-safety-car-rules-after-losing-out-on-win-to-kimi-antonelli",
-      "summary": "Lando Norris has called for a change to Formula 1's Virtual Safety Car rules after he lost out on victory to Kimi Antonelli at the Spanish Grand Prix.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-f1-lando-norris_7350686.jpg?20260913182953"
-    },
-    {
-      "source": "sky",
-      "title": "'Josh Allen doing Josh Allen things!' - Bills QB with stunning 21-yard TD",
-      "link": "https://www.skysports.com/watch/video/13585547/nfl-josh-allen-with-stunning-21-yard-touchdown-vs-houston-texans",
-      "summary": "Buffalo quarterback Josh Allen completed a spectacular 21-yard touchdown as the Bills retook the lead against the Houston Texans.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-americanfootball_7350720.jpg?20260913185105"
-    },
-    {
-      "source": "sky",
-      "title": "SNL UK do Weekly Update US Open special",
-      "link": "https://www.skysports.com/watch/video/13585559/snl-uk-do-weekly-update-us-open-special",
-      "summary": "SNL UK's Ania Magliano and Paddy Young make a Weekly Update US Open special, including segments from Jeff Goldblum and Carlos Alcaraz's nipple...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-snl-uk-jeff-goldblum_7350750.jpg?20260913191614"
-    },
-    {
-      "source": "sky",
-      "title": "Henman: Zverev has transformed from a player who was going backwards a year ago",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13585240/us-open-live-scores-updates-news-commentary-results-from-new-york-with-alexander-zverev-taking-on-ben-shelton-in-the-mens-final",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-alexander-zverev_7351007.jpg?20260913232346"
     }
   ]
 }
