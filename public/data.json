@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-16T10:41:18.867348+00:00",
+  "lastUpdated": "2026-09-16T15:16:50.286663+00:00",
   "articles": [
-    {
-      "source": "bbc",
-      "title": "It's a joy to have Dowman - Arteta",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm986jgxw9rgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta says it's \"a joy to have him\" about 16-year-old Max Dowman after he scored two goals in the 4-2 Carabao Cup win over Ipswich Town.",
-      "published": "2026-09-16T10:26:36+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df94/live/f250f740-b1b7-11f1-a430-4d16ee157c41.jpg"
-    },
     {
       "source": "bbc",
       "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
@@ -354,12 +346,60 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ccb/live/8a0cb860-a567-11f1-86d4-95b193638b63.jpg"
     },
     {
+      "source": "bbc",
+      "title": "'Starboy Bukayo Saka' is key to Arsenal's title defence",
+      "link": "https://www.bbc.co.uk/sport/videos/c1j4g6p2zxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "'Starboy Bukayo Saka' will be key to Arsenal's title defence",
+      "published": "2026-09-01T11:36:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b509/live/324839f0-a5f9-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "WTA reveals new Finals host from 2027 with aim of 'Super Bowl for women's sports'",
+      "link": "https://www.skysports.com/tennis/news/12040/13588623/wta-finals-charlottes-spectrum-center-revealed-as-new-united-states-home-for-showpiece-wta-event-from-2027-season",
+      "summary": "The WTA Finals will be staged in Charlotte, North Carolina in the United States from 2027.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-wta-finals_7287441.jpg?20260916160607"
+    },
+    {
+      "source": "sky",
+      "title": "Why Monaco's hosting a Sprint - F1's 2027 calendar changes explained",
+      "link": "https://www.skysports.com/f1/news/12040/13588553/f1-2027-calendar-monaco-staging-one-of-10-sprints-and-other-talking-points-from-race-schedule-reveal-for-next-season",
+      "summary": "Formula 1&#8217;s 2027 calendar is out with next season again scheduled to run to a record-equalling 24 race weekends.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-monaco-gp-f1-2026_7353703.jpg?20260916134617"
+    },
+    {
+      "source": "sky",
+      "title": "Explained: Why is there a Monaco Sprint in 2027?",
+      "link": "https://www.skysports.com/watch/video/13588587/formula-1-why-is-there-a-monaco-sprint-in-2027",
+      "summary": "Craig Slater explains why Monaco has been chosen as a Sprint venue for the 2027 F1 season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-formula-1-slater_7353704.jpg?20260916134802"
+    },
+    {
+      "source": "sky",
+      "title": "Raducanu withdraws from China Open in latest injury setback",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13525472/emma-raducanu-tennis-schedule-next-match-ranking-latest-results-video-and-how-to-watch-live-on-sky-sports-tennis",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-tennis-emma-raducanu_7191024.jpg?20260313084122"
+    },
+    {
       "source": "sky",
       "title": "Arsenal latest: Gabriel kick on Martinez was NOT red card, says KMI panel",
       "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "source": "sky",
+      "title": "World Grand Prix schedule confirmed as Littler looks to defend title",
+      "link": "https://www.skysports.com/darts/news/12040/13585772/world-grand-prix-darts-2026-schedule-format-prize-money-venue-dates-as-luke-littler-luke-humphries-seek-title",
+      "summary": "The World Grand Prix takes place at Leicester's Mattioli Arena, beginning on September 28, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7306825.jpg?20260725225937"
     },
     {
       "source": "sky",
@@ -371,7 +411,7 @@
     },
     {
       "source": "sky",
-      "title": "Liverpool latest: Koumas and McConnell deserve to play, says Szoboszlai",
+      "title": "Liverpool latest: Watch Szoboszlai's best goals and vote which is the best...",
       "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
@@ -400,6 +440,14 @@
       "summary": "Thomas Tuchel wishes he'd eaten grass from the Azteca pitch after England's World Cup win over Mexico this summer.",
       "published": null,
       "image": "https://e1.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7291130.jpg?20260706123454"
+    },
+    {
+      "source": "sky",
+      "title": "DP World Tour unveils big changes to 2027 schedule",
+      "link": "https://www.skysports.com/golf/news/12040/13588539/dp-world-tour-bmw-pga-championship-gets-new-date-for-2027-due-to-ryder-cup-as-significant-schedule-changes-announced",
+      "summary": "The DP World Tour has announced a new date for the 2027 BMW PGA Championship, as it unveiled a series of big schedule changes for next year's calendar.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-dp-world-tour_7353584.jpg?20260916115638"
     },
     {
       "source": "sky",
@@ -464,54 +512,6 @@
       "summary": "It may still be a year to go until Team Europe's bid for a historic Ryder Cup threepeat, but Luke Donald has already had many of his prospective line-up together at Adare Manor.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-shane-lowry-justin-rose_7352719.jpg?20260915225620"
-    },
-    {
-      "source": "sky",
-      "title": "Tipped to be the best ever - but is Herbert the NFL's best underachiever?",
-      "link": "https://www.skysports.com/nfl/news/12040/13586129/justin-herbert-the-nfls-most-talented-underachiever-los-angeles-chargers-quarterback-tipped-for-greatness-but-facing-more-questions",
-      "summary": "The kids call it glazing. NFL folk might call it Jim Harbaughing. Either way, gushing praise of Justin Herbert is generating heightened and unavoidable attention around one of football's most gifted but divisive stars.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-justin-herbert-los-angeles-chargers_7352134.jpg?20260915121858"
-    },
-    {
-      "source": "sky",
-      "title": "What next for Arsenal prodigy Dowman after latest statement display?",
-      "link": "https://www.skysports.com/football/news/12040/13586419/max-dowman-arsenal-prodigy-delivers-latest-statement-performance-as-mikel-arteta-urges-caution-over-16-year-old",
-      "summary": "Max Dowman has waited patiently for opportunities in Arsenal's first team, but when he gets them, he delivers.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-max-dowman-arsenal_7352769.jpg?20260916101230"
-    },
-    {
-      "source": "sky",
-      "title": "Dubois expects undisputed fight with 'jealous' Baumgardner",
-      "link": "https://www.skysports.com/boxing/news/12040/13586275/caroline-dubois-sets-course-for-undisputed-championship-fight-with-jealous-threatened-alycia-baumgardner",
-      "summary": "Caroline Dubois is looking to fight her way to an undisputed showdown with American rival Alycia Baumgardner next year.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-caroline-dubois-boxing_7318200.jpg?20260810130441"
-    },
-    {
-      "source": "sky",
-      "title": "Could F1 change rules to prevent Alonso retirement?",
-      "link": "https://www.skysports.com/f1/news/12040/13586010/fernando-alonso-whats-the-latest-on-aston-martin-drivers-future-as-he-weighs-up-retirement-or-new-contract-to-stay-in-f1-in-2027",
-      "summary": "Fernando Alonso's future in Formula 1 is up in the air after he revealed news about whether he will remain at Aston Martin will \"not come soon\".",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-fernando-alonso_7351949.jpg?20260916095952"
-    },
-    {
-      "source": "sky",
-      "title": "Brook, Buttler go berserk again as England thrash Sri Lanka in first T20",
-      "link": "https://www.skysports.com/cricket/news/12040/13586234/england-vs-sri-lanka-harry-brook-hits-42-ball-hundred-and-jos-buttler-slams-80-as-hosts-win-first-t20-by-119-runs-in-southampton",
-      "summary": "&#8203;&#8203;Harry Brook and Jos Buttler went berserk in a T20 at Southampton for the second time this summer as England smoked 254-4 against Sri Lanka during a 119-run win in the series opener - their first game since Kevin Pietersen's appointment as white-ball mentor.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-brook-england-t20i-cricket_7352599.jpg?20260915212338"
-    },
-    {
-      "source": "sky",
-      "title": "Peters: Hull KR must improve to make Super League history from sixth",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13585897/willie-peters-hull-kr-coach-knows-improvement-is-needed-to-make-history-and-win-super-league-from-sixth",
-      "summary": "Hull KR head into the play-offs as defending champions, but if they are to go back-to-back, they will have to make history by becoming the first team ever to win the Super League title from sixth place.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-willie-peters-rugby-league_7351577.jpg?20260914173947"
     }
   ]
 }
