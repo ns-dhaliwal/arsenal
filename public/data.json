@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T07:02:21.057735+00:00",
+  "lastUpdated": "2026-09-17T12:57:30.439589+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "'This player should be in the next England squad...'",
+      "link": "https://www.bbc.co.uk/sport/videos/ck05r02z2pz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Missed out on the World Cup, but should these players get an England call-up from Thomas Tuchel on Friday?",
+      "published": "2026-09-17T10:32:25+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8b/live/34b9ad90-b1ca-11f1-bc1f-3f186ca4140c.jpg"
+    },
     {
       "source": "bbc",
       "title": "League Two Fleetwood host Arsenal in EFL Cup",
@@ -346,12 +354,44 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c5/live/73cc1b70-a640-11f1-b109-879e35c24276.jpg"
     },
     {
-      "source": "bbc",
-      "title": "'Not bothered I am plan B' - Jesus joins Barcelona",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
-      "summary": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal.",
-      "published": "2026-09-01T19:19:59+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/4df68720-a607-11f1-83fc-0df57e6b3866.jpg"
+      "source": "sky",
+      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, MVG in action",
+      "link": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
+      "summary": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam  with Luke Littler, Luke Humphries, Michael van Gerwen and Gian van Veen in action.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-luke-humphries_7354383.jpg?20260917102401"
+    },
+    {
+      "source": "sky",
+      "title": "'He's furious!' - McIlroy feigns club throw before finding rough a hole later!",
+      "link": "https://www.skysports.com/watch/video/13588977/bmw-championship-rory-mcilroy-feighs-club-throw-before-finding-rough-a-hole-later",
+      "summary": "Rory McIlory hit two wayward shots on the sixth and seventh holes at the BMW Championships, with the first almost leading him to throw his club.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rory-mciltory_7354572.jpg?20260917125118"
+    },
+    {
+      "source": "sky",
+      "title": "NFL 2026: UK times and weekly match schedule",
+      "link": "https://www.skysports.com/nfl/news/12040/13544294/nfl-fixtures-and-schedule-2026-uk-times-for-2026-regular-season-games-and-post-season-playoffs-on-road-to-super-bowl-lxi",
+      "summary": "All the fixtures and UK timings for the NFL's 2026 season as the chase to lift the Vince Lombardi Trophy starts all over again.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-nfl-logo-2026_7249490.jpg?20260515131213"
+    },
+    {
+      "source": "sky",
+      "title": "45 players! Klopp picks TWO separate Germany squads for international break",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jurgen-klopp-germany_7305661.jpg?20260724110858"
+    },
+    {
+      "source": "sky",
+      "title": "'It's an absolute beauty' - Rory makes promising start at BMW PGA Championship",
+      "link": "https://www.skysports.com/watch/video/13588868/bmw-pga-championship-rory-mcilroy-makes-promising-start-with-two-early-birdies",
+      "summary": "Rory McIlroy birdied two of his opening four holes at the BMW PGA Championship.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-golf-bmw-rory_7354337.jpg?20260917094102"
     },
     {
       "source": "sky",
@@ -363,11 +403,51 @@
     },
     {
       "source": "sky",
-      "title": "McIlroy gets under way at BMW PGA Championship LIVE!",
+      "title": "Tuchel must win back trust ahead of pivotal England camp",
+      "link": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
+      "summary": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7300470.jpg?20260718021854"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal latest: Havertz granted rest time during international break",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "source": "sky",
+      "title": "Rai takes co-lead as McIlroy finishes three back at Wentworth LIVE!",
       "link": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rory-mcilroy_7354186.jpg?20260917070059"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aaron-rai_7354342.jpg?20260917094550"
+    },
+    {
+      "source": "sky",
+      "title": "Rory's up-and-down day at Wentworth | Story of his first round",
+      "link": "https://www.skysports.com/watch/video/13588983/bmw-championship-story-of-rory-mcilroys-first-round",
+      "summary": "A look at how Rory McIlroy fared on the first day of the BMW Championship at Wentworth Club, Surrey.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rory-mcilroy_7354591.jpg?20260917131022"
+    },
+    {
+      "source": "sky",
+      "title": "Carrick, INEOS, defence... what is behind Man Utd's latest problems?",
+      "link": "https://www.skysports.com/football/news/12040/13588890/manchester-united-whats-to-blame-for-increasing-scrutiny-on-michael-carrick-after-carabao-cup-exit",
+      "summary": "Manchester United's collapse against Brighton has intensified the scrutiny on Michael Carrick - but the problems at Old Trafford run deeper than the head coach.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-united_7354575.jpg?20260917125644"
+    },
+    {
+      "source": "sky",
+      "title": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
+      "link": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
+      "summary": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might be one-off. But a champion does it over and over.\"",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-wsl-womens-super-league_7319389.jpg?20260812071000"
     },
     {
       "source": "sky",
@@ -379,15 +459,31 @@
     },
     {
       "source": "sky",
+      "title": "Live on Sky: Bristol City vs Watford",
+      "link": "https://www.skysports.com/football/bristol-city-vs-watford/live/560583",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-efl-championship_7351306.jpg?20260914113215"
+    },
+    {
+      "source": "sky",
+      "title": "Most dramatic first corner crash ever? Relive EPIC 2017 Singapore GP start!",
+      "link": "https://www.skysports.com/watch/video/13586066/most-dramatic-first-corner-crash-ever-relive-epic-2017-singapore-gp-start",
+      "summary": "On this day in 2017 at the Singapore Grand Prix, Red Bull's Max Verstappen crashed with the Ferrari pair of Sebastian Vettel and Kimi Raikkonen in one of the most dramatic starts ever.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-motorsport-f1_7351999.jpg?20260915095454"
+    },
+    {
+      "source": "sky",
       "title": "Golf leaderboards: BMW PGA Championship and more",
       "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
       "summary": "Latest golf scores and results from around the world, including the DP World Tour's BMW PGA Championship at Wentworth and more.",
       "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-shane-lowry_7301104.jpg?20260718213241"
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-shane-lowry_7301104.jpg?20260917091616"
     },
     {
       "source": "sky",
-      "title": "Man Utd latest: 'Abject and awful' - send us YOUR views on United",
+      "title": "Man Utd latest: 'Abject and awful' - Reaction to Carabao Cup exit",
       "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
       "published": null,
@@ -395,11 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Verstappen overtakes 100 amateurs to win exhibition go-kart race at Silverstone",
+      "title": "Ex-Mercedes technical boss joins Alpine",
       "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-f1-max-verstappen_7347349.jpg?20260911083127"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mike-elliott-mercedes_7354469.jpg?20260917113533"
     },
     {
       "source": "sky",
@@ -416,102 +512,6 @@
       "summary": "Chelsea chairman Todd Boehly and director Mark Walter have agreed to sell their 25 per cent stake in the club to majority shareholders Clearlake Capital in a deal which values Chelsea at &#163;5bn.&#160;",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-todd-boehly-chelsea_7324305.jpg?20260818105848"
-    },
-    {
-      "source": "sky",
-      "title": "Deep Havana and Pilu face off at Yarmouth",
-      "link": "https://www.skysports.com/racing/news/12040/13586167/today-on-sky-sports-racing-deep-havana-and-pilu-face-off-at-yarmouth",
-      "summary": "Yarmouth's three-day festival reaches its conclusion on Thursday, with a seven-race card scheduled, live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-yarmouth-racing_7246305.jpg?20260512100808"
-    },
-    {
-      "source": "sky",
-      "title": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
-      "link": "https://www.skysports.com/football/news/12040/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
-      "summary": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction. And even Michael Carrick recognises that.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-michael-carrick-man-utd_7354061.jpg?20260916221141"
-    },
-    {
-      "source": "sky",
-      "title": "Brighton latest: Belief and character helped beat Man Utd, says Hurzeler",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
-      "source": "sky",
-      "title": "Broadhurst: 'This is my last shot at the Olympics'",
-      "link": "https://www.skysports.com/boxing/news/12040/13586365/amy-broadhurst-continues-comeback-at-european-championships-this-will-be-my-last-shot-at-the-olympics",
-      "summary": "The European Elite Boxing Championships begin in Sofia, Bulgaria on Thursday with GB entering a strong team dotted with Commonwealth Games gold medallists.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-amy-broadhurst-gemma-richardson_7179785.jpg?20260915215948"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Shaw could leave Man Utd next summer",
-      "link": "https://www.skysports.com/football/news/12040/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Everton latest: Dibling’s progression hailed as he shines in Wolves win",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-    },
-    {
-      "source": "sky",
-      "title": "Raphina gets hat-trick and Jesus scores as Barca net seven",
-      "link": "https://www.skysports.com/watch/video/13588788/barcelona-7-2-racing-de-santander-la-liga-highlights",
-      "summary": "Highlights of the La Liga match between Barcelona and Racing de Santander.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-la-liga-barcelona_7354139.jpg?20260916233935"
-    },
-    {
-      "source": "sky",
-      "title": "Leicestershire hit with 27-point deduction for breaching pitch regulations",
-      "link": "https://www.skysports.com/cricket/news/12040/13588760/county-championship-leicestershire-hit-with-27-point-deduction-and-5000-fine-for-breaching-pitch-regulations",
-      "summary": "Leicestershire County Cricket Club have been&#160;deducted 27 points and fined &#163;5,000 for breaching pitch regulations in their victory over Glamorgan in August.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leicestershire-cricket_7354095.png?20260916223225"
-    },
-    {
-      "source": "sky",
-      "title": "Horror own goal sees Fleetwood shock Sheff Utd and book Arsenal tie",
-      "link": "https://www.skysports.com/football/fleetwood-town-vs-sheffield-united/report/577576",
-      "summary": "Rhys Norrington-Davies' horror own goal sent Fleetwood into the last 16 of the Carabao Cup for the first time as the League Two side stunned Championship Sheffield United 1-0 at Highbury.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-fleetwood-sheffield-united_7354076.jpg?20260916222052"
-    },
-    {
-      "source": "sky",
-      "title": "Abraham double helps Villa cruise past Coventry into fourth round",
-      "link": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
-      "summary": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-aston-villa-tammy-abraham_7354054.jpg?20260916220656"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd collapse from 2-0 up to exit Carabao Cup to Brighton",
-      "link": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/report/577581",
-      "summary": "Manchester United hit a new low under Michael Carrick as they threw away a two-goal lead to lose 3-2 to Brighton - and exit the Carabao Cup at the first hurdle for a second straight year.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-utd-brighton_7354036.jpg?20260916214341"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
-      "link": "https://www.skysports.com/football/news/12040/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
-      "summary": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-liverpool-chelsea_7354106.jpg?20260916224146"
     }
   ]
 }
