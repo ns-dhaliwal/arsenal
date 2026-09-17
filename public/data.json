@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T20:51:23.768283+00:00",
+  "lastUpdated": "2026-09-17T23:19:25.255536+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "link": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "summary": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast returnPremier League top scorers: check the latest standingsChelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win, Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approache",
+      "published": "2026-09-17T23:01:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/576193dd3d2ea34a392177179e39b52a11fae6b5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7cead1f09274ae5eb9c20884355bf21a"
+    },
     {
       "source": "bbc",
       "title": "'This player should be in the next England squad...'",
@@ -250,14 +258,6 @@
       "image": "https://i.guim.co.uk/img/media/1c22f8c7a98206b297f7f74bbf853e4fa2dc68c6/355_261_2176_1741/master/2176.jpg?width=140&quality=85&auto=format&fit=max&s=74e5d91def537577f06cf32e9b321427"
     },
     {
-      "source": "guardian",
-      "title": "Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
-      "link": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report",
-      "summary": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time.Perhaps it was the fact that, at Uefa’s ",
-      "published": "2026-09-09T21:02:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/a3f868184f1c6aa375d15667b3eeca4fb0990a01/174_0_1780_1424/master/1780.jpg?width=140&quality=85&auto=format&fit=max&s=3b7e383d60cdeca8c01ce200d9dadaa6"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal wrongly denied penalty at Villa and Maatsen escaped red - panel",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2z95nk0zwo?at_medium=RSS&at_campaign=rss",
@@ -355,19 +355,27 @@
     },
     {
       "source": "sky",
-      "title": "Banton and record-breaking Buttler propel England to series win over Sri Lanka",
-      "link": "https://www.skysports.com/cricket/news/12040/13589035/england-vs-sri-lanka-jos-buttler-breaks-t20-runs-record-as-harry-brooks-side-clinch-series-win-with-game-to-spare",
-      "summary": "Tom Banton notched an inspired 52 off 24 balls to steer England to a comprehensive six-wicket victory over Sri Lanka in the second T20 to clinch the three-match series with a game to spare.",
+      "title": "Palace latest: Sage says the fans love Sarr - and he deserves it!",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-england-t20-jos-buttler_7354887.jpg?20260917204011"
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
     },
     {
       "source": "sky",
-      "title": "England cruise to comfortable win to take the series against Sri Lanka",
-      "link": "https://www.skysports.com/watch/video/13589119/england-vs-sri-lanka-2nd-t20-highlights",
-      "summary": "Highlights of the second T20 match between England and Sri Lanka.",
+      "title": "Van Gerwen dumped out in first round at World Series of Darts Finals",
+      "link": "https://www.skysports.com/darts/news/12040/13589036/world-series-of-darts-finals-michael-van-gerwen-loses-to-daryl-gurney-as-luke-humphries-gian-van-veen-progress-in-first-round",
+      "summary": "Michael van Gerwen's title defence at the World Series of Darts Finals came to an end in the first round after he was beaten 6-5 by Daryl Gurney.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cricket-highlights_7354940.jpg?20260917213739"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-darts-jermaine-wattimena_7354958.jpg?20260917220143"
+    },
+    {
+      "source": "sky",
+      "title": "MK Dons still searching for first win after goalless draw at Wimbledon",
+      "link": "https://www.skysports.com/football/afc-wimbledon-vs-milton-keynes-dons/report/561674",
+      "summary": "MK Dons are without a win in seven League One games this season after being held to a 0-0 draw by AFC Wimbledon at the Cherry Red Records Stadium.",
+      "published": null,
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
     },
     {
       "source": "sky",
@@ -379,11 +387,75 @@
     },
     {
       "source": "sky",
+      "title": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
+      "link": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
+      "summary": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7354980.jpg?20260917221800"
+    },
+    {
+      "source": "sky",
+      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
+      "link": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
+      "summary": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam  with Luke Littler, Luke Humphries, Gerwyn Price and Gian van Veen in action.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-luke-humphries_7354383.jpg?20260917102401"
+    },
+    {
+      "source": "sky",
+      "title": "Banton and record-breaking Buttler propel England to series win over Sri Lanka",
+      "link": "https://www.skysports.com/cricket/news/12040/13589035/england-vs-sri-lanka-jos-buttler-breaks-t20-runs-record-as-harry-brooks-side-clinch-series-win-with-game-to-spare",
+      "summary": "Tom Banton notched an inspired 52no off 24 balls to steer England to a comprehensive six-wicket victory over Sri Lanka in the second T20 to clinch the three-match series with a game to spare.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-england-t20-jos-buttler_7354887.jpg?20260917204011"
+    },
+    {
+      "source": "sky",
+      "title": "Palace power past Lech Poznan to win on Europa League debut",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
+      "summary": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-crystal-palace-pino_7354931.jpg?20260917222620"
+    },
+    {
+      "source": "sky",
+      "title": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
+      "link": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
+      "summary": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-justin-kluivert-bournemouth_7354883.jpg?20260917203207"
+    },
+    {
+      "source": "sky",
+      "title": "England cruise to series win over Sri Lanka with comfortable victory in Cardiff",
+      "link": "https://www.skysports.com/watch/video/13589119/england-vs-sri-lanka-2nd-t20-highlights",
+      "summary": "The pick of the action from Cardiff as England dashed to a target of 146 against Sri Lanka to wrap up a T20 series win with a game to spare.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cricket-highlights_7354940.jpg?20260917213739"
+    },
+    {
+      "source": "sky",
+      "title": "'We'll get ourselves together' - O'Neill confident Celtic will bounce back from EL loss",
+      "link": "https://www.skysports.com/watch/video/13589150/celtic-1-3-ferencvaros-martin-oneill-confident-they-will-recover-from-europa-league-loss-ahead-of-rangers-clash-live-on-sky",
+      "summary": "Celtic manager Martin O'Neill is confident they will recover from their Europa League defeat to Ferencvaros and be ready for Sunday's Premiership clash with Rangers, live on Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7354941.jpg?20260917213846"
+    },
+    {
+      "source": "sky",
       "title": "Somerset's title hopes hit while Stokes stars with ball for Durham",
       "link": "https://www.skysports.com/cricket/news/12040/13589027/county-championship-somersets-title-hopes-hit-as-former-england-captain-ben-stokes-stars-with-ball-for-durham",
       "summary": "Dom Bess dented the Rothesay County Championship title hopes of old club Somerset after he struck 77 for Yorkshire to set a tricky final-day victory target of 287.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dom-bess-yorkshire_7354855.jpg?20260917195020"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Arsenal eyeing Kroupi and Schade in January",
+      "link": "https://www.skysports.com/football/news/12040/13589073/arsenal-transfer-news-eli-junior-kroupi-and-kevin-schade-on-mikel-artetas-target-list-ahead-of-january-paper-talk",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "sky",
@@ -395,7 +467,7 @@
     },
     {
       "source": "sky",
-      "title": "Europa League: Palace cruising, Bournemouth ahead, Celtic trail LIVE!",
+      "title": "Europa League recap: Palace cruise to victory, Bournemouth win, Celtic lose",
       "link": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
       "summary": "",
       "published": null,
@@ -411,11 +483,19 @@
     },
     {
       "source": "sky",
-      "title": "England clinch T20 series with dominant win vs Sri Lanka in Cardiff LIVE!",
+      "title": "'Better on every metric' - How England swept Sri Lanka aside again",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13589016/england-vs-sri-lanka-second-t20-live-latest-score-commentary-video-and-analysis-as-harry-brooks-side-aim-to-clinch-series-win-in-cardiff",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-t20-tom-banton_7354929.jpg?20260917211850"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-dawson-england-cricket_7354834.jpg?20260917220641"
+    },
+    {
+      "source": "sky",
+      "title": "PL Predictions: Brentford to expose 'soft' Chelsea",
+      "link": "https://www.skysports.com/football/news/12040/13588821/premier-league-predictions-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight ahead of the weekend's Premier League action.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933"
     },
     {
       "source": "sky",
@@ -432,86 +512,6 @@
       "summary": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup squad.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer-phil-foden_7354736.jpg?20260917161529"
-    },
-    {
-      "source": "sky",
-      "title": "Samba show! Chris celebrates as son Floyd scores twice for Man City!",
-      "link": "https://www.skysports.com/watch/video/13589100/floyd-samba-scores-man-city-opener-on-his-debut-against-norwich",
-      "summary": "Floyd Samba, son of former Premier League defender Chris, scores Man City double on his debut against Norwich in Carabao Cup.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-samba_7354920.jpg?20260917211421"
-    },
-    {
-      "source": "sky",
-      "title": "India's Abhishek hits fastest T20I hundred by batter from Test-playing nation",
-      "link": "https://www.skysports.com/cricket/news/12040/13589058/indias-abhishek-sharma-hits-30-ball-hundred-the-fastest-in-t20-internationals-by-batter-from-test-playing-nation",
-      "summary": "India's Abhishek Sharma struck the fastest T20I hundred by a batter from a Test-playing nation with a 30-ball effort against Afghanistan in Delhi.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-abhishek-sharma-india-mens-t20i-cricket_7354775.jpg?20260917171627"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
-      "link": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
-      "summary": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-gabriel-man-utd_7354610.jpg?20260917135159"
-    },
-    {
-      "source": "sky",
-      "title": "Breach, Matthews return for Red Roses vs Canada as Mitchell rings changes",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13588893/red-roses-jess-breach-alex-matthews-return-for-england-women-vs-canada-as-john-mitchell-rings-changes",
-      "summary": "Jess Breach and Alex Matthews return to start for England's Red Roses against Canada in the first of three WXV Tests between the sides on Saturday, as head coach John Mitchell makes nine changes.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jones-matthews-breach_7354612.jpg?20260917135317"
-    },
-    {
-      "source": "sky",
-      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, MVG in action",
-      "link": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
-      "summary": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam  with Luke Littler, Luke Humphries, Michael van Gerwen and Gian van Veen in action.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-luke-humphries_7354383.jpg?20260917102401"
-    },
-    {
-      "source": "sky",
-      "title": "Scorecard: England vs Sri Lanka, second T20, Cardiff",
-      "link": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/89baaf58-e8b0-59a7-a9ff-37105b47a42e",
-      "summary": "Latest score from the second T20 international between England and Sri Lanka at Sophia Gardens in Cardiff. Watch live on Sky Sports Cricket.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-harry-brook-england-mens-t20i-cricket_7291683.jpg?20260707071746"
-    },
-    {
-      "source": "sky",
-      "title": "Calvert-Lewin becoming the complete striker",
-      "link": "https://www.skysports.com/football/news/12040/13589022/dominic-calvert-lewin-adds-goals-to-become-one-of-premier-leagues-most-complete-strikers-the-radar",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-calvert-lewin-dominic_7354790.jpg?20260917173617"
-    },
-    {
-      "source": "sky",
-      "title": "Alonso: Chelsea didn't need a reset - they just needed an update",
-      "link": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
-      "summary": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-xabi-alonso-chelsea_7354698.jpg?20260917152155"
-    },
-    {
-      "source": "sky",
-      "title": "'He's furious!' - McIlroy shows his frustration after wayward approach shots",
-      "link": "https://www.skysports.com/watch/video/13588977/bmw-championship-rory-mcilroy-feighs-club-throw-before-finding-rough-a-hole-later",
-      "summary": "Rory McIlory hit two wayward shots on the sixth and seventh holes at the BMW Championships, with the first almost leading him to throw his club.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rory-mciltory_7354572.jpg?20260917125118"
-    },
-    {
-      "source": "sky",
-      "title": "NFL 2026: UK times and weekly match schedule",
-      "link": "https://www.skysports.com/nfl/news/12040/13544294/nfl-fixtures-and-schedule-2026-uk-times-for-2026-regular-season-games-and-post-season-playoffs-on-road-to-super-bowl-lxi",
-      "summary": "All the fixtures and UK timings for the NFL's 2026 season as the chase to lift the Vince Lombardi Trophy starts all over again.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-nfl-logo-2026_7249490.jpg?20260515131213"
     }
   ]
 }
