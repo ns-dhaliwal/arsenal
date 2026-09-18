@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T07:52:51.969509+00:00",
+  "lastUpdated": "2026-09-18T12:36:13.878042+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arteta responds to journalist's wishes over new contract",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqdr72v42nxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal manager Mikel Arteta responded to questions about his future at the Emirates and insists a contract will be signed \"when the time is right\".",
+      "published": "2026-09-18T10:33:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ea/live/e93316a0-b349-11f1-bc1f-3f186ca4140c.jpg"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 things to look out for this weekend",
@@ -338,20 +346,60 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa59/live/179ef150-a646-11f1-8d30-cf6fd28b1367.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Why didn't Arsenal sign a striker this summer?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c4gj0377543o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport football reporter Alex Howell breaks down Arsenal's attempts to sign a striker during the summer transfer window.",
-      "published": "2026-09-01T22:50:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4257/live/f5e862e0-a653-11f1-aed2-8d6da8d75094.jpg"
+      "source": "sky",
+      "title": "Weekend Winners: Almekarem backed for handicap glory at Newbury",
+      "link": "https://www.skysports.com/racing/news/12040/13589228/weekend-winners-almekarem-backed-for-handicap-victory-at-newbury-on-saturday-with-stem-also-fancied",
+      "summary": "Ahead of a busy Saturday from Newbury, the Weekend Winners panel previewed the big Dubai Duty Free Handicap, which is live on Sky Sports Racing at 2.27pm.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal owner Kroenke buys MLB franchise LA Angels",
-      "link": "https://www.bbc.co.uk/sport/baseball/articles/cm27nee21xro?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal owner Stan Kroenke buys Major League Baseball franchise the Los Angeles Angels in a deal reportedly worth $4bn.",
-      "published": "2026-09-01T20:43:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c5/live/73cc1b70-a640-11f1-b109-879e35c24276.jpg"
+      "source": "sky",
+      "title": "'Embrace the chaos' - What we learnt from Tuchel's England picks",
+      "link": "https://www.skysports.com/football/news/12040/13589219/england-squad-thomas-tuchels-three-lions-selections-analysed-as-trent-alexander-arnold-and-cole-palmer-return-after-world-cup",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kobbie-mainoo-trent-alexander-arnold_7355291.jpg?20260918114847"
+    },
+    {
+      "source": "sky",
+      "title": "Why Klopp's 'one of 83 million' cap was significant",
+      "link": "https://www.skysports.com/football/news/12040/13589259/why-jurgen-klopps-one-of-83-million-cap-was-significant-as-he-named-two-germany-squads",
+      "summary": "Jurgen Klopp has named two separate Germany squads for the upcoming Nations League matches in his first act as head coach.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jurgen-klopp-germany_7355349.jpg?20260918123215"
+    },
+    {
+      "source": "sky",
+      "title": "Richards looks to relaunch world championship charge against Kalajdzic",
+      "link": "https://www.skysports.com/boxing/news/12040/13589258/craig-richards-looks-to-relaunch-world-championship-charge-against-radivoje-kalajdzic-on-september-26-live-on-sky-sports",
+      "summary": "Craig Richards returns to his home city of London for a crucial fight when he boxes at the Copper Box Arena on September 26, live on Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/21/05/1920x1080/skysports-craig-richards-boxing_5363164.jpg?20210501195551"
+    },
+    {
+      "source": "sky",
+      "title": "McIlroy, Rai begin second rounds at Wentworth as Scott leads LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13586094/bmw-pga-championship-pro-am-tee-times-celebrity-handicaps-highlights-as-gareth-bale-john-terry-eden-hazard-feature",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rory-mcilroy_7355344.jpg?20260918124524"
+    },
+    {
+      "source": "sky",
+      "title": "'Tuchel's learned from World Cup mistakes' - Tuchel's England squad EXPLAINED",
+      "link": "https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out",
+      "summary": "Sky Sports chief correspondent Kaveh Solhekol is at Wembley with the latest on Thomas Tuchel's England squad.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kaveh-england-squad_7355206.jpg?20260918101411"
+    },
+    {
+      "source": "sky",
+      "title": "Doyle: Arapaho can strike gold in Newbury's Mill Reef Stakes",
+      "link": "https://www.skysports.com/racing/news/12040/13589222/hollie-doyle-arapaho-gold-can-continue-unbeaten-run-for-michael-dods-in-newburys-mill-reef-stakes",
+      "summary": "Our ambassador Hollie Doyle previews a busy Saturday which features the Group Two Mill Reef Stakes at Newbury &#8211; live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-hollie-doyle-blog_7235426.png?20260430170802"
     },
     {
       "source": "sky",
@@ -371,6 +419,22 @@
     },
     {
       "source": "sky",
+      "title": "The best plays of Allen's starring role in impressive Bills win",
+      "link": "https://www.skysports.com/watch/video/13589186/nfl-allen-plays-starring-role-in-impressive-bills-performance",
+      "summary": "Buffalo Bills quarterback Josh Allen's best plays from his five touchdown game against the Detroit Lions in Week 2 of the 2026 NFL season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-allen-nfl_7355082.jpg?20260918072838"
+    },
+    {
+      "source": "sky",
+      "title": "Tuchel: 99.9 per cent of fans I meet don't ask me about Argentina subs",
+      "link": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
+      "summary": "Thomas Tuchel says &#8220;99.9 per cent&#8221; of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-thomas-tuchel-england_7298902.jpg?20260716104539"
+    },
+    {
+      "source": "sky",
       "title": "Nasser: Pietersen could be key for 'second coming' of Banton",
       "link": "https://www.skysports.com/cricket/news/12040/13589123/england-vs-sri-lanka-nasser-hussain-says-new-white-ball-mentor-kevin-pietersen-could-be-key-for-second-coming-of-tom-banton",
       "summary": "Nasser Hussain has lauded the \"second coming\" of England batter Tom Banton and says the appointment of new white-ball mentor Kevin Pietersen could be key to his development in the middle order.",
@@ -384,6 +448,30 @@
       "summary": "Josh Allen quickly put his stamp on the Buffalo Bills' new Highmark Stadium as he threw three touchdown passes and ran for two scores as the Bills beat the Detroit Lions 41-31 on Thursday night.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-buffalo-bills-josh-allen_7355052.jpg?20260918062222"
+    },
+    {
+      "source": "sky",
+      "title": "How will Garrett injury impact Rams?",
+      "link": "https://www.skysports.com/watch/video/13589183/inside-the-huddle-how-will-garrett-injury-impact-rams",
+      "summary": "Speaking on Inside The Huddle, Neil Reynolds and Phoebe Schecter discuss what impact Myles Garrett's injury will have on the Los Angeles Rams.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-garrett-rams_7355071.jpg?20260918070023"
+    },
+    {
+      "source": "sky",
+      "title": "Fiercest rivalry in football? Millwall and West Ham face off after 14-year wait",
+      "link": "https://www.skysports.com/football/news/12040/13588943/millwall-vs-west-ham-london-rivalry-returns-after-14-year-wait-with-big-championship-showdown-at-the-den",
+      "summary": "One of football's fiercest rivalries is back.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-efl-championship_7355118.jpg?20260918085953"
+    },
+    {
+      "source": "sky",
+      "title": "Palmer and Alexander-Arnold recalled to England squad",
+      "link": "https://www.skysports.com/football/news/12040/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel",
+      "summary": "Trent Alexander-Arnold and Cole Palmer have been recalled to the England squad by Thomas Tuchel for the upcoming Nations League games.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer-trent-alexander-arnold_7355213.jpg?20260918102647"
     },
     {
       "source": "sky",
@@ -411,107 +499,11 @@
     },
     {
       "source": "sky",
-      "title": "Palace latest: Sage says the fans love Sarr - and he deserves it!",
+      "title": "Palace latest: Sage aiming to build on Poznan win",
       "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
-    },
-    {
-      "source": "sky",
-      "title": "Van Gerwen dumped out in first round at World Series of Darts Finals",
-      "link": "https://www.skysports.com/darts/news/12040/13589036/world-series-of-darts-finals-michael-van-gerwen-loses-to-daryl-gurney-as-luke-humphries-gian-van-veen-progress-in-first-round",
-      "summary": "Michael van Gerwen's title defence at the World Series of Darts Finals came to an end in the first round after he was beaten 6-5 by Daryl Gurney.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-darts-jermaine-wattimena_7354958.jpg?20260917220143"
-    },
-    {
-      "source": "sky",
-      "title": "MK Dons still searching for first win after goalless draw at Wimbledon",
-      "link": "https://www.skysports.com/football/afc-wimbledon-vs-milton-keynes-dons/report/561674",
-      "summary": "MK Dons are without a win in seven League One games this season after being held to a 0-0 draw by AFC Wimbledon at the Cherry Red Records Stadium.",
-      "published": null,
-      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
-    },
-    {
-      "source": "sky",
-      "title": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
-      "link": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
-      "summary": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-floyd-samba_7354867.jpg?20260917200631"
-    },
-    {
-      "source": "sky",
-      "title": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
-      "link": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
-      "summary": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7354980.jpg?20260917221800"
-    },
-    {
-      "source": "sky",
-      "title": "Why Coventry are not a hopeless case despite miserable start",
-      "link": "https://www.skysports.com/football/news/12040/13588558/nottingham-forest-vs-coventry-city-why-unusually-tough-start-should-not-be-used-to-measure-frank-lampards-side",
-      "summary": "Coventry have been dealt an extraordinarily tough opening hand, playing four of the current top five as introduction to their first Premier League campaign for 25 years, the top two away from home.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-frank-lampard-coventry-city_7353687.jpg?20260916133323"
-    },
-    {
-      "source": "sky",
-      "title": "World Series of Darts Finals: Schedule with Littler, Humphries, Price in action",
-      "link": "https://www.skysports.com/darts/news/12040/13583670/world-series-of-darts-finals-2026-schedule-and-results-with-luke-littler-luke-humphries-michael-van-gerwen-gian-van-veen-in-action",
-      "summary": "The schedule and results for the 2026 World Series of Darts Finals in Amsterdam  with Luke Littler, Luke Humphries, Gerwyn Price and Gian van Veen in action.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-luke-humphries_7354383.jpg?20260917102401"
-    },
-    {
-      "source": "sky",
-      "title": "Banton and record-breaking Buttler propel England to series win over Sri Lanka",
-      "link": "https://www.skysports.com/cricket/news/12040/13589035/england-vs-sri-lanka-jos-buttler-breaks-t20-runs-record-as-harry-brooks-side-clinch-series-win-with-game-to-spare",
-      "summary": "Tom Banton notched an inspired 52no off 24 balls to steer England to a comprehensive six-wicket victory over Sri Lanka in the second T20 to clinch the three-match series with a game to spare.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-england-t20-jos-buttler_7354887.jpg?20260917204011"
-    },
-    {
-      "source": "sky",
-      "title": "Palace power past Lech Poznan to win on Europa League debut",
-      "link": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
-      "summary": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-crystal-palace-pino_7354931.jpg?20260917222620"
-    },
-    {
-      "source": "sky",
-      "title": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
-      "link": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
-      "summary": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-justin-kluivert-bournemouth_7354883.jpg?20260917203207"
-    },
-    {
-      "source": "sky",
-      "title": "England cruise to series win over Sri Lanka with comfortable victory in Cardiff",
-      "link": "https://www.skysports.com/watch/video/13589119/england-vs-sri-lanka-2nd-t20-highlights",
-      "summary": "The pick of the action from Cardiff as England dashed to a target of 146 against Sri Lanka to wrap up a T20 series win with a game to spare.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cricket-highlights_7354940.jpg?20260917213739"
-    },
-    {
-      "source": "sky",
-      "title": "'We'll get ourselves together' - O'Neill confident Celtic will bounce back from EL loss",
-      "link": "https://www.skysports.com/watch/video/13589150/celtic-1-3-ferencvaros-martin-oneill-confident-they-will-recover-from-europa-league-loss-ahead-of-rangers-clash-live-on-sky",
-      "summary": "Celtic manager Martin O'Neill is confident they will recover from their Europa League defeat to Ferencvaros and be ready for Sunday's Premiership clash with Rangers, live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7354941.jpg?20260917213846"
-    },
-    {
-      "source": "sky",
-      "title": "Somerset's title hopes hit while Stokes stars with ball for Durham",
-      "link": "https://www.skysports.com/cricket/news/12040/13589027/county-championship-somersets-title-hopes-hit-as-former-england-captain-ben-stokes-stars-with-ball-for-durham",
-      "summary": "Dom Bess dented the Rothesay County Championship title hopes of old club Somerset after he struck 77 for Yorkshire to set a tricky final-day victory target of 287.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-dom-bess-yorkshire_7354855.jpg?20260917195020"
     }
   ]
 }
