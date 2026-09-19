@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-19T19:54:42.739340+00:00",
+  "lastUpdated": "2026-09-19T22:03:28.839878+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
+      "published": "2026-09-19T21:59:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b874/live/5423d830-b473-11f1-a430-4d16ee157c41.jpg"
+    },
     {
       "source": "bbc",
       "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
@@ -347,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Littler scrapes past Aspinall in World Series of Darts Finals",
+      "link": "https://www.skysports.com/darts/news/12040/13589960/world-series-of-darts-finals-luke-littler-wins-last-leg-decider-vs-nathan-aspinall-to-move-step-closer-to-sweep-of-majors-in-one-year",
+      "summary": "Luke Littler moved a step closer to his first clean sweep of majors in one year with a hard-fought win over Nathan Aspinall in Amsterdam.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-darts_7355842.jpg?20260918221529"
+    },
+    {
+      "source": "sky",
+      "title": "Rosenior goads Strasbourg fans after Paris FC win",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-liam-rosenior-image_7356727.jpg?20260919213930"
+    },
+    {
+      "source": "sky",
       "title": "Curtain falls on historic Peters era at Hull KR",
       "link": "https://www.skysports.com/rugby-league/news/12040/13589940/willie-peters-era-at-hull-kr-ends-after-eliminator-loss-thank-you-for-the-memories-i-will-miss-you-dearly",
       "summary": "In 2025 Hull KR became just the fifth team to win the Super League Grand Final in the 30 years of the competition.",
@@ -400,6 +424,14 @@
       "summary": "The Blaze secured a domestic treble by edging a last-ball thriller with Hampshire to win the Metro Bank One Day Cup women&#8217;s competition.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tammy-beaumont-emma-jones_7356573.jpg?20260919184610"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
+      "link": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "sky",
@@ -480,30 +512,6 @@
       "summary": "Smilla Holmberg rescues draw for Arsenal with late goal against Manchester United.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-homlberg-arsenal_7356641.jpg?20260919193226"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham latest: Spitting allegation made as Nuno backs Kante red-card foul",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-west-ham-news-club_7039266.jpg?20251002160718"
-    },
-    {
-      "source": "sky",
-      "title": "Zigiotti capitalises on Arsenal error to give Man Utd shock lead!",
-      "link": "https://www.skysports.com/watch/video/13589906/arsenal-0-1-manchester-united-julia-zigiotti-captialises-on-error-to-give-man-utd-shock-lead",
-      "summary": "Julia Zigiotti gives Manchester United a 1-0 lead in their WSL clash with Arsenal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-arsenal-man-utd_7356602.jpg?20260919190003"
-    },
-    {
-      "source": "sky",
-      "title": "Rabbit punch leads to RED card! Hiku sent off in eliminator",
-      "link": "https://www.skysports.com/watch/video/13589905/warrington-v-hull-kr-peta-hiku-sent-off-for-punch",
-      "summary": "Peta Hiku is shown a straight red card for throwing a rabbit punch, leaving Hull KR down to 12-men in their Super League eliminator against Warrington Wolves.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-red-card-rl_7356594.jpg?20260919185309"
     }
   ]
 }
