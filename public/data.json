@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-19T05:24:38.981889+00:00",
+  "lastUpdated": "2026-09-19T10:08:53.271123+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League today: How to watch Brighton v Arsenal, TV channels & live stream",
+      "link": "https://www.theguardian.com/football/2026/sep/19/how-to-watch-brighton-arsenal-premier-league",
+      "summary": "How will Brighton and Arsenal fare today? Here is what to know, including kick-off time, TV channels and live stream optionsArsenal have picked up where they left off – as the team to beat at the top of the Premier League table. Indeed, four wins from four games have underlined the strength of Mikel Arteta’s team with the Gunners favorites to retain the title they won last season.Brighton have als",
+      "published": "2026-09-19T09:00:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/a203d91d3390426f97ad78a6020de8bfb7b35f77/251_0_2498_1999/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=09ec2833d98aec3006e7856b31327b10"
+    },
     {
       "source": "bbc",
       "title": "Arsenal open to Dowman loan in right circumstances",
@@ -258,14 +266,6 @@
       "image": "https://i.guim.co.uk/img/media/21f5852e31637f2be456494176f5f09d92aa7289/87_0_4822_3859/master/4822.jpg?width=140&quality=85&auto=format&fit=max&s=088c00af48f10bd54c0e192e384004cf"
     },
     {
-      "source": "guardian",
-      "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-      "link": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
-      "summary": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy Award for best actor in 1929? It was Emil Jannings, even if someone else might have been tempted to go with Charlie Chaplin. Which country publishes the highest numb",
-      "published": "2026-09-10T06:00:19+00:00",
-      "image": "https://i.guim.co.uk/img/media/b4de689f6d173080a8042654badf206771eb9325/397_0_3971_3177/master/3971.jpg?width=140&quality=85&auto=format&fit=max&s=c7e09470346aedc7283ec46e35dcfb32"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal are passing every test - and Odegaard is in form of his life",
       "link": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
@@ -347,6 +347,22 @@
     },
     {
       "source": "sky",
+      "title": "Pirotton pledges Fisher upset: 'I know his mind is broke'",
+      "link": "https://www.skysports.com/boxing/news/12040/13589323/johnny-fisher-michael-pirotton-pledges-september-26-copper-box-upset-his-mind-is-broke-too-much-pressure",
+      "summary": "Michael Pirotton has a stark warning for Johnny Fisher ahead of their fight on September 26.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-johnny-fisher-david-allen_7355462.jpg?20260918143843"
+    },
+    {
+      "source": "sky",
+      "title": "Unbeaten Arapaho Gold tackles Mill Reef test",
+      "link": "https://www.skysports.com/racing/news/12040/13589034/today-on-sky-sports-racing-chester-newcastle-and-newbury-as-arapaho-gold-goes-in-mill-reef",
+      "summary": "We have a busy day&#8217;s racing on Saturday with flat action from Chester, Newbury and Newcastle, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-york-arapaho-gold_7327548.jpg?20260821180340"
+    },
+    {
+      "source": "sky",
       "title": "'Bullied' and 'out of control' - Chelsea's defensive issues laid bare",
       "link": "https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat",
       "summary": "\"You need to feel it. We're not feeling it,\" said Xabi Alonso after Chelsea's 3-0 loss at Brentford. Yet Chelsea are stuck in a familiar feeling.",
@@ -395,11 +411,27 @@
     },
     {
       "source": "sky",
-      "title": "Biltmore Championship | Day two highlights",
+      "title": "Spurs vs Aston Villa team news LIVE!",
+      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-roberto-de-zerbi_7349688.jpg?20260912193516"
+    },
+    {
+      "source": "sky",
+      "title": "Shipley claims 36-hole lead at Biltmore Championship",
       "link": "https://www.skysports.com/watch/video/13589539/biltmore-championship-day-two-highlights",
       "summary": "Highlights from the second round of the Biltmore Championship at The Cliffs Walnut Cove Golf Course in Asheville, North Carolina.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-shipley_7355909.jpg?20260919000000"
+    },
+    {
+      "source": "sky",
+      "title": "Wakefield's Guler sees RED after face punch",
+      "link": "https://www.skysports.com/watch/video/13589503/emre-guler-sees-red-wakefield-trinity-down-to-12-against-leigh-leopards",
+      "summary": "Take a look as Emre Guler gets sent off for Wakefield Trinity against Leigh Leopards .",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-red-card-guler_7355829.jpg?20260918220114"
     },
     {
       "source": "sky",
@@ -472,38 +504,6 @@
       "summary": "York Valkyrie are through to the 2026 Women's Super League Grand Final against Wigan Warriors following a superb 12-0 semi-final away victory over Leeds Rhinos.&#160;",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-york-valkyrie-adoaha-akwiwu_7355650.jpg?20260918190231"
-    },
-    {
-      "source": "sky",
-      "title": "Powell: My Wakefield pack is unbelievable | Lam: Leigh 'diabolical' at times",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13586226/super-league-eliminators-live-updates-commentary-videos-scores-as-wakefield-trinity-take-on-leigh-leopards-for-spot-in-semi-finals",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wakefield-vagana_7355827.jpg?20260918220013"
-    },
-    {
-      "source": "sky",
-      "title": "No charges against Carse after police close alleged assault investigation",
-      "link": "https://www.skysports.com/cricket/news/12040/13589398/brydon-carse-no-charges-against-england-cricketer-after-police-close-investigation-into-alleged-assault-at-nightclub",
-      "summary": "Brydon Carse will not face any charges after Derbyshire Police closed their investigation into an alleged assault following an incident involving the England cricketer at a nightclub in Derby.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-carse-england_7329291.jpg?20260823164442"
-    },
-    {
-      "source": "sky",
-      "title": "Gerard surges to take clubhouse lead, as McIlroy impresses at Wentworth",
-      "link": "https://www.skysports.com/golf/news/12040/13589419/bmw-pga-championship-2026-ryan-gerard-takes-two-shot-lead-at-halfway-stage-as-mcilroy-impresses-to-go-four-shots-back",
-      "summary": "Ryan Gerard leapfrogged Adam Scott and Filippo Celli to take a two-shot lead at the halfway stage of the BMW PGA Championship, as Rory McIlroy impressed on day two to finish four shots off the lead.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-gerard_7355618.jpg?20260918182209"
-    },
-    {
-      "source": "sky",
-      "title": "Gabriel edging closer to Man Utd exit as Barca and Real talks advance",
-      "link": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
-      "summary": "Barcelona and Real Madrid are in transfer talks to sign Manchester United youngster JJ Gabriel.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jj-gabriel-manchester-united_7352292.jpg?20260918173930"
     }
   ]
 }
