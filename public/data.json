@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-09-20T20:09:48.047830+00:00",
+  "lastUpdated": "2026-09-20T22:53:32.349397+00:00",
   "articles": [
-    {
-      "source": "bbc",
-      "title": "Maresca post-match interview: Manchester City 5-3 Sunderland",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6kgxpvppzy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City manager Enzo Maresca reflects on a thrilling 5-3 win over Sunderland at home, after which they sit top of the Premier League and remain unbeaten.",
-      "published": "2026-09-20T15:57:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddb6/live/27712430-b50b-11f1-bc1f-3f186ca4140c.jpg"
-    },
     {
       "source": "bbc",
       "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
@@ -355,6 +347,22 @@
     },
     {
       "source": "sky",
+      "title": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
+      "link": "https://www.skysports.com/cricket/news/12040/13590258/metro-bank-one-day-cup-mens-final-middlesex-beat-leicestershire-foxes-to-end-36-year-list-a-trophy-wait",
+      "summary": "Middlesex ended a 36-year List A trophy drought by beating Leicestershire Foxes by 31 runs to win the Metro Bank One Day Cup in a low-scoring final at Trent Bridge.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-middlesex-leicestershire-foxes_7357467.jpg?20260920210051"
+    },
+    {
+      "source": "sky",
+      "title": "Smith thrashes Price to win World Series after Littler's shock exit",
+      "link": "https://www.skysports.com/darts/news/12040/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
+      "summary": "Ross Smith thrashed Gerwyn Price 11-5 to become World Series of Darts Finals champion, while Luke Littler's hopes of a clean sweep of all major PDC titles in 2026 were dashed in the quarter-finals.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ross-smith-world-series-of-darts_7357509.jpg?20260920222021"
+    },
+    {
+      "source": "sky",
       "title": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
       "link": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
       "summary": "",
@@ -371,7 +379,7 @@
     },
     {
       "source": "sky",
-      "title": "Neville: Carrick has got to stop defending the players",
+      "title": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
       "link": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
       "summary": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
       "published": null,
@@ -411,11 +419,27 @@
     },
     {
       "source": "sky",
+      "title": "NFL results: Williams injured in Bears loss as Saints shock Ravens",
+      "link": "https://www.skysports.com/nfl/live-blog/12040/13590112/nfl-2026-results-and-highlights-caleb-williams-injured-in-chicago-bears-loss-as-new-orleans-saints-beat-baltimore-ravens",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caleb-williams-chicago-bears_7357512.jpg?20260920222052"
+    },
+    {
+      "source": "sky",
       "title": "Cunha's late deflected equaliser grabs Man Utd point at Fulham",
       "link": "https://www.skysports.com/football/fulham-vs-manchester-united/report/559488",
       "summary": "Matheus Cunha's deflected 89th-minute strike grabbed Manchester United a 1-1 draw at Fulham to take the edge off what appeared to be turning into a full-blown crisis for Michael Carrick's side going into the international break.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-matheus-cunha_7357321.jpg?20260920182314"
+    },
+    {
+      "source": "sky",
+      "title": "Bridgeman races to PGA Tour title ahead of Presidents Cup",
+      "link": "https://www.skysports.com/golf/news/12040/13590262/pga-tour-jacob-bridgeman-races-to-biltmore-championship-victory-to-provide-team-usa-form-boost-for-presidents-cup",
+      "summary": "Jacob Bridgeman heads into this week's Presidents Cup debut as a two-time PGA Tour champion after storming to an impressive two-shot win at the Biltmore Championship.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jacob-bridgeman-golf_7357490.jpg?20260920214321"
     },
     {
       "source": "sky",
@@ -480,38 +504,6 @@
       "summary": "Jose Mourinho held up pictures of two tackles to the media in his post-match news conference after Real Madrid's 2-1 La Liga defeat to Atletico Madrid.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jose-mourinho-real-madrid_7357365.jpg?20260920190141"
-    },
-    {
-      "source": "sky",
-      "title": "Carra: One of worst I've seen from Wirtz - he can't play vs Man City",
-      "link": "https://www.skysports.com/football/news/12040/13590105/liverpools-florian-wirtz-put-in-one-of-his-worst-performances-at-bournemouth-and-shouldnt-play-against-man-city-says-jamie-carragher",
-      "summary": "Jamie Carragher says Florian Wirtz put in his worst performance yet in a Liverpool shirt away at Bournemouth - and he would not want the midfielder in Andoni Iraola's team to face Manchester City in the next game.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-wirtz-liverpool_7357301.jpg?20260920182421"
-    },
-    {
-      "source": "sky",
-      "title": "Arbeloa: Officials wouldn't let Man Utd lose",
-      "link": "https://www.skysports.com/football/news/12040/13590215/alvaro-arbeloa-accuses-officials-of-not-wanting-manchester-united-to-lose-after-late-controversy-in-draw-at-fulham",
-      "summary": "Alvaro Arbeloa has accused the referees of not wanting Manchester United to lose against Fulham because of the injustice Michael Carrick's side faced in the Manchester derby last weekend.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-man-utd-fulham_7357354.jpg?20260920185345"
-    },
-    {
-      "source": "sky",
-      "title": "Birdie to win, par for a play-off...  Elvira's nightmare finish hands Spaun title",
-      "link": "https://www.skysports.com/watch/video/13590176/bmw-pga-championship-jj-spaun-wins-as-manuel-elvira-cards-seven-on-final-hole",
-      "summary": "JJ Spaun wins the BMW PGA Championship after Manuel Elvira carded a nightmare seven on the final hole of the tournament.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-elvira-bmw-pga-golf_7357264.jpg?20260920173849"
-    },
-    {
-      "source": "sky",
-      "title": "Arsenal latest: Gunners defeat to Brighton is good for the league, says Carra",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     }
   ]
 }
