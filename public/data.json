@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-21T05:47:09.072330+00:00",
+  "lastUpdated": "2026-09-21T11:44:47.601421+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "link": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+      "summary": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with LeedsPremier League table | Top scorersIn the week that 16-year-old Max Dowman has been thrust into the spotlight, it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his home",
+      "published": "2026-09-21T07:00:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/bde17eeb99d7b2d40604b6d2c5a4aed5cff4b886/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d05238997737a3438c0e4274196aa772"
+    },
     {
       "source": "bbc",
       "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
@@ -258,14 +266,6 @@
       "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&quality=85&auto=format&fit=max&s=3f975d1380e44e54033e9e8c373de7ba"
     },
     {
-      "source": "guardian",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "link": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
-      "summary": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old TraffordPremier League top scorers 2026-27: who is leading race for the golden boot?With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most",
-      "published": "2026-09-10T23:01:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/75098c550d1b5197b781d02cb9523c0c7e59d891/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bb20dccb2697fc71adad8bd70770ddc4"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal close to finalising new contract for Arteta",
       "link": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
@@ -338,12 +338,140 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7364/live/28ce1350-a95e-11f1-99c3-dba02712eb49.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arteta laughs at nickname for Arsenal's front three",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cy7z0zde4pro?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta laughed off a question from a journalist about Chelsea's front three and a suggested nickname for his own attackers.",
-      "published": "2026-09-04T18:26:25+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53f/live/08be55f0-a88e-11f1-a291-b542ee92de7c.jpg"
+      "source": "sky",
+      "title": "How Warwickshire can seal three-way battle for County Championship title",
+      "link": "https://www.skysports.com/cricket/news/12040/13590403/county-championship-permutations-warwickshire-attempt-to-seal-division-one-title-with-somerset-and-nottinghamshire-still-in-contention",
+      "summary": "The final round of fixtures in the County Championship begins on Thursday with three teams still in contention for the title, while who will be relegated from and promoted to Division One is also still to be decided.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-warwickshire-hannon-dalby_7357864.jpg?20260921122506"
+    },
+    {
+      "source": "sky",
+      "title": "Wilson ruled out of Wales' Nations League games",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-harry-wilson-wales_7204014.jpg?20260326202607"
+    },
+    {
+      "source": "sky",
+      "title": "Sunderland latest: Xhaka withdraws from Switzerland squad",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
+    },
+    {
+      "source": "sky",
+      "title": "Out-run? Walking too much? Man Utd's running stats examined",
+      "link": "https://www.skysports.com/football/news/12040/13590371/manchester-united-running-stats-for-michael-carricks-side-examined-after-intensity-criticism-in-draw-at-fulham",
+      "summary": "Manchester United's intensity levels are back in the spotlight after their 1-1 draw at Fulham in the Premier League.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-youri-tielemans-manchester_7357812.jpg?20260921113924"
+    },
+    {
+      "source": "sky",
+      "title": "Littler withdraws from Players Championship events after clean sweep hopes dashed",
+      "link": "https://www.skysports.com/darts/news/12040/13590401/luke-littler-withdraws-from-players-championship-events-after-hopes-of-pdc-title-sweep-dashed",
+      "summary": "Luke Littler has withdrawn from two Players Championship events in the Netherlands less than 24 hours after his bid for a PDC majors title clean sweep was dashed.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-luke-littler-darts_7357137.jpg?20260920154649"
+    },
+    {
+      "source": "sky",
+      "title": "Palmer withdrawing from England squad",
+      "link": "https://www.skysports.com/football/news/12040/13590334/england-latest-cole-palmer-withdraws-from-thomas-tuchels-squad-ahead-of-long-international-break",
+      "summary": "Cole Palmer is withdrawing from the England squad because of a muscle injury.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-cole-palmer_7357649.jpg?20260921095715"
+    },
+    {
+      "source": "sky",
+      "title": "Merson: There's no way Man City win the league",
+      "link": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
+      "summary": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-haaland-man-city_7357757.jpg?20260921104931"
+    },
+    {
+      "source": "sky",
+      "title": "Ref Watch & Premier League weekend reaction",
+      "link": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-ref-watch-arsenal_7097559.jpg?20251201130707"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Neville calls for formation change after 'worst 15 mins' vs Fulham",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+    },
+    {
+      "source": "sky",
+      "title": "Taylor Swift sends message after record-breaking Kelce touchdown!",
+      "link": "https://www.skysports.com/watch/video/13590323/taylor-swift-shows-her-wedding-ring-and-send-message-after-record-breaking-travis-kelce-touchdown",
+      "summary": "Taylor Swift showed off her wedding ring and sent a message to husband Travis Kelce after he broke the all-time NFL record for career yards after the catch (YAC) against the Indianapolis Colts.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-nfl-taylor_7357616.jpg?20260921073952"
+    },
+    {
+      "source": "sky",
+      "title": "Catch of the season already?! | Chase makes SENSATIONAL TD catch!",
+      "link": "https://www.skysports.com/watch/video/13590232/nfl-jamarr-chase-makes-catch-of-the-season-contender-for-incredible-td",
+      "summary": "Cincinnati Bengals wideout Ja'Marr Chase somehow stays inbounds for this brilliant touchdown in the Bengals' clash with the Houston Texans.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-chase-nfl_7357411.jpg?20260920193319"
+    },
+    {
+      "source": "sky",
+      "title": "Packers and Jets goes down to the wire in OT!",
+      "link": "https://www.skysports.com/watch/video/13590283/green-bay-packers-new-york-jets-week-2-nfl-highlights",
+      "summary": "Highlights of the Week 2 game between Green Bay Packers and New York Jets.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-packers-jets_7357521.jpg?20260920223507"
+    },
+    {
+      "source": "sky",
+      "title": "Did Rice escape red for 'petulant' kick? What's the difference with Foden/Fernandes?",
+      "link": "https://www.skysports.com/watch/video/13590387/ref-watch-declan-rice-escape-red-for-petulant-incident-with-malick-yalcouye-against-brighton",
+      "summary": "On Ref Watch, Dermot Gallagher and Jay Bothroyd look at Declan Rice's kick out on Malick Yalcouye. Also, how it compares to Phil Foden's kick out on Bruno Fernandes.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rice-football_7357807.jpg?20260921113546"
+    },
+    {
+      "source": "sky",
+      "title": "That HAS to hurt! | Player leaves game after team-mates' unfortunate landing!",
+      "link": "https://www.skysports.com/watch/video/13590290/nfl-player-writhes-in-pain-after-teammates-unfortunate-landing",
+      "summary": "Cobie Durant required medical treatment after Markquese Bell landed on his team-mate during their team's clash with the Washington Commanders.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-colbie-durant_7357547.jpg?20260920233133"
+    },
+    {
+      "source": "sky",
+      "title": "Euro Debrief: Salah stars, Mourinho moans and Amorim adapts",
+      "link": "https://www.skysports.com/football/news/12040/13586130/raphinha-and-mo-salah-hat-tricks-harry-kane-landmark-ruben-amorim-finally-adapts-plus-more-in-the-euro-debrief",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-euro-debrief-ruben-amorim_7357758.jpg?20260921105019"
+    },
+    {
+      "source": "sky",
+      "title": "Bears' star QB Williams leaves field in tears after non-contact injury",
+      "link": "https://www.skysports.com/watch/video/13590261/chicago-bears-star-quaterback-caleb-williams-leaves-field-in-tears-after-non-contact-injury",
+      "summary": "Chicago Bears quarterback Caleb Williams was carted off the field after a non-contact injury during his side's clash with the Minnesota Vikings.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caleb-williams_7357495.jpg?20260920220331"
     },
     {
       "source": "sky",
@@ -351,159 +479,23 @@
       "link": "https://www.skysports.com/f1/news/12040/13589366/kimi-antonelli-versus-his-mind-will-decide-2026-formula-1-title-race-says-nico-rosberg-ahead-of-azerbaijan-grand-prix",
       "summary": "Former Formula 1 world champion Nico Rosberg believes Kimi Antonelli's biggest obstacle will be himself in this season's title race run-in.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7355013.jpg?20260917230134"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7355013.jpg?20260921095849"
     },
     {
       "source": "sky",
-      "title": "Middlesex beat Leicestershire to end 36-year List A trophy wait",
-      "link": "https://www.skysports.com/cricket/news/12040/13590258/metro-bank-one-day-cup-mens-final-middlesex-beat-leicestershire-foxes-to-end-36-year-list-a-trophy-wait",
-      "summary": "Middlesex ended a 36-year List A trophy drought by beating Leicestershire Foxes by 31 runs to win the Metro Bank One Day Cup in a low-scoring final at Trent Bridge.",
+      "title": "NFL Weekend Review: Mastermind Flores dominates Bears",
+      "link": "https://www.skysports.com/nfl/news/12040/13590115/nfl-weekend-review-brian-flores-dominates-chicago-bears-tyler-shough-heroics-and-more-justin-herbert-misery",
+      "summary": "Brian Flores strikes again, another New Orleans Saints comeback and more pressure on Justin Herbert and the Los Angeles Chargers. Here is our review of NFL Sunday...",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-middlesex-leicestershire-foxes_7357467.jpg?20260920210051"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-chicago-bears-nfl_7357574.jpg?20260921025051"
     },
     {
       "source": "sky",
-      "title": "Smith thrashes Price to win World Series after Littler's shock exit",
-      "link": "https://www.skysports.com/darts/news/12040/13590270/world-series-of-darts-finals-ross-smith-thrashes-gerwyn-price-in-final-after-luke-littlers-dream-of-clean-sweep-ends",
-      "summary": "Ross Smith thrashed Gerwyn Price 11-5 to become World Series of Darts Finals champion, while Luke Littler's hopes of a clean sweep of all major PDC titles in 2026 were dashed in the quarter-finals.",
+      "title": "The moment Littler's clean sweep bid ended at the World Series Finals!",
+      "link": "https://www.skysports.com/watch/video/13590158/world-series-of-darts-final-the-moment-luk-littlers-clean-sweep-bid-ended",
+      "summary": "Jonny Clayton ended Luke Littler's clean sweep at the World Series of Darts Finals. Credit: @OfficialPDC.",
       "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ross-smith-world-series-of-darts_7357509.jpg?20260920222021"
-    },
-    {
-      "source": "sky",
-      "title": "Fisher vs Pirotton: What you need to know for 'golden ticket' fight",
-      "link": "https://www.skysports.com/boxing/news/12040/13589385/johnny-fisher-vs-michael-pirotton-fight-time-ringwalks-undercard-and-how-to-watch-or-stream-live-on-sky-sports",
-      "summary": "All you need to know ahead of Johnny Fisher&#8217;s heavyweight clash with Michael Pirotton in London live on Sky Sports.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-boxing-zuffa-announcement_7292905.jpg?20260708124645"
-    },
-    {
-      "source": "sky",
-      "title": "Hits and misses: Maresca's Man City serve up pure chaos as Gakpo shines",
-      "link": "https://www.skysports.com/football/news/12040/13590166/man-city-serve-up-pure-chaos-under-enzo-maresca-as-cody-gakpo-shines-for-liverpool-premier-league-hits-and-misses",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-premier-league-pl-hits-and-misses_7357347.jpg?20260920184427"
-    },
-    {
-      "source": "sky",
-      "title": "'I deserve to be in!' - Spaun uses Team USA snub as fuel for Wentworth win",
-      "link": "https://www.skysports.com/golf/news/12040/13590009/bmw-pga-championship-how-jj-spaun-used-team-usa-snub-for-presidents-cup-as-motivation-for-dramatic-wentworth-victory",
-      "summary": "JJ Spaun said he played with a \"huge chip on his shoulder\" during his BMW PGA Championship win and used being snubbed by Team USA's Presidents Cup side as motivation for his Wentworth victory.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jj-spaun-golf-bmw-pga-championship_7357229.jpg?20260920165933"
-    },
-    {
-      "source": "sky",
-      "title": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
-      "link": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
-      "summary": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-michael-carrick_7357590.jpg?20260921063832"
-    },
-    {
-      "source": "sky",
-      "title": "Ireland blow 19-point lead to lose to USA in WXV Global Series",
-      "link": "https://www.skysports.com/rugby-union/ireland-women-vs-usa-women/report/113215",
-      "summary": "Ireland blew a 19-point lead to suffer a 40-36 loss to the USA in their opening game of the WXV Global Series.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-freda-tafuna-usa_7357421.jpg?20260920194541"
-    },
-    {
-      "source": "sky",
-      "title": "'Might be time to wrap it up' - O'Neill to consider Celtic future",
-      "link": "https://www.skysports.com/football/news/12040/13590236/martin-oneill-to-consider-celtic-future-as-rangers-defeat-adds-to-growing-scrutiny-might-be-time-to-wrap-it-up",
-      "summary": "Martin O'Neill will take stock as his future as Celtic boss comes under further scrutiny following the 1-0 defeat by Rangers at Parkhead.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-martin-oneill-celtic_7357325.jpg?20260920182927"
-    },
-    {
-      "source": "sky",
-      "title": "Heath bounces back after blowing lead to win first LET event",
-      "link": "https://www.skysports.com/golf/news/12040/13590212/la-sella-open-2026-charlotte-heath-bounces-back-after-blowing-four-shot-lead-to-claim-first-let-title",
-      "summary": "England's Charlotte Heath secured her maiden Ladies European Tour title in dramatic fashion, holding off a host of challengers to claim victory at the La Sella Open in Denia, Alicante.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-charlotte-heath_7357374.jpg?20260920192326"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy closes on Reed after BMW PGA near-miss | 'I had my chances!'",
-      "link": "https://www.skysports.com/golf/news/12040/13590209/rory-mcilroy-switches-focus-to-battle-with-patrick-reed-for-race-to-dubai-title-after-near-miss-at-bmw-pga-championship",
-      "summary": "Rory McIlroy has turned his attention to chasing down Patrick Reed for another Race to Dubai title after a cold putter cost him BMW PGA Championship victory.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rory-mcilroy-golf_7357384.jpg?20260920191519"
-    },
-    {
-      "source": "sky",
-      "title": "NFL results: Williams injured in Bears loss as Saints shock Ravens",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13590112/nfl-2026-results-and-highlights-caleb-williams-injured-in-chicago-bears-loss-as-new-orleans-saints-beat-baltimore-ravens",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-caleb-williams-chicago-bears_7357512.jpg?20260920222052"
-    },
-    {
-      "source": "sky",
-      "title": "Cunha's late deflected equaliser grabs Man Utd point at Fulham",
-      "link": "https://www.skysports.com/football/fulham-vs-manchester-united/report/559488",
-      "summary": "Matheus Cunha's deflected 89th-minute strike grabbed Manchester United a 1-1 draw at Fulham to take the edge off what appeared to be turning into a full-blown crisis for Michael Carrick's side going into the international break.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-matheus-cunha_7357321.jpg?20260920182314"
-    },
-    {
-      "source": "sky",
-      "title": "Bridgeman races to PGA Tour title ahead of Presidents Cup",
-      "link": "https://www.skysports.com/golf/news/12040/13590262/pga-tour-jacob-bridgeman-races-to-biltmore-championship-victory-to-provide-team-usa-form-boost-for-presidents-cup",
-      "summary": "Jacob Bridgeman heads into this week's Presidents Cup debut as a two-time PGA Tour champion after storming to an impressive two-shot win at the Biltmore Championship.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jacob-bridgeman-golf_7357490.jpg?20260920214321"
-    },
-    {
-      "source": "sky",
-      "title": "Palace secure valuable point at unbeaten Leeds",
-      "link": "https://www.skysports.com/football/leeds-united-vs-crystal-palace/report/559489",
-      "summary": "Crystal Palace secured a useful point at in-form and unbeaten Leeds as Pierre Sage's side produced a much-improved defensive display to hold the hosts to a goalless draw at Elland Road.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-tyrick-mitchell-premier-league_7357096.jpg?20260920151532"
-    },
-    {
-      "source": "sky",
-      "title": "Spaun wins BMW PGA Championship as McIlroy falters despite late surge",
-      "link": "https://www.skysports.com/golf/news/12040/13590008/bmw-pga-championship-2026-jj-spaun-snatches-victory-at-wentworth-as-rory-mcilroy-comes-unstuck-despite-late-surge",
-      "summary": "JJ Spaun outlasted a packed leaderboard of players on Sunday at the BMW PGA Championship, as the American capitalised on a stumble from Spain's Manuel Elvira to win his debut title at Wentworth.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jj-spaun-jj-spaun_7357382.jpg?20260920191350"
-    },
-    {
-      "source": "sky",
-      "title": "Littler's bid for major clean sweep ended by crushing Clayton defeat",
-      "link": "https://www.skysports.com/darts/news/12040/13589998/luke-littlers-hopes-of-2026-pdc-major-clean-sweep-over-after-defeat-to-jonny-clayton-at-world-series-of-darts-finals",
-      "summary": "Luke Littler's bid for a clean sweep of all major PDC titles in 2026 is over after a crushing 10-4 defeat to Jonny Clayton in the last eight at the World Series of Darts Finals in Amsterdam.&#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7306792.jpg?20260725215243"
-    },
-    {
-      "source": "sky",
-      "title": "Atletico beat 10-man Real in thrilling LaLiga derby!",
-      "link": "https://www.skysports.com/watch/video/13590185/atletico-madrid-2-1-real-madrid-la-liga-highlights",
-      "summary": "Highlights of the La Liga match between Atletico Madrid and Real Madrid.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-la-liga_7357279.jpg?20260920175433"
-    },
-    {
-      "source": "sky",
-      "title": "Marquinhos winner earns PSG victory over 10-man Marseille!",
-      "link": "https://www.skysports.com/watch/video/13590276/marseille-1-2-paris-saint-germain-ligue-1-highlights",
-      "summary": "Highlights of the Ligue 1 clash between Marseille and Paris Saint-Germain.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-psg_7357507.jpg?20260920221614"
-    },
-    {
-      "source": "sky",
-      "title": "Eight goals and complete CHAOS as Man City somehow beat Sunderland",
-      "link": "https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490",
-      "summary": "Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eight-goal thriller against Sunderland, winning 5-3.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-antoine-semenyo-premier-league_7357115.jpg?20260920152410"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-darts-littler_7357198.jpg?20260920162753"
     }
   ]
 }
