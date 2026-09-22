@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-22T15:20:53.226076+00:00",
+  "lastUpdated": "2026-09-22T19:29:22.521078+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030",
+      "link": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
+      "summary": "Manager’s current deal to expire at end of the seasonSpaniard can expect big increase on £10m-a-year salaryMikel Arteta has agreed a long-term contract extension with Arsenal that includes a hefty pay rise in recognition of his success last season and could take his reign as the manager beyond a decade.The three-year deal he signed in September 2024 expires at the end of this season and talks have",
+      "published": "2026-09-22T17:36:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/d8c26acdcf196fcb29878c727d9df1151b19c423/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=1b75e5b7c18f8663a8719c2df067074b"
+    },
+    {
+      "source": "bbc",
+      "title": "Carsley urges patience over Dowman and England",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2z4x4m9zdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal's Max Dowman has been called up by England Under-19s.",
+      "published": "2026-09-22T17:00:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256e/live/dd112430-b690-11f1-99b0-21d40bed432b.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arteta agrees new deal with champions Arsenal",
@@ -266,14 +282,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ef/live/d2a4fea0-adcf-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "source": "guardian",
-      "title": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
-      "link": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
-      "summary": "Manager wants players to cope with things going wrongOther tactics include making dressing room even hotterMikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality.Arsenal’s flight to Italy on Tuesday for their Champions League opener against Napoli was d",
-      "published": "2026-09-11T10:04:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/8d3591d72fe853bd1c512b77f1f7d4100f5b5b12/37_0_5307_4245/master/5307.jpg?width=140&quality=85&auto=format&fit=max&s=3f975d1380e44e54033e9e8c373de7ba"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal close to finalising new contract for Arteta",
       "link": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
@@ -339,6 +347,38 @@
     },
     {
       "source": "sky",
+      "title": "ProTour winner Menzies reveals heart attack scare before Matchplay incident",
+      "link": "https://www.skysports.com/darts/news/12040/13590775/players-championship-darts-winner-cameron-menzies-reveals-he-thought-he-was-suffering-from-a-heart-attack-during-trip-to-switzerland-last-year",
+      "summary": "Players Championship 29 winner Cameron Menzies has revealed he thought he was suffering from a heart attack on the plane during a trip to Switzerland which forced him to seriously look at his lifestyle.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-cameron-menzies-darts_7304516.jpg?20260722200656"
+    },
+    {
+      "source": "sky",
+      "title": "Arteta agrees new Arsenal contract",
+      "link": "https://www.skysports.com/football/news/12040/13588507/mikel-arteta-contract-arsenal-boss-agrees-new-deal-to-extend-stay-at-premier-league-champions",
+      "summary": "Mikel Arteta has agreed a new deal to extend his stay at Arsenal.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536"
+    },
+    {
+      "source": "sky",
+      "title": "Jacks stars as England beat Sri Lanka in first ODI",
+      "link": "https://www.skysports.com/cricket/news/12040/13590741/england-beat-sri-lanka-by-89-runs-after-will-jacks-heroics-in-one-day-international-in-durham",
+      "summary": "England continued their white-ball dominance over Sri Lanka as an 89-run victory in the first ODI in Durham saw them take a 1-0 lead in the three-match series.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-overton-england-cricket_7358859.jpg?20260922185209"
+    },
+    {
+      "source": "sky",
+      "title": "Celtic CEO backs O’Neill despite 'painful' week",
+      "link": "https://www.skysports.com/football/news/12040/13590809/celtic-martin-oneill-backed-by-chief-executive-michael-nicholson-despite-painful-week",
+      "summary": "Celtic chief executive Michael Nicholson has backed manager Martin O&#8217;Neill despite a \"painful\" week.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7357336.jpg?20260920183359"
+    },
+    {
+      "source": "sky",
       "title": "Scotland's Pocognoli has 'good mix' as he eyes winning start to his reign",
       "link": "https://www.skysports.com/football/news/12040/13590702/scotland-sebastian-pocognoli-has-good-mix-as-new-head-coach-targets-winning-start-in-nations-league",
       "summary": "New Scotland head Sebastien Pocognoli has told Sky Sports it was time for change, believing he has a \"good mix\" in his first squad.",
@@ -347,11 +387,43 @@
     },
     {
       "source": "sky",
+      "title": "Dual Champion Hurdle winner Hurricane Fly dies aged 22",
+      "link": "https://www.skysports.com/racing/news/12040/13590790/hurricane-fly-willie-mullins-trained-dual-champion-hurdle-winner-dies-aged-22",
+      "summary": "Hurricane Fly, the Willie Mullins-trained dual Champion Hurdle winner, has died at the age of 22.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ruby-walsh-hurricane-fly_7358830.jpg?20260922181244"
+    },
+    {
+      "source": "sky",
+      "title": "WCL: Kelly strike ruled out by VAR as Arsenal seek opener LIVE!",
+      "link": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/live/578232",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-chloe-kelly-arsenal_7358912.jpg?20260922201654"
+    },
+    {
+      "source": "sky",
+      "title": "Packer on Red Roses losing their winning run, responding vs NZ and motherhood",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13590630/marlie-packer-chats-to-sky-sports-about-englands-red-roses-losing-their-winning-run-planning-a-response-vs-new-zealand-and-motherhood",
+      "summary": "England Red Roses back-row Marlie Packer chats exclusively to Sky Sports following the end of their 39-Test winning run, and ahead of Saturday's huge home Test against New Zealand's Black Ferns.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-england-red-roses_7358690.jpg?20260922155321"
+    },
+    {
+      "source": "sky",
       "title": "Great Britain out of Billie Jean King Cup Finals as Boulter, Kartal beaten",
       "link": "https://www.skysports.com/tennis/news/12040/13590659/billie-jean-king-cup-great-britain-knocked-out-at-quarter-final-stage-vs-czech-republic-as-katie-boulter-sonay-kartal-beaten",
       "summary": "Great Britain's stay at the Billie Jean King Cup Finals lasted only one match as they fell to Czechia in the quarter-finals in Shenzhen.",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-katie-boulter-gb_7358679.jpg?20260922154850"
+    },
+    {
+      "source": "sky",
+      "title": "Fisher hits back at Pirotton's mental frailty jibe",
+      "link": "https://www.skysports.com/boxing/news/12040/13590777/johnny-fisher-fires-back-at-michael-pirottons-mental-frailty-jibe-the-best-romford-bull-is-yet-to-come",
+      "summary": "Johnny Fisher faced off with opponent Michael Pirotton outside the Copper Box Arena, where the two heavyweights will fight this Saturday, live on Sky Sports.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-johnny-fisher-michael-pirotton_7358788.jpg?20260922171541"
     },
     {
       "source": "sky",
@@ -368,6 +440,14 @@
       "summary": "Are Manchester City really title contenders? Is history repeating itself at Manchester United? Why do big-spending Tottenham still lack a backbone? After just five games, a number of storylines are already emerging.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-sky-sports_7358487.jpg?20260922130922"
+    },
+    {
+      "source": "sky",
+      "title": "'He's so obsessed with his club' | Arteta set to sign new Arsenal deal",
+      "link": "https://www.skysports.com/watch/video/13590801/premier-league-mikel-arteta-close-to-agreeing-new-arsenal-contract",
+      "summary": "Sky Sports' Kaveh Solhekol and Gary Cotterill provide the latest on Mikel Arteta's Arsenal future as he is expected to sign a new contract.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-arteta-arsenal_7358807.jpg?20260922173326"
     },
     {
       "source": "sky",
@@ -424,78 +504,6 @@
       "summary": "Wigan Warriors have been there, done that, and got the T-shirt when it comes to making it to the Betfred Super League Grand Final and so their routine is set as they hunt down the treble in 2026.",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-matt-peet_7255167.jpg?20260919213414"
-    },
-    {
-      "source": "sky",
-      "title": "Virtual Rock looks to follow up at Fontwell",
-      "link": "https://www.skysports.com/racing/news/12040/13590380/today-on-sky-sports-racing-fontwell-and-southwell",
-      "summary": "We have a busy day&#8217;s racing on Tuesday with action from Fontwell and Southwell, live on Sky Sports Racing...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-fontwell-racing_7247402.jpg?20260513120531"
-    },
-    {
-      "source": "sky",
-      "title": "Why F1's intense triple header will shape title run-in",
-      "link": "https://www.skysports.com/f1/news/12040/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like",
-      "summary": "Formula 1 embarks on its first triple header of the season this week with the Azerbaijan Grand Prix the first of three races in as many weekends.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7355461.jpg?20260918143814"
-    },
-    {
-      "source": "sky",
-      "title": "Rams crush Giants as Dart goes down injured",
-      "link": "https://www.skysports.com/watch/video/13590566/new-york-giants-los-angeles-rams-week-2-nfl-highlights",
-      "summary": "Highlights of the Week 2 game between New York Giants and Los Angeles Rams.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-nfl-highlights-new-york-giants_7358232.jpg?20260922061012"
-    },
-    {
-      "source": "sky",
-      "title": "McLaren predict four-way battle for Baku win after confirming more upgrades",
-      "link": "https://www.skysports.com/f1/news/12040/13590364/azerbaijan-gp-mclaren-predict-four-way-battle-for-victory-with-rivals-in-baku-after-confirming-more-upgrades-to-mcl40",
-      "summary": "McLaren have confirmed they will bring more upgrades to this weekend's Azerbaijan Grand Prix, where they are expecting a four-way battle for victory with Mercedes, Ferrari and Red Bull.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7358040.jpg?20260921165400"
-    },
-    {
-      "source": "sky",
-      "title": "F1 race distances set to be reduced for 2027 season",
-      "link": "https://www.skysports.com/f1/news/12040/13590496/f1-grand-prix-distances-set-to-be-reduced-for-2027-season-along-with-introduction-of-hard-stop-time-on-race-days",
-      "summary": "There is set to be a slight reduction in the length of Formula 1 races for the 2027 season, the FIA has confirmed.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-chequered_7358066.jpg?20260921173700"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
-      "link": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-      "summary": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-fixtures_7270616.jpg?20260611102432"
-    },
-    {
-      "source": "sky",
-      "title": "Wakefield's Guler set to miss rest of play-offs with ban for punching",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13590455/super-league-wakefield-prop-emre-guler-set-to-miss-rest-of-play-offs-after-being-given-two-match-ban-for-punching",
-      "summary": "Wakefield prop Emre Guler is set to miss the rest of the Super League play-offs after being handed a two-match ban for punching.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-emre-guler-wakefield_7357965.jpg?20260921150820"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Dowman to link up with England squad",
-      "link": "https://www.skysports.com/football/news/12040/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Stafford, Adams star as Rams beat Giants after Dart's injury",
-      "link": "https://www.skysports.com/nfl/news/12040/13590567/new-york-giants-6-28-los-angeles-rams-matthew-stafford-davante-adams-star-for-super-bowl-favourites-in-statement-win",
-      "summary": "The Los Angeles Rams bounced back from their dismal season opener in Australia to deliver a statement performance in their 28-6 victory against the New York Giants.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-davante-adams-los-angeles-rams_7358233.jpg?20260922061119"
     }
   ]
 }
