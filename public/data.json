@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-22T10:47:51.648551+00:00",
+  "lastUpdated": "2026-09-22T15:20:53.226076+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arteta agrees new deal with champions Arsenal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+      "published": "2026-09-22T11:48:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 talking points from the weekend’s action",
@@ -331,11 +339,43 @@
     },
     {
       "source": "sky",
-      "title": "England Q&A! Send in your questions to be answered live on SSN!",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "summary": "",
+      "title": "Scotland's Pocognoli has 'good mix' as he eyes winning start to his reign",
+      "link": "https://www.skysports.com/football/news/12040/13590702/scotland-sebastian-pocognoli-has-good-mix-as-new-head-coach-targets-winning-start-in-nations-league",
+      "summary": "New Scotland head Sebastien Pocognoli has told Sky Sports it was time for change, believing he has a \"good mix\" in his first squad.",
       "published": null,
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sebastien-s-pocognoli_7358638.jpg?20260922151618"
+    },
+    {
+      "source": "sky",
+      "title": "Great Britain out of Billie Jean King Cup Finals as Boulter, Kartal beaten",
+      "link": "https://www.skysports.com/tennis/news/12040/13590659/billie-jean-king-cup-great-britain-knocked-out-at-quarter-final-stage-vs-czech-republic-as-katie-boulter-sonay-kartal-beaten",
+      "summary": "Great Britain's stay at the Billie Jean King Cup Finals lasted only one match as they fell to Czechia in the quarter-finals in Shenzhen.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-katie-boulter-gb_7358679.jpg?20260922154850"
+    },
+    {
+      "source": "sky",
+      "title": "Why did Tom Brady want the Raiders? Maybe this is why",
+      "link": "https://www.skysports.com/nfl/news/12040/13590696/tom-brady-kirk-cousins-fernando-mendoza-and-the-las-vegas-raiders-surprise-start-to-the-nfl-season",
+      "summary": "As I walked out of Allegiant Stadium in the middle of last November, following the Las Vegas Raiders' miserable home defeat to the Dallas Cowboys, I looked at all the downcast fans trudging away and I thought, why does Tom Brady want to be involved with this?",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kirk-cousins-las-vegas-raiders_7358561.jpg?20260922142757"
+    },
+    {
+      "source": "sky",
+      "title": "PL assessed: Spurs lack backbone and history repeating itself at Man Utd",
+      "link": "https://www.skysports.com/football/news/12040/13590390/premier-league-2026-27-sky-sports-writers-assess-early-talking-points-including-man-utd-arsenal-liverpool-and-man-city",
+      "summary": "Are Manchester City really title contenders? Is history repeating itself at Manchester United? Why do big-spending Tottenham still lack a backbone? After just five games, a number of storylines are already emerging.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-premier-league-sky-sports_7358487.jpg?20260922130922"
+    },
+    {
+      "source": "sky",
+      "title": "Webster: Littler won't walk away from darts over crowd treatment",
+      "link": "https://www.skysports.com/darts/news/12040/13590668/luke-littler-mark-webster-says-the-nuke-wont-walk-away-from-darts-over-booing-and-says-pdc-are-trying-to-stop-fans-whistling",
+      "summary": "Sky Sports Darts' Mark Webster believes Luke Littler will not walk away from darts over crowd treatment, adding the PDC are determined to rid the sport of whistling but that boos will always remain.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-luke-littler-darts_7358481.jpg?20260922125947"
     },
     {
       "source": "sky",
@@ -344,6 +384,14 @@
       "summary": "Henry Pollock has signed a new multi-year contract extension with Northampton Saints that will see him stay at his boyhood club beyond this season.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-pollock-rugby_7358181.jpg?20260921223043"
+    },
+    {
+      "source": "sky",
+      "title": "England latest: 'Unresolved issues between Tuchel and Mainoo'",
+      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
     },
     {
       "source": "sky",
@@ -395,7 +443,7 @@
     },
     {
       "source": "sky",
-      "title": "New York Giants @ Los Angeles Rams highlights",
+      "title": "Rams crush Giants as Dart goes down injured",
       "link": "https://www.skysports.com/watch/video/13590566/new-york-giants-los-angeles-rams-week-2-nfl-highlights",
       "summary": "Highlights of the Week 2 game between New York Giants and Los Angeles Rams.",
       "published": null,
@@ -448,46 +496,6 @@
       "summary": "The Los Angeles Rams bounced back from their dismal season opener in Australia to deliver a statement performance in their 28-6 victory against the New York Giants.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-davante-adams-los-angeles-rams_7358233.jpg?20260922061119"
-    },
-    {
-      "source": "sky",
-      "title": "Atletico hit back at Mourinho for ref criticism after derby defeat",
-      "link": "https://www.skysports.com/football/news/12040/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
-      "summary": "Atletico Madrid have hit back at Real Madrid's criticism of the referring decisions during the derby on Sunday.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-jose-mourinho-real-madrid_7358147.jpg?20260922091724"
-    },
-    {
-      "source": "sky",
-      "title": "Cutler beat one McKenna, now he wants world champ brother",
-      "link": "https://www.skysports.com/boxing/news/12040/13589562/lee-cutler-beat-one-mckenna-now-he-wants-to-fight-world-champion-brother-aaron-mckenna-if-he-can-overcome-louis-greene",
-      "summary": "Lee Cutler beat one McKenna brother, now he wants to fight the other for the world middleweight title.",
-      "published": null,
-      "image": "https://e1.365dm.com/23/12/1920x1080/skysports-lee-cutler-kingsley-egbunike_6389169.jpg?20231210194245"
-    },
-    {
-      "source": "sky",
-      "title": "Spurs bottom of PL but more than £300m spent - where do they go from here?",
-      "link": "https://www.skysports.com/football/news/12040/13590421/tottenham-bottom-of-premier-league-despite-300m-summer-spend-where-do-they-go-from-here",
-      "summary": "This time it was supposed to be different. After multiple false dawns for Tottenham Hotspur, the club had a manager with proven Premier League experience, and had handed him a &#163;300m+ war chest - easily the biggest in its entire history.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-james-maddison-tottenham_7358043.jpg?20260922091642"
-    },
-    {
-      "source": "sky",
-      "title": "Banton named as England's opener for Sri Lanka ODI, live from midday",
-      "link": "https://www.skysports.com/cricket/news/12040/13590426/harry-brook-england-white-ball-captain-relishing-working-with-mentor-of-kevin-pietersens-calibre",
-      "summary": "Captain Harry Brook says leaning on a mentor of Kevin Pietersen's calibre will only help the continued upward trajectory of England's white-ball sides.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-banton-cricket-england_7354922.jpg?20260922091611"
-    },
-    {
-      "source": "sky",
-      "title": "Will Team USA be stopped at Presidents Cup? Format, line-ups and more",
-      "link": "https://www.skysports.com/golf/news/12040/13589673/presidents-cup-2026-teams-captains-venue-format-and-how-players-qualified-for-team-usa-vs-internationals-at-medinah",
-      "summary": "Who is playing in the Presidents Cup and where will it take place? Will Team USA continue their dominance? We bring you up to speed ahead of the 2026 edition, live on Sky Sports&#8230;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-golf-presidents-cup_7356878.jpg?20260922092112"
     }
   ]
 }
