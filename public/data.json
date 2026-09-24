@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T05:45:57.454194+00:00",
+  "lastUpdated": "2026-09-24T10:57:07.835356+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Has Arsenal been figured out? Three big questions after Brighton’s upset",
+      "link": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
+      "summary": "This week, we dive into the big questions surrounding the most surprising result of the Premier League weekendBefore this past weekend, Arsenal had not lost in the Premier League since April. Nine straight league wins had been enough to crown the Gunners as champions at the end of last season and firmly establish them as the team to beat early this season.Against Brighton on Saturday, though, the ",
+      "published": "2026-09-24T10:00:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&quality=85&auto=format&fit=max&s=caadb72a227fbe53023293b3135761ca"
+    },
     {
       "source": "guardian",
       "title": "Slip sliding away: football season-ticket holders fear falling down pecking order",
@@ -258,14 +266,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/c539ab60-aee9-11f1-a99d-4515748c32d0.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Premier League today: how to watch Sunderland v Arsenal, TV channels & live stream",
-      "link": "https://www.theguardian.com/football/2026/sep/12/how-to-watch-sunderland-arsenal-premier-league",
-      "summary": "How will Sunderland and Arsenal fare today? Here is what to know, including kick-off time, TV channels and live stream optionsArsenal can continue their strong start to the season with a victory at the Stadium of Light on Saturday. Sunderland, however, are no pushovers at home, as they demonstrated in a 2-2 draw with the Gunners last season.Mikel Arteta’s defending champions are performing at the ",
-      "published": "2026-09-12T14:00:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/890b61e49ea14b50c14f0fcbffa2a40bd6753b9f/551_0_3065_2451/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=ab9c2526ae9c47bdd36bf34025551a9d"
-    },
-    {
       "source": "bbc",
       "title": "I disrupted pre-season travel plans to prepare players - Arteta",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
@@ -331,11 +331,59 @@
     },
     {
       "source": "sky",
+      "title": "Russell fastest as Antonelli suffers reliability issues in Baku first practice",
+      "link": "https://www.skysports.com/f1/news/12040/13591251/azerbaijan-gp-george-russell-fastest-as-kimi-antonelli-suffers-hydraulics-leak-in-baku-first-practice",
+      "summary": "George Russell was fastest in first practice at the Azerbaijan Grand Prix as championship leader Kimi Antonelli stopped on track with a hydraulics issue.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-george-russell_7360108.jpg?20260924103728"
+    },
+    {
+      "source": "sky",
+      "title": "Essex cricketer Das charged with two counts of rape",
+      "link": "https://www.skysports.com/cricket/news/12040/13591338/robin-das-essex-cricketer-charged-with-two-counts-of-rape",
+      "summary": "Essex cricketer Robin Das has been charged with two counts of rape.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-robin-das-essex_7360090.jpg?20260924102032"
+    },
+    {
+      "source": "sky",
+      "title": "How Barry Hearn is helping shape the future of his local non-league club",
+      "link": "https://www.skysports.com/football/news/12040/13582843/brentwood-town-how-former-leyton-orient-owner-barry-hearn-is-helping-shape-the-future-of-his-local-non-league-club",
+      "summary": "Barry Hearn is best known for transforming snooker, darts and boxing into major television sports.&#160;",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-barry-hearn-brentwood-town_7359749.jpg?20260923192036"
+    },
+    {
+      "source": "sky",
+      "title": "Azerbaijan GP: Mercedes in race to fix Antonelli's car for second practice LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13590644/f1-azerbaijan-gp-live-thursday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-baku",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-kimi-antonelli_7360079.png?20260924100148"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Fans able to buy sections of Old Trafford pitch",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "Fiorella Princess and Elvetham clash at Southwell",
+      "link": "https://www.skysports.com/racing/news/12040/13590786/today-on-sky-sports-racing-all-weather-action-from-southwell",
+      "summary": "We have a busy day&#8217;s racing on Thursday with All-Weather action from Southwell, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-southwell-racecourse_7202067.jpg?20260324174823"
+    },
+    {
+      "source": "sky",
       "title": "Fisher versus Wilder? 'Good chance' Whyte will be next",
       "link": "https://www.skysports.com/boxing/news/12040/13591196/johnny-fisher-deontay-wilder-next-good-chance-it-will-be-dillian-whyte-it-would-be-an-honour",
       "summary": "Johnny Fisher believes he could set up a high-profile showdown with Dillian Whyte next.",
       "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-johnny-fisher-david-allen_7359823.jpg?20260923211718"
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-wilder-whyte-fisher_7359941.jpg?20260924080040"
     },
     {
       "source": "sky",
@@ -347,7 +395,7 @@
     },
     {
       "source": "sky",
-      "title": "‘We have our own strengths’ – Gordon backs Tuchel’s DNA comments",
+      "title": "'We have our own strengths' – Gordon backs Tuchel’s DNA comments",
       "link": "https://www.skysports.com/football/news/12040/13591079/england-vs-spain-anthony-gordon-backs-thomas-tuchels-dna-comments-about-possession-and-calls-on-three-lions-to-focus-on-their-strengths",
       "summary": "Anthony Gordon has backed Thomas Tuchel's view that England's players have an inbuilt inability to control matches with possession - and has urged the team to embrace the country's traditional strengths.",
       "published": null,
@@ -360,6 +408,14 @@
       "summary": "The top stories and transfer rumours from Thursday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Leicestershire appeal 27-point deduction for poor pitch",
+      "link": "https://www.skysports.com/cricket/news/12040/13591333/county-championship-leicestershire-appeal-27-point-deduction-for-poor-pitch-blamed-on-bollywood-film-shoot",
+      "summary": "Leicestershire County Cricket Club have confirmed they are appealing the 27-point deduction and &#163;5,000 fine for breaching pitch regulations in August's win over Glamorgan.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leicestershire-cricket_7354095.png?20260916223225"
     },
     {
       "source": "sky",
@@ -387,6 +443,30 @@
     },
     {
       "source": "sky",
+      "title": "Ure delighted 'unusual route' has earned first Scotland call-up",
+      "link": "https://www.skysports.com/football/news/12040/13591017/scotland-robbie-ure-delighted-unusual-route-from-rangers-to-sevilla-has-earned-first-call-up-aged-22",
+      "summary": "Robbie Ure is delighted his \"unusual route\" in football has earned him a place in Sebastien Pocognoli's first Scotland squad.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-robbie-ure-scotland_7359394.jpg?20260923131427"
+    },
+    {
+      "source": "sky",
+      "title": "Ex-NFL receiver Brown to avoid prison for attempted murder",
+      "link": "https://www.skysports.com/nfl/news/12040/13591345/antonio-brown-ex-nfl-wide-receiver-to-avoid-prison-with-reduced-charge-in-attempted-murder-case",
+      "summary": "Former NFL wide receiver Antonio Brown plans to accept a plea deal that will have him avoid prison time on a reduced charge in an attempted murder case in Miami.",
+      "published": null,
+      "image": "https://e2.365dm.com/25/06/1920x1080/skysports-antonio-brown-nfl_6941258.jpg?20251112073632"
+    },
+    {
+      "source": "sky",
+      "title": "'Utter nonsense' - Van Dijk slams reporter in viral exchange",
+      "link": "https://www.skysports.com/football/news/12040/13591280/virgil-van-dijk-liverpool-captain-slams-dutch-reporter-following-claims-he-forced-ronald-koeman-to-change-world-cup-tactics",
+      "summary": "Virgil van Dijk hit back at suggestions that he forced former Netherlands boss Ronaldo Koeman into changing his tactics during the World Cup.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-virgil-van-dijk_7359999.jpg?20260924081856"
+    },
+    {
+      "source": "sky",
       "title": "Giants QB Dart ruled out for 2026 season with knee injury",
       "link": "https://www.skysports.com/nfl/news/12040/13591231/nfl-new-york-giants-quarterback-jaxson-dart-ruled-out-for-the-2026-season-due-to-knee-injury",
       "summary": "New York Giants quarterback Jaxson Dart will miss the remainder of the 2026 NFL season due to a knee injury.",
@@ -408,86 +488,6 @@
       "summary": "Northampton Saints director of rugby Phil Dowson believes more players could follow Henry Pollock and work with promoters like Eddie Hearn to grow their profile.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-henry-pollock-northampton_7313112.jpg?20260803172815"
-    },
-    {
-      "source": "sky",
-      "title": "Sky Sports to show England men's tour of South Africa this winter",
-      "link": "https://www.skysports.com/cricket/news/12040/13590791/sky-sports-to-show-england-mens-tour-of-south-africa-this-winter-plus-australia-mens-tour-in-coming-weeks",
-      "summary": "Sky Sports and Cricket South Africa have extended their longstanding partnership, with Sky Sports and NOW to exclusively broadcast the England men's three-Test and three-ODI tour of South Africa this winter.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-jacob-bethell-england_7359129.jpg?20260923081042"
-    },
-    {
-      "source": "sky",
-      "title": "Thomas into super-heavyweight final as GB secure five European medals",
-      "link": "https://www.skysports.com/boxing/news/12040/13591222/european-boxing-championships-damar-thomas-reaches-super-heavyweight-final-as-great-britain-secure-five-medals",
-      "summary": "Damar Thomas reached the super-heavyweight final as GB secured five medals at the European Boxing Championships in Bulgaria.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-damar-thomas-commonwealth-games_7319906.jpg?20260923225648"
-    },
-    {
-      "source": "sky",
-      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
-      "link": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
-      "summary": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton defends Ferrari amid ‘doom and gloom’ criticism",
-      "link": "https://www.skysports.com/f1/news/12040/13590909/lewis-hamilton-ferrari-driver-sets-sights-on-george-russell-in-f1-championship-amid-defence-of-teams-season",
-      "summary": "Lewis Hamilton believes Ferrari's season can still rank as a \"huge achievement\" if they finish in the top three of the Drivers' Championship, asking critics to \"look at the positives\" of the team's year despite recent setbacks.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7359496.jpg?20260923145533"
-    },
-    {
-      "source": "sky",
-      "title": "Pirotton vows to be 'matador' against 'money cow' Fisher",
-      "link": "https://www.skysports.com/boxing/news/12040/13591054/michael-pirotton-vows-to-be-the-matador-when-he-fights-money-cow-johnny-fisher-at-the-copper-box-this-saturday",
-      "summary": "Michael Pirotton is ready to shock Johnny Fisher when they fight at London&#8217;s Copper Box Arena this Saturday, live on Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-michael-pirotton_7359467.jpg?20260923142217"
-    },
-    {
-      "source": "sky",
-      "title": "Presidents Cup: Latest schedule and tee times",
-      "link": "https://www.skysports.com/golf/news/12040/13590592/presidents-cup-2026-latest-scores-results-tee-times-leaderboard-as-team-usa-host-international-team-at-medinah",
-      "summary": "Latest scores, results, pairings and tee times for the 16th Presidents Cup, as Team USA host the International Team at Medinah Country Club, Illinois.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-justin-thomas_7359898.jpg?20260923235258"
-    },
-    {
-      "source": "sky",
-      "title": "'I'm a free agent' - Ocon casts big doubt on Haas future for 2027",
-      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-esteban-ocon-haas_7359316.jpg?20260923120907"
-    },
-    {
-      "source": "sky",
-      "title": "F1 drivers split over whether Monaco Sprint 'makes sense'",
-      "link": "https://www.skysports.com/f1/news/12040/13590907/f1-drivers-split-over-whether-monaco-sprint-makes-sense-after-2027-calendar-announcement",
-      "summary": "Lewis Hamilton and George Russell disagree on the Monaco Grand Prix becoming a Sprint weekend in 2027.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-f1-oscar-piastri_7274966.jpg?20260616145634"
-    },
-    {
-      "source": "sky",
-      "title": "Rising cruiserweight talent Roehrig signs with Zuffa Boxing",
-      "link": "https://www.skysports.com/boxing/news/12040/13590876/lucas-roehrig-rising-cruiserweight-talent-signs-with-zuffa-boxing-and-will-fight-on-sky-sports",
-      "summary": "Lucas Roehrig has signed a promotional deal with Zuffa Boxing and will fight on Sky Sports.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lucas-roehrig-zuffa-boxing_7359017.jpg?20260922222453"
-    },
-    {
-      "source": "sky",
-      "title": "'Scotland was always the one for me' - Binks' pride at first call-up",
-      "link": "https://www.skysports.com/football/news/12040/13590964/luis-binks-scotland-was-always-the-one-for-me-brondby-defender-determined-to-make-mark-in-first-squad",
-      "summary": "\"I've wanted to play for Scotland for years, and now the opportunity has come. I'm just really proud.\"",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-binks-luis-scotland_7359264.jpg?20260923105918"
     }
   ]
 }
