@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T01:07:34.231733+00:00",
+  "lastUpdated": "2026-09-25T07:00:13.555695+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -323,6 +323,14 @@
     },
     {
       "source": "sky",
+      "title": "Worcester and Newcastle feature on Friday",
+      "link": "https://www.skysports.com/racing/news/12040/13591041/today-on-sky-sports-racing-worcester-and-newcastle-feature",
+      "summary": "Youdecide and Merely A Detail do battle in today's feature contest from Worcester, live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-worcester-racing_7359532.jpg?20260923152340"
+    },
+    {
+      "source": "sky",
       "title": "Papers: Barcelona not interested in signing Man Utd wonderkid Gabriel",
       "link": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
@@ -363,11 +371,11 @@
     },
     {
       "source": "sky",
-      "title": "Late Gakpo strike denies Klopp winning start with Germany",
+      "title": "'Only scratched the surface' - Germany boss Klopp positive despite draw",
       "link": "https://www.skysports.com/football/netherlands-vs-germany/report/553985",
       "summary": "Cody Gakpo hit a stoppage-time volley to earn the Netherlands a 1-1 draw against Germany in their Nations League Group A2 opener on Thursday, denying Jurgen Klopp victory in his first match as Germany boss.",
       "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-cody-gakpo-netherlands_7360742.jpg?20260924225115"
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-klopp-jurgen-germany_7360835.jpg?20260925071651"
     },
     {
       "source": "sky",
@@ -387,6 +395,14 @@
     },
     {
       "source": "sky",
+      "title": "Packers booed in Falcons loss as Robinson dazzles",
+      "link": "https://www.skysports.com/nfl/news/12040/13591637/nfl-green-bay-packers-booed-in-atlanta-falcons-loss-as-bijan-robinson-and-drake-london-star",
+      "summary": "Bijan Robinson rushed for 194 yards and two touchdowns as the Atlanta Falcons capitalised on the return of quarterback Michael Penix Jr. and dominated the Green Bay Packers 35-14 on Thursday night.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-bijan-robinson-atlanta-falcons_7360804.jpg?20260925062417"
+    },
+    {
+      "source": "sky",
       "title": "Wales beaten by Portugal on frustrating night for Ronaldo",
       "link": "https://www.skysports.com/football/portugal-vs-wales/report/553987",
       "summary": "Wales fell to an opening 1-0 Nations League defeat to Portugal as Cristiano Ronaldo drew a blank in Lisbon.",
@@ -395,7 +411,7 @@
     },
     {
       "source": "sky",
-      "title": "How Scheffler and Burns edged Lee and Im to claim key point for Team USA",
+      "title": "How Scheffler and Burns edged thriller to claim key point for Team USA",
       "link": "https://www.skysports.com/watch/video/13591624/presidents-cup-story-of-the-day-scottie-scheffler-sam-burns-v-min-woo-lee-sungjae-im",
       "summary": "Highlights from Scottie Scheffler and Sam Burns' narrow fourballs victory over Min Woo Lee and Sungjae Im at the Presidents Cup.",
       "published": null,
@@ -464,22 +480,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-sergio-perez-cadillac_7360484.jpg?20260924164007"
-    },
-    {
-      "source": "sky",
-      "title": "EFL latest: Preston given permission to speak to Alexander",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441"
-    },
-    {
-      "source": "sky",
-      "title": "Nelson: AJ could be in 'world of trouble' against Fury",
-      "link": "https://www.skysports.com/boxing/news/12040/13591457/anthony-joshua-could-be-in-world-of-trouble-against-tyson-fury-if-he-fails-to-improve-on-last-performance-says-johnny-nelson",
-      "summary": "Anthony Joshua will be in \"a world of trouble\" against Tyson Fury if he brings the same level of performance as he did in his previous fight, according to Johnny Nelson.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-anthony-joshua-boxing_7360395.jpg?20260924152720"
     }
   ]
 }
