@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T23:32:20.849374+00:00",
+  "lastUpdated": "2026-09-28T03:07:37.336308+00:00",
   "articles": [
     {
       "source": "guardian",
@@ -355,14 +355,6 @@
     },
     {
       "source": "sky",
-      "title": "NFL live scores: Ravens face Cowboys in Rio de Janeiro",
-      "link": "https://www.nbcsports.com/nfl/scores",
-      "summary": "Follow the latest scores from around the NFL in Week Three of the 2026 season.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lamar-jackson-colts_7350721.jpg?20260913185129"
-    },
-    {
-      "source": "sky",
       "title": "Imperious Banton century propels England to Sri Lanka series victory",
       "link": "https://www.skysports.com/cricket/news/12040/13592467/england-vs-sri-lanka-tom-banton-notches-maiden-odi-century-as-harry-brooks-side-secure-series-victory-after-tourists-collapse",
       "summary": "Tom Banton posted an imperious 126 off just 105 balls to guide England to a dominant 223-run win in the third ODI against Sri Lanka to secure a 2-1 series victory at the Oval.",
@@ -392,6 +384,30 @@
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/09/1920x1080/skysports-arsenal-man-utd-tottenham_7362744.jpg?20260927190131"
+    },
+    {
+      "source": "sky",
+      "title": "USA win the Presidents Cup after largest final day comeback in history!",
+      "link": "https://www.skysports.com/watch/video/13592581/usa-win-the-presidents-cup-after-largest-final-day-comeback-in-history",
+      "summary": "United States produced a remarkable fightback to beat the International Team and win the Presidents Cup, with Jacob Bridgeman claiming the winning point.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-d-a_7362867.jpg?20260927230659"
+    },
+    {
+      "source": "sky",
+      "title": "Nishimura claims LPGA Tour breakthrough as England's Woad withdraws mid-round",
+      "link": "https://www.skysports.com/golf/news/12040/13592499/lpga-tour-englands-lottie-woad-withdraws-mid-round-with-illness-as-yuna-nishimura-wins-walmart-nw-arkansas-championship",
+      "summary": "Yuna Nishimura completed a maiden LPGA Tour victory with a wire-to-wire win at the Walmart NW Arkansas Championship, as England&#8217;s Lottie Woad withdrew during the final round.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lottie-woad-golf_7362899.jpg?20260928005824"
+    },
+    {
+      "source": "sky",
+      "title": "'No real place for that' - Scheffler hits back at Presidents Cup heckler",
+      "link": "https://www.skysports.com/golf/news/12040/13592552/presidents-cup-scottie-scheffler-calls-out-heckler-behaviour-and-is-praised-for-amazing-sportsmanship-in-singles-win",
+      "summary": "Scottie Scheffler has been widely praised for his &#8216;amazing&#8217; sportsmanship after being left frustrated by American crowd behaviour during his Presidents Cup singles victory.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7362895.png?20260928002629"
     },
     {
       "source": "sky",
@@ -464,22 +480,6 @@
       "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "York crowned champions after seeing off Wigan",
-      "link": "https://www.skysports.com/watch/video/13592533/womens-super-league-grand-final-york-crowned-champions-after-seeing-off-wigan",
-      "summary": "Highlights of the Women's Super League Grand Final between Wigan and York Valkyrie.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-york-valkyrie-rugby_7362767.jpg?20260927194920"
-    },
-    {
-      "source": "sky",
-      "title": "Zverev seals Laver Cup success for Team Europe at London's O2",
-      "link": "https://www.skysports.com/tennis/news/12040/13592390/laver-cup-us-open-champion-alexander-zverev-seals-victory-for-team-europe-against-team-world-at-londons-o2",
-      "summary": "Team Europe regained the Laver Cup as newly-crowned US Open champion Alexander Zverev sealed victory against Learner Tien to complete a 13-5 success at The O2 in London on Sunday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-team-europe-laver-cup_7362674.jpg?20260927165850"
     }
   ]
 }
