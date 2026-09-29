@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T03:46:15.036651+00:00",
+  "lastUpdated": "2026-09-29T10:19:03.982283+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -314,20 +314,84 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4372/live/812e1820-ac32-11f1-b483-f5be285e6b7e.jpg"
     },
     {
-      "source": "bbc",
-      "title": "'You told me he wasn't good enough' - Deeney picks team of the week",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c1dln0x4y50o?at_medium=RSS&at_campaign=rss",
-      "summary": "Troy Deeney picks his Premier League team of the week.",
-      "published": "2026-09-07T14:29:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7501/live/2cebc9e0-aac7-11f1-a291-b542ee92de7c.jpg"
+      "source": "sky",
+      "title": "Hallgrimsson says Ireland squad are ‘all uncomfortable’ ahead of Israel tie",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-heimir-hallgrimsson_7361872.jpg?20260926161724"
     },
     {
       "source": "sky",
-      "title": "'Warrington WILL go to Old Trafford' - Littler's SPOT-ON prediction back in Feb!",
-      "link": "https://www.skysports.com/watch/video/13505661/warrington-wolves-at-old-trafford-luke-littlers-super-league-predictions",
-      "summary": "Speaking back in February, Luke Littler looked ahead to the Super League season and correctly predicted Warrington Wolves would make it to Old Trafford.",
-      "published": "2026-02-10T11:35:00+00:00",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-littler-warrington_7363270.jpg?20260928124735"
+      "title": "Arsenal latest: Vieira reveals interest from Man Utd and met with Ferguson",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "source": "sky",
+      "title": "Keenum rolls back years to lead Chicago Bears to win over Philadelphia Eagles",
+      "link": "https://www.skysports.com/nfl/news/12040/13593083/chicago-bears-27-7-philadelphia-eagles-case-keenum-drives-bears-to-three-touchdowns-in-first-nfl-game-since-2023",
+      "summary": "Case Keenum passed for two touchdowns in his first NFL start in almost three years as Chicago Bears shut down Jalen Hurts and the Philadelphia Eagles for a 27-7 victory on Monday night.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-case-keenum_7363727.jpg?20260929065017"
+    },
+    {
+      "source": "sky",
+      "title": "Divide and Conquer and Al Qayed clash at Bath",
+      "link": "https://www.skysports.com/racing/news/12040/13592680/today-on-sky-sports-racing-bath-sedgefield-and-wolverhampton",
+      "summary": "We have a busy day&#8217;s racing on Tuesday with action from Bath, Sedgefield and Wolverhampton, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-bath-horse-racing_7233009.jpg?20260428112858"
+    },
+    {
+      "source": "sky",
+      "title": "Poch: We lived through a period of deception if Man City guilty",
+      "link": "https://www.skysports.com/football/news/12040/13593126/man-city-charges-we-lived-through-a-period-of-deception-if-club-found-guilty-says-ex-spurs-and-chelsea-boss-mauricio-pochettino",
+      "summary": "Former Tottenham and Chelsea manager Mauricio Pochettino says the Premier League \"lived through a period of deception\" if Manchester City breached financial rules.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346135.jpg?20260909143140"
+    },
+    {
+      "source": "sky",
+      "title": "Ex-snooker champion Dott jailed for child sex abuse",
+      "link": "https://www.skysports.com/snooker/news/12040/13593146/graeme-dott-ex-snooker-world-champion-jailed-for-seven-years-for-child-sex-abuse",
+      "summary": "Former world snooker champion Graeme Dott has been sentenced to seven years in jail after being found guilty of sexually abusing two primary school-age children.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-graeme-dott_7330105.jpg?20260824143654"
+    },
+    {
+      "source": "sky",
+      "title": "Philadelphia Eagles @ Chicago Bears | Week Three NFL highlights",
+      "link": "https://www.skysports.com/watch/video/13593085/philadelphia-eagles-at-chicago-bears-week-three-nfl-highlights",
+      "summary": "Highlights of the Philadelphia Eagles at the Chicago Bears from Week 3 of the NFL season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-eagles-bears_7363714.jpg?20260929062207"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli vows to ‘re-establish the order’ over Russell at Bahrain GP",
+      "link": "https://www.skysports.com/f1/news/12040/13592946/kimi-antonelli-vows-to-re-establish-the-order-over-george-russell-at-bahrain-gp-in-malaysia-after-losing-out-in-azerbaijan",
+      "summary": "World championship leader Kimi Antonelli says he will \"re-establish the order\" over George Russell at this weekend's Bahrain Grand Prix after being outperformed by his Mercedes team-mate in Azerbaijan.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-george_7363421.jpg?20260928154754"
+    },
+    {
+      "source": "sky",
+      "title": "LIMBS! - ‘What did we just watch!?’ | Ravens snatch win in unbelievable finish",
+      "link": "https://www.skysports.com/watch/video/13592591/ravens-cowboys-in-brazil-finishes-in-dramatic-style",
+      "summary": "The Baltimore Ravens had just seven seconds to work with at the start of their drive - which proved to be just long enough to win the game in Brazil against the Dallas Cowboys.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ravens-brazil_7362900.jpg?20260928010651"
+    },
+    {
+      "source": "sky",
+      "title": "Whyte wants Fisher after injury hell - 'I fought Itauma with a broken foot!'",
+      "link": "https://www.skysports.com/boxing/news/12040/13592926/dillian-whyte-was-suffering-from-a-broken-foot-in-moses-itauma-defeat-but-wants-to-return-in-british-battle-with-johnny-fisher",
+      "summary": "Dillian Whyte provided a gruesome description while explaining the agonising injury that he suffered, just weeks before his last fight against Moses Itauma.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-dillian-whyte-boxing_7363627.jpg?20260928212353"
     },
     {
       "source": "sky",
@@ -336,6 +400,14 @@
       "summary": "Defending champion Luke Littler suffered a shock first-round exit at the World Grand Prix as he lost out 2-1 to Luke Woodhouse in Leicester, on the same night that six-time winner Michael van Gerwen was also eliminated.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-luke-littler-darts_7363677.jpg?20260928231906"
+    },
+    {
+      "source": "sky",
+      "title": "FIFA accuses European football chiefs of 'harassment' against Infantino",
+      "link": "https://www.skysports.com/football/news/12040/13593114/gianni-infantino-fifa-accuses-european-football-chiefs-of-harassment-against-world-governing-bodys-president",
+      "summary": "FIFA has accused European football chiefs of \"harassment\" against Gianni Infantino and trying to influence the presidential election by \"spreading misinformation\" against him over the World Cup venture.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gianni-infantino_7270331.jpg?20260610205832"
     },
     {
       "source": "sky",
@@ -387,99 +459,19 @@
     },
     {
       "source": "sky",
+      "title": "History, drama & change - How Warrington and Wakefield helped Grand Final enter a new era",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13592702/history-drama-change-how-warrington-wolves-and-wakefield-trinity-helped-super-league-grand-final-enter-a-new-era",
+      "summary": "With Warrington Wolves and Wakefield Trinity making it to the Super League Grand Final, the competition has definitively entered a new era.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7363451.jpg?20260928161456"
+    },
+    {
+      "source": "sky",
       "title": "Man City charges: The big questions answered",
       "link": "https://www.skysports.com/football/news/12040/13592852/manchester-city-charges-everything-we-know-so-far-about-premier-league-allegations-and-what-happens-from-here",
       "summary": "Sky Sports News chief reporter Kaveh Solhekol is back to answer the big questions surrounding the Premier League's long-running dispute in their 115 charges against Manchester City.",
       "published": null,
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "source": "sky",
-      "title": "Does the Presidents Cup need changing to stop Team USA’s dominance?",
-      "link": "https://www.skysports.com/golf/news/12040/13592445/presidents-cup-does-team-usas-comeback-win-over-internationals-show-change-is-needed-to-make-event-more-competitive",
-      "summary": "The United States maintained their Presidents Cup winning streak over the International Team, with the latest victory reigniting debate about whether change is needed in the biennial contest.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jackson-koivun-collin-morikawa_7362915.jpg?20260928030108"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Real Madrid defender rejected interest from Chelsea and Liverpool",
-      "link": "https://www.skysports.com/football/news/12040/13593048/real-madrid-defender-raul-asencio-rejected-transfer-interest-from-liverpool-and-chelsea-this-summer-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Northern Ireland held to frustrating goalless drew with Hungary",
-      "link": "https://www.skysports.com/football/northern-ireland-vs-hungary/report/554018",
-      "summary": "Northern Ireland were left frustrated in a 0-0 draw at home to Hungary that looked to be there for the taking.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-hungary-northern-ireland_7363650.jpg?20260928215953"
-    },
-    {
-      "source": "sky",
-      "title": "Man City chief refuses to answer questions on 115 charges",
-      "link": "https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions",
-      "summary": "Manchester City chief executive Ferran Soriano declined to answer questions from Sky News as he left a meeting of the executive board of the European Football Clubs' body in Copenhagen.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/image_7363613.jpg?20260928204653"
-    },
-    {
-      "source": "sky",
-      "title": "Man City CEO says fight against Premier League could take years to conclude",
-      "link": "https://www.skysports.com/football/news/12040/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case",
-      "summary": "Manchester City chief executive Ferran Soriano has told a meeting of fellow club chiefs their fight against the Premier League could take years to conclude, Sky News understands.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-man-city-ferran-soriano_7363597.jpg?20260928201114"
-    },
-    {
-      "source": "sky",
-      "title": "Explained: Why Mancini has distanced himself from Man City charges",
-      "link": "https://www.skysports.com/watch/video/13592871/explained-why-roberto-mancini-has-distanced-himself-from-man-city-charges",
-      "summary": "Sky Sports News' Kaveh Solhekol explains why Italy head coach and former Manchester City boss Roberto Mancini has distanced himself from the club's 115 charges case. City insist they have irrefutable evidence to prove they did not break the rules.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-roberto-mancini-manchester_7363323.jpg?20260928135447"
-    },
-    {
-      "source": "sky",
-      "title": "Giants trade for McCarthy after Dart injury",
-      "link": "https://www.skysports.com/nfl/news/12040/13592984/j-j-mccarthy-new-york-giants-trade-for-minnesota-vikings-quarterback-after-jaxson-darts-season-ending-injury",
-      "summary": "The New York Giants are trading for Minnesota Vikings quarterback J.J. McCarthy after losing Jaxson Dart for the rest of the 2026 NFL season.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-jj-mccarthy-new-york-giants_7363489.jpg?20260928172516"
-    },
-    {
-      "source": "sky",
-      "title": "EFL latest: Alexander joins Preston | Savage in talks with Posh",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-graham-alexander_7360446.jpg?20260924160441"
-    },
-    {
-      "source": "sky",
-      "title": "Super League Grand Final 2026: Everything you need to know",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13592670/super-league-grand-final-2026-date-venue-timings-as-warrington-wolves-and-wakefield-trinity-look-to-become-sixth-ever-winner",
-      "summary": "Ahead of the Super League Grand Final between Warrington Wolves and Wakefield Trinity, on Saturday October 3 at Old Trafford, we take you through everything you need to know...",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7363129.jpg?20260928104259"
-    },
-    {
-      "source": "sky",
-      "title": "Matos on Swansea's fast start and working with Klopp at Liverpool",
-      "link": "https://www.skysports.com/football/news/12040/13591791/vitor-matos-interview-swansea-city-boss-on-their-fast-start-and-working-under-jurgen-klopp-at-liverpool",
-      "summary": "It is Swansea City who sit top of the Championship after eight games. Not something many would have expected at the start of the season.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-vitor-matos-swansea_7361212.jpg?20260925153646"
     }
   ]
 }
