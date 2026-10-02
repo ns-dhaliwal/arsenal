@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-02T06:34:28.123710+00:00",
+  "lastUpdated": "2026-10-02T13:27:51.630056+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal should have won Premier League sooner - Wilshere",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cy4zg1vlgjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Arsenal midfielder Jack Wilshrere feels they should have won the Premier League sooner.",
+      "published": "2026-10-02T09:04:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6997/live/78d48ae0-a2ed-11f1-b109-879e35c24276.jpg"
+    },
     {
       "source": "bbc",
       "title": "How should Man City be punished? Fans have their say!",
@@ -330,12 +338,92 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-      "published": "2026-09-09T22:35:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da9/live/52031c80-ac9b-11f1-b1d1-571ed4d7ff2c.jpg"
+      "source": "sky",
+      "title": "Mezcala fancied to scoop Challenge Cup prize",
+      "link": "https://www.skysports.com/racing/news/12040/13594251/ascot-tips-mezcala-fancied-to-scoop-challenge-cup-prize",
+      "summary": "After putting their collective support behind Daryz for the Prix de l'Arc de Triomphe, the Weekend Winners panel turned their attention to Ascot's Challenge Cup.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
+    },
+    {
+      "source": "sky",
+      "title": "Man City lodge appeal against guilty verdict",
+      "link": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
+      "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial rules.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-manchester-city-appeal_7365010.jpg?20260930152949"
+    },
+    {
+      "source": "sky",
+      "title": "Vasseur admits 'big issue' with Ferrari distractions",
+      "link": "https://www.skysports.com/f1/news/12040/13594195/frederic-vasseur-admits-big-issue-with-ferrari-distractions-at-bahrain-grand-prix-in-malaysia",
+      "summary": "Frederic Vasseur says the \"noise\" surrounding Ferrari is a \"big issue\" for the team, admitting their release of a statement earlier this week reiterating the Italian outfit's faith in him had become \"mandatory\".",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-frederic-vasseur_7366516.jpg?20261002122154"
+    },
+    {
+      "source": "sky",
+      "title": "Bentley to fight Mosley Jr on November 7 live on Sky Sports",
+      "link": "https://www.skysports.com/boxing/news/12040/13594240/denzel-bentley-signs-with-zuffa-boxing-and-will-fight-shane-mosley-jr-at-copper-box-arena-on-november-7-live-on-sky-sports",
+      "summary": "Middleweight world champion Denzel Bentley has signed a multi-fight deal with Zuffa Boxing and will fight on November 7 at the Copper Box Arena, live on Sky Sports.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-denzel-bentley-zuffa-boxing_7366342.jpg?20261002093316"
+    },
+    {
+      "source": "sky",
+      "title": "Leclerc tops second practice in Malaysia but Red Bull impress",
+      "link": "https://www.skysports.com/f1/news/12040/13594192/bahrain-gp-in-malaysia-charles-leclerc-tops-second-practice-but-red-bull-and-max-verstappen-impress-on-friday",
+      "summary": "Charles Leclerc was fastest in second practice for the Bahrain Grand Prix in Malaysia but Red Bull impressed during Friday's running.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-charles-leclerc_7366361.jpg?20261002094744"
+    },
+    {
+      "source": "sky",
+      "title": "'We're a bit off the pace' - Russell warns of big rival threats at brutal Sepang",
+      "link": "https://www.skysports.com/f1/news/12040/13594194/bahrain-gp-in-malaysia-george-russell-warns-of-max-verstappen-mclaren-threat-to-mercedes-despite-upgrades-for-sepang-qualifying",
+      "summary": "&#8203;&#8203;&#8203;&#8203;&#8203;George Russell sees significant threats to Mercedes from Red Bull's Max Verstappen and McLaren at the Bahrain Grand Prix after a challenging start to the weekend despite a large car upgrade in Malaysia.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-george-russell-mercedes_7366470.jpg?20261002114232"
+    },
+    {
+      "source": "sky",
+      "title": "Hamilton warned, Ferrari fined over practice impeding",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13593825/f1-bahrain-gp-in-malaysia-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-ferrari_7361261.jpg?20260925161040"
+    },
+    {
+      "source": "sky",
+      "title": "Dev's Digest: Hamza's FA Cup final shirt to be auctioned | Award winners stand with Iqbal",
+      "link": "https://www.skysports.com/football/news/12040/13594024/devs-digest-hamza-choudhurys-fa-cup-final-shirt-up-for-grabs-award-winning-pair-stand-with-zidane-iqbal-dilan-markanday-opens-up-on-wonder-goal",
+      "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects on some of the key developments for British South Asians in Football.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-fa-cup-leicester_7366084.jpg?20261001220118"
+    },
+    {
+      "source": "sky",
+      "title": "Wakefield bid to grab another Oscar-worthy moment with 'Hollywood ending'",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13594275/super-league-grand-final-wakefield-trinity-bid-to-grab-another-oscar-worthy-moment-with-hollywood-ending-vs-warrington-wolves",
+      "summary": "The story unfolding at Wakefield Trinity is so remarkable you could think it was the premise of a Hollywood movie script. That would not be the first time that has happened at the club.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rugby-league-super-league_7366577.jpg?20261002130336"
+    },
+    {
+      "source": "sky",
+      "title": "Wolff: Russell found it 'difficult to cope' with Antonelli 'reality'",
+      "link": "https://www.skysports.com/f1/news/12040/13594193/toto-wolff-reveals-george-russell-found-it-difficult-to-cope-with-kimi-antonelli-reality-earlier-in-2026-formula-1-season",
+      "summary": "Mercedes team principal Toto Wolff has revealed George Russell \"found it difficult to cope\" with Kimi Antonelli's performances earlier this year.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-george-russell_7366289.jpg?20261002082101"
+    },
+    {
+      "source": "sky",
+      "title": "Bentley: 'Best move' to sign for Zuffa and fight 'dangerous' Shane Mosley Jr",
+      "link": "https://www.skysports.com/watch/video/13594387/boxing-denzil-bentley-signs-with-zuffa-and-takes-on-dangerous-shane-mosley-jr-at-copper-box",
+      "summary": "Denzel Bentley signs with Zuffa Boxing and will fight Shane Mosley Jr at the Copper Box Arena on the Chris Billam-Smith vs Cheavon Clarke undercard.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-boxing-bentley-zuffa_7366588.jpg?20261002131846"
     },
     {
       "source": "sky",
@@ -347,11 +435,43 @@
     },
     {
       "source": "sky",
+      "title": "'He's just trying to get back to his natural habitat!' - Surfer hits HUGE slice onto beach!",
+      "link": "https://www.skysports.com/watch/video/13594386/he-wants-to-go-back-to-his-natural-habitat-surfer-hits-huge-slice-into-sea",
+      "summary": "11-time Surfing World Champion Kelly Slater hit a very wayward tee shot into the sea at St Andrews!",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-fa-a_7366595.jpg?20261002132116"
+    },
+    {
+      "source": "sky",
+      "title": "No Littler... predict who wins the World Grand Prix Darts",
+      "link": "https://www.skysports.com/darts/news/12040/13594367/world-grand-prix-darts-predictor-have-your-say-and-plot-who-will-lift-the-trophy-in-leicester-following-shock-luke-littler-exit",
+      "summary": "With Luke Littler out of the tournament after a shock defeat have your say and predict how the tournament will play out after the world No 1's title defence at the World Grand Prix in Leicester came to an abrupt end.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-luke-humphries-darts_7354959.jpg?20260917220219"
+    },
+    {
+      "source": "sky",
+      "title": "Pittsburgh Steelers @ Cleveland Browns | NFL highlights",
+      "link": "https://www.skysports.com/watch/video/13594245/pittsburgh-steelers-cleveland-browns-nfl-highlights",
+      "summary": "Highlights from the NFL fixture between the Pittsburgh Steelers and the Cleveland Browns.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-g-d-dd_7366284.jpg?20261002080637"
+    },
+    {
+      "source": "sky",
       "title": "Infraad looks to bring up a hat-trick at Ascot",
       "link": "https://www.skysports.com/racing/news/12040/13593717/today-on-sky-sports-racing-ascot-hexham-newcastle-and-wolverhampton",
       "summary": "We have a busy day&#8217;s racing on Friday with action from Ascot, Hexham, Newcastle and Wolverhampton, live on Sky Sports Racing...",
       "published": null,
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-racing-ascot_7304360.jpg?20260722162711"
+    },
+    {
+      "source": "sky",
+      "title": "Mahomes' Chiefs are back - but they now face the new Kelce",
+      "link": "https://www.skysports.com/nfl/news/12040/13593596/patrick-mahomes-kansas-city-chiefs-face-the-next-travis-kelce-as-brock-bowers-continues-rise-to-nfl-dominance-nfl-gameday-guide",
+      "summary": "The Kansas City Chiefs are back, the NFL London games are back and, much to the delight of the Los Angeles Rams, Puka Nacua could be back.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-patrick-mahomes-brock-bowers_7365790.jpg?20261001135530"
     },
     {
       "source": "sky",
@@ -363,7 +483,7 @@
     },
     {
       "source": "sky",
-      "title": "Verstappen makes fast start in Malaysia to outpace Russell",
+      "title": "Verstappen makes fast start in Malaysia to outpace Russell in first practice",
       "link": "https://www.skysports.com/f1/news/12040/13594190/bahrain-gp-in-malaysia-max-verstappen-sets-pace-on-f1s-return-to-sepang-in-first-practice-from-george-russell",
       "summary": "&#8203;Max Verstappen made an impressively fast start to Formula 1's return to the Sepang International Circuit to set the pace from George Russell in the first practice session of the Bahrain Grand Prix in Malaysia.",
       "published": null,
@@ -376,126 +496,6 @@
       "summary": "Welsh bragging rights and a place in the World Grand Prix semi-finals will be up for grabs when Gerwyn Price and Jonny Clayton meet in Leicester on Friday night.",
       "published": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jonny-clayton-gerwyn-price_7365962.jpg?20261001182634"
-    },
-    {
-      "source": "sky",
-      "title": "Bahrain GP: Verstappen fastest as teams struggle with tyre wear in first practice LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13593825/f1-bahrain-gp-in-malaysia-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7366202.jpg?20261002061402"
-    },
-    {
-      "source": "sky",
-      "title": "'Ominous?!' | Mercedes reveal major Malaysia upgrades",
-      "link": "https://www.skysports.com/watch/video/13594198/bahrain-gp-in-malaysia-mercedes-reveal-upgrades",
-      "summary": "Sky Sports' Bernie Collins takes a look at Mercedes upgrades as they head into the Bahrain Grand Prix in Malaysia.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-bernie_7366184.jpg?20261002053123"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Man City players could be entitled to rip up contracts",
-      "link": "https://www.skysports.com/football/news/12040/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Humphries dazzles on the doubles to reach Grand Prix quarter-finals",
-      "link": "https://www.skysports.com/darts/news/12040/13594163/world-grand-prix-darts-luke-humphries-and-james-wade-storm-into-quarter-finals-as-gary-anderson-eliminated",
-      "summary": "Luke Humphries put in a much-improved display as his doubling prowess and a 10-dart finish secured a 3-0 rout of Jermaine Wattimena and a spot in the World Grand Prix quarter-finals.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-world-grand-prix-darts_7366111.jpg?20261001222459"
-    },
-    {
-      "source": "sky",
-      "title": "Smith finishes round with Bank of Utah's first ever ALBATROSS!",
-      "link": "https://www.skysports.com/watch/video/13594222/no-way-jordan-smith-makes-first-ever-albatross-at-bank-of-utah-championship",
-      "summary": "Jordan Smith holed out for an albatross on his final hole of the first round at the Bank of Utah Championship.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f-s_7366229.jpg?20261002065346"
-    },
-    {
-      "source": "sky",
-      "title": "Smith and Dunlap one back after first round of Bank of Utah Championship",
-      "link": "https://www.skysports.com/watch/video/13594223/bank-of-utah-championship-round-one-highlights",
-      "summary": "Highlights from the first round of the 2026 Bank of Utah Championship.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/f-s-ss_7366232.jpg?20261002065720"
-    },
-    {
-      "source": "sky",
-      "title": "Man City reaction LIVE! Deadline for club to appeal TODAY",
-      "link": "https://www.skysports.com/football/live-blog/12040/13593363/man-city-charges-reaction-and-findings-as-commission-finds-club-guilty-of-all-charges-related-to-serious-financial-breaches",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-manchester-city-etihad-stadium_7364320.jpg?20260929171432"
-    },
-    {
-      "source": "sky",
-      "title": "'Awful' and 'hellish' - Wade's brutal verdict on unique World Grand Prix format",
-      "link": "https://www.skysports.com/darts/news/12040/13594150/world-grand-prix-james-wade-still-feels-the-nerves-despite-competing-at-the-unique-event-for-the-22nd-time-in-his-career",
-      "summary": "Veteran James Wade admits playing the World Grand Prix is \"awful\" and \"hellish\" despite reaching the quarter-finals on Thursday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-james-wade-darts_7366098.jpg?20261001221334"
-    },
-    {
-      "source": "sky",
-      "title": "EFL latest: Posh to confirm Savage as new manager",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-robbie-savage-savage_7366124.jpg?20261001223723"
-    },
-    {
-      "source": "sky",
-      "title": "Grand Final predictions as Warrington and Wakefield prepare to make history",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13592786/super-league-grand-final-2026-pundit-predictions-as-warrington-wolves-and-wakefield-trinity-try-to-make-history-on-biggest-stage-of-all",
-      "summary": "The Super League Grand Final 2026 is nearly here and the Sky Sports Rugby League pundits have had their say on how they think the biggest day of the season will unfold...",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-super-league-grand-final_7364047.jpg?20260929135140"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-wirtz-klopp-jurgen_7366099.jpg?20261001221507"
-    },
-    {
-      "source": "sky",
-      "title": "Fernandes sets up two as Portugal beat Denmark after Ronaldo walkout",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-joao-felix_7366135.jpg?20261001224708"
-    },
-    {
-      "source": "sky",
-      "title": "'Can't get any better!' - Stunning 10-dart break from Humphries",
-      "link": "https://www.skysports.com/watch/video/13594153/luke-humphries-produces-an-incredible-10-dart-break-to-start-the-third-set-in-style",
-      "summary": "Luke Humphries starts the third set in sensational style against Jermaine Wattimena with a superb 10-dart break.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-darts_7366086.jpg?20261001220446"
-    },
-    {
-      "source": "sky",
-      "title": "Shaw earns Man City draw with late Real goal dramatically disallowed",
-      "link": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/report/578248",
-      "summary": "Bunny Shaw and a dramatic last-gasp decision from the referee ensured Manchester City took a point off Real Madrid with a 1-1 draw in the Women's Champions League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-shaw-bunny-manchester_7366054.jpg?20261001211646"
-    },
-    {
-      "source": "sky",
-      "title": "Bellamy gets perfect response as Wales beat 10-man Norway",
-      "link": "https://www.skysports.com/football/wales-vs-norway/report/554040",
-      "summary": "Wales responded to their disappointing defeat to Denmark with a spirited victory over Erling Haaland and 10-man Norway in Cardiff.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-neco-williams_7366073.jpg?20261001214423"
     }
   ]
 }
