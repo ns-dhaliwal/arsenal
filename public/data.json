@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-02T18:53:38.410848+00:00",
+  "lastUpdated": "2026-10-02T22:45:34.744058+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal shelve plans for major expansion of Emirates Stadium",
+      "link": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
+      "summary": "Club opt for improvements in hospitality and retailAn increase to 60,704 capacity had been consideredArsenal have shelved plans for a major expansion of the Emirates Stadium, opting for a programme of smaller improvements as the club’s owners review the Premier League champions’ wider operation.Arsenal set up a working group led by the chief executive, Richard Garlick, in 2024 to examine the feasi",
+      "published": "2026-10-02T20:10:12+00:00",
+      "image": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=140&quality=85&auto=format&fit=max&s=2b41b4fa72d5f530d79acaba81d2015e"
+    },
     {
       "source": "bbc",
       "title": "Whittaker wants his next opponent to be... Arsenal?",
@@ -306,14 +314,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2b/live/ec65d630-aefa-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’",
-      "link": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable",
-      "summary": "Arsenal manager angry: ‘This can never be a penalty’‘It’s a judo roll from the opponent. Ezri does nothing’Mikel Arteta’s delight at Arsenal’s latest win was tempered by his fury with the referee John Brooks as the champions triumphed 2-0 at Sunderland on Saturday night.Before Bruno Guimarães gave Arsenal the lead in a tight match that Régis Le Bris’s team were arguably unlucky to lose, David Raya",
-      "published": "2026-09-12T22:47:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/fdd76e2ec2c936415e0319fec4bc234453dabc16/435_246_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=26d37e9b00eb851b0bfc6a29fee7c284"
-    },
-    {
       "source": "bbc",
       "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko?at_medium=RSS&at_campaign=rss",
@@ -347,7 +347,55 @@
     },
     {
       "source": "sky",
-      "title": "City sponsor's 2015 statement to US government raises questions about appeal strategy",
+      "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
+      "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+    },
+    {
+      "source": "sky",
+      "title": "Zidane's France held by Italy as De Bruyne inspires Belgium",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-italy-france-olise_7366893.jpg?20261002221605"
+    },
+    {
+      "source": "sky",
+      "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
+      "link": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
+      "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-allison-fisher-pool_7366881.jpg?20261002215420"
+    },
+    {
+      "source": "sky",
+      "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
+      "link": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+      "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ciaron-brown-northern_7366863.jpg?20261002205336"
+    },
+    {
+      "source": "sky",
+      "title": "NFL London: 651-day wait over... Sauce's Colts go globe-trotting again",
+      "link": "https://www.skysports.com/nfl/news/12040/13593991/nfl-london-games-2026-sauce-gardner-globe-trotting-again-after-ending-651-day-wait-for-win-in-united-states",
+      "summary": "Sauce Gardner just ended a 651-day wait for an NFL win in the United States. Now the Indianapolis Colts cornerback is back on international soil.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-sauce-gardner-indianapolis-colts_7366875.jpg?20261002211932"
+    },
+    {
+      "source": "sky",
+      "title": "Man City sponsor's 2015 statement raises questions about appeal strategy",
       "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
       "summary": "Manchester City&#8217;s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brought into question by a statement their main sponsor Etihad Airways submitted to the US government in 2015.",
       "published": null,
@@ -363,7 +411,15 @@
     },
     {
       "source": "sky",
-      "title": "Is Littler heading to Minehead? World No 1 to headline World Youth Championships",
+      "title": "Humphries 'disappointed' despite 3-0 win to clinch semi-final spot",
+      "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-luke-humphries-darts_7332233.jpg?20260826220553"
+    },
+    {
+      "source": "sky",
+      "title": "Littler to compete in World Youth Championships",
       "link": "https://www.skysports.com/darts/news/12040/13594484/luke-littler-world-no-1-to-headline-world-youth-championships-with-chance-to-reach-final-at-minehead",
       "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Championship.",
       "published": null,
@@ -371,11 +427,27 @@
     },
     {
       "source": "sky",
-      "title": "World Grand Prix LIVE! Aspinall leads first QF before Price vs Clayton",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
-      "summary": "",
+      "title": "Wade: Gian was 'pretty poor' – 'I bashed him up!'",
+      "link": "https://www.skysports.com/watch/video/13594526/james-wade-defeats-poor-gian-van-veen-i-bashed-him-up",
+      "summary": "James Wade felt Gian van Veen was &#8216;pretty poor&#8217; in their World Grand Prix Darts quarter-final, so he &#8216;bashed him up&#8217;!",
       "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-nathan-aspinall-darts_7366838.jpg?20261002194807"
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-james-wade_7366887.jpg?20261002215939"
+    },
+    {
+      "source": "sky",
+      "title": "Price snatches win after Clayton misses three match darts",
+      "link": "https://www.skysports.com/watch/video/13594517/gerwyn-price-beats-jonny-clayton-in-world-grand-prix-darts-quarter-final",
+      "summary": "Gerwyn Price snatched victory from the jaws of defeat as compatriot Jonny Clayton missed three match darts in their quarter-final of the World Grand Prix Darts",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-gerwyn-price-clayton_7366871.jpg?20261002211610"
+    },
+    {
+      "source": "sky",
+      "title": "First a fly interrupts play, then a spider tries too!",
+      "link": "https://www.skysports.com/watch/video/13594538/fly-and-a-spider-both-crawl-on-board-at-world-grand-prix-darts",
+      "summary": "It&#8217;s not often you see both a fly and a spider grace the darts board on the same night, which is exactly what happened during the quarter-finals of the World Grand Prix Darts.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-spider-fly-darts_7366927.jpg?20261002231345"
     },
     {
       "source": "sky",
@@ -387,19 +459,35 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
+      "title": "Price edges last-leg epic as Wade beats Van Veen to book Humphries semi",
+      "link": "https://www.skysports.com/darts/news/12040/13594495/world-grand-prix-james-wade-thrashes-gian-van-veen-to-book-luke-humphries-semi-final-after-gerwyn-price-edges-thriller",
+      "summary": "Gerwyn Price survived three match darts to beat Jonny Clayton in a final-leg thriller at the World Grand Prix, as James Wade emphatically dumped out Gian van Veen in Leicester.",
       "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-gerwyn-price-darts_7366900.jpg?20261002223840"
+    },
+    {
+      "source": "sky",
+      "title": "Bath climb to top of Prem table after claiming derby honours over Exeter",
+      "link": "https://www.skysports.com/rugby-union/bath-vs-exeter/report/113836",
+      "summary": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all the way in an 11-try thriller.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-finn-russell-bath_7366899.jpg?20261002223531"
     },
     {
       "source": "sky",
       "title": "Mariota to start for Commanders in London as Daniels ruled out",
       "link": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
-      "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis Colts at Tottenham Hotspur Stadium.",
+      "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis Colts at Tottenham Hotspur Stadium - live on Sky Sports.",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-marcus-mariota_7366704.jpg?20261002155926"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
     },
     {
       "source": "sky",
@@ -416,94 +504,6 @@
       "summary": "Brydon Carse has been charged by the Cricket Regulator in relation to events in Derby in August where he was &#8204;handcuffed by police and then dropped from the England squad.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-brydon-carse-durham-county-cricket_7346186.jpg?20260909151606"
-    },
-    {
-      "source": "sky",
-      "title": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
-      "source": "sky",
-      "title": "Kevin Blake's Arc day tips: Three fancies on star-studded undercard",
-      "link": "https://www.skysports.com/racing/news/12040/13594425/prix-de-larc-de-triomphe-kevin-blakes-three-tips-for-arc-day-at-parislongchamp",
-      "summary": "Expert racing pundit Kevin Blake will be in Paris for the Prix de l'Arc de Triomphe and picks out three fancies on the undercard, all live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kevin-blake-arc-tips_7366680.jpg?20261002152055"
-    },
-    {
-      "source": "sky",
-      "title": "Mezcala fancied to scoop Challenge Cup prize",
-      "link": "https://www.skysports.com/racing/news/12040/13594251/ascot-tips-mezcala-fancied-to-scoop-challenge-cup-prize",
-      "summary": "After putting their collective support behind Daryz for the Prix de l'Arc de Triomphe, the Weekend Winners panel turned their attention to Ascot's Challenge Cup.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
-    },
-    {
-      "source": "sky",
-      "title": "Sabalenka cruises past Zarazua at China Open",
-      "link": "https://www.skysports.com/watch/video/13594419/renata-zarazua-vs-aryna-sabalenka-china-open-highlights",
-      "summary": "Highlights of the China Open match between Renata Zarazua and Aryna Sabalenka.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/tennis-sabelenka-wta-china-open_7366673.jpg?20261002150536"
-    },
-    {
-      "source": "sky",
-      "title": "Boulter loses out to Muchova in China after dominant second set",
-      "link": "https://www.skysports.com/watch/video/13594414/katie-boulter-vs-karolina-muchova-china-open-highlights",
-      "summary": "Highlights of the China Open match between Katie Boulter and Karolina Muchova.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/boulter-muchova-tennis-china-open_7366646.jpg?20261002143125"
-    },
-    {
-      "source": "sky",
-      "title": "Who wins the Arc? Sky Sports Racing team tips",
-      "link": "https://www.skysports.com/watch/video/13594431/who-wins-the-arc-sky-sports-racing-team-tips",
-      "summary": "The Prix de l'Arc de Triomphe takes centre stage in Paris on Sunday, all live on Sky Sports Racing, and our team of experts have had their say on who wins the big one...",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-arc-tips-racing_7366689.jpg?20261002153015"
-    },
-    {
-      "source": "sky",
-      "title": "Man City lodge appeal against guilty verdict",
-      "link": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
-      "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial rules.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-manchester-city-appeal_7365010.jpg?20260930152949"
-    },
-    {
-      "source": "sky",
-      "title": "Sir Kevin Sinfield completes penultimate day of latest MND challenge",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-sinfield-kevin_7102082.jpg?20251206083036"
-    },
-    {
-      "source": "sky",
-      "title": "Vasseur admits 'big issue' with Ferrari distractions",
-      "link": "https://www.skysports.com/f1/news/12040/13594195/frederic-vasseur-admits-big-issue-with-ferrari-distractions-at-bahrain-grand-prix-in-malaysia",
-      "summary": "Frederic Vasseur says the \"noise\" surrounding Ferrari is a \"big issue\" for the team, admitting their release of a statement earlier this week reiterating the Italian outfit's faith in him had become \"mandatory\".",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-frederic-vasseur_7366516.jpg?20261002122154"
-    },
-    {
-      "source": "sky",
-      "title": "Neville: Man City owners cannot 'retain status' if guilty verdict stands",
-      "link": "https://www.skysports.com/football/news/12040/13594421/man-city-owners-cannot-retain-status-if-guilty-verdict-stands-after-appeal-says-gary-neville",
-      "summary": "Gary Neville believes the ownership group at Manchester City will find it very difficult to \"retain their status\" at the club should the Premier League's ruling over financial breaches still stand following appeal.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-etihad-stadium-manchester-city_7365594.jpg?20261001103841"
-    },
-    {
-      "source": "sky",
-      "title": "Bentley to fight Mosley Jr on November 7 live on Sky Sports",
-      "link": "https://www.skysports.com/boxing/news/12040/13594240/denzel-bentley-signs-with-zuffa-boxing-and-will-fight-shane-mosley-jr-at-copper-box-arena-on-november-7-live-on-sky-sports",
-      "summary": "Middleweight world champion Denzel Bentley has signed a multi-fight deal with Zuffa Boxing and will fight on November 7 at the Copper Box Arena, live on Sky Sports.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-denzel-bentley-zuffa-boxing_7366342.jpg?20261002093316"
     }
   ]
 }
