@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T01:29:55.285037+00:00",
+  "lastUpdated": "2026-10-05T08:07:28.697395+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -346,12 +346,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ef/live/d2a4fea0-adcf-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arsenal close to finalising new contract for Arteta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-      "published": "2026-09-10T14:16:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
+      "source": "sky",
+      "title": "McDermott names England World Cup squad",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13595250/rugby-league-world-cup-2026-england-coach-brian-mcdermott-names-23-player-squad-as-leeds-star-jake-connor-misses-out",
+      "summary": "Brian McDermott has named his 23-player England squad for the 2026 Rugby League World Cup and confirmed that Leeds Rhinos star Jake Connor has been omitted from the group.&#160;",
+      "published": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-brian-mcdermott-england_7227986.jpg?20260423092412"
+    },
+    {
+      "source": "sky",
+      "title": "Zhuri chases a first success at Yarmouth",
+      "link": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
+      "summary": "We have a busy day&#8217;s racing on Monday with flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-yarmouth-racing_7246305.jpg?20260512100808"
+    },
+    {
+      "source": "sky",
+      "title": "F1 2026 team-mate head-to-heads after Bahrain GP in Malaysia",
+      "link": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
+      "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-f1-f1-2026-f1-field_7186813.jpg?20260309102551"
+    },
+    {
+      "source": "sky",
+      "title": "Hallgrimsson urges UEFA to keep Ireland and Israel apart in future",
+      "link": "https://www.skysports.com/football/news/12040/13595235/republic-of-ireland-heimir-hallgrimsson-calls-on-uefa-to-keep-ireland-and-israel-apart-in-future-after-tense-draw",
+      "summary": "Heimir Hallgrimsson has called on UEFA to keep Ireland and Israel apart in future.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-heimir-hallgrimsson_7368497.jpg?20261005075318"
     },
     {
       "source": "sky",
@@ -363,11 +387,43 @@
     },
     {
       "source": "sky",
+      "title": "F1 Sprint format: How does it work in 2026?",
+      "link": "https://www.skysports.com/f1/news/12040/13518235/f1-sprint-schedule-points-results-format-explained-qualifying-race-and-venues-for-2026-season",
+      "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-lando-norris-miami-gp_7237288.jpg?20260502171832"
+    },
+    {
+      "source": "sky",
       "title": "'Harry Potter did well, didn't he!?' - Humphries savours Grand Prix success",
       "link": "https://www.skysports.com/darts/live-blog/12040/13595086/world-grand-prix-darts-final-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-from-3-0-down-in-leicester",
       "summary": "",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-world-grand-prix-darts_7366111.jpg?20261001222459"
+    },
+    {
+      "source": "sky",
+      "title": "Singapore GP: Sprint weekend schedule and how to watch",
+      "link": "https://www.skysports.com/f1/news/12040/13594859/singapore-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-marina-bay-circuit-live-on-sky-sports",
+      "summary": "Formula 1 concludes its Asian triple-header with a Sprint weekend at the Singapore Grand Prix.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-singapore-singapore-gp_7367607.jpg?20261004043324"
+    },
+    {
+      "source": "sky",
+      "title": "How did Lewis recover from P18 to the podium?! SkyPad ANALYSIS reveals all...",
+      "link": "https://www.skysports.com/watch/video/13594995/skypad-analysis-of-lewis-hamiltons-p15-to-podium-recovery-drive",
+      "summary": "SkyPad ANALYSIS of Lewis Hamilton's P15 to podium recovery drive!",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-skypad-lewis_7367924.jpg?20261004122619"
+    },
+    {
+      "source": "sky",
+      "title": "'Are you KIDDING?!' - Commentators STUNNED by incredible TD catch!",
+      "link": "https://www.skysports.com/watch/video/13595118/los-angeles-rams-vs-philadelphia-eagles-darius-cooper-makes-incredible-td-catch-over-defender",
+      "summary": "Philadelphia Eagles' Darius Cooper makes a sensational catch for a touchdown in his team's clash with the Los Angeles Rams.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cooper-eagles_7368213.jpg?20261004192706"
     },
     {
       "source": "sky",
@@ -395,6 +451,22 @@
     },
     {
       "source": "sky",
+      "title": "Gihan Arnolda: Britain's first black trainer hoping to inspire next generation",
+      "link": "https://www.skysports.com/watch/video/13594019/gihan-arnolda-britains-first-black-trainer-hoping-to-inspire-next-generation",
+      "summary": "Gihan Arnolda is believed to be the first Black or Asian licenced trainer in Britain. He's based at Cadland Cottage Stables in Newmarket and sent out his first runner in May 2026, securing his first winner a month later.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-gihan-arnolda-the-race-ahead_7365820.jpg?20261001143036"
+    },
+    {
+      "source": "sky",
+      "title": "The Chiefs stay perfect thanks to new hero - NFL Sunday Review",
+      "link": "https://www.skysports.com/nfl/news/12040/13595160/kenneth-walker-has-transformed-kansas-city-chiefs-and-unlocked-patrick-mahomes-as-andy-reids-side-stay-perfect-nfl-sunday-review",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kenneth-walker-kansas-city-chiefs_7368389.jpg?20261004234232"
+    },
+    {
+      "source": "sky",
       "title": "Sale defy Vermeulen's first-half red card to beat Saracens",
       "link": "https://www.skysports.com/rugby-union/saracens-vs-sale/report/113840",
       "summary": "Sale defied Jacques Vermeulen's first-half red card to dispatch Saracens 21-17 with Tom O'Flaherty emerging as the star of a slugfest at StoneX Stadium.",
@@ -419,99 +491,19 @@
     },
     {
       "source": "sky",
+      "title": "Humphries savours 'special' win after ending run of major near-misses",
+      "link": "https://www.skysports.com/darts/news/12040/13595111/world-grand-prix-darts-luke-humphries-relieved-to-end-losing-streak-in-major-finals-after-comeback-win-over-gerwyn-price",
+      "summary": "Luke Humphries was relieved to end his run of near-misses in TV major finals after delivering a sensational comeback victory over Gerwyn Price at the World Grand Prix.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-luke-humphries-darts_7368358.jpg?20261004225934"
+    },
+    {
+      "source": "sky",
       "title": "'He's a real champion!' | Graffard hails Arc hero Daryz",
       "link": "https://www.skysports.com/watch/video/13595065/hes-a-real-champion-graffard-hails-arc-hero-daryz",
       "summary": "Francis-Henri Graffard lauded the achievements of Daryz after he retained his Prix de l'Arc de Triomphe crown at ParisLongchamp.",
       "published": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/image_7368081.jpg?20261004162445"
-    },
-    {
-      "source": "sky",
-      "title": "Hero to zero! Ward makes huge errors as Denmark beat Wales LIVE!",
-      "link": "https://www.skysports.com/football/wales-vs-denmark/live/554066",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wales-denmark_7368286.jpg?20261004213032"
-    },
-    {
-      "source": "sky",
-      "title": "Djokovic creates more history with epic Zverev win at China Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13594880/china-open-novak-djokovic-keeps-unblemished-record-in-beijing-by-handing-alexander-zverev-a-rare-defeat",
-      "summary": "Novak Djokovic rolled back the years to defeat French Open and US Open champion Alexander Zverev 4-6 6-4 6-4 to reach the semi-finals of the China Open on Sunday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-novak-djokovic-tennis_7368018.jpg?20261004145734"
-    },
-    {
-      "source": "sky",
-      "title": "Humphries completes comeback victory over Price in World Grand Prix epic",
-      "link": "https://www.skysports.com/darts/news/12040/13595109/world-grand-prix-darts-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-to-claim-major-title-in-leicester",
-      "summary": "Luke Humphries secured a second World Grand Prix title after producing an extraordinary comeback to defeat Gerwyn Price 6-4 in a thrilling final.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-darts_7368316.jpg?20261004221231"
-    },
-    {
-      "source": "sky",
-      "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
-      "link": "https://www.skysports.com/football/wales-vs-denmark/report/554066",
-      "summary": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-rasmus-hojlund-denmark_7368301.jpg?20261004215253"
-    },
-    {
-      "source": "sky",
-      "title": "Meronk outlasts Jarvis to win Alfred Dunhill Links Championship",
-      "link": "https://www.skysports.com/golf/news/12040/13595050/alfred-dunhill-links-championship-liv-golfs-adrian-meronk-outlasts-casey-jarvis-to-claim-victory-at-st-andrews",
-      "summary": "Adrian Meronk came from four shots behind to overtake Casey Jarvis and win the Alfred Dunhill Links Championship by two strokes on a gripping final day at St Andrews.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-meronk-adrian_7368225.jpg?20261004194156"
-    },
-    {
-      "source": "sky",
-      "title": "Daryz retains Arc crown with dazzling display",
-      "link": "https://www.skysports.com/racing/news/12040/13594944/prix-de-larc-de-triomphe-daryz-becomes-first-colt-since-1978-to-retain-group-1-crown",
-      "summary": "Daryz became the first colt for almost 50 years to win Europe&#8217;s most prestigious race, the Qatar Prix de l&#8217;Arc de Triomphe, in successive seasons with a brilliant victory at ParisLongchamp.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-daryz-racing_7368058.jpg?20261004154359"
-    },
-    {
-      "source": "sky",
-      "title": "Slegers: Arsenal not in title conversation and in need of a review",
-      "link": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
-      "summary": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left them languishing in tenth place in the table, 10 points adrift of the league leaders.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-renee-slegers_7368198.jpg?20261004190429"
-    },
-    {
-      "source": "sky",
-      "title": "Russell 'beyond disappointment' as Wolff 'massively annoyed' by engine failure",
-      "link": "https://www.skysports.com/f1/news/12040/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
-      "summary": "Mercedes boss Toto Wolff said he was \"massively annoyed\" after the late unreliability that delivered a potentially knock-out blow to George Russell's title hopes in the Bahrain Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7367102.jpg?20261004144736"
-    },
-    {
-      "source": "sky",
-      "title": "Man City fight back to defeat Arsenal in thriller!",
-      "link": "https://www.skysports.com/watch/video/13595104/manchester-city-4-2-arsenal-wsl-highlights",
-      "summary": "Highlights of Manchester City against Arsenal in the Women's Super League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-arsenal-man-city_7368180.jpg?20261004183505"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea latest: 'Blues at front of queue for Bournemouth midfielder'",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-chelsea-premier-league_7281528.jpg?20260624101452"
-    },
-    {
-      "source": "sky",
-      "title": "Hemp's composed finish gives Man City their third",
-      "link": "https://www.skysports.com/watch/video/13595096/lauren-hemps-composed-finish-makes-it-3-2-for-manchester-city-against-arsenal",
-      "summary": "Lauren Hemp made it 3-2 to Manchester City against Arsenal, during their WSL clash at The Etihad.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-hemp-lauren_7368165.jpg?20261004180924"
     }
   ]
 }
