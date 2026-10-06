@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-06T11:41:11.407725+00:00",
+  "lastUpdated": "2026-10-06T17:46:02.687728+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "More woe for Arsenal as Manchester City march on – Women’s Football Weekly podcast",
+      "link": "https://www.theguardian.com/football/audio/2026/oct/06/more-woe-for-arsenal-as-manchester-city-march-on-womens-football-weekly",
+      "summary": "Faye Carruthers is joined by Suzanne Wrack, Tom Garry and Tim Stillman to discuss the weekend’s WSL actionFaye Carruthers is joined by Suzanne Wrack, Tom Garry and Tim Stillman to discuss the weekend’s WSL actionOn the podcast today: Manchester City beat Arsenal and stay unbeaten, while the pressure continues to grow on Reneé Slegers, whose Arsenal languish in 10th. London City Lionesses are findi",
+      "published": "2026-10-06T12:22:40+00:00",
+      "image": "https://i.guim.co.uk/img/media/1b1f6852019e339af86a94c57db49c2bb38bf7cc/533_75_3807_3046/master/3807.jpg?width=140&quality=85&auto=format&fit=max&s=f22273cb2da954db3e3e5295b0a63672"
+    },
     {
       "source": "bbc",
       "title": "Arteta helped me understand the game - Wilshere",
@@ -306,14 +314,6 @@
       "image": "https://i.guim.co.uk/img/media/9b1ce66a4cedb465f774f8c0b30367d43b8cedfb/26_1_4974_3977/master/4974.jpg?width=140&quality=85&auto=format&fit=max&s=337e5e2c46f66556b78931c22882873e"
     },
     {
-      "source": "guardian",
-      "title": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
-      "summary": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to createA gentleman is never rude unintentionally, only by design. Nobody really knows who said this first. But&nbsp;it could easily be a line from the Elite Football Manager’s Guide to Press Conferences (Premier League edition). Because nothing happens by accident in these spaces.Every word ",
-      "published": "2026-09-13T20:35:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/d6a6c7df63cfcb256c9b9b2a5c319a0f23dbd3f1/174_0_2245_1796/master/2245.jpg?width=140&quality=85&auto=format&fit=max&s=fcd42264643f7b4c34962ee32d2c3376"
-    },
-    {
       "source": "bbc",
       "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
@@ -347,11 +347,67 @@
     },
     {
       "source": "sky",
+      "title": "O'Neill confirms decision to stay on as Celtic boss",
+      "link": "https://www.skysports.com/football/news/12040/13595897/celtic-boss-martin-oneill-confirms-decision-to-stay-after-reflecting-on-future-over-international-break",
+      "summary": "Martin O'Neill has confirmed his decision to stay on as Celtic manager after reflecting on his future over the international break.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-celtic-martin-oneill_7357336.jpg?20260920183359"
+    },
+    {
+      "source": "sky",
+      "title": "Was it right to default Medvedev for hitting spectator with ball?",
+      "link": "https://www.skysports.com/tennis/news/12040/13595738/daniil-medvedev-defaulted-for-hitting-a-spectator-with-the-ball-but-was-it-the-right-decision-or-should-he-have-been-able-to-play-on",
+      "summary": "Daniil Medvedev was defaulted for hitting a spectator with the ball during his semi-final with Novak Djokovic at the China Open, but was it the correct decision or should he have been able to continue playing?",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-daniil-medvedev-tennis_7369804.jpg?20261006154750"
+    },
+    {
+      "source": "sky",
+      "title": "Scotland vs Slovenia team news LIVE!",
+      "link": "https://www.skysports.com/football/scotland-vs-slovenia/live/554082",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-scotland-kieron-bowie_7367506.jpg?20261003201538"
+    },
+    {
+      "source": "sky",
+      "title": "UEFA monitoring Man City case as it considers potential action",
+      "link": "https://www.skysports.com/football/news/12040/13595795/man-city-charges-uefa-monitoring-premier-league-clubs-case-as-it-considers-potential-action",
+      "summary": "UEFA is monitoring developments and will wait until the end of the Premier League's disciplinary process before deciding whether to take any potential action against Manchester City.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-man-city-manchester-city_7369861.jpg?20261006164624"
+    },
+    {
+      "source": "sky",
+      "title": "Djokovic wins China Open without needing a match point in semi-final and final",
+      "link": "https://www.skysports.com/tennis/news/12040/13595697/novak-djokovic-former-world-no-1-wins-china-open-title-without-facing-a-match-point-in-semi-final-and-final",
+      "summary": "Former world No 1 Novak Djokovic won his seventh China Open title without needing a match point in his semi-final and final.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-novak-djokovic-tennis_7369669.jpg?20261006134521"
+    },
+    {
+      "source": "sky",
+      "title": "Bentley fighting to keep world title with WBO appeal",
+      "link": "https://www.skysports.com/boxing/news/12040/13595880/denzel-bentley-is-fighting-to-keep-his-world-title-on-the-line-for-shane-mosley-jr-clash-with-ongoing-wbo-appeal",
+      "summary": "Denzel Bentley has lodged an appeal with the WBO to retain his middleweight world championship.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-denzel-bentley-wbo-championship_7369913.jpg?20261006174642"
+    },
+    {
+      "source": "sky",
+      "title": "Predicted PL table - latest from the Sky Sports supercomputer",
+      "link": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
+      "summary": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-martin-odegaard-arsenal_7343497.jpg?20260906175307"
+    },
+    {
+      "source": "sky",
       "title": "Alcaraz wins Japan Open in first final since wrist injury",
       "link": "https://www.skysports.com/tennis/news/12040/13595696/carlos-alcaraz-spaniard-wins-japan-open-in-first-final-since-coming-back-from-injury-lay-off-for-wrist-injury",
       "summary": "Carlos Alcaraz has won his first final since coming back from a long injury lay-off for a right wrist injury with success at the Japan Open.",
       "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-carlos-alcaraz-tennis_7369546.jpg?20261006114955"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-carlos-alcaraz-tennis_7369628.jpg?20261006124033"
     },
     {
       "source": "sky",
@@ -395,11 +451,27 @@
     },
     {
       "source": "sky",
+      "title": "Furyk wants more from USA as Donald warns against Ryder Cup complacency",
+      "link": "https://www.skysports.com/golf/news/12040/13595823/ryder-cup-luke-donald-warns-against-team-europe-complacency-as-jim-furyk-claims-team-usa-are-underdogs-at-adare-manor",
+      "summary": "Team Europe captain Luke Donald has insisted there will be &#8216;zero complacency&#8217; in his bid to complete a historic threepeat over Team USA in next year&#8217;s Ryder Cup at Adare Manor.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jim-furyk-golf-luke-donald_7369768.jpg?20261006152002"
+    },
+    {
+      "source": "sky",
       "title": "Scanning offers players like Odegaard an edge as game gets quicker",
       "link": "https://www.skysports.com/football/news/12040/13595669/scanning-offers-players-like-martin-odegaard-an-edge-as-football-becomes-faster-and-more-intense",
       "summary": "The headset goes on and I am transported from a central London meeting room to the centre circle of a match simulation. I have selected the role of holding midfielder. I grip a controller in each hand, thumb hovering over the pass button.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-martin-odegaard-romeo-lavia_7369572.jpg?20261006120818"
+    },
+    {
+      "source": "sky",
+      "title": "How to watch Liverpool vs Man City on Sky Sports on Sunday",
+      "link": "https://www.skysports.com/football/news/12040/13595453/liverpool-vs-man-city-how-to-watch-tv-channel-live-stream-now-tv-team-news-and-score-prediction",
+      "summary": "Liverpool host Manchester City in a blockbuster Super Sunday Premier League clash on October 11, live on Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-man-city_7368945.jpg?20261005153221"
     },
     {
       "source": "sky",
@@ -411,11 +483,11 @@
     },
     {
       "source": "sky",
-      "title": "India's World Cup-winning captain Harmanpreet steps down",
+      "title": "India name Mandhana as Harmanpreet's replacement as captain",
       "link": "https://www.skysports.com/cricket/news/12040/13595632/harmanpreet-kaur-indias-world-cup-winning-captain-steps-down-from-role-across-all-three-formats-of-cricket",
-      "summary": "India's World Cup-winning captain Harmanpreet Kaur has stepped down from the role across all three formats.",
+      "summary": "India's World Cup-winning captain Harmanpreet Kaur has stepped down from the role across all three formats, with Smriti Mandhana named as her successor.",
       "published": null,
-      "image": "https://e2.365dm.com/25/11/1920x1080/skysports-harmanpreet-kaur_7070452.jpg?20251103095653"
+      "image": "https://e2.365dm.com/25/11/1920x1080/skysports-harmanpreet-kaur_7070452.jpg?20261006143000"
     },
     {
       "source": "sky",
@@ -432,78 +504,6 @@
       "summary": "Highlights from the NFL fixture between the Atlanta Falcons and the New Orleans Saints.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-saints-falcons_7369294.jpg?20261006061929"
-    },
-    {
-      "source": "sky",
-      "title": "Robinson and Falcons blow away Saints for second NFL win",
-      "link": "https://www.skysports.com/nfl/news/12040/13595601/nfl-2026-results-and-highlights-bijan-robinson-stars-as-atlanta-falcons-blow-away-new-orleans-saints-45-24-in-second-win-of-nfl-season",
-      "summary": "Bijan Robinson rushed for 145 yards and two touchdowns as the Atlanta Falcons posted a dominant 45-24 victory over the New Orleans Saints on Monday night.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bijan-robinson-atlanta-falcons_7369295.jpg?20261006062007"
-    },
-    {
-      "source": "sky",
-      "title": "Tennis scores: Djokovic in China Open final against De Minaur",
-      "link": "https://www.skysports.com/tennis/scores-schedule",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-novak-djokovic-china-open-tennis-2026_7368555.jpg?20261005091156"
-    },
-    {
-      "source": "sky",
-      "title": "BTS of Wakefield's Grand Final celebrations! - The Bench with Jenna & Jon",
-      "link": "https://www.skysports.com/watch/video/13595334/the-bench-podcast-inside-the-winning-wakefield-dressing-room-at-old-trafford",
-      "summary": "Moments after winning the Super League Grand Final, Jenna, Jon and Sam head inside the Wakefield Trinity dressing room to join the celebrations.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bench-pod_7368835.jpg?20261005140528"
-    },
-    {
-      "source": "sky",
-      "title": "Dubois expects blockbuster Fury fight after Wardley rematch",
-      "link": "https://www.skysports.com/boxing/news/12040/13595561/daniel-dubois-expects-to-set-up-blockbuster-fight-tyson-fury-after-fabio-wardley-rematch-thats-what-boxings-about",
-      "summary": "Daniel Dubois believes he can set himself on a collision course with Tyson Fury.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-daniel-dubois-boxing_7244186.jpg?20260510081106"
-    },
-    {
-      "source": "sky",
-      "title": "'Sandpapergate’ adds to intrigue of Australia Test tour of South Africa",
-      "link": "https://www.skysports.com/cricket/news/12040/13595454/south-africa-vs-australia-test-series-sandpapergate-adds-to-intrigue-in-rematch-of-infamous-2018-ball-fixing-scandal",
-      "summary": "Australia's first Test tour of South Africa since 'Sandpapergate' in 2018 begins with the first of three Tests in Durban on Friday - live on Sky Sports - as the top two in the world rankings do battle.",
-      "published": null,
-      "image": "https://e0.365dm.com/18/03/1920x1080/sky-sports-steve-smith-australia_4265923.jpg?20180327104810"
-    },
-    {
-      "source": "sky",
-      "title": "Audience's full-sister makes first start at Southwell",
-      "link": "https://www.skysports.com/racing/news/12040/13595266/today-on-sky-sports-racing-audiences-full-sister-makes-first-start-at-southwell",
-      "summary": "Brighton and Southwell play host to Tuesday's action, live on Sky Sports Racing.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-audience-racing_7368629.jpg?20261005105510"
-    },
-    {
-      "source": "sky",
-      "title": "Gauff receives racist abuse online after China Open incident",
-      "link": "https://www.skysports.com/tennis/news/12040/13595569/coco-gauff-reports-online-racial-abuse-after-incident-during-her-victory-over-sun-xinran-at-china-open",
-      "summary": "Coco Gauff has said she has been racially abused on social media following an incident in her win over Sun Xinran at the China Open.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coco-gauff-canadian-open-tennis-2026_7317347.jpg?20260809082831"
-    },
-    {
-      "source": "sky",
-      "title": "How Gordon made himself undroppable for England",
-      "link": "https://www.skysports.com/football/news/12040/13595274/anthony-gordon-england-and-barcelona-winger-shrugs-off-consistency-concerns-to-become-key-figure-for-club-and-country",
-      "summary": "It feels a long time ago that Anthony Gordon's place in the England line-up was not assured.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-anthony-gordon-england_7369363.jpg?20261006092337"
-    },
-    {
-      "source": "sky",
-      "title": "Who has the deepest squad in the Premier League?",
-      "link": "https://www.skysports.com/football/news/12040/13591771/premier-league-squad-depth-rankings-arsenal-man-utd-liverpool-chelsea-and-all-20-clubs-compared",
-      "summary": "In a Premier League season increasingly shaped by injuries, rotation and congested schedules, what happens when the first choices are unavailable can be incredibly important.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-squad-depth_7368272.jpg?20261004211021"
     }
   ]
 }
