@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-08T01:30:00.776042+00:00",
+  "lastUpdated": "2026-10-08T08:18:14.348189+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Inside the £1-an-hour official football shirt factories",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.",
+      "published": "2026-10-08T05:48:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c1/live/22e2f250-c0b8-11f1-babe-4199b0e7ccea.png"
+    },
     {
       "source": "bbc",
       "title": "Rice close to agreeing new Arsenal deal",
@@ -338,12 +346,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2f/live/dca8cbf0-b02e-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "source": "bbc",
-      "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
-      "published": "2026-09-12T22:57:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2b/live/ec65d630-aefa-11f1-b1d1-571ed4d7ff2c.jpg"
+      "source": "sky",
+      "title": "Brilliant Star and Alla Stella face off in Beckford Stakes",
+      "link": "https://www.skysports.com/racing/news/12040/13595790/today-on-sky-sports-racing-brilliant-star-and-alla-stella-face-off-in-beckford-stakes",
+      "summary": "Brilliant Star, Alla Stella and Pierian lock horns in Bath's Beckford Stakes, live on Sky Sports Racing.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-bath-horse-racing_7233009.jpg?20260428112858"
+    },
+    {
+      "source": "sky",
+      "title": "England's Smith starts well at Baycurrent Classic as Bridgeman leads",
+      "link": "https://www.skysports.com/golf/news/12040/13596364/pga-tour-englands-jordan-smith-starts-well-at-baycurrent-classic-as-jacob-bridgeman-leads-in-japan",
+      "summary": "England's Jordan Smith enjoyed a strong start to the Baycurrent Classic with a bogey-free, seven-under 64 leaving him one shot behind first-round leader Jacob Bridgeman in Japan.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-jordan-smith-pga-tour-golf_7371018.jpg?20261008072336"
+    },
+    {
+      "source": "sky",
+      "title": "'What a night it's going to be!' - Timings for Fury vs Joshua revealed",
+      "link": "https://www.skysports.com/watch/video/13596368/fury-vs-joshua-timings-revealed-for-fight-in-cardiff-in-december",
+      "summary": "Sky Sports' Michael Bridge has more on the timing for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium on Friday 11 December - with the ringwalk expected to place at 1am in the early hours of Saturday.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-boxing-tyson-fury_7371027.jpg?20261008073113"
+    },
+    {
+      "source": "sky",
+      "title": "'Sandpapergate' Q&A: The 2018 ball-tampering scandal explained",
+      "link": "https://www.skysports.com/cricket/news/12040/13596022/sandpapergate-2018-ball-tampering-scandal-explained-as-australia-return-to-south-africa-for-test-cricket",
+      "summary": "&#8203;&#8203;&#8203;It was the ball-tampering scandal that rocked world - and particularly Australian - cricket.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cricket-australia_7370307.jpg?20261007102039"
     },
     {
       "source": "sky",
@@ -371,19 +403,19 @@
     },
     {
       "source": "sky",
-      "title": "What's next for Littler? Can he still qualify for Players Championship Finals?",
-      "link": "https://www.skysports.com/darts/news/12040/13596082/luke-littler-world-champion-can-still-qualify-for-players-championship-finals-8211-but-will-he-play-and-what-else-can-he-win",
-      "summary": "Two-time world champion Luke Littler can still qualify for the Players Championship Finals in Minehead &#8211; but what else can he win?",
-      "published": null,
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7303785.jpg?20260721222549"
-    },
-    {
-      "source": "sky",
       "title": "Rahm to quit LIV Golf over 'unacceptable' terms",
       "link": "https://www.skysports.com/golf/news/12040/13596245/jon-rahm-set-to-end-liv-golf-involvement-over-unacceptable-terms-for-proposed-relaunch",
       "summary": "Jon Rahm is to quit LIV Golf after deeming the terms offered for the proposed relaunch of the breakaway series &#8220;unacceptable&#8221;.",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-jon-rahm-liv-golf_7320522.jpg?20261007173409"
+    },
+    {
+      "source": "sky",
+      "title": "What's next for Littler? Can he still qualify for Players Championship Finals?",
+      "link": "https://www.skysports.com/darts/news/12040/13596082/luke-littler-world-champion-can-still-qualify-for-players-championship-finals-8211-but-will-he-play-and-what-else-can-he-win",
+      "summary": "Two-time world champion Luke Littler can still qualify for the Players Championship Finals in Minehead &#8211; but what else can he win?",
+      "published": null,
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-luke-littler-darts_7303785.jpg?20260721222549"
     },
     {
       "source": "sky",
@@ -395,11 +427,35 @@
     },
     {
       "source": "sky",
+      "title": "Why Bears genius has become one of NFL's most important figures",
+      "link": "https://www.skysports.com/nfl/news/12040/13596088/ben-johnson-why-chicago-bears-mastermind-has-become-one-of-the-most-important-figures-in-the-nfl",
+      "summary": "The NFL needs the Ben Johnsons of the world. The genius and the belligerence. The brainiac and the maniac.&#160;",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ben-johnson-chicago-bears_7370685.jpg?20261007160140"
+    },
+    {
+      "source": "sky",
+      "title": "Has MVG lost the hunger? Does Wade take his Premier League spot for 2027?",
+      "link": "https://www.skysports.com/darts/news/12040/13596260/has-michael-van-gerwen-lost-the-hunger-does-james-wade-take-his-premier-league-spot-for-2027",
+      "summary": "Michael van Gerwen has been out of form over recent months, leading to questions over if he has lost his \"hunger\".",
+      "published": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-michael-van-gerwen_7215596.jpg?20260409223305"
+    },
+    {
+      "source": "sky",
       "title": "'Very humbling' - Sinfield receives knighthood at Windsor Castle",
       "link": "https://www.skysports.com/watch/video/13596153/sir-kevin-sinfield-receives-knighthood-at-windsor-castle-very-humbling",
       "summary": "Sir Kevin Sinfield has received a knighthood at Windsor Castle for services to the MND community - after raising money in memory of his late friend and former team-mate Rob Burrow - and for services to league and union rugby.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kevin-sinfield-rugby-league_7370596.jpg?20261007143340"
+    },
+    {
+      "source": "sky",
+      "title": "Golf leaderboards: Open de Espana, Baycurrent Classic and more",
+      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "summary": "Latest golf scores and results from around the world, including the DP World Tour's Alfred Dunhill Links Championship and more.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-justin-rose-golf_7250753.jpg?20260516182015"
     },
     {
       "source": "sky",
@@ -419,6 +475,14 @@
     },
     {
       "source": "sky",
+      "title": "Sky Sports and Guinness launch new accessibility services across PL coverage",
+      "link": "https://www.skysports.com/football/news/12040/13595862/sky-sports-and-guinness-launch-new-accessibility-services-across-premier-league-coverage",
+      "summary": "Live Subtitles to be available across all Sky Sports Premier League matches, while Live Descriptive Audio Commentary will be introduced on selected fixtures throughout the season.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-accessibility_7370601.jpg?20261007144143"
+    },
+    {
+      "source": "sky",
       "title": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
       "link": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
@@ -431,7 +495,7 @@
       "link": "https://www.skysports.com/boxing/live-blog/12040/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-fury-joshua-boxing_7365941.jpg?20261001174117"
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-tyson-fury-anthony-joshua_7365199.jpg?20260930193108"
     },
     {
       "source": "sky",
@@ -440,70 +504,6 @@
       "summary": "Tyson Fury and Anthony Joshua are set for a 1am ringwalk in their heavyweight boxing clash in Cardiff.",
       "published": null,
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-tyson-fury-anthony_7365363.jpg?20260930233805"
-    },
-    {
-      "source": "sky",
-      "title": "Pettersen to make golf comeback - and it may not be a one-off",
-      "link": "https://www.skysports.com/golf/news/12040/13596111/suzann-pettersen-two-time-major-winner-to-return-at-aramco-korea-championship-and-could-play-five-or-six-events-a-year",
-      "summary": "Suzann Pettersen is making a second return to professional golf since her retirement in 2019 with an appearance at this week's Aramco Korea Championship - and it may not be a one-off.",
-      "published": null,
-      "image": "https://e1.365dm.com/24/08/1920x1080/skysports-suzann-pettersen_6667232.jpg?20240826103056"
-    },
-    {
-      "source": "sky",
-      "title": "World Cup criticism still stings Tuchel despite Nations League positives",
-      "link": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-      "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant, a Nations League quarter-final all-but guaranteed.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-thomas-tuchel-england_7370526.jpg?20261007131746"
-    },
-    {
-      "source": "sky",
-      "title": "How does Arteta turn champions into serial winners?",
-      "link": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
-      "summary": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he signs his new one after leading them to a long-awaited Premier League title.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-mikel-artet-arteta_7359235.jpg?20260923103715"
-    },
-    {
-      "source": "sky",
-      "title": "'We want a winning era' - Arteta signs new Arsenal contract",
-      "link": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
-      "summary": "Mikel Arteta has signed a new long-term contract to extend his stay at Arsenal.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7370436.jpg?20261007121433"
-    },
-    {
-      "source": "sky",
-      "title": "Gauff left 'drained' by online racist abuse after losing at China Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13596041/coco-gauff-admits-being-drained-by-online-racist-abuse-after-shock-defeat-to-elise-mertens-at-china-open",
-      "summary": "Coco Gauff said she had been left drained by the racist abuse she experienced during the China Open after suffering a shock defeat by Elise Mertens as Iga Swiatek reached the quarter-finals.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-coco-gauff-tennis_7370320.jpg?20261007103338"
-    },
-    {
-      "source": "sky",
-      "title": "Eckert to remain Saints boss after getting suspended ban for Spygate",
-      "link": "https://www.skysports.com/football/news/12040/13567723/spygate-southampton-boss-tonda-eckert-keeps-job-after-receiving-six-week-suspended-ban-and-28000-fine",
-      "summary": "Southampton boss Tonda Eckert will continue in his role after being handed a six-week ban suspended until the end of next season over the 'Spygate' scandal.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229"
-    },
-    {
-      "source": "sky",
-      "title": "Sky Sports to show England's ODI tri-series in Pakistan",
-      "link": "https://www.skysports.com/cricket/news/12040/13595770/sky-sports-to-show-englands-odi-tri-series-against-pakistan-and-sri-lanka-live-from-october-18-31",
-      "summary": "Sky Sports will broadcast England's one-day international tri-series against Pakistan and Sri Lanka in full this October.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-cricket-odi-sri-lanka_7370448.jpg?20261007122004"
-    },
-    {
-      "source": "sky",
-      "title": "'Ruthless' Arteta enters step five of Arsenal project",
-      "link": "https://www.skysports.com/football/news/12040/13595720/mikel-artetas-new-contract-the-challenges-facing-arsenal-boss-as-he-enters-step-five-of-his-project",
-      "summary": "Mikel Arteta has turned Arsenal into Premier League champions but does his new contract take him into a new stage of his project? And can he bring more trophies to eclipse Arsene Wenger?",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7370268.jpg?20261007094114"
     }
   ]
 }
