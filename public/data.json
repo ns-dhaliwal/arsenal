@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-08T21:43:53.339200+00:00",
+  "lastUpdated": "2026-10-09T01:39:14.718337+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+      "summary": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield?Premier League top scorers | View the league tableDeclan Rice’s future role in England’s midfield was questioned by Gary Lineker after Alex Scott’s impressive first senior international start in the 7-0 thrashing of Croatia. But the decision to withdraw fr",
+      "published": "2026-10-08T23:01:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/70b9b1425ea904c9677e0820e9d273ebd09342a4/203_151_4433_3546/master/4433.jpg?width=140&quality=85&auto=format&fit=max&s=bac41ca5ffe71f7cf635fe7fea5c74a8"
+    },
     {
       "source": "guardian",
       "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
@@ -322,14 +330,6 @@
       "image": "https://i.guim.co.uk/img/media/36b26385bd002e9027d60347bed95aa654d2fa02/317_0_1667_1333/master/1667.jpg?width=140&quality=85&auto=format&fit=max&s=70aa3beb2996fe313b75b8f2d7f3ab60"
     },
     {
-      "source": "guardian",
-      "title": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-      "link": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
-      "summary": "The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals and an assist in a man-of-the-match display from Max Dowman underlined why the 16-year-old has been compared to a certain Lionel Messi by his manager, Mikel Arteta, as Ipswich were swatted aside with ease. Almost as impressive was the performance of the 17-year-old Marli Salmon, who oozed class ",
-      "published": "2026-09-15T21:14:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/fe64e88d0bcc7d2b7b135b287bd5bbfd764223f9/744_510_2582_2066/master/2582.jpg?width=140&quality=85&auto=format&fit=max&s=f9d860d3d3ade03d4cabb22cbf168070"
-    },
-    {
       "source": "bbc",
       "title": "Is the Premier League already a two-team title race?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
@@ -419,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
+      "link": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
       "title": "Wilder could feature on the undercard of Fury vs Joshua fight",
       "link": "https://www.skysports.com/boxing/news/12040/13596657/deontay-wilder-could-feature-on-the-undercard-of-tyson-fury-vs-anthony-joshua-fight",
       "summary": "Deontay Wilder could feature on the undercard for the Tyson Fury vs Anthony Joshua fight.",
@@ -496,14 +504,6 @@
       "summary": "Former Manchester City manager Pep Guardiola is expected to attend next week's Champions League match against Paris Saint-Germain, marking his first appearance at the Etihad Stadium since departing last summer.",
       "published": null,
       "image": "https://e0.365dm.com/26/05/1920x1080/skysports-pep-guardiola-manchester-city_7252019.jpg?20260518073939"
-    },
-    {
-      "source": "sky",
-      "title": "Fury vs Joshua key questions: What we know and what we don't",
-      "link": "https://www.skysports.com/boxing/news/12040/13596460/fury-vs-joshua-the-key-questions-ahead-of-december-11-all-british-showdown-between-tyson-fury-and-anthony-joshua",
-      "summary": "Sky Sports considers the key questions ahead of the Tyson Fury vs Anthony Joshua mega-fight.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-boxing-tyson-fury_7329018.jpg?20260823125223"
     }
   ]
 }
