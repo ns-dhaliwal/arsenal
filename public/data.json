@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-10T00:26:07.827831+00:00",
+  "lastUpdated": "2026-10-10T06:36:55.779887+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Premier League today: How to watch Arsenal v Leeds United, TV channels & live stream",
+      "link": "https://www.theguardian.com/football/2026/oct/10/premier-league-how-to-watch-arsenal-v-leeds-united",
+      "summary": "How will Arsenal and Leeds United fare today? Here is what to know, including kick-off time, TV channels and live stream optionsThree points is all that separates Arsenal and Leeds United as the Premier League returns after a three-week international break, with the latter one of the surprise packages of the season so far.Unlike Arsenal, Leeds have yet to lose a league game this season. Daniel Far",
+      "published": "2026-10-10T06:30:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/b71fc8c22a57342ddcdd984181a8d85f271338f4/329_0_4920_3937/master/4920.jpg?width=140&quality=85&auto=format&fit=max&s=25850b7474ca926db700dbfaeeb31f23"
+    },
+    {
+      "source": "bbc",
+      "title": "How Norway's rowing fans inspired Odegaard and Haaland",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c8ly06pp3vx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal's Martin Odegaard relives Norway's row at 2026 Fifa World Cup.",
+      "published": "2026-10-10T05:06:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/9d33a070-c0a1-11f1-bc2e-018d645d8d21.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arteta's conscience clear over Man City charges",
@@ -330,14 +346,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73a/live/24819ce0-b1bf-11f1-bdcf-d393eb724fa3.png"
     },
     {
-      "source": "guardian",
-      "title": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
-      "link": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
-      "summary": "Teenager continues development with two goals at IpswichMerino: ‘He is a big talent and we have to take care of him’Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswich.Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his first",
-      "published": "2026-09-16T16:00:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/f8442f8fa11a4a45395ca1cf85f5654d73646ce4/34_0_3644_2916/master/3644.jpg?width=140&quality=85&auto=format&fit=max&s=892a295c704f1006ec832ce3d57052b5"
-    },
-    {
       "source": "bbc",
       "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
       "link": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
@@ -347,11 +355,35 @@
     },
     {
       "source": "sky",
+      "title": "Masked Man and Wellington Arch tackle Chepstow's Silver Trophy",
+      "link": "https://www.skysports.com/racing/news/12040/13596603/today-on-sky-sports-racing-chepstow-hexham-and-southwell-feature-live-on-saturday",
+      "summary": "We have a busy day's racing on Saturday with action from Chepstow, Hexham and Southwell, live on Sky Sports Racing...",
+      "published": null,
+      "image": "https://e0.365dm.com/23/10/1920x1080/skysports-chepstow-sky-sports-racing_6319477.jpg?20231012161122"
+    },
+    {
+      "source": "sky",
+      "title": "New Zealand vs Australia LIVE! All Blacks hit back to lead vs Wallabies",
+      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13596789/new-zealand-vs-australia-live-all-blacks-host-wallabies-in-first-bledisloe-cup-test-updates-latest-scores-team-news-commentary",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-all-blacks-haka-new-zealand_7372628.jpg?20261010073240"
+    },
+    {
+      "source": "sky",
       "title": "'You will see me back' - Smith vows 2027 return after Swiss Darts Trophy win",
       "link": "https://www.skysports.com/darts/news/12040/13597050/swiss-darts-trophy-former-world-champion-michael-smith-plans-on-playing-100-per-cent-of-the-tournaments-in-2027-after-opening-win",
       "summary": "Former world champion Michael Smith says he plans on \"playing 100 per cent of the tournaments\" in 2027 after an opening win at the Swiss Darts Trophy.",
       "published": null,
       "image": "https://e1.365dm.com/25/12/1920x1080/skysports-michael-smith-darts_7104716.jpg?20251208122026"
+    },
+    {
+      "source": "sky",
+      "title": "Opetaia could fight Wilder on Fury-AJ undercard: 'He’s ready to go!'",
+      "link": "https://www.skysports.com/boxing/news/12040/13597094/fury-vs-joshua-undercard-jai-opetaia-could-fight-deontay-wilder-on-principality-stadium-bill",
+      "summary": "Deontay Wilder could fight Jai Opetaia on the undercard of the Tyson Fury vs Anthony Joshua blockbuster clash on December 11.",
+      "published": null,
+      "image": "https://e2.365dm.com/23/10/1920x1080/skysports-wilder-helenius_6335078.jpg?20261009233217"
     },
     {
       "source": "sky",
@@ -480,30 +512,6 @@
       "summary": "World Championship leader Kimi Antonelli cast further doubt over the performance of Mercedes' recent upgrade package as he explained his car was \"very difficult\" to drive during Sprint Qualifying in Singapore.",
       "published": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-kimi-antonelli_7372354.jpg?20261009170905"
-    },
-    {
-      "source": "sky",
-      "title": "FIA admits 'human error' created power disparity in Singapore Sprint Qualifying",
-      "link": "https://www.skysports.com/f1/news/12040/13596712/singapore-gp-fia-admits-human-error-created-power-disparity-in-sprint-qualifying-at-marina-bay-street-circuit",
-      "summary": "The FIA has admitted \"human error\" caused a power disparity during Sprint Qualifying in Singapore.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-carlos-sainz_7372285.jpg?20261009155126"
-    },
-    {
-      "source": "sky",
-      "title": "West Hill Verde lands thrilling Persian War at Chepstow | Full race replay",
-      "link": "https://www.skysports.com/watch/video/13596986/west-hill-verde-lands-thrilling-persian-war-at-chepstow-full-race-replay",
-      "summary": "West Hill Verde landed his first career success with a battling victory in the Grade Two Persian War Novices' Hurdle on day one of the Welsh Racing Festival at Chepstow.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chepstow-west-hill-verde_7372321.jpg?20261009162937"
-    },
-    {
-      "source": "sky",
-      "title": "'I only found out this morning' - Moyes surprised Everton are up for sale",
-      "link": "https://www.skysports.com/football/news/12040/13596920/david-moyes-everton-manager-admits-surprise-at-seeing-the-club-being-put-up-for-sale-by-the-friedkin-group",
-      "summary": "David Moyes has admitted his surprise at Everton being put up for sale by owners The Friedkin Group - even claiming he only found out on Friday morning when the statement was released to the supporters.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-david-moyes-everton_7372402.jpg?20261009181306"
     }
   ]
 }
