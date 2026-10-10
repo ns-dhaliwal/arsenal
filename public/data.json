@@ -1,12 +1,20 @@
 {
-  "lastUpdated": "2026-10-09T20:28:13.801210+00:00",
+  "lastUpdated": "2026-10-10T00:26:07.827831+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arteta's conscience clear over Man City charges",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+      "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
+      "published": "2026-10-09T21:30:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
+    },
     {
       "source": "guardian",
       "title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
       "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict",
-      "summary": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola’s players are focusing on next game, not the fallout Continue reading...",
-      "published": "2026-10-09T15:06:36+00:00",
+      "summary": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola says he understands why Liverpool fans are angry Continue reading...",
+      "published": "2026-10-09T21:30:05+00:00",
       "image": "https://i.guim.co.uk/img/media/6d42d64d1ee7d127ec5e18afd0f6a3577f0fd8ac/1714_0_5712_4572/master/5712.jpg?width=140&quality=85&auto=format&fit=max&s=7831b79a8df4bc94dd271546da1b9fc1"
     },
     {
@@ -339,6 +347,62 @@
     },
     {
       "source": "sky",
+      "title": "'You will see me back' - Smith vows 2027 return after Swiss Darts Trophy win",
+      "link": "https://www.skysports.com/darts/news/12040/13597050/swiss-darts-trophy-former-world-champion-michael-smith-plans-on-playing-100-per-cent-of-the-tournaments-in-2027-after-opening-win",
+      "summary": "Former world champion Michael Smith says he plans on \"playing 100 per cent of the tournaments\" in 2027 after an opening win at the Swiss Darts Trophy.",
+      "published": null,
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-michael-smith-darts_7104716.jpg?20251208122026"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Man Utd forced into transfer market in January?",
+      "link": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Arteta says conscience clear over time at Man City",
+      "link": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
+      "summary": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikel-arteta-arsenal_7372319.jpg?20261009162603"
+    },
+    {
+      "source": "sky",
+      "title": "Wainwright opens Leicester account with Gloucester win in front of Prince Harry",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13597061/gallagher-prem-aaron-wainwright-scores-his-first-try-for-leicester-tigers-as-they-defeat-gloucester-in-front-of-prince-harry",
+      "summary": "Wales back-rower Aaron Wainwright scored his first try for Leicester Tigers as they defeated Gloucester 38-31 in a forward-dominated contest in the Gallagher Prem watched by The Duke of Sussex, Prince Harry.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-aaron-wainwright_7372548.jpg?20261009220848"
+    },
+    {
+      "source": "sky",
+      "title": "INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!",
+      "link": "https://www.skysports.com/watch/video/13597075/west-ham-vs-qpr-charles-the-hero-as-he-saves-bowens-penalty-and-the-rebound",
+      "summary": "Pierce Charles was the QPR hero as he helped them secure a point away to West Ham by saving a last-minute penalty and the rebound.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-qpr-charles_7372543.jpg?20261009220256"
+    },
+    {
+      "source": "sky",
+      "title": "Bowen's late penalty saved as West Ham held by QPR",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
+      "summary": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148"
+    },
+    {
+      "source": "sky",
+      "title": "White: Fury-AJ will be most lucrative gate in British boxing history",
+      "link": "https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white",
+      "summary": "Tyson Fury vs Anthony Joshua will generate the most lucrative gate in British boxing history, Dana White tells Sky Sports.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-tyson-fury-anthony-joshua_7372502.jpg?20261009211910"
+    },
+    {
+      "source": "sky",
       "title": "Ronaldo scores on Al Nassr return after Portugal walkout",
       "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
       "summary": "",
@@ -363,19 +427,19 @@
     },
     {
       "source": "sky",
+      "title": "West Ham 1-1 QPR highlights",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148"
+    },
+    {
+      "source": "sky",
       "title": "Hope hundred fires West Indies to record win over India in second T20",
       "link": "https://www.skysports.com/cricket/news/12040/13597027/india-vs-west-indies-shai-hope-hits-unbeaten-102-in-windies-highest-successful-t20-run-chase",
       "summary": "Shai Hope struck a century as West Indies completed their highest successful &#8204;chase in T20 internationals, overhauling a target of 250 to beat India by six &#8204;wickets in Ranchi and level the five-match series at 1-1.",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-shai-hope-west-indies_7372424.jpg?20261009190939"
-    },
-    {
-      "source": "sky",
-      "title": "QPR lead at West Ham after controversial pen LIVE!",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr-championship_7372476.jpg?20261009205218"
     },
     {
       "source": "sky",
@@ -440,62 +504,6 @@
       "summary": "David Moyes has admitted his surprise at Everton being put up for sale by owners The Friedkin Group - even claiming he only found out on Friday morning when the statement was released to the supporters.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-david-moyes-everton_7372402.jpg?20261009181306"
-    },
-    {
-      "source": "sky",
-      "title": "Middlesbrough vs Wolves: Predict the score!",
-      "link": "https://www.skysports.com/football/middlesbrough-vs-wolverhampton-wanderers/live/560598",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836"
-    },
-    {
-      "source": "sky",
-      "title": "Explained: The FIA 'human error' during Singapore Sprint Qualifying",
-      "link": "https://www.skysports.com/watch/video/13596983/singapore-gp-the-fia-human-error-which-created-power-disparity-in-sprint-qualifying-explained",
-      "summary": "Sky Sports News' Craig Slater explains the FIA 'human error' which caused a power disparity between the cars during Sprint Qualifying at the Singapore Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-craig-slater_7372320.jpg?20261009162855"
-    },
-    {
-      "source": "sky",
-      "title": "Verstappen keeps Singapore Sprint pole after investigation",
-      "link": "https://www.skysports.com/f1/news/12040/13596695/singapore-gp-sprint-qualifying-max-verstappen-claims-pole-position-from-george-russell-but-faces-yellow-flags-investigation",
-      "summary": "Max Verstappen maintained his rich vein of form to claim pole position for Saturday's Sprint at the Singapore Grand Prix, which he kept after avoiding a penalty in an investigation over yellow flags.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7372353.jpg?20261009170133"
-    },
-    {
-      "source": "sky",
-      "title": "Chicago Bears legend and NFL Hall of Famer Mike Ditka dies, aged 86",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-mike-ditka-nfl_7372350.jpg?20261009165918"
-    },
-    {
-      "source": "sky",
-      "title": "Singapore Grand Prix - Sprint Qualifying highlights",
-      "link": "https://www.skysports.com/watch/video/13596934/singapore-grand-prix-sprint-qualifying-highlights",
-      "summary": "Highlights from Qualifying for the 2026 Singapore Grand Prix Sprint race.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-singapore-hlts_7372233.jpg?20261009150710"
-    },
-    {
-      "source": "sky",
-      "title": "Mercedes drivers bemoan new upgrades after SQ struggles",
-      "link": "https://www.skysports.com/watch/video/13596966/singapore-gp-mercedes-drivers-bemoan-new-upgrades-after-sprint-qualyfying-struggles",
-      "summary": "George Russell and Kimi Antonelli discuss Mercedes' new upgrade package.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kimi-mercredes_7372286.jpg?20261009155331"
-    },
-    {
-      "source": "sky",
-      "title": "O'Neill: Decision to stay at Celtic didn't take long",
-      "link": "https://www.skysports.com/football/news/12040/13596964/celtic-manager-martin-oneill-says-decision-to-stay-at-scottish-premiership-champions-didnt-take-long",
-      "summary": "Martin O'Neill said it would have been \"poor\" to walk out on Celtic as he explained it \"did not take long\" for him to rediscover his drive to lead the team following a brief period of uncertainty about his future.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-martin-celtic-oneill_7372246.jpg?20261009152357"
     }
   ]
 }
