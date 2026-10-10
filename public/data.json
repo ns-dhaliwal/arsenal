@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-10T06:36:55.779887+00:00",
+  "lastUpdated": "2026-10-10T13:13:19.170687+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Arsenal v Leeds: Premier League – live",
+      "link": "https://www.theguardian.com/football/live/2026/oct/10/arsenal-v-leeds-premier-league-live",
+      "summary": "⚽ Updates from the Emirates: kick-off 12.30pm BST⚽ Ten things to look out for | Live scores | Mail BarryAn email: “Happy Saturday, Barry,” writes Mark Kerry. “Is it just me or are there other baffled Arsenal fans out there regarding Arteta’s obsession with starting Havertz as a centre forward? I just can’t see the rationale for it at this point, given that Havertz has proven over the last few seas",
+      "published": "2026-10-10T13:11:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/09cd3c5a0cbb40e35a51355082f46871b83f318f/764_378_3727_2982/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=5ddb736580b23e7d39133c1da7615a26"
+    },
     {
       "source": "guardian",
       "title": "Premier League today: How to watch Arsenal v Leeds United, TV channels & live stream",
@@ -314,14 +322,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ea/live/e93316a0-b349-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "link": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "summary": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast returnPremier League top scorers: check the latest standingsChelsea have not won this west London derby since Brentford’s first Premier League season. Each visit since October 2021’s 1-0 win, Ben Chilwell the scorer, has been a draw. This season has continued the divergence between the clubs’ respective approache",
-      "published": "2026-09-17T23:01:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/576193dd3d2ea34a392177179e39b52a11fae6b5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7cead1f09274ae5eb9c20884355bf21a"
-    },
-    {
       "source": "bbc",
       "title": "'This player should be in the next England squad...'",
       "link": "https://www.bbc.co.uk/sport/videos/ck05r02z2pz7o?at_medium=RSS&at_campaign=rss",
@@ -355,6 +355,110 @@
     },
     {
       "source": "sky",
+      "title": "Rangers unchanged from last time out vs Kilmarnock LIVE!",
+      "link": "https://www.skysports.com/football/rangers-vs-kilmarnock/live/558380",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kevin-kelsy-rangers_7350160.jpg?20260913132926"
+    },
+    {
+      "source": "sky",
+      "title": "Singapore GP: Hamilton targets Verstappen pole fight in 2.30pm Qualifying",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13597107/f1-singapore-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-marina-bay-circuit-race-weekend",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7371348.jpg?20261010135415"
+    },
+    {
+      "source": "sky",
+      "title": "'McLaren will be furious!' - Was Norris to blame for Piastri collision?",
+      "link": "https://www.skysports.com/f1/news/12040/13597104/singapore-gp-mclaren-will-be-furious-at-lando-norris-oscar-piastri-crash-during-sprint-says-martin-brundle",
+      "summary": "The overtake Lando Norris attempted on Oscar Piastri that resulted in the McLaren team-mates crashing on the final lap of the Singapore Grand Prix Sprint was \"not smart\", according to Sky Sports F1's Martin Brundle.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-mclaren-norris-piastri_7372857.png?20261010122848"
+    },
+    {
+      "source": "sky",
+      "title": "Verstappen wins wet Singapore Sprint after Russell crashes",
+      "link": "https://www.skysports.com/f1/news/12040/13597101/singapore-gp-sprint-max-verstappen-beats-lewis-hamilton-after-george-russell-crashes-out-from-lead",
+      "summary": "Max Verstappen won a rain-affected Singapore Grand Prix Sprint after George Russell dramatically crashed out from the lead.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7372816.jpg?20261010133221"
+    },
+    {
+      "source": "sky",
+      "title": "'We win major trophies here': Palmer signs new Chelsea contract",
+      "link": "https://www.skysports.com/football/news/12040/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034",
+      "summary": "Cole Palmer has signed a contract extension with Chelsea.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-cole-palmer-chelsea_7335712.jpg?20260830154029"
+    },
+    {
+      "source": "sky",
+      "title": "Comeback complete! Bruno fires Arsenal ahead vs Leeds LIVE!",
+      "link": "https://www.skysports.com/football/arsenal-vs-leeds-united/live/559494",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bruno-guimaraes-arsenal_7372967.jpg?20261010140742"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa vs Brentford team news as Manzambi starts LIVE!",
+      "link": "https://www.skysports.com/football/aston-villa-vs-brentford/live/559495",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-johan-manzambi-premier-league_7356070.jpg?20260919135608"
+    },
+    {
+      "source": "sky",
+      "title": "Palmer, Joao Pedro and Caicedo start for Chelsea vs Bournemouth LIVE!",
+      "link": "https://www.skysports.com/football/chelsea-vs-bournemouth/live/559496",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-cole-palmer-morgan-rogers_7330427.jpg?20260824220513"
+    },
+    {
+      "source": "sky",
+      "title": "Philogene makes first Ipswich start of season LIVE!",
+      "link": "https://www.skysports.com/football/ipswich-town-vs-fulham/live/559500",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leif-davis-ipswich_7349245.jpg?20260912155259"
+    },
+    {
+      "source": "sky",
+      "title": "Dominant All Blacks score 50 points in big win over Australia",
+      "link": "https://www.skysports.com/rugby-union/new-zealand-vs-australia/report/111859",
+      "summary": "New Zealand will retain the Bledisloe Cup for a 24th year after powering to a 50-19 victory over Australia at Eden Park on Saturday.&#160;",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-carter-new-zealand_7372680.jpg?20261010090834"
+    },
+    {
+      "source": "sky",
+      "title": "Sunderland without Brobbey vs unchanged Brighton LIVE!",
+      "link": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/live/559503",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-brian-brobbey-premier-league_7357021.jpg?20260920142002"
+    },
+    {
+      "source": "sky",
+      "title": "Aramco Korea Championship | Day three highlights",
+      "link": "https://www.skysports.com/watch/video/13597146/aramco-korea-championship-day-three-highlights",
+      "summary": "Highlights from the third round of the Aramco Korea Championship.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-d-a_7372701.jpg?20261010094536"
+    },
+    {
+      "source": "sky",
+      "title": "England's Smith shines with Baycurrent Classic set for final-round thriller",
+      "link": "https://www.skysports.com/watch/video/13597124/the-baycurrent-classic-day-three-highlights",
+      "summary": "Highlights from the third round of the PGA Tour Baycurrent Classic.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/f-a-aa_7372647.jpg?20261010080932"
+    },
+    {
+      "source": "sky",
       "title": "Masked Man and Wellington Arch tackle Chepstow's Silver Trophy",
       "link": "https://www.skysports.com/racing/news/12040/13596603/today-on-sky-sports-racing-chepstow-hexham-and-southwell-feature-live-on-saturday",
       "summary": "We have a busy day's racing on Saturday with action from Chepstow, Hexham and Southwell, live on Sky Sports Racing...",
@@ -363,11 +467,11 @@
     },
     {
       "source": "sky",
-      "title": "New Zealand vs Australia LIVE! All Blacks hit back to lead vs Wallabies",
+      "title": "As it happened - All Blacks POWER away vs Australia to retain Bledisloe Cup",
       "link": "https://www.skysports.com/rugby-union/live-blog/12040/13596789/new-zealand-vs-australia-live-all-blacks-host-wallabies-in-first-bledisloe-cup-test-updates-latest-scores-team-news-commentary",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-all-blacks-haka-new-zealand_7372628.jpg?20261010073240"
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-vaai-new-zealand_7372636.jpg?20261010075750"
     },
     {
       "source": "sky",
@@ -408,110 +512,6 @@
       "summary": "Wales back-rower Aaron Wainwright scored his first try for Leicester Tigers as they defeated Gloucester 38-31 in a forward-dominated contest in the Gallagher Prem watched by The Duke of Sussex, Prince Harry.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-aaron-wainwright_7372548.jpg?20261009220848"
-    },
-    {
-      "source": "sky",
-      "title": "INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!",
-      "link": "https://www.skysports.com/watch/video/13597075/west-ham-vs-qpr-charles-the-hero-as-he-saves-bowens-penalty-and-the-rebound",
-      "summary": "Pierce Charles was the QPR hero as he helped them secure a point away to West Ham by saving a last-minute penalty and the rebound.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-qpr-charles_7372543.jpg?20261009220256"
-    },
-    {
-      "source": "sky",
-      "title": "Bowen's late penalty saved as West Ham held by QPR",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605",
-      "summary": "Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148"
-    },
-    {
-      "source": "sky",
-      "title": "White: Fury-AJ will be most lucrative gate in British boxing history",
-      "link": "https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white",
-      "summary": "Tyson Fury vs Anthony Joshua will generate the most lucrative gate in British boxing history, Dana White tells Sky Sports.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-tyson-fury-anthony-joshua_7372502.jpg?20261009211910"
-    },
-    {
-      "source": "sky",
-      "title": "Ronaldo scores on Al Nassr return after Portugal walkout",
-      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261009211949"
-    },
-    {
-      "source": "sky",
-      "title": "Forrest holds halfway lead at Open de Espana",
-      "link": "https://www.skysports.com/golf/news/12040/13597032/open-de-espana-grant-forrest-continues-good-record-to-take-one-stroke-lead-into-the-weekend-in-madrid",
-      "summary": "Scotland's Grant Forrest continued his good record at the Open de Espana to take a one-stroke lead into the weekend.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-grant-forrest-golf_7372439.jpg?20261009194611"
-    },
-    {
-      "source": "sky",
-      "title": "England take control of World Cup play-off with win in Greece",
-      "link": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-      "summary": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-england-lionesses_7372418.jpg?20261009185834"
-    },
-    {
-      "source": "sky",
-      "title": "West Ham 1-1 QPR highlights",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/live/560605",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-west-ham-qpr_7372542.jpg?20261009220148"
-    },
-    {
-      "source": "sky",
-      "title": "Hope hundred fires West Indies to record win over India in second T20",
-      "link": "https://www.skysports.com/cricket/news/12040/13597027/india-vs-west-indies-shai-hope-hits-unbeaten-102-in-windies-highest-successful-t20-run-chase",
-      "summary": "Shai Hope struck a century as West Indies completed their highest successful &#8204;chase in T20 internationals, overhauling a target of 250 to beat India by six &#8204;wickets in Ranchi and level the five-match series at 1-1.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-shai-hope-west-indies_7372424.jpg?20261009190939"
-    },
-    {
-      "source": "sky",
-      "title": "Scotland's Forrest leads Open de Espana on day two",
-      "link": "https://www.skysports.com/watch/video/13597026/open-de-espana-day-two-highlights",
-      "summary": "Highlights from day two of the Open de Espana at Club de Campo Villa de Madrid.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-golf-highlights_7372426.jpg?20261009191809"
-    },
-    {
-      "source": "sky",
-      "title": "Pioneer Pete dominates the 'Welsh Champion' Hurdle | Full Race Replay",
-      "link": "https://www.skysports.com/watch/video/13596982/pioneer-pete-dominates-the-welsh-champion-hurdle",
-      "summary": "Pioneer Pete took his form to a new level with a tenacious display from the front in the 'Welsh Champion' Hurdle",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-chepstow-pioneer-pete_7372326.jpg?20261009163307"
-    },
-    {
-      "source": "sky",
-      "title": "Musical Times stays unbeaten in Fillies' Mile at Newmarket",
-      "link": "https://www.skysports.com/racing/news/12040/13596987/newmarket-musical-times-stays-unbeaten-with-fillies-mile-victory-for-charlie-appleby-with-william-buick-on-board",
-      "summary": "Musical Times overcame traffic problems to maintain her unbeaten record in the bet365 Fillies' Mile at Newmarket.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-musical-times-william-buick_7372308.jpg?20261009164956"
-    },
-    {
-      "source": "sky",
-      "title": "Smith rapped on fingers then gets out in South Africa",
-      "link": "https://www.skysports.com/watch/video/13596831/south-africa-vs-australia-steve-smith-rapped-on-fingers-before-being-caught-out-in-first-test",
-      "summary": "Steve Smith was dismissed by Marco Jansen for 25 in 53 balls in Australia's first Test against South Africa.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-smith-cricket_7372059.jpg?20261009121232"
-    },
-    {
-      "source": "sky",
-      "title": "Antonelli casts further doubt over performance of Mercedes upgrades",
-      "link": "https://www.skysports.com/f1/news/12040/13596998/singapore-gp-kimi-antonelli-casts-further-doubt-over-performance-of-mercedes-upgrades-after-disappointing-sprint-qualifying",
-      "summary": "World Championship leader Kimi Antonelli cast further doubt over the performance of Mercedes' recent upgrade package as he explained his car was \"very difficult\" to drive during Sprint Qualifying in Singapore.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-kimi-antonelli_7372354.jpg?20261009170905"
     }
   ]
 }
