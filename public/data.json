@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T23:23:01.717209+00:00",
+  "lastUpdated": "2026-10-12T03:52:06.305375+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -347,19 +347,19 @@
     },
     {
       "source": "sky",
+      "title": "NFL results: 49ers edge Seahawks in fiercely-fought thriller",
+      "link": "https://www.skysports.com/nfl/live-blog/12040/13597960/nfl-2026-results-and-highlights-joe-burrow-and-drake-maye-throw-four-tds-apiece-in-cincinnati-bengals-and-new-england-patriots-wins",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-fred-warner-san-francisco-49ers_7374704.jpg?20261012013658"
+    },
+    {
+      "source": "sky",
       "title": "Lazio fly high in Serie A, Freiburg lead Bundesliga, Betis go third in Spain",
       "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "summary": "",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-nuno-tavares-lazio_7374654.jpg?20261011215935"
-    },
-    {
-      "source": "sky",
-      "title": "NFL results: Burrow and Maye fire four passing TDs as Bengals, Patriots win",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13597960/nfl-2026-results-and-highlights-joe-burrow-and-drake-maye-throw-four-tds-apiece-in-cincinnati-bengals-and-new-england-patriots-wins",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-joe-burrow-cincinnati-bengals_7374670.jpg?20261011222719"
     },
     {
       "source": "sky",
@@ -416,6 +416,14 @@
       "summary": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jamie Carragher.",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-ryan-gravenberch_7374486.jpg?20261011182259"
+    },
+    {
+      "source": "sky",
+      "title": "NFL live scores:49ers beat Seahawks in thriller",
+      "link": "https://www.nbcsports.com/nfl/scores",
+      "summary": "Follow the latest scores from around the NFL in Week Five of the 2026 season.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-brock-purdy-49ers_7347613.jpg?20260911062347"
     },
     {
       "source": "sky",
@@ -496,14 +504,6 @@
       "summary": "Jamie Carragher says the country's feelings towards Manchester City will only grow unless the case is swiftly resolved. Listen to the Gary Neville podcast in full on Sky Sports platforms.",
       "published": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-carragher-jamie-football_7374608.jpg?20261011203813"
-    },
-    {
-      "source": "sky",
-      "title": "Cummins helps Australia take control against South Africa",
-      "link": "https://www.skysports.com/cricket/news/12040/13597870/south-africa-vs-australia-pat-cummins-mitchell-starc-nathan-lyon-among-wickets-as-baggy-greens-take-command-of-first-test-in-durban",
-      "summary": "Pat Cummins claimed 3-54 as Australia took a 139-run lead against South Africa at stumps on day three of the first Test in Durban.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-smith-cricket-australia_7374354.jpg?20261011162250"
     }
   ]
 }
