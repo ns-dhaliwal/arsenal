@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-14T17:44:21.010733+00:00",
+  "lastUpdated": "2026-10-14T21:12:37.193324+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Substitutes steal the show as Arsenal score three against Lille",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
+      "summary": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
+      "published": "2026-10-14T21:00:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f60/live/5d3e5730-c74a-11f1-a64c-550be9e3c66b.jpg"
+    },
     {
       "source": "bbc",
       "title": "Arsenal to cut 60 jobs",
@@ -314,14 +322,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7e/live/9c13a030-bb6c-11f1-9ecf-8dd029790cef.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
-      "published": "2026-09-28T08:10:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b734/live/7611bac0-a866-11f1-ae45-e9984fc27c77.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsène Wenger and Arsenal: 30 years on from appointment that changed English football",
       "link": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football",
@@ -355,6 +355,54 @@
     },
     {
       "source": "sky",
+      "title": "West Ham thump SIX past NINE-man Lincoln LIVE!",
+      "link": "https://www.skysports.com/football/lincoln-city-vs-west-ham-united/live/560614",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jarrod-bowen-west-ham_7377147.jpg?20261014212332"
+    },
+    {
+      "source": "sky",
+      "title": "Sunderland latest: Le Bris urges players to 'respect' Torreense",
+      "link": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
+    },
+    {
+      "source": "sky",
+      "title": "Barcola scores hat-trick as Liverpool thrash LASK",
+      "link": "https://www.skysports.com/football/linz-ask-vs-liverpool/report/577627",
+      "summary": "Bradley Barcola scored a hat-trick and Florian Wirtz shone after recent criticism as Liverpool thrashed LASK 6-3 to earn their second win in the Champions League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-bradley-barcola_7377021.jpg?20261014182121"
+    },
+    {
+      "source": "sky",
+      "title": "Vinicius Jr to miss El Clasico after red card",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-vinicius-junior_7375038.jpg?20261012124628"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa hit Fenerbahce for six in big win at Villa Park",
+      "link": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
+      "summary": "Aston Villa dismantled Fenerbahce with Nicolas Jackson and Ross Barkley scoring two each in a 6-0 Champions League win at Villa Park.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-nicolas-jackson-fenerbahce_7377128.jpg?20261014210659"
+    },
+    {
+      "source": "sky",
+      "title": "Red Roses make four changes to starting XV for Canada Test",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13599316/englands-red-roses-john-mitchell-makes-four-changes-to-starting-xv-for-canada-wxv-global-series-test-in-toronto",
+      "summary": "England's Red Roses have made four changes to their starting XV for their game against Canada in Rugby's WXV Global Series.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-amy-cokayne-rugby_7377042.jpg?20261014185808"
+    },
+    {
+      "source": "sky",
       "title": "Palace latest: Sage admits Lyon return brings back 'emotion'",
       "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
@@ -371,19 +419,19 @@
     },
     {
       "source": "sky",
-      "title": "Aston Villa vs Fenerbahce team news LIVE!",
+      "title": "Aston Villa complete six-goal win over Fenerbahce LIVE!",
       "link": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/live/577624",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-john-mcginn-aston-villa_7373280.jpg?20261010165436"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-ross-barkley-aston-villa_7377170.jpg?20261014213925"
     },
     {
       "source": "sky",
-      "title": "Man City vs PSG team news LIVE!",
+      "title": "PSG defeat Man City in thriller at the Etihad LIVE!",
       "link": "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/live/577628",
       "summary": "",
       "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rayan-cherki-manchester-city_7374482.jpg?20261011181743"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-maghnes-akliouche_7377166.jpg?20261014213625"
     },
     {
       "source": "sky",
@@ -464,54 +512,6 @@
       "summary": "Rory McIlroy reveals the inspiration behind his viral baggy trousers.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-mcilroy-rory_7376819.jpg?20261014141549"
-    },
-    {
-      "source": "sky",
-      "title": "Tough loss for Sabalenka as Britain's Kartal earns big win over Bencic in Wuhan",
-      "link": "https://www.skysports.com/tennis/news/12040/13599153/wuhan-open-britains-sonay-kartal-earns-huge-win-over-belinda-bencic-to-set-up-meeting-with-jasmine-paolini-in-china",
-      "summary": "Ann Li sealed the biggest win of her career by upsetting Aryna Sabalenka on her 10th match point after Britain's Sonay Kartal secured another huge win at the Wuhan Open.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-aryna-sabalenka-tennis_7376855.jpg?20261014152627"
-    },
-    {
-      "source": "sky",
-      "title": "Semenyo ‘froze’ after alleged racial abuse by Liverpool fan, court hears",
-      "link": "https://www.skysports.com/football/news/12040/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears",
-      "summary": "Footballer Antoine Semenyo \"froze\" after he was allegedly racially abused by a Liverpool fan at Anfield, a court has heard.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-semenyo-manchester-city_7376976.jpg?20261014170836"
-    },
-    {
-      "source": "sky",
-      "title": "NFL player Hill found liable for two counts of battery",
-      "link": "https://www.skysports.com/nfl/news/12040/13599132/tyreek-hill-nfl-free-agent-receiver-found-liable-for-two-counts-of-battery-as-jury-awards-estranged-wife-500k",
-      "summary": "A Miami jury has found Tyreek Hill liable for two counts of battery but not liable for the eight remaining claims made by Lakeeta Vaccaro, ending the high-profile civil trial involving the NFL wide receiver and his estranged wife.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-tyreek-hill-miami_7376562.jpg?20261014083111"
-    },
-    {
-      "source": "sky",
-      "title": "Saka struggling? He's more of a threat than ever",
-      "link": "https://www.skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-more-of-a-goal-threat-than-ever-and-proving-doubters-wrong-as-he-evolves",
-      "summary": "Mikel Arteta challenged Bukayo Saka to start scoring \"two or three goals per game\" before Arsenal's meeting with Lille. The winger clearly was listening. He only needed six minutes to find the net. And that was after providing an assist with his first touch.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-arsenal_7376604.jpg?20261014094545"
-    },
-    {
-      "source": "sky",
-      "title": "England Women's World Cup half-back dilemma",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13596190/rugby-league-world-cup-england-women-face-halfback-selection-dilemma-as-jenna-foubister-izzy-rowe-and-georgia-roche-battle-for-spots",
-      "summary": "If there is one position that highlights the growth of the women's game in England, it is the competition for the half-back spot at the Rugby League World Cup.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-rugby-league-womens-rugby-league_7371054.jpg?20261008082641"
-    },
-    {
-      "source": "sky",
-      "title": "Will Scottie break Tiger's world number one record? - Sky Sports pundits have their say!",
-      "link": "https://www.skysports.com/watch/video/13595654/golf-will-scottie-scheffler-break-tiger-woods-world-number-1-record",
-      "summary": "Sky Sports' golf pundits were asked whether Scottie Scheffler will break Tiger Wood's record for the most consecutive weeks at world number one.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-scottie-golf_7369574.jpg?20261006121006"
     }
   ]
 }
