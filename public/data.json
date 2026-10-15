@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T19:38:32.880266+00:00",
+  "lastUpdated": "2026-10-15T22:50:46.726457+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -355,6 +355,22 @@
     },
     {
       "source": "sky",
+      "title": "Rutter scores twice as Brighton win big and go top in Conference League",
+      "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-kauno-zalgiris/report/577887",
+      "summary": "Georginio Rutter scored twice and set up one as Brighton thrashed Kauno Zalgris 4-0 to get their Conference League campaign off to a winning start.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rutter-brighton-zalgris_7377878.jpg?20261015211251"
+    },
+    {
+      "source": "sky",
+      "title": "Brighton latest: Hinshelwood thrilled with goal in first game since August",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
       "title": "Man Utd latest: Martinez met hierarchy before apology - should he start vs Leeds?",
       "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "summary": "",
@@ -368,6 +384,14 @@
       "summary": "A Serbian tennis player has been handed a massive 24-year ban for match-fixing.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-tennis-racket-stock_7377809.jpg?20261015194852"
+    },
+    {
+      "source": "sky",
+      "title": "LIV Golf accuses DP World Tour of interference in bankruptcy process",
+      "link": "https://www.skysports.com/golf/news/12040/13599715/liv-golf-bankruptcy-process-dp-world-tour-accused-of-interfering-after-taking-harder-line-on-tour-membership",
+      "summary": "LIV Golf has accused the DP World Tour of interference in its bankruptcy proceedings at a hearing in which Bryson DeChambeau and others were released from their contracts.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-liv-golf-logo-general_7220988.jpg?20260415192154"
     },
     {
       "source": "sky",
@@ -411,6 +435,30 @@
     },
     {
       "source": "sky",
+      "title": "Bournemouth beat Sturm Graz in first ever home European game",
+      "link": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
+      "summary": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-alvaro-rodriguez_7377900.jpg?20261015220821"
+    },
+    {
+      "source": "sky",
+      "title": "O'Neill 'delighted' with second half despite heavy Celtic loss at Benfica",
+      "link": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
+      "summary": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-auston-trusty-jhon_7377874.jpg?20261015210500"
+    },
+    {
+      "source": "sky",
+      "title": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
+      "link": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
+      "summary": "Sunderland survived a huge scare as they came from behind to clinch back-to-back Europa League victories with a 2-1 win over Torreense following Noah Sadiki&#8217;s 93rd-minute winner.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-noah-sadiki-sunderland_7377825.jpg?20261015200420"
+    },
+    {
+      "source": "sky",
       "title": "Kane agrees new deal in principle with Bayern Munich",
       "link": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
       "summary": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
@@ -419,7 +467,7 @@
     },
     {
       "source": "sky",
-      "title": "Infantino sorry for World Cup plan and set to ditch Peace Prize",
+      "title": "Infantino sorry for World Cup plan and set to ditch award previously given to Trump",
       "link": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
       "summary": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday - and the Peace Prize he awarded to US President Donald Trump looks set to be ditched.",
       "published": null,
@@ -440,14 +488,6 @@
       "summary": "Pierre Sage lost to his former side as Crystal Palace fell to a 3-2 defeat to Lyon in the Europa League",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-tolisso-palace_7377742.jpg?20261015180706"
-    },
-    {
-      "source": "sky",
-      "title": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
-      "link": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
-      "summary": "Sunderland survived a huge scare as they came from behind to clinch back-to-back Europa League victories with a 2-1 win over Torreense following Noah Sadiki&#8217;s 93rd-minute winner.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-noah-sadiki-sunderland_7377825.jpg?20261015200420"
     },
     {
       "source": "sky",
@@ -472,46 +512,6 @@
       "summary": "Britain's Sonay Kartal thumped two-time Grand Slam finalist Jasmine Paolini to reach the quarter-finals of the Wuhan Open.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-sonay-kartal-tennis_7377562.jpg?20261015132559"
-    },
-    {
-      "source": "sky",
-      "title": "'Not helping me or my future' - Colapinto asks fans to stop online abuse",
-      "link": "https://www.skysports.com/f1/news/12040/13599549/franco-colapinto-alpine-driver-urges-fans-to-stop-online-abuse-amid-concerns-it-is-damaging-his-career",
-      "summary": "Alpine driver Franco Colapinto has asked his fanbase to stop directing online abuse at other Formula 1 drivers and figures within the sport because it is \"not helping\" his career. &#160;",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-franco-colapinto_7377504.jpg?20261015121821"
-    },
-    {
-      "source": "sky",
-      "title": "Long-term success won't be linear, says Spurs Women boss Ho",
-      "link": "https://www.skysports.com/football/news/12040/13598902/martin-ho-tottenham-women-head-coach-on-summer-transfer-window-wsl-start-and-facing-chelsea-and-arsenal",
-      "summary": "Very few successes ever come easy. Whether it's title wins or top three finishes, every WSL season is becoming harder to predict - and plenty of clubs, including Tottenham, have their eyes on the prizes.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-martin-ho-tottenham-women_7376148.jpg?20261013184025"
-    },
-    {
-      "source": "sky",
-      "title": "'Unsatisfactory' Lord's pitch dug up by MCC after first demerit point",
-      "link": "https://www.skysports.com/cricket/news/12040/13599552/lords-pitch-dug-up-after-unsatisfactory-rating-by-icc-and-demerit-point-following-england-vs-new-zealand-test",
-      "summary": "The Lord's pitch that was used for England's Test against New Zealand in June has been re-laid by the Marylebone Cricket Club and will be out of action for two or three years.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lords-test-2026-england_7377515.jpg?20261015123437"
-    },
-    {
-      "source": "sky",
-      "title": "Bournemouth will consider Scott sale in January for over £80m",
-      "link": "https://www.skysports.com/football/news/12040/13599539/alex-scott-transfer-news-bournemouth-will-consider-offers-in-excess-of-80m-for-england-international-amid-refusal-to-sign-new-contract",
-      "summary": "Bournemouth's stance on selling Alex Scott is softening, with the England midfielder continuing to refuse offers to sign a new contract at the south coast club, Sky Sports News has been told.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-alex-scott-bournemouth_7334758.jpg?20260829154710"
-    },
-    {
-      "source": "sky",
-      "title": "Raducanu could secure protected ranking with early season exit",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13525472/emma-raducanu-tennis-schedule-next-match-ranking-latest-results-video-and-how-to-watch-live-on-sky-sports-tennis",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-tennis-emma-raducanu_7191024.jpg?20260313084122"
     }
   ]
 }
