@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T05:30:05.554157+00:00",
+  "lastUpdated": "2026-10-16T10:30:34.259475+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "'I'm fortunate to be alive' - Merino relives bus attack",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal and Spain midfielder Mikel Merino reflects on the attack on Dortmund's team bus in 2017, when he was 20 years old.",
+      "published": "2026-10-16T09:16:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e98/live/d5701d60-c92a-11f1-bcc7-a3638a736ce9.jpg"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 things to look out for this weekend",
@@ -322,14 +330,6 @@
       "image": "https://i.guim.co.uk/img/media/9caacf27e6aaf9507d99838aa1791c00af896386/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fb5ada68e446505a4a421b9831bcfe1f"
     },
     {
-      "source": "bbc",
-      "title": "Man Utd and Arsenal wins among 'best in Brighton's history'",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zq8d7e3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tony Bloom helped transform the club's fortunes after he became majority shareholder in 2009.",
-      "published": "2026-09-29T11:01:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7e/live/9c13a030-bb6c-11f1-9ecf-8dd029790cef.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Arsène Wenger and Arsenal: 30 years on from appointment that changed English football",
       "link": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football",
@@ -352,6 +352,54 @@
       "summary": "It is a symbol of the connection between the fanbase and club, but there is a growing fear executives would prefer stadiums full of one-off touristsThe document known as “the oldest football season ticket in the world” promises its bearer access to every Burnley home game of the 1884-85 season. It is a ticket that predates the Football League by four years, with all the fixtures played against eas",
       "published": "2026-09-23T11:00:47+00:00",
       "image": "https://i.guim.co.uk/img/media/0e1655c72bc38cec7e0822b0c70c8e2539f3758e/302_110_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=a0eb4ded49c588365ce74dc663315af2"
+    },
+    {
+      "source": "sky",
+      "title": "Chelsea captain James out for around three months",
+      "link": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
+      "summary": "Chelsea captain Reece James is expected to be out for around three months after knee surgery.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-reece-james-chelsea_7378147.jpg?20261016110935"
+    },
+    {
+      "source": "sky",
+      "title": "Rugby League World Cup 2026: Samoa rout France in men's competition",
+      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-benaiah-ioelu-samoa_7378155.jpg?20261016111722"
+    },
+    {
+      "source": "sky",
+      "title": "Britain's Kartal upsets Svitolina to storm into Wuhan Open semi-finals",
+      "link": "https://www.skysports.com/tennis/news/12040/13599803/sonay-kartal-brit-breaks-new-ground-by-upsetting-elina-svitolina-to-reach-wuhan-open-semi-finals",
+      "summary": "Britain's Sonay Kartal has stormed into the semi-finals of the Wuhan Open - a WTA 1000 event - in just her third tournament back from injury.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-sonay-kartal-tennis_7377975.jpg?20261016064200"
+    },
+    {
+      "source": "sky",
+      "title": "Kartal shocks Svitolina to reach first WTA 1000 semi-final",
+      "link": "https://www.skysports.com/watch/video/13599844/elina-svitolina-vs-sonay-kartal-wuhan-open-highlights",
+      "summary": "Highlights of the Wuhan Open quarter-final between Elina Svitolina and Sonay Kartal.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kartal-tennis_7378034.jpg?20261016082959"
+    },
+    {
+      "source": "sky",
+      "title": "Broncos overpower Seahawks to win in OT",
+      "link": "https://www.skysports.com/nfl/news/12040/13599666/denver-broncos-17-14-seattle-seahawks-ot-denver-defense-overpowers-sam-darnold-and-defending-champions",
+      "summary": "The Denver Broncos overpowered Sam Darnold and the Seattle Seahawks in a 17-14 overtime victory on Thursday night.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-denver-broncos-nfl_7377959.jpg?20261016062708"
+    },
+    {
+      "source": "sky",
+      "title": "Overtime drama as Broncos vs Seahawks goes the distance",
+      "link": "https://www.skysports.com/watch/video/13599808/seattle-seahawks-denver-broncos-week-six-nfl-highlights",
+      "summary": "Highlights of the Denver Broncos against the Seattle Seahawks from Week 6 of the NFL season.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-broncos-seahawks_7377960.jpg?20261016063129"
     },
     {
       "source": "sky",
@@ -379,11 +427,19 @@
     },
     {
       "source": "sky",
-      "title": "Brighton latest: Hinshelwood thrilled with goal in first game since August",
+      "title": "Hurzeler on job speculation: I never focus on the noise",
       "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "SE Dons: From YouTube and Sunday League to the brink of FA Cup history",
+      "link": "https://www.skysports.com/football/news/12040/13599738/se-dons-how-the-youtube-football-sensation-went-from-sunday-league-to-one-win-away-from-fa-cup-first-round-history",
+      "summary": "\"Some things don't need commentary.\"",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-se-dons-non-league_7377771.jpg?20261015190244"
     },
     {
       "source": "sky",
@@ -427,11 +483,11 @@
     },
     {
       "source": "sky",
-      "title": "Tennis scores: Britain's Kartal takes on Svitolina for place in Wuhan semi-finals",
+      "title": "Tennis scores: Swiatek plays later after Kartal makes Wuhan semis",
       "link": "https://www.skysports.com/tennis/scores-schedule",
       "summary": "",
       "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-sonay-kartal-tennis_7376610.jpg?20261014100514"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-iga-swiatek-wta-tour-tennis-2026_7370118.jpg?20261007060407"
     },
     {
       "source": "sky",
@@ -451,67 +507,11 @@
     },
     {
       "source": "sky",
-      "title": "Can Van Gerwen end his barren spell at Dutch Darts Championship?",
-      "link": "https://www.skysports.com/darts/news/12040/13599595/dutch-darts-championship-schedule-draw-dates-as-michael-van-gerwen-looks-to-end-his-barren-run-with-victory-on-home-soil",
-      "summary": "Michael van Gerwen will look to end his barren run with victory at the Elten Safety Shoes Dutch Darts Championship, with the draw and schedule  now confirmed.",
+      "title": "Groundhog Day for Wilcox? Revisiting Man Utd's dramatic last trip to Elland Road",
+      "link": "https://www.skysports.com/football/news/12040/13599521/jason-wilcox-finds-himself-under-exact-same-pressure-as-last-time-manchester-united-visited-elland-road-to-face-leeds",
+      "summary": "Manchester United go into Sunday's game at Elland Road in a position they are all too familiar with. Under pressure.",
       "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-darts-michael-van-gerwen_7246742.jpg?20260512174012"
-    },
-    {
-      "source": "sky",
-      "title": "Wolff: Mercedes still need 'crucial' answers about car upgrade",
-      "link": "https://www.skysports.com/f1/news/12040/13599493/mercedes-boss-toto-wolff-reveals-latest-verdict-on-car-upgrades-after-unusual-specification-split-at-singapore-gp",
-      "summary": "Toto Wolff says it is \"crucial\" for the development of Mercedes' 2027 car that they understand the full extent of their recent upgrade's potential after a \"step in the right direction\" at the Singapore Grand Prix.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7377615.jpg?20261015145049"
-    },
-    {
-      "source": "sky",
-      "title": "Itauma could be one win away from another world title shot",
-      "link": "https://www.skysports.com/boxing/news/12040/13599647/moses-itauma-could-be-one-victory-away-from-a-second-world-title-shot-after-a-risky-comeback-fight-in-january",
-      "summary": "Moses Itauma could be one victory away from another world title shot.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-moses-itauma-filip-hrgovic_7335457.jpg?20260830104943"
-    },
-    {
-      "source": "sky",
-      "title": "Bournemouth beat Sturm Graz in first ever home European game",
-      "link": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
-      "summary": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-alvaro-rodriguez_7377900.jpg?20261015220821"
-    },
-    {
-      "source": "sky",
-      "title": "O'Neill 'delighted' with second half despite heavy Celtic loss at Benfica",
-      "link": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
-      "summary": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-auston-trusty-jhon_7377874.jpg?20261015210500"
-    },
-    {
-      "source": "sky",
-      "title": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
-      "link": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
-      "summary": "Sunderland survived a huge scare as they came from behind to clinch back-to-back Europa League victories with a 2-1 win over Torreense following Noah Sadiki&#8217;s 93rd-minute winner.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-noah-sadiki-sunderland_7377825.jpg?20261015200420"
-    },
-    {
-      "source": "sky",
-      "title": "Kane agrees new deal in principle with Bayern Munich",
-      "link": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
-      "summary": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044"
-    },
-    {
-      "source": "sky",
-      "title": "Infantino sorry for World Cup plan and set to ditch award previously given to Trump",
-      "link": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-      "summary": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday - and the Peace Prize he awarded to US President Donald Trump looks set to be ditched.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-manchester-united_7377572.jpg?20261015134141"
     }
   ]
 }
