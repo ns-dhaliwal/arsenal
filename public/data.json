@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-19T11:51:29.643352+00:00",
+  "lastUpdated": "2026-10-19T18:11:12.781283+00:00",
   "articles": [
+    {
+      "source": "guardian",
+      "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
+      "link": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
+      "summary": "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry KaneFor Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on Sunday. There were 93 minutes gone, Arsenal were 1-0 up and it was now or never for Forest. Konsa decreed that ",
+      "published": "2026-10-19T14:00:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/92a83ae4e8aaee78642ec9941f975f9ebfa642bb/643_298_2253_1802/master/2253.jpg?width=140&quality=85&auto=format&fit=max&s=6320e392fa05029c57e41db0bae8f65c"
+    },
     {
       "source": "guardian",
       "title": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
@@ -298,14 +306,6 @@
       "image": "https://i.guim.co.uk/img/media/e69d56fba273f9630d6d0cf8f6579a43a5dc8354/1188_667_6047_4837/master/6047.jpg?width=140&quality=85&auto=format&fit=max&s=e54e20cbd8cb017005320fa8bb1f70a2"
     },
     {
-      "source": "guardian",
-      "title": "Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs",
-      "link": "https://www.theguardian.com/football/2026/oct/08/premier-league-injuries-kai-havertz-alexander-isak-patrick-dorgu",
-      "summary": "Premier League clubs, and their European rivals, left with a long list of absentees after a gruelling international breakA four-match international break has presented a stress test. “The intensity of the squad, the athleticism of it, really, I think it’s designed for the elite,” said the Wales head coach, Craig Bellamy, on the completion of four matches in 11 days. Elite club coaches would disagr",
-      "published": "2026-10-08T08:50:14+00:00",
-      "image": "https://i.guim.co.uk/img/media/73725f30d4d4ba2ce7053e681375dfa8a7979b6a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83c7b2d743f8a714c21ecab3daae1a9c"
-    },
-    {
       "source": "bbc",
       "title": "Inside the £1-an-hour official football shirt factories",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss",
@@ -338,12 +338,76 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9f/live/e737d150-c23b-11f1-be2f-0fbd447d6e43.png"
     },
     {
-      "source": "bbc",
-      "title": "Arteta helped me understand the game - Wilshere",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq20v0p5xp8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Luton Town manager Jack Wilshere shares his love for coaching and explains how Arsenal boss Mikel Arteta influnced his style.",
-      "published": "2026-10-03T05:24:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10c/live/b474d2f0-bda3-11f1-a64c-550be9e3c66b.jpg"
+      "source": "sky",
+      "title": "Ronaldo banned and fined over Portugal walkout",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372969.jpg?20261010141017"
+    },
+    {
+      "source": "sky",
+      "title": "O'Sullivan suffers one of most embarrassing defeats of his career at NI Open",
+      "link": "https://www.skysports.com/snooker/news/12040/13601071/ronnie-osullivan-the-rocket-stunned-by-qualifier-and-world-no-110-cheung-ka-wai-at-northern-ireland-open",
+      "summary": "Ronnie O'Sullivan suffered one of the most embarrassing defeats of his career as he crashed out in the opening round of the Northern Ireland Open in Belfast.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ronnie-osullivan_7363453.jpg?20260928161610"
+    },
+    {
+      "source": "sky",
+      "title": "Maddison starts and Kulusevski on the bench as Spurs host Coventry LIVE!",
+      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/live/559513",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-premier-league-spurs_7374785.jpg?20261012084134"
+    },
+    {
+      "source": "sky",
+      "title": "Clarke not bothered about Billam-Smith's amateur fight heartache",
+      "link": "https://www.skysports.com/boxing/news/12040/13601059/cheavon-clarke-vs-chris-billam-smith-c4-set-for-all-british-cruiserweight-bout-at-copper-box-arena",
+      "summary": "Cheavon Clarke insists he does not care about the amateur fight that Chris Billam-Smith finds \"hard to watch\".",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-chris-billam-smith_7371531.jpg?20261008181801"
+    },
+    {
+      "source": "sky",
+      "title": "Australia strike late on rain-hit second day against South Africa",
+      "link": "https://www.skysports.com/cricket/news/12040/13601039/south-africa-vs-australia-scott-boland-takes-fourth-wicket-late-on-rain-hit-second-day-of-second-test-in-gqeberha",
+      "summary": "Scott Boland has taken four of South Africa's five wickets to fall, including that of Ryan Rickelton late on another rain-hit day in Gqeberha, as Australia reduced their hosts to 97-5 in the second Test.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-australia-bowler_7380863.jpg?20261019160846"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa latest: 'Buendia close to agreeing new contract'",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+    },
+    {
+      "source": "sky",
+      "title": "Sage under increasing pressure at Crystal Palace",
+      "link": "https://www.skysports.com/football/news/12040/13601064/crystal-palace-manager-pierre-sage-under-increasing-pressure-after-5-0-defeat-to-brighton",
+      "summary": "Crystal Palace have no immediate plans to change their manager - but Pierre Sage is under increasing pressure following their 5-0 thrashing at Brighton on Sunday.&#160;",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-pierre-sage-crystal-palace_7380952.jpg?20261019180339"
+    },
+    {
+      "source": "sky",
+      "title": "'King of the Monsters!' - Haas reveal special US GP car livery",
+      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-haas-livery-2026-united-states-gp_7380882.png?20261019162513"
+    },
+    {
+      "source": "sky",
+      "title": "Wolff braced for 'full-on fight' amid Verstappen resurgence",
+      "link": "https://www.skysports.com/f1/news/12040/13600888/f1-toto-wolff-says-max-verstappen-red-bull-resurgence-adds-to-expectation-of-full-on-fight-into-2027-season",
+      "summary": "Toto Wolff believes in-form Red Bull will be a central part of the \"full-on fight\" he is expecting at the front of the Formula 1 field into 2027.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7380811.jpg?20261019151152"
     },
     {
       "source": "sky",
@@ -355,6 +419,14 @@
     },
     {
       "source": "sky",
+      "title": "Arsenal vs Man Utd, NLD and Man City vs Chelsea live on Sky in December",
+      "link": "https://www.skysports.com/football/news/12040/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+      "summary": "Arsenal's home match against Manchester United, the north London derby and Chelsea's trip to Manchester City will all feature live on Sky Sports in December.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-badges_7380864.jpg?20261019161220"
+    },
+    {
+      "source": "sky",
       "title": "Littler to face O'Connor in European Championship Darts opener",
       "link": "https://www.skysports.com/darts/news/12040/13600917/european-championship-darts-luke-littler-to-face-william-oconnor-in-opener-as-gian-van-veen-starts-defence-vs-andrew-gilding",
       "summary": "Luke Littler will face William O'Connor in his European Championship Darts opener, while&#160;Gian van Veen will start his title defence against Andrew Gilding on Thursday in Dortmund.",
@@ -363,7 +435,7 @@
     },
     {
       "source": "sky",
-      "title": "England Women boss Wiegman signs new deal through to Euro 2029",
+      "title": "England boss Wiegman signs new deal through to Euro 2029",
       "link": "https://www.skysports.com/football/news/12040/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029",
       "summary": "England Women boss Sarina Wiegman will lead the Lionesses through to the end of Euro 2029 after signing a new two-year contract extension.",
       "published": null,
@@ -371,15 +443,15 @@
     },
     {
       "source": "sky",
-      "title": "Ref Watch: Should both Rogers and Palmer have been sent off?",
+      "title": "Ref Watch: Should Rogers and Palmer have been sent off?",
       "link": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
       "summary": "",
       "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-newcastle_7379247.jpg?20261017175335"
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-chelsea_7378777.jpg?20261017131243"
     },
     {
       "source": "sky",
-      "title": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
+      "title": "Merson: Brighton defeat scared Arsenal – they won't beat Bayern",
       "link": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
       "summary": "The defeat to Brighton has scared Arsenal. After winning the league, they came out and played some entertaining football, but then that result happened and they&#8217;ve gone back to being an efficient machine.",
       "published": null,
@@ -419,91 +491,11 @@
     },
     {
       "source": "sky",
-      "title": "Verstappen takes on Leclerc's brother in epic GT duel!",
-      "link": "https://www.skysports.com/watch/video/13600693/max-verstappen-takes-on-leclercs-brother-in-epic-gt-duel",
-      "summary": "Max Verstappen battled Arthur Leclerc during an incredible recovery drive in the GT World Challenge, finishing P9 despite a drive-through penalty.",
+      "title": "Celtic winger Jota back stronger after wrestling 'demons' during injury lay-off",
+      "link": "https://www.skysports.com/football/news/12040/13601009/jota-celtic-winger-insists-he-is-stronger-after-wrestling-demons-during-18-month-injury-absence",
+      "summary": "Celtic winger Jota says he has found extra gratitude and strength after wrestling with his \"demons\" during an 18-month lay-off.",
       "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-verstappen-gt3_7380039.jpg?20261018165956"
-    },
-    {
-      "source": "sky",
-      "title": "What did we learn from England in the first round of RLWC 2026?",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
-      "summary": "It was a week of highs and lows for England men and women in the Rugby League World Cup, with England women's massive 70-4 win over Wales women being followed by a tough 30-12 loss for England against Tonga.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-england-rugby-league_7380640.jpg?20261019121403"
-    },
-    {
-      "source": "sky",
-      "title": "London City developing at a rapid rate as Arsenal flop again",
-      "link": "https://www.skysports.com/football/news/12040/13600861/wsl-london-city-lionesses-showing-rapid-development-in-pursuit-of-champions-league-football-as-arsenal-flop-again",
-      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the heart of the women's game.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-arsenal-london-city_7380615.jpg?20261019114816"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic step up, Rangers slip up as Hibs' woes continue under Reedijk",
-      "link": "https://www.skysports.com/football/news/12040/13600882/scottish-premiership-celtic-step-up-against-hearts-rangers-slip-up-as-hibernians-woes-continue-under-marink-reedijk",
-      "summary": "Celtic turned on the style to humiliate Hearts after Rangers failed to take the chance to move to the top of the Scottish Premiership.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-spfl-scottish-premiership_7380555.jpg?20261019104810"
-    },
-    {
-      "source": "sky",
-      "title": "'My wrist is broken!' – Hilarious moment NFL commentator punches ball too hard!",
-      "link": "https://www.skysports.com/watch/video/13600813/jim-nantz-punches-ball-too-hard-with-jj-watt",
-      "summary": "Jim Nantz hurt his wrist when punching a ball when JJ Watt was giving an example of how to hold the ball properly.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jim-nantz-jj-watt_7380319.jpg?20261018224640"
-    },
-    {
-      "source": "sky",
-      "title": "Highlights: Dallas Cowboys vs Green Bay Packers",
-      "link": "https://www.skysports.com/watch/video/13600831/dallas-cowboys-green-bay-packers-week-six-nfl-highlights",
-      "summary": "Highlights of the Dallas Cowboys at the Green Bay Packers from Week 6 of the NFL season.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-cowboys-packers-highlights_7380360.jpg?20261019062316"
-    },
-    {
-      "source": "sky",
-      "title": "Should Newcastle's Botman have been sent off against Aston Villa?",
-      "link": "https://www.skysports.com/watch/video/13600923/ref-watch-should-sven-botman-have-seen-red-for-newcastle-vs-villa",
-      "summary": "Ref Watch takes a closer look at Newcastle's Sven Botman's tackle on Nicolas Jackson during their 1-0 defeat to Aston Villa and asks: should it have been a red card?",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-sven-botman-ref-watch_7380614.jpg?20261019114607"
-    },
-    {
-      "source": "sky",
-      "title": "'Right decision' - Why Yarmoliuk red card for headbutt highlights VAR consistency",
-      "link": "https://www.skysports.com/watch/video/13600908/ref-watch-why-yehor-yarmoluik-red-card-for-brentford-was-a-show-of-var-consitency",
-      "summary": "Ref Watch takes a look at the red card shown to Brentford's Yehor Yarmoliuk and why it was a clear demonstration of consistency from VAR.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ref-watch-brentford_7380578.jpg?20261019111722"
-    },
-    {
-      "source": "sky",
-      "title": "Svitolina announces 'difficult' separation from husband Monfils",
-      "link": "https://www.skysports.com/tennis/news/12040/13600883/elina-svitolina-announces-difficult-separation-from-husband-gael-monfils-after-five-years-of-marriage",
-      "summary": "World No 6 Elina Svitolina has announced she has separated from husband Gael Monfils.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-elina-svitolina-gael-monfils_7380517.jpg?20261019101220"
-    },
-    {
-      "source": "sky",
-      "title": "What next for Kartal after 'unbelievable week' in Wuhan",
-      "link": "https://www.skysports.com/tennis/news/12040/13600651/sonay-kartal-what-next-for-new-british-no-1-after-unbelievable-week-in-run-to-the-final-at-wuhan-open",
-      "summary": "Sonay Kartal is the new British No 1 after her remarkable run to the Wuhan Open final where she was narrowly beaten by Poland's Maja Chwalinska in three sets.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-sonay-kartal-tennis_7379223.jpg?20261017175558"
-    },
-    {
-      "source": "sky",
-      "title": "NFL results: Cardinals stun sorry Rams as Packers beat Cowboys",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13600325/nfl-2026-results-and-highlights-cleveland-browns-go-top-of-afc-north-with-divisional-win-over-baltimore-ravens",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-sean-mcvay-los-angeles_7153622.jpg?20260202175343"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-jota-hearts_7380832.jpg?20261019153401"
     }
   ]
 }
