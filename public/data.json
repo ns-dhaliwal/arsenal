@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-10-20T18:14:49.078641+00:00",
+  "lastUpdated": "2026-10-20T22:00:43.817720+00:00",
   "articles": [
     {
+      "source": "bbc",
+      "title": "Arsenal criticism from very small minority - Arteta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+      "summary": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+      "published": "2026-10-20T20:33:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d499/live/52b3cc40-ccc3-11f1-951b-8fbc7a9ea030.jpg"
+    },
+    {
       "source": "guardian",
-      "title": "Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus",
+      "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
       "link": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
-      "summary": "Kompany told to rest after struggling with infectionHis assistant poised to oversee Champions League gameVincent Kompany is touch and go to be in the Bayern Munich dugout against Arsenal at the Allianz Arena on Wednesday night as he battles a debilitating virus that has affected his legs. Kompany was unable to attend his team’s training session on Tuesday before the Champions League tie, ceding th",
-      "published": "2026-10-20T15:37:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/70fd6c1d36ec5358eb5ee60b4e5ed17f5fc93ef5/303_65_1723_1378/master/1723.jpg?width=140&quality=85&auto=format&fit=max&s=3ce7aec4a0e405c518ff5683ade2d6d4"
+      "summary": "Goalkeeper brushes off criticism before Bayern clashKompany could miss game with virus affecting his legsDavid Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were only a “very small minority”.Arsenal made it 10 wins out of 11 in all competitions for the season when they beat Nottingham Forest 1-0 at the C",
+      "published": "2026-10-20T20:00:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/ab45c6fbc6ce72b125d3c5663e2961beb69a2b43/327_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=6d5ea50ac15b6a22a778c2a255ef76f9"
     },
     {
       "source": "guardian",
@@ -339,27 +347,59 @@
     },
     {
       "source": "sky",
+      "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
+      "link": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
+      "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season&#8217;s Champions League.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rio-ngumoha-alexis-mac-allister_7382245.jpg?20261020220125"
+    },
+    {
+      "source": "sky",
+      "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
+      "link": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-man-city_7382171.jpg?20261020205622"
+    },
+    {
+      "source": "sky",
+      "title": "'Appalling' batting and 'wickets in clumps' leave England with ODI setback",
+      "link": "https://www.skysports.com/cricket/news/12040/13601367/england-captain-harry-brook-laments-wickets-in-clumps-in-odi-batting-collapse-as-arafat-minhas-stars-for-pakistan",
+      "summary": "England captain Harry Brook admits his side were 'too careful' against Pakistan&#8217;s spinners after collapsing to a disappointing 87-run defeat in their ODI tri-series opener.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-gus-atkinson-sonny-baker_7382035.jpg?20261020183532"
+    },
+    {
+      "source": "sky",
+      "title": "Barcelona handed first defeat of season by PSG in classic",
+      "link": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
+      "summary": "Barcelona were handed their first defeat of the season as they lost 4-2 to Paris Saint-Germain in a Champions League classic.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-vitinha-psg_7382255.jpg?20261020220851"
+    },
+    {
+      "source": "sky",
+      "title": "Portsmouth strike late to frustrate Wolves",
+      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-portsmouth/report/560565",
+      "summary": "Terry Devlin denied Wolves victory just as the hosts' inspired substitutions again looked to prove decisive as Portsmouth drew 1-1 at Molineux in the Championship.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wolves-portsmouth_7382213.jpg?20261020214259"
+    },
+    {
+      "source": "sky",
+      "title": "Wolves 1-1 Portsmouth highlights",
+      "link": "https://www.skysports.com/football/wolverhampton-wanderers-vs-portsmouth/live/560565",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-portsmouth-terry-devlin_7382205.jpg?20261020213608"
+    },
+    {
+      "source": "sky",
       "title": "Snooker star Allen suggests career could be over after being in 'bad place'",
       "link": "https://www.skysports.com/snooker/news/12040/13601484/mark-allen-snooker-star-suggests-career-could-be-over-after-losing-in-first-round-of-northern-ireland-open-in-belfast",
       "summary": "Mark Allen said he was in a \"bad place\" and his career could be over after losing to Jordan Brown in the first round of the Northern Ireland Open in Belfast.",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-mark-allen-snooker_7382030.jpg?20261020182526"
-    },
-    {
-      "source": "sky",
-      "title": "Barcola, Isak and Wirtz on bench for Liverpool vs Villarreal LIVE!",
-      "link": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-bradley-barcola_7377021.jpg?20261014182121"
-    },
-    {
-      "source": "sky",
-      "title": "17-year-old Samba starts for Man City vs AEK Athens LIVE!",
-      "link": "https://www.skysports.com/football/manchester-city-vs-aek-athens/live/577636",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-floyd-samba_7354867.jpg?20260917200631"
     },
     {
       "source": "sky",
@@ -464,38 +504,6 @@
       "summary": "Stuart Broad called out Jamie Overton for his 'appalling batting' after he lost a wicket for England against Pakistan.",
       "published": null,
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-odi-cricket_7381890.jpg?20261020162121"
-    },
-    {
-      "source": "sky",
-      "title": "'He's got it easy!' - Horner talks Wolff rivalry and Mercedes' 'great' year",
-      "link": "https://www.skysports.com/watch/video/13601326/f1-christian-horner-believes-toto-wolff-has-it-easy-this-season-without-rivalry",
-      "summary": "Christian Horner jokes that Toto Wolff's life is much easier without him in F1, reflecting on their fierce rivalry over the years.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-toto-wolff-christian-horner_7381620.jpg?20261020125036"
-    },
-    {
-      "source": "sky",
-      "title": "Aston Villa latest: Manzambi misses Viking tie, Wan Bissaka, Ruggeri out for longer",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
-    },
-    {
-      "source": "sky",
-      "title": "Horner explains the reasons behind why he left Red Bull",
-      "link": "https://www.skysports.com/watch/video/13601318/christian-horner-explains-the-reasons-behind-why-he-left-red-bull",
-      "summary": "Christian Horner explains the reasons behind why he left Red Bull Racing.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-horner-red-bull_7381610.jpg?20261020124535"
-    },
-    {
-      "source": "sky",
-      "title": "NFL in Paris 'all systems go' despite riots in France",
-      "link": "https://www.skysports.com/nfl/news/12040/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital",
-      "summary": "The NFL says it is \"all systems go\" as it prepares to make its historic debut in Paris on Sunday amid ongoing riots around the French capital.&#160;",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-eiffel-tower-nfl_7381716.jpg?20261020142258"
     }
   ]
 }
