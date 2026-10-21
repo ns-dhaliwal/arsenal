@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T22:00:43.817720+00:00",
+  "lastUpdated": "2026-10-21T01:11:23.594481+00:00",
   "articles": [
     {
       "source": "bbc",
@@ -347,19 +347,27 @@
     },
     {
       "source": "sky",
+      "title": "NBA season tips off as Detroit stage epic 22-point comeback to defeat Celtics",
+      "link": "https://www.skysports.com/nba/news/12040/13601519/nba-detroit-pistons-stage-epic-22-point-comeback-to-defeat-boston-celtics-as-season-tips-off-in-style",
+      "summary": "Detriot Pistons staged an epic 23-0 run in the fourth quarter as they overcame a 22-point deficit - the largest come-from-behind win against the Boston Celtics in the last 30 seasons - to seal a stunning 121-113 win.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-detroit-pistons-cade-cunningham_7382292.jpg?20261020223045"
+    },
+    {
+      "source": "sky",
+      "title": "Hat-trick hero Foden shines as Man City thrash AEK Athens",
+      "link": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-man-city_7382171.jpg?20261020205622"
+    },
+    {
+      "source": "sky",
       "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
       "link": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
       "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season&#8217;s Champions League.",
       "published": null,
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-rio-ngumoha-alexis-mac-allister_7382245.jpg?20261020220125"
-    },
-    {
-      "source": "sky",
-      "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
-      "link": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
-      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-phil-foden-man-city_7382171.jpg?20261020205622"
     },
     {
       "source": "sky",
@@ -416,6 +424,14 @@
       "summary": "Former boxing world champion Joe Cordina has been cleared of assaulting a man he punched outside a petrol station.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-joe-cordina-boxing_7381998.jpg?20261020175049"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
+      "link": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "sky",
@@ -488,22 +504,6 @@
       "summary": "",
       "published": null,
       "image": "https://e1.365dm.com/25/10/1920x1080/skysports-cesc-fabregas-como_7050195.jpg?20251013181821"
-    },
-    {
-      "source": "sky",
-      "title": "Cadillac reveal cowboy-themed livery for United States GP",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-cadillac-f1_7381860.jpg?20261020155334"
-    },
-    {
-      "source": "sky",
-      "title": "'Appalling batting' - Broad HAMMERS Overton for losing wicket",
-      "link": "https://www.skysports.com/watch/video/13601426/pakistan-vs-england-jamie-overton-loses-crucial-wicket-for-england-after-appalling-bat",
-      "summary": "Stuart Broad called out Jamie Overton for his 'appalling batting' after he lost a wicket for England against Pakistan.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-odi-cricket_7381890.jpg?20261020162121"
     }
   ]
 }
