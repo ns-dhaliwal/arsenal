@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-22T05:40:00.432676+00:00",
+  "lastUpdated": "2026-10-22T10:59:16.018656+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "David Raya 'best keeper in the world right now'",
+      "link": "https://www.bbc.co.uk/sport/videos/cjy56q79xdneo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal fan Watson has reflected on the  Gunners' draw against Bayern Munich in the Champions League and praised David Raya",
+      "published": "2026-10-22T09:22:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f256/live/ca5e3b40-cdf9-11f1-a64c-550be9e3c66b.jpg"
+    },
     {
       "source": "guardian",
       "title": "‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich",
@@ -16,14 +24,6 @@
       "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
       "published": "2026-10-21T22:51:56+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg"
-    },
-    {
-      "source": "bbc",
-      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomenal\" season.",
-      "published": "2026-10-21T22:41:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab82/live/8fe9ed50-cda0-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "source": "guardian",
@@ -347,11 +347,147 @@
     },
     {
       "source": "sky",
+      "title": "Humphries withdraws from European Championship",
+      "link": "https://www.skysports.com/darts/news/12040/13602205/luke-humphries-withdraws-from-european-championship-darts-in-dortmund-due-to-gastroenteritis",
+      "summary": "Luke Humphries has withdrawn from the 2026 European Championship after being diagnosed with gastroenteritis.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-luke-humphries-world-grand-prix-darts_7364556.jpg?20260929223835"
+    },
+    {
+      "source": "sky",
+      "title": "Jarvis leads at Genesis Championship to pressure McIlroy in Race to Dubai",
+      "link": "https://www.skysports.com/golf/news/12040/13602191/dp-world-tour-casey-jarvis-leads-genesis-championship-and-in-position-to-overtake-rory-mcilroy-in-race-to-dubai",
+      "summary": "Casey Jarvis made a strong start to his late bid for Race to Dubai glory by grabbing the early lead at the Genesis Championship, where Ryan Fox also impressed.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-casey-jarvis-golf_7383555.jpg?20261022104335"
+    },
+    {
+      "source": "sky",
+      "title": "Carra: Fernandes comments 'disgraceful', but Carrick's time may be up",
+      "link": "https://www.skysports.com/football/news/12040/13602131/manchester-united-jamie-carragher-calls-out-bruno-fernandes-for-questioning-michael-carricks-tactics-in-4-1-como-defeat",
+      "summary": "Jamie Carragher has criticised Bruno Fernandes for questioning Man Utd's tactics following their 4-1 defeat to Como, but believes that it could be the end of the line for Michael Carrick.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-man-utd_7383397.jpg?20261022075320"
+    },
+    {
+      "source": "sky",
+      "title": "Doncic outshines Curry with half-court shot AND behind-the-back assist!",
+      "link": "https://www.skysports.com/watch/video/13602129/golden-state-warriors-la-lakers-nba-highlights",
+      "summary": "Highlights from the NBA clash between Golden State Warriors and LA Lakers.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-doncic-curry_7383373.jpg?20261022070753"
+    },
+    {
+      "source": "sky",
+      "title": "Edwards makes NBA HISTORY as Giannis shines on Heat debut!",
+      "link": "https://www.skysports.com/watch/video/13602124/minnesota-timberwolves-miami-heat-nba-highlights",
+      "summary": "Highlights from the NBA clash between Minnesota Timberwolves and Miami Heat.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-edwards-giannis_7383360.jpg?20261022065131"
+    },
+    {
+      "source": "sky",
+      "title": "Live on Sky: Bolton vs Middlesbrough",
+      "link": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/live/560631",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bolton-middlesbrough_7380871.jpg?20261019161602"
+    },
+    {
+      "source": "sky",
+      "title": "Where is it going wrong for Carrick's Man Utd?",
+      "link": "https://www.skysports.com/football/news/12040/13602098/manchester-united-where-is-it-going-wrong-for-michael-carricks-side-after-nightmare-start-to-season",
+      "summary": "Thursday marks five months exactly since Man Utd announced Michael Carrick would be staying on as head coach. There will be little mood for celebrating anniversaries the morning after his worst night in the role.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dalot-diogo-manchester_7383084.jpg?20261021190657"
+    },
+    {
+      "source": "sky",
+      "title": "Sage must show willingness to adapt with pressure mounting at Palace",
+      "link": "https://www.skysports.com/football/news/12040/13602144/crystal-palace-pierre-sage-has-two-games-to-turn-things-around-and-must-show-willingness-to-adapt-reporter-notebook",
+      "summary": "If Crystal Palace had made the start they have this season under Oliver Glasner, they wouldn&#8217;t be a story.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-reporter-notebook_7383479.jpg?20261022092353"
+    },
+    {
+      "source": "sky",
+      "title": "Blues buoyant & Hammers make statement - Championship Catch-up",
+      "link": "https://www.skysports.com/football/news/12040/13601919/birmingham-flying-under-chris-davies-west-ham-make-statement-preston-looked-doomed-championship-catch-up",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-efl-championship_7382903.jpg?20261021144244"
+    },
+    {
+      "source": "sky",
       "title": "Can McLaren 'up their game' to respond to Red Bull threat?",
       "link": "https://www.skysports.com/f1/news/12040/13601944/united-states-gp-mclaren-with-upgrades-for-austin-race-as-reigning-f1-champions-bid-to-ward-off-red-bull-threat",
       "summary": "McLaren will introduce further upgrades at the United States Grand Prix as they bid to improve their car's performance and stave off a resurgent Red Bull in the standings over the remainder of the season.",
       "published": null,
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-mclaren-f1-2026-oscar-piastri_7383025.jpg?20261021172442"
+    },
+    {
+      "source": "sky",
+      "title": "'Be true to yourself!' - Allen's advice for young aspiring boxers!",
+      "link": "https://www.skysports.com/watch/video/13601542/the-moments-that-make-us-be-true-to-yourself-kayla-allens-advice-for-young-aspiring-boxers",
+      "summary": "As part of Black History Month, Kayla Allen joins Sky Sports' The Moments That Make Us series to reveal her advice for young boxers and how Nicola Adams inspired her growing up.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-the-moments-that-make-us_7382196.jpg?20261020212938"
+    },
+    {
+      "source": "sky",
+      "title": "'Left-arm spin torments again' - England's openers fall after fast start",
+      "link": "https://www.skysports.com/watch/video/13602188/impressive-tom-banton-innings-ends-after-well-made-half-century-against-sri-lanka",
+      "summary": "Sri Lanka strike with left-arm spin causing England problems again as Dunith Wellalage removes both Tom Banton and Ben Duckett.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-england-cricket-banton_7383530.jpg?20261022102458"
+    },
+    {
+      "source": "sky",
+      "title": "From the highest highs to the lowest lows: How Bjorn is rediscovering her best self",
+      "link": "https://www.skysports.com/football/news/12040/13601848/nathalie-bjorn-chelsea-women-defender-on-her-incredible-injury-comeback-vice-captaincy-and-wsl-improvements",
+      "summary": "Returning from months on the sidelines is a huge challenge for any footballer. To do it twice in succession is a daunting prospect &#8212; but Chelsea&#8217;s Nathalie Bjorn has overcome the odds to do just that.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wsl-womens-super-league_7381501.jpg?20261020112001"
+    },
+    {
+      "source": "sky",
+      "title": "Reese stars again as Atalanta beat Golden State to move 2-1 up in WNBA Finals",
+      "link": "https://www.skysports.com/nba/news/12040/13602121/wnba-finals-angel-reese-stars-again-as-atalanta-dream-beat-golden-state-valkyries-to-move-2-1-up-in-best-of-seven-series",
+      "summary": "Angel Reese registered 21 points and 12 rebounds to help the Atlanta Dream beat the Golden State Valkyries 97-71 overnight and take a 2-1 lead in the WNBA Finals.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-angel-reese-wnba_7383359.jpg?20261022065036"
+    },
+    {
+      "source": "sky",
+      "title": "Brook reaches century as England target big total vs Sri Lanka LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-harry-brook-england_7383600.jpg?20261022115106"
+    },
+    {
+      "source": "sky",
+      "title": "Is that Harry Kane or Harry Brook!? England showcase their football skills before ODI",
+      "link": "https://www.skysports.com/watch/video/13602159/is-that-harry-kane-or-harry-brook-england-showcase-their-football-skills-before-odi",
+      "summary": "England showcased their football skills before their  ODI tri-series match against Sri Lanka.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-d-a_7383473.jpg?20261022091945"
+    },
+    {
+      "source": "sky",
+      "title": "Latest scorecard: England vs Sri Lanka, ODI tri-series",
+      "link": "https://www.skysports.com/cricket/sri-lanka-v-england/scorecard/f8634e16-fe9b-5c2f-bcdb-11d451c6ebab",
+      "summary": "Latest scores from England's ODI tri-series match with Sri Lanka in Rawalpindi, Pakistan.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-banton-england-cricket_7383468.jpg?20261022091125"
+    },
+    {
+      "source": "sky",
+      "title": "Fury vs Joshua: Your questions answered",
+      "link": "https://www.skysports.com/boxing/news/12040/13601938/fury-vs-joshua-your-questions-answered-ahead-of-tyson-furys-principality-stadium-showdown-with-anthony-joshua",
+      "summary": "Sky Sports answers your Tyson Fury vs Anthony Joshua questions...",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-boxing-tyson-fury_7371027.jpg?20261008073113"
     },
     {
       "source": "sky",
@@ -368,142 +504,6 @@
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Brighton latest: Hurzeler will not let in-form Seagulls underestimate Jablonec",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
-      "source": "sky",
-      "title": "Alysson stars as Villa beat Viking to make it three wins from three in Europe",
-      "link": "https://www.skysports.com/football/aston-villa-vs-viking/report/577642",
-      "summary": "Aston Villa made it three wins from three in the Champions League with a 3-1 win over Viking at Villa Park.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-alysson-aston-villa_7383224.jpg?20261021220231"
-    },
-    {
-      "source": "sky",
-      "title": "EFL latest: Bertrand leading consortium looking into AFC Wimbledon investment",
-      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-ryan-bertrand-leicester_7383229.jpg?20261021221259"
-    },
-    {
-      "source": "sky",
-      "title": "Fernandes criticises coaches, Carrick criticises players - but who was to blame?",
-      "link": "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como",
-      "summary": "Who was to blame for Manchester United's miserable 4-1 defeat at Como in the Champions League?",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bruni-bruno-fernandes_7383227.jpg?20261021221058"
-    },
-    {
-      "source": "sky",
-      "title": "Miserable Man Utd ripped apart by Como",
-      "link": "https://www.skysports.com/football/como-vs-manchester-united/report/577645",
-      "summary": "Michael Carrick's Manchester United were ripped apart in a dreadful 4-1 defeat at Como in the Champions League, as their miserable run of results stretched to seven without a win.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-bruno-fernandes-manchester-united_7383091.jpg?20261021192951"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd latest: Carrick, Fernandes and your views on defeat in Como",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-    },
-    {
-      "source": "sky",
-      "title": "Brilliant sprinter Almeraq retired to stud",
-      "link": "https://www.skysports.com/racing/news/12040/13601980/brilliant-sprinter-almeraq-retired-to-stud",
-      "summary": "Champion sprinter-elect Almeraq has been retired to stand at Shadwell's Beech House Stud for 2027.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-almeraq-racing_7378943.jpg?20261017150124"
-    },
-    {
-      "source": "sky",
-      "title": "England 'not thinking about points difference' against France",
-      "link": "https://www.skysports.com/rugby-league/news/12040/13601940/rugby-league-world-cup-2026-england-not-thinking-about-points-difference-before-france-game-says-brad-oneill",
-      "summary": "England hooker Brad O'Neill says his side will resist the urge to go for broke when they face France in their second Rugby League World Cup match in Perth on Saturday.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rugby-league-brad-oneill_7382960.jpg?20261021161757"
-    },
-    {
-      "source": "sky",
-      "title": "England star Kildunne dropped for Canada rematch",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13601856/englands-red-roses-ellie-kildunne-benched-as-part-of-four-changes-to-starting-xv-in-search-for-victory-in-canada-rematch",
-      "summary": "Ellie Kildunne has been dropped to the bench in the England Red Roses squad to face Canada on Friday, a week on from suffering defeat in Toronto which ended a 41-match unbeaten run.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ellie-kildunne-england_7361871.jpg?20260926161059"
-    },
-    {
-      "source": "sky",
-      "title": "White: Fisher will reach \"another level\" for his next fight",
-      "link": "https://www.skysports.com/boxing/news/12040/13601903/johnny-fisher-will-reach-another-level-for-next-fight-says-zuffa-boxings-dana-white-charles-martin-wants-fisher-fight",
-      "summary": "Johnny Fisher will reach &#8220;another level&#8221; for his next fight, says Zuffa Boxing founder Dana White.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-johnny-fisher-michael-pirotton_7360947.jpg?20260925103032"
-    },
-    {
-      "source": "sky",
-      "title": "Arsenal fight back to draw against Bayern Munich",
-      "link": "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643",
-      "summary": "Declan Rice scored a superb 82nd-minute equaliser as Arsenal fought back to draw 2-2 with Bayern Munich in a thrilling Champions League encounter at the Allianz Arena.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-declan-rice-arsenal_7383223.jpg?20261021220135"
-    },
-    {
-      "source": "sky",
-      "title": "Conan, Doris, Crowley absent from Ireland's Nations Championship squad",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13601857/nations-championship-ireland-without-injured-trio-jack-conan-caelan-doris-jack-crowley-but-jamison-gibson-park-included",
-      "summary": "Andy Farrell's Ireland will head into November's Nations Championship without injured trio Jack Conan, Caelan Doris and Jack Crowley, but Jamison Gibson-Park has been included.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-conan-doris-ireland_7382947.jpg?20261021155055"
-    },
-    {
-      "source": "sky",
-      "title": "Jansen claims five-wicket haul as Aussie wickets TUMBLE",
-      "link": "https://www.skysports.com/watch/video/13601880/marco-jansen-on-fire-as-aussie-wickets-tumble",
-      "summary": "Marco Jansen took 5 wickets as Australia were ALL OUT in their first innings, forcing the follow-on on day four of the second Test.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-south-africa-australia_7382844.jpg?20261021131621"
-    },
-    {
-      "source": "sky",
-      "title": "VAR who wrongly awarded Haaland winner vs Man Utd set for PL return",
-      "link": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd",
-      "summary": "The VAR who incorrectly awarded Erling Haaland's winner in last month's Manchester derby has been reinstated to Premier League duty.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730"
-    },
-    {
-      "source": "sky",
-      "title": "McCullum on Brook: Our relationship has really blossomed",
-      "link": "https://www.skysports.com/cricket/news/12040/13601984/england-cricket-brendon-mccullum-believes-his-relationship-with-harry-brook-has-blossomed-over-the-past-18-months",
-      "summary": "England white-ball coach Brendon McCullum believes leaving Test cricket in the rear-view mirror&#160;has allowed his relationship with Harry Brook to continue to flourish.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-brendon-mccullum_7383070.jpg?20261021184148"
-    },
-    {
-      "source": "sky",
-      "title": "Wardley offered route back to world title after 'rest and recovery'",
-      "link": "https://www.skysports.com/boxing/news/12040/13601892/fabio-wardley-offered-route-back-to-world-title-after-rest-and-recovery-well-see-where-we-go-hes-a-dangerous-man",
-      "summary": "Fabio Wardley will be offered a route back to another world heavyweight title fight after his rematch defeat to Daniel Dubois.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-fabio-wardley-daniel-dubois_7249423.jpg?20260515121205"
-    },
-    {
-      "source": "sky",
-      "title": "What is the best volley in Premier League history?",
-      "link": "https://www.skysports.com/watch/video/13601871/sky-sports-fc-whats-the-best-volley-in-premier-league-history",
-      "summary": "On the anniversary of Pajtim Kasami's stunner for Fulham against Crystal Palace, Sky Sports FC takes a look at a pick of the best volleys in Premier League history - but which is the best?",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-volley_7382801.jpg?20261021122947"
     }
   ]
 }
