@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-23T06:51:06.015025+00:00",
+  "lastUpdated": "2026-10-23T12:20:57.510321+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Ex-Arsenal chief Edu becomes Northampton advisor",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqrky7n63l6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Nottingham Forest's former global head of football Edu will serve as a senior advisor to the new owners of Northampton Town.",
+      "published": "2026-10-23T10:27:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0e/live/a2175d50-cec7-11f1-b9e0-e5f0da03dc7f.jpg"
+    },
     {
       "source": "guardian",
       "title": "Premier League: 10 things to look out for this weekend",
@@ -346,12 +354,132 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/9d33a070-c0a1-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "source": "bbc",
-      "title": "Arteta's conscience clear over Man City charges",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
-      "published": "2026-10-09T21:30:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
+      "source": "sky",
+      "title": "Brighton latest: Hurzeler dismisses Man Utd job links",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "NFL to the Moon? ‘Everything an option’ as league debuts in Paris",
+      "link": "https://www.skysports.com/nfl/news/12040/13602652/nfl-commissioner-roger-goodell-emphasises-commitment-to-more-international-games-ahead-of-saints-steelers-game-in-paris",
+      "summary": "NFL Commissioner Roger Goodell joked he wouldn&#8217;t rule out the moon as he emphasised the league&#8217;s commitment to global expansion ahead of its Paris debut this weekend.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-goodell-nfl_7384544.jpg?20261023122457"
+    },
+    {
+      "source": "sky",
+      "title": "Fulham latest: First win changes nothing, says Arbeloa",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
+    },
+    {
+      "source": "sky",
+      "title": "Coventry latest: Lampard hails Hamer's patience",
+      "link": "https://www.skysports.com/football/live-blog/12040/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
+    },
+    {
+      "source": "sky",
+      "title": "Lewis named on England bench as Ashton replaces Eckersley for France",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat",
+      "summary": "England head coach&#160;Brian McDermott has made one change to his 19-man squad for Saturday's Rugby League World Cup match against France.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-mikey-lewis-england_7375628.jpg?20261020074329"
+    },
+    {
+      "source": "sky",
+      "title": "Steelers cancel practice after red-eye flight to Paris",
+      "link": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-aaron-rodgers-steelers_7384437.jpg?20261023102229"
+    },
+    {
+      "source": "sky",
+      "title": "O'Neill challenges Celtic to 'find a way' to win in Europe",
+      "link": "https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough",
+      "summary": "Martin O'Neill wants Celtic to find a way to win in Europe, but after a third straight defeat is the step up from domestic dominance too big for them?",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-celtic-kieran-tierney_7384417.jpg?20261023095359"
+    },
+    {
+      "source": "sky",
+      "title": "Rugby League World Cup 2026: Latest results and schedule",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13598071/rugby-league-world-cup-2026-schedule-dates-format-results-from-mens-womens-and-wheelchair-tournaments",
+      "summary": "Latest scores and results from the 2026 Rugby League World Cup, with Australia, New Zealand, and Papua New Guinea playing host to the men's, women's and wheelchair tournaments.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rugby-league-world-cup_7376637.jpg?20261014103256"
+    },
+    {
+      "source": "sky",
+      "title": "Bournemouth latest: Rose expecting 'angry and intense' Man Utd reaction",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020"
+    },
+    {
+      "source": "sky",
+      "title": "Ipswich latest: Davis on impressive start and lessons learned from last PL season",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": null,
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
+    },
+    {
+      "source": "sky",
+      "title": "Gordon's rise fuelled by Barca belief and Ballon d'Or dreams ahead of Clasico",
+      "link": "https://www.skysports.com/football/news/12040/13602442/barcelona-vs-real-madrid-anthony-gordon-is-fuelled-by-barcas-belief-and-ballon-dor-dreams-ahead-of-el-clasico",
+      "summary": "Paris St-Germain on Tuesday, Real Madrid on Sunday, and eyes on the Ballon d'Or ceremony on Monday.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-anthony-gordon-barcelona_7373590.jpg?20261010194326"
+    },
+    {
+      "source": "sky",
+      "title": "Ngumoha a 'future superstar' making more dribbles than Doku",
+      "link": "https://www.skysports.com/football/news/12040/13602292/rio-ngumoha-showing-superstar-potential-for-liverpool-and-making-more-dribbles-than-jeremy-doku-the-radar",
+      "summary": "",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-rio-ngumoha_7384358.jpg?20261023085536"
+    },
+    {
+      "source": "sky",
+      "title": "Boulter reaches Japan Open semi-final to reclaim British No 1 spot",
+      "link": "https://www.skysports.com/tennis/news/12040/13602595/japan-open-katie-boulter-fights-back-to-beat-antonia-ruzic-and-reach-semi-final-in-osaka",
+      "summary": "Katie Boulter secured an impressive 3-6 6-3 6-3 comeback victory against Antonia Ruzic to book a place in the Japan Open semi-finals and reclaim her title as the British No 1.",
+      "published": null,
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-boulter-tennis_7384474.jpg?20261023113303"
+    },
+    {
+      "source": "sky",
+      "title": "Fox in Korea contention as DP World Tour stalwarts lose playing cards",
+      "link": "https://www.skysports.com/golf/news/12040/13602612/genesis-championship-dp-world-tour-stalwarts-lose-playing-cards-as-casey-jarvis-ryan-fox-boost-race-to-dubai-hopes",
+      "summary": "Race to Dubai title contender Casey Jarvis holds a share of the halfway lead at the Genesis Championship, with Open champion Ryan Fox also in contention.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-ryan-fox-golf-bmw-pga_7356279.jpg?20260919161121"
+    },
+    {
+      "source": "sky",
+      "title": "Merson: Brighton are one million per cent title contenders – if they win next two",
+      "link": "https://www.skysports.com/football/news/12040/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
+      "summary": "Sky Sports' Paul Merson says Brighton will enter the Premier League title race if they win their next two games.",
+      "published": null,
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-fabian-hurzeler-brighton_7383760.jpg?20261022145359"
+    },
+    {
+      "source": "sky",
+      "title": "Jaissle needs some wins to quieten down the noise at Newcastle",
+      "link": "https://www.skysports.com/football/news/12040/13602481/newcastle-united-reporter-notebook-matthias-jaissle-needs-some-wins-to-quieten-down-the-noise-on-tyneside",
+      "summary": "In his latest Reporter Notebook, Sky Sports News' Keith Downie looks into what is going wrong at Newcastle United.",
+      "published": null,
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-reporter-notebook_7384483.jpg?20261023111940"
     },
     {
       "source": "sky",
@@ -384,134 +512,6 @@
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "published": null,
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic stunned by quick double in Europa League defeat to Celta Vigo",
-      "link": "https://www.skysports.com/football/celtic-vs-celta-vigo/report/577781",
-      "summary": "Celtic's Europa League hopes took another blow as Celta Vigo came from behind to inflict their third straight defeat in the competition.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-celta-vigo_7384164.jpg?20261022220345"
-    },
-    {
-      "source": "sky",
-      "title": "Hrgovic on course for title defence in Croatia before Dubois unification",
-      "link": "https://www.skysports.com/boxing/news/12040/13602405/filip-hrgovic-on-course-for-title-defence-against-frank-sanchez-in-croatia-before-a-unification-with-daniel-dubois",
-      "summary": "Filip Hrgovic's hopes of a world title unification fight with Daniel Dubois are on hold as plans are being explored for a homecoming fight in early 2027.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-filip-hrgovic-moses-itauma_7335409.jpg?20260830081809"
-    },
-    {
-      "source": "sky",
-      "title": "Bournemouth seal historic win over Amorim's 10-man Milan",
-      "link": "https://www.skysports.com/football/bournemouth-vs-ac-milan/report/577779",
-      "summary": "Amine Adli scored a fine free-kick to cap Bournemouth's historic 3-0 win over 10-man AC Milan, which continues their brilliant start to their first-ever European campaign.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bournemouth-amine_7384170.jpg?20261022221516"
-    },
-    {
-      "source": "sky",
-      "title": "Britain's Palmowski claims F1 Academy pole in Austin after post-qualifying drama",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
-      "summary": "",
-      "published": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-f1-f1-academy-alisha-palmowski_7256262.jpg?20260523002520"
-    },
-    {
-      "source": "sky",
-      "title": "Mateta on target as Palace draw with Besiktas in Istanbul",
-      "link": "https://www.skysports.com/football/besiktas-vs-crystal-palace/report/577778",
-      "summary": "Jean-Philippe Mateta scored his first goal since last season's UEFA Conference League final but Crystal Palace had to settle for a 2-2 draw away at 10-man Besiktas.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/jean-philippe-mateta-sky-sports_7384099.jpg?20261022203032"
-    },
-    {
-      "source": "sky",
-      "title": "Williams leads Bears past Patriots in impressive victory",
-      "link": "https://www.skysports.com/nfl/news/12040/13602535/nfl-caleb-williams-and-luther-burden-propel-chicago-bears-over-drake-mayes-new-england-patriots",
-      "summary": "Caleb Williams threw for 308 yards and two touchdowns as the Chicago Bears cooled off Drake Maye and the New England Patriots with a 30-24 victory at Soldier Field on Thursday night.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-williams-nfl_7384264.jpg?20261023063615"
-    },
-    {
-      "source": "sky",
-      "title": "'That's not enough for me' - Hamilton explains why he went against Ferrari strategy",
-      "link": "https://www.skysports.com/f1/news/12040/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp",
-      "summary": "Lewis Hamilton has explained the reasons why he overrode Ferrari's call to pit in the Singapore Grand Prix, a mistake he says he \"owned up to\" and will work not to repeat - but which would not prevent him from continuing \"challenging the norms\".",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384150.jpg?20261022213730"
-    },
-    {
-      "source": "sky",
-      "title": "Brentford latest: Andrews ready for trip to 'very impressive' Hull on Sunday",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": null,
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
-    },
-    {
-      "source": "sky",
-      "title": "What cost England in epic as 'box office' Brook's 'genius' goes to waste?",
-      "link": "https://www.skysports.com/cricket/news/12040/13602444/what-cost-england-in-odi-run-fest-vs-sri-lanka-as-harry-brooks-genius-double-century-has-no-value-whatsoever",
-      "summary": "At the halfway stage, most people would have given Sri Lanka no chance.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-harry-brook-england-mens-odi-cricket_7384048.jpg?20261022193448"
-    },
-    {
-      "source": "sky",
-      "title": "Sri Lanka stun England in astonishing ODI epic!",
-      "link": "https://www.skysports.com/watch/video/13602412/sri-lanka-stun-england-with-record-breaking-comeback-sri-lanka-vs-england-odi-highlights",
-      "summary": "Highlights from England against Sri Lanka during their ODI tri-series game.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-d-dd_7383924.jpg?20261022172903"
-    },
-    {
-      "source": "sky",
-      "title": "Ferrari reveal special one-off livery for United States GP",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13601266/f1-united-states-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-austin",
-      "summary": "",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-ferrari_7384046.jpg?20261022192919"
-    },
-    {
-      "source": "sky",
-      "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
-      "link": "https://www.skysports.com/football/news/12040/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-premier-league-predictions_7326761.jpg?20260820172933"
-    },
-    {
-      "source": "sky",
-      "title": "'Night they'll never forget!' - Bournemouth breeze past European giants AC Milan",
-      "link": "https://www.skysports.com/watch/video/13602520/bournemouth-breeze-past-european-giants-ac-milan",
-      "summary": "Sky Sports News' Mark McAdam reflects on Bournemouth's historical 3-0 victory over AC Milan in the Europa League.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-bournemouth-sky-sports-news_7384201.jpg?20261022232427"
-    },
-    {
-      "source": "sky",
-      "title": "Dominant Sunderland punished as Bengtsson earns Lech draw",
-      "link": "https://www.skysports.com/football/lech-poznan-vs-sunderland/report/577787",
-      "summary": "Timur Tutierov's first Sunderland goal was not enough to earn the victory they deserved in Poland as their wastefulness was punished in a 1-1 draw at lowly Lech Poznan.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-sunderland-luke-onien_7384012.jpg?20261022184123"
-    },
-    {
-      "source": "sky",
-      "title": "'A lot of points to play for' - Celtic's O'Neill still confident of EL progression",
-      "link": "https://www.skysports.com/watch/video/13602514/celtic-martin-oneill-confident-of-europa-league-progression-despite-celta-vigo-defeat-a-lot-of-points-to-play-for",
-      "summary": "Celtic manager Martin O'Neill believes they can still progress in the Europa League despite Celta Vigo inflicting their third straight defeat in this season's tournament.",
-      "published": null,
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-celtic-martin-oneill_7384187.jpg?20261022225517"
-    },
-    {
-      "source": "sky",
-      "title": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism",
-      "link": "https://www.skysports.com/watch/video/13602411/bruno-fernandes-to-remain-captain-despite-clash-with-michael-carrick",
-      "summary": "Rob Dorsett and Alan Pardew give their thoughts on Bruno Fernandes remaining Manchester United captain despite him calling out Michael Carrick&#8217;s tactical approach against Como.",
-      "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-manchester-united_7383950.jpg?20261022174649"
     }
   ]
 }
