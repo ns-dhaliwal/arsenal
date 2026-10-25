@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-10-25T21:20:26.784705+00:00",
+  "lastUpdated": "2026-10-25T23:42:45.436490+00:00",
   "articles": [
+    {
+      "source": "sky",
+      "title": "United States Grand Prix | Race highlights",
+      "link": "https://www.skysports.com/watch/video/13603821/united-states-grand-prix-race-highlights",
+      "summary": "Highlights from the 2026 United States Grand Prix.",
+      "published": "2026-10-25T22:20:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-us-grand-prix_7387299.jpg?20261025222136"
+    },
+    {
+      "source": "bbc",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "published": "2026-10-25T22:16:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "source": "sky",
+      "title": "Smith beats Schindler in Dortmund thriller after Littler's QF exit",
+      "link": "https://www.skysports.com/darts/news/12040/13603670/european-championship-darts-ross-smith-beats-martin-schindler-to-dortmund-title-after-luke-littlers-quarter-final-exit",
+      "summary": "Ross Smith has won the Machineseeker European Championship for a second time after overcoming a late Martin Schindler fightback to claim an 11-8 victory in Dortmund.",
+      "published": "2026-10-25T22:12:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-ross-smith-darts_7387288.jpg?20261025221351"
+    },
+    {
+      "source": "sky",
+      "title": "Littler suffers SHOCK loss at European Championship",
+      "link": "https://www.skysports.com/watch/video/13603816/european-championship-luke-littler-suffers-shock-loss-to-krzysztof-ratajski",
+      "summary": "Luke Littler failed to win a maiden European Championship as he suffered a surprise defeat at the hands of Krzysztof Ratajski.",
+      "published": "2026-10-25T22:12:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-darts-littler-ratajski_7387308.jpg?20261025222520"
+    },
+    {
+      "source": "sky",
+      "title": "Smith beats home hope Schindler to reclaim European Championship crown!",
+      "link": "https://www.skysports.com/watch/video/13603815/european-championship-ross-smith-beats-home-hope-martin-schindler-to-reclaim-title",
+      "summary": "Watch the winning moment from Ross Smith's European Championship success, where he closed out an 11-8 victory over Martin Schindler. (Credit: ITV)",
+      "published": "2026-10-25T22:11:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-darts-smith_7387293.jpg?20261025221744"
+    },
+    {
+      "source": "sky",
+      "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
+      "link": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+      "summary": "Kylian Mbappe's double took Real Madrid to a famous 2-1 Clasico win, which had Jose Mourinho sliding on his knees in celebration in Barcelona.",
+      "published": "2026-10-25T22:00:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-real-madrid-kylian-mbappe_7387269.jpg?20261025215633"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Dyche emerges as frontrunner for Palace job if Sage departs",
+      "link": "https://www.skysports.com/football/news/12040/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "published": "2026-10-25T21:30:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Antonelli wins United States GP but made to wait for world title",
+      "link": "https://www.skysports.com/f1/news/12040/13603603/united-states-gp-kimi-antonelli-wins-austin-race-to-move-to-brink-of-f1-world-title-after-dominant-drive",
+      "summary": "Kimi Antonelli moved to the brink of becoming Formula 1's youngest-ever world champion with a superb drive to victory in the United States Grand Prix.",
+      "published": "2026-10-25T21:20:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7387317.jpg?20261025222808"
+    },
     {
       "source": "sky",
       "title": "NFL results: 49ers suffer first loss of season as Giants stun Texans in OT",
@@ -11,27 +75,19 @@
     },
     {
       "source": "sky",
+      "title": "Ireland's Power set for Monday play-off at weather-affected PGA Tour event",
+      "link": "https://www.skysports.com/golf/news/12040/13603786/bermuda-championship-seamus-power-set-for-monday-play-off-against-austin-smotherman-as-final-round-is-scrapped-due-to-bad-weather",
+      "summary": "Seamus Power and Austin Smotherman are set to go head-to-head in a Monday play-off after the final round of the Butterfield Bermuda Championship was scrapped due to bad weather.",
+      "published": "2026-10-25T20:35:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-seamus-power_7387247.jpg?20261025214003"
+    },
+    {
+      "source": "sky",
       "title": "Russia to host 2030 World Weightlifting Championships",
       "link": "https://www.skysports.com/olympics/news/12040/13603778/russia-to-host-2030-world-weightlifting-championships",
       "summary": "Moscow is set to host the 2030 World Weightlifting Championships, marking the first time a world championship for an Olympic sport will be held in Russia since the start of the Ukraine war.",
       "published": "2026-10-25T20:20:00+00:00",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-weightlifting-russia_7387187.jpg?20261025202715"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic win at Hibernian to recover from European woe",
-      "link": "https://www.skysports.com/watch/video/13603561/hibernian-1-2-celtic-scottish-premiership-highlights",
-      "summary": "Watch highlights from the Scottish Premiership match between Hibernian and Celtic.",
-      "published": "2026-10-25T20:15:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/hibernian-celtic-football-highlights_7386647.jpg?20261025140520"
-    },
-    {
-      "source": "sky",
-      "title": "Hearts seal solid win over struggling Motherwell",
-      "link": "https://www.skysports.com/watch/video/13603722/motherwell-0-2-hearts-scottish-premiership-highlights",
-      "summary": "Watch the highlights from the Scottish Premiership match between Motherwell and Hearts.",
-      "published": "2026-10-25T20:15:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/c891b91c54361cd37af3a150eb8b4d1534d89e0c01f6a0baf7d7bca3289a518f_7387042.jpg?20261025182212"
     },
     {
       "source": "sky",
@@ -51,35 +107,11 @@
     },
     {
       "source": "sky",
-      "title": "Neville: Man Utd players downed tools and turned on Carrick",
-      "link": "https://www.skysports.com/football/news/12040/13603735/gary-neville-slams-man-utd-players-for-downing-tools-and-turning-on-michael-carrick-after-bournemouth-defeat",
-      "summary": "Gary Neville launched a scathing attack on Manchester United's players and accused them of downing tools after they were booed off at the end of their 3-0 loss to Bournemouth.",
-      "published": "2026-10-25T18:37:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-andrey-santos-mason-mount_7386834.jpg?20261025160630"
-    },
-    {
-      "source": "sky",
-      "title": "Sunderland remain bottom after drab draw against Leeds",
-      "link": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
-      "summary": "Sunderland remain bottom of the Premier League table after a 0-0 draw against Leeds at home extended their winless run in the top-flight to six games.",
-      "published": "2026-10-25T18:26:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-noah-sadiki-dominic-calvert-lewin_7387011.jpg?20261025175632"
-    },
-    {
-      "source": "sky",
       "title": "Carrick future in huge doubt as Man Utd consider alternatives",
       "link": "https://www.skysports.com/football/news/12040/13603690/michael-carrick-man-utd-future-eddie-howe-and-julian-nagelsmann-expected-frontrunners-if-head-coach-departs",
       "summary": "Michael Carrick's future as Manchester United head coach is hanging by a thread.",
       "published": "2026-10-25T18:00:00+00:00",
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386919.jpg?20261025163701"
-    },
-    {
-      "source": "sky",
-      "title": "Sage: Palace players and hierarchy still support me",
-      "link": "https://www.skysports.com/football/news/12040/13603708/pierre-sage-insists-players-and-crystal-palace-hierarchy-still-support-him-despite-poor-start-to-season",
-      "summary": "Pierre Sage insisted he believes his players and staff are still behind him despite a limp 2-0 home defeat to Newcastle extending Crystal Palace's winless run to four games.",
-      "published": "2026-10-25T17:44:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-pierre-sage-crystal-palace_7387062.jpg?20261025183851"
     },
     {
       "source": "sky",
@@ -91,6 +123,14 @@
     },
     {
       "source": "sky",
+      "title": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
+      "link": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
+      "summary": "",
+      "published": "2026-10-25T16:51:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-hits-misses-pierre-sage_7387083.jpg?20261025185812"
+    },
+    {
+      "source": "sky",
       "title": "Highlights: Pakistan stun England in Lahore as Brook's side beaten again",
       "link": "https://www.skysports.com/watch/video/13603659/pakistan-v-england-odi-highlights-shadab-khans-unbeaten-113-seals-dramatic-one-wicket-victory",
       "summary": "Highlights of Pakistan's remarkable one-wicket victory over England in Lahore, as Shadab Khan's unbeaten 113 inspired an extraordinary comeback from 154-9.",
@@ -99,19 +139,11 @@
     },
     {
       "source": "sky",
-      "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
+      "title": "Neville fears Carrick set to be sacked as Carra calls for swift decision",
       "link": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
       "summary": "Michael Carrick looks poised to lose his job as Manchester United head coach following their 3-0 defeat at Old Trafford to Bournemouth, according to Gary Neville and Jamie Carragher.",
       "published": "2026-10-25T16:10:00+00:00",
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-michael-carrick-man-utd_7386733.jpg?20261025145820"
-    },
-    {
-      "source": "sky",
-      "title": "UNBELIEVABLE! The moment Pakistan win thriller by ONE wicket!",
-      "link": "https://www.skysports.com/watch/video/13603640/pakistan-v-england-haris-rauf-hits-winning-four-to-seal-dramatic-one-wicket-odi-victory",
-      "summary": "Haris Rauf hits the winning boundary as Pakistan complete an extraordinary one-wicket victory over England, recovering from 154-9 thanks to Shadab Khan's unbeaten 113.",
-      "published": "2026-10-25T16:07:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cricket-win_7386889.jpg?20261025162148"
     },
     {
       "source": "sky",
@@ -128,22 +160,6 @@
       "summary": "Drumbeat added further depth to Aidan O'Brien's Classic battalion for next year in earning quotes of 14-1 for the Derby after landing the Criterium de Saint-Cloud at the Paris track.",
       "published": "2026-10-25T15:48:00+00:00",
       "image": "https://e2.365dm.com/25/10/1920x1080/skysports-racing-obrien_7039160.jpg?20251002143236"
-    },
-    {
-      "source": "sky",
-      "title": "Smith stars as Quins beat Saracens to seal first league win of season",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13603591/harlequins-33-15-saracens-marcus-smith-stars-on-200th-appearance-as-quins-seal-first-gallagher-prem-win-of-season",
-      "summary": "An electric Marcus Smith marked his 200th appearance for Harlequins in style, delivering a player-of-the-match performance as he guided his side to a 33-15 victory over Saracens.",
-      "published": "2026-10-25T15:05:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-marcus-smith_7386750.jpg?20261025151008"
-    },
-    {
-      "source": "sky",
-      "title": "Mbappe gives Real Clasico lead at Barcelona LIVE!",
-      "link": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/563017",
-      "summary": "",
-      "published": "2026-10-25T12:52:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-mbappe-kylian-real_7387205.jpg?20261025205128"
     },
     {
       "source": "bbc",
@@ -490,28 +506,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/007c/live/eb92b720-c645-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "source": "bbc",
-      "title": "No piggyback partner? No problem",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm89zyznzzggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal manager Mikel Arteta steps in to help Myles Lewis-Skelly as he had no partner to piggyback with during training.",
-      "published": "2026-10-12T14:34:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad3/live/326d96a0-c642-11f1-abff-0d918239b2e3.jpg"
-    },
-    {
       "source": "sky",
-      "title": "United States GP: Title-chasing Antonelli leads but Verstappen bids to set up big finale LIVE!",
+      "title": "United States GP: Reaction as Antonelli moves to the brink of F1 history LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13603251/f1-united-states-gp-live-race-updates-results-stream-highlights-from-18th-round-of-2026-formula-1-season-in-austin",
       "summary": "Follow live updates and watch the best video from the United States Grand Prix in Austin. Watch live on Sky Sports F1 and Sky Sports Main Event",
       "published": null,
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-max-verstappen_7387211.jpg?20261025210131"
-    },
-    {
-      "source": "sky",
-      "title": "Littler's Euro dreams ended by shock defeat to Ratajski",
-      "link": "https://www.skysports.com/darts/news/12040/13603410/luke-littler-suffers-shock-defeat-to-krzysztof-ratajski-at-european-championship-darts-in-dortmund",
-      "summary": "Luke Littler suffered a shock defeat to Krzysztof Ratajski at the European Championship Darts, as he failed in his attempt to claim the one major title he's never won.",
-      "published": null,
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-littler-european_7386819.jpg?20261025155547"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7387259.jpg?20261025215058"
     }
   ]
 }
