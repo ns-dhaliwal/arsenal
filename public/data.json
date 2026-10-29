@@ -1,29 +1,109 @@
 {
-  "lastUpdated": "2026-10-29T17:16:00.282109+00:00",
+  "lastUpdated": "2026-10-29T22:19:48.948372+00:00",
   "articles": [
+    {
+      "source": "sky",
+      "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
+      "link": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
+      "summary": "Aston Martin's Fernando Alonso has doubled down on his criticism of \"low level\" Formula 1 drivers who have a \"lack of talent\" following his collision with Williams' Alex Albon in Austin.",
+      "published": "2026-10-29T21:05:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-fernando-alonso_7391319.jpg?20261029194434"
+    },
+    {
+      "source": "sky",
+      "title": "Everton see off Newcastle to reach Carabao Cup quarter-final",
+      "link": "https://www.skysports.com/football/everton-vs-newcastle-united/report/578609",
+      "summary": "Everton are through to the quarter-finals of the Carabao Cup after seeing off Newcastle 3-1.",
+      "published": "2026-10-29T19:34:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-football-thierno-barry_7391453.jpg?20261029214231"
+    },
+    {
+      "source": "sky",
+      "title": "Grealish dropped by Everton after breaching club discipline",
+      "link": "https://www.skysports.com/football/news/12040/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
+      "summary": "Everton said Jack Grealish was unavailable for their Carabao Cup fourth-round tie against Newcastle 'due to a breach of club discipline'.",
+      "published": "2026-10-29T18:45:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jack-grealish-everton_7391253.jpg?20261029185811"
+    },
+    {
+      "source": "sky",
+      "title": "Spain's Torres leads after day one of Grand Final",
+      "link": "https://www.skysports.com/watch/video/13605502/grand-final-day-one-highlights",
+      "summary": "Highlights of the first round of the Grand Final in Spain.",
+      "published": "2026-10-29T18:17:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-grand-final-golf_7391268.jpg?20261029191215"
+    },
+    {
+      "source": "sky",
+      "title": "PSG hit back late on to deny Man City first WCL win",
+      "link": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/report/578257",
+      "summary": "Manchester City remain winless in this season's Women's Champions League after Tara Elimbi Gilbert's late strike earned Paris Saint-Germain a 1-1 draw at the Joie Stadium.",
+      "published": "2026-10-29T18:16:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-football-alex-greenwood_7391371.jpg?20261029202217"
+    },
+    {
+      "source": "sky",
+      "title": "Alexander shines with brilliant 64 to lead at end of day one",
+      "link": "https://www.skysports.com/watch/video/13605492/wistron-ladies-open-day-one-highlights",
+      "summary": "Highlights of the first round of the Wistron Ladies Open in Taiwan.",
+      "published": "2026-10-29T18:08:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-wistron-ladies-open_7391260.jpg?20261029190142"
+    },
+    {
+      "source": "sky",
+      "title": "PSG hit back late on to deny Man City first WCL win LIVE!",
+      "link": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/live/578257",
+      "summary": "",
+      "published": "2026-10-29T18:07:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-football-alex-greenwood_7391371.jpg?20261029202217"
+    },
+    {
+      "source": "sky",
+      "title": "England's Hull two shots off leader Roussin-Bouchard after opening round",
+      "link": "https://www.skysports.com/watch/video/13605486/maybank-championship-day-one-highlights",
+      "summary": "Highlights of round one of the LPGA Maybank Championship in Kuala Lumpur.",
+      "published": "2026-10-29T18:00:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-golf-maybank-championship_7391250.jpg?20261029185538"
+    },
+    {
+      "source": "sky",
+      "title": "McCullum: Brook one of best tactical captains I've come across",
+      "link": "https://www.skysports.com/cricket/news/12040/13605472/england-head-coach-brendon-mccullum-hails-captain-harry-brook-after-tourists-end-odi-tri-series-with-consolation-win",
+      "summary": "Brendon McCullum called Harry Brook \"one of the best tactical captains I've ever come across\" after England ended a tough ODI tri-series with a consolation win over Sri Lanka in Lahore.",
+      "published": "2026-10-29T18:00:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-liam-dawson-harry-brook_7387616.jpg?20261026095017"
+    },
+    {
+      "source": "guardian",
+      "title": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
+      "link": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
+      "summary": "Teenager was sent off for lashing out in Fleetwood defeatClub’s claims over card and ban were both dismissedArsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fleetwood and the three-match suspension imposed has been rejected by an independent commission.The 16-year-old Dowman was sent off for a kick out at Harrison Neal following a bruising tackle in the 85th minute of ",
+      "published": "2026-10-29T17:57:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/13284df7773e91907684d56e2b620ae8f0386d04/57_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e3a257cc7325aa755b80d1e611c8e46d"
+    },
+    {
+      "source": "bbc",
+      "title": "Dowman to miss three matches after appeal rejected",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+      "published": "2026-10-29T17:19:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Alcaraz and Fery battle into Vienna Open quarter-finals",
+      "link": "https://www.skysports.com/tennis/news/12040/13605457/alcaraz-battles-into-vienna-open-quarter-finals",
+      "summary": "Carlos Alcaraz was forced to work hard to reach the quarter-finals of the Vienna Open, as the world No 3 was taken to a dramatic second-set tiebreak by Nikoloz Basilashvili, before he sealed a 6-1 7-6 (13-11) victory.",
+      "published": "2026-10-29T17:15:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-carlos-alcaraz_7391185.jpg?20261029175810"
+    },
     {
       "source": "sky",
       "title": "Antonelli to miss Mexico media day with viral illness",
       "link": "https://www.skysports.com/f1/news/12040/13605421/kimi-antonelli-to-miss-mexico-city-gp-media-day-due-to-viral-illness-ahead-of-likely-world-championship-coronation",
-      "summary": "Kimi Antonelli will miss Thursday's media day at the Mexico City Grand Prix due to a viral illness ahead of the weekend where he will likely become Formula 1 world champion.",
+      "summary": "Kimi Antonelli will miss Thursday's media day at the Mexico City Grand Prix due to a viral illness ahead of the weekend when he will likely become Formula 1 world champion.",
       "published": "2026-10-29T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-kimi-antonelli_7391110.jpg?20261029165429"
-    },
-    {
-      "source": "sky",
-      "title": "Sage on finding solutions at Palace and visiting De Zerbi for ideas",
-      "link": "https://www.skysports.com/football/news/12040/13605441/crystal-palace-pierre-sage-on-finding-solutions-visiting-roberto-de-zerbi-and-building-foundations-for-future-success",
-      "summary": "The pressure has been on for Pierre Sage - but out of adversity he is aiming to improve his skills as a coach and bond together a Crystal Palace squad to go and achieve future success.&#160;",
-      "published": "2026-10-29T16:27:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-pierre-sage-crystal_7391098.jpg?20261029164204"
-    },
-    {
-      "source": "sky",
-      "title": "Duckett, Dawson star as England hold off Sri Lanka for consolation win",
-      "link": "https://www.skysports.com/cricket/news/12040/13605238/sri-lanka-vs-england-ben-duckett-liam-dawson-deliver-odi-career-bests-for-harry-brooks-side-in-consolation-55-run-win",
-      "summary": "Ben Duckett fired the highest score of his ODI career to help England end a disappointing tri-series campaign with a 55-run victory over Sri Lanka in Lahore.",
-      "published": "2026-10-29T16:10:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-sonny-bake-will-jacks_7391058.jpg?20261029154956"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7391128.jpg?20261029171045"
     },
     {
       "source": "sky",
@@ -35,35 +115,11 @@
     },
     {
       "source": "sky",
-      "title": "Celtic, Rangers lose appeal against stadium closure sanction after fan trouble",
-      "link": "https://www.skysports.com/football/news/12040/13605309/celtic-and-rangers-fail-to-overturn-ban-on-supporters-at-next-home-scottish-cup-games-after-fan-trouble-at-ibrox",
-      "summary": "Celtic and Rangers have lost their appeals against a Scottish FA sanction ordering the two clubs to play their next home Scottish Cup fixtures behind closed doors.",
-      "published": "2026-10-29T16:00:00+00:00",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-celtic-rangers-fans_7333548.jpg?20260828120836"
-    },
-    {
-      "source": "sky",
-      "title": "It's been 616 days: Can Spurs finally win three in a row?",
-      "link": "https://www.skysports.com/football/news/12040/13605317/tottenham-vs-crystal-palace-have-spurs-genuinely-turned-a-corner-in-the-premier-league-under-roberto-de-zerbi",
-      "summary": "By the time Saturday rolls around, it will have been 616 days since Tottenham last won three Premier League games on the bounce. Three different managers have come and gone since the feat was last achieved, none able to steer Spurs to a streak of more than two.",
-      "published": "2026-10-29T15:30:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-james-maddison-goal_7381102.jpg?20261020060641"
-    },
-    {
-      "source": "sky",
-      "title": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
-      "link": "https://www.skysports.com/football/news/12040/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool",
-      "summary": "",
-      "published": "2026-10-29T15:13:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kai-havertz-arsenal_7391052.jpg?20261029154631"
-    },
-    {
-      "source": "sky",
-      "title": "Garcia 'open minded' about PGA Tour return and reveals Ryder Cup target",
-      "link": "https://www.skysports.com/golf/news/12040/13605368/liv-golf-sergio-garcia-open-minded-about-pga-tour-return-as-he-targets-2027-ryder-cup-after-breakaway-league-exit",
-      "summary": "Sergio Garcia is returning to the DP World Tour for the 2027 season and is open-minded about getting a place back on the PGA Tour, too.",
-      "published": "2026-10-29T14:20:00+00:00",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-sergio-garcia-golf_7337444.jpg?20260901122431"
+      "title": "Arsenal fail with appeal against Dowman's red card",
+      "link": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+      "summary": "Arsenal have failed in their appeal against Max Dowman's red card in the defeat to League Two Fleetwood Town.",
+      "published": "2026-10-29T14:50:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-dowman-arsenal_7389264.jpg?20261027232527"
     },
     {
       "source": "sky",
@@ -72,38 +128,6 @@
       "summary": "Michael Carrick says he is ready to \"move forward\" with Bruno Fernandes as Man Utd captain.",
       "published": "2026-10-29T14:00:00+00:00",
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-football-michael-carrick_7357590.jpg?20260921063832"
-    },
-    {
-      "source": "sky",
-      "title": "Root left in STITCHES after Mendis' bat snaps in half!",
-      "link": "https://www.skysports.com/watch/video/13605327/sri-lanka-vs-england-odi-tri-series-joe-root-left-in-stitches-after-kusal-mendis-bat-snaps-in-half",
-      "summary": "Joe Root was left in stitches after Kusal Mendis' bat snapped in half during Sri Lanka's ODI tri-series against England.",
-      "published": "2026-10-29T13:02:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-root-cricket_7390896.jpg?20261029131336"
-    },
-    {
-      "source": "sky",
-      "title": "PL Predictions: Man Utd to deliver a reaction for Carrick at Chelsea",
-      "link": "https://www.skysports.com/football/news/12040/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
-      "published": "2026-10-29T13:00:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-    },
-    {
-      "source": "sky",
-      "title": "Parker on shortlist for Dubois fight",
-      "link": "https://www.skysports.com/boxing/news/12040/13605336/daniel-dubois-joseph-parker-on-shortlist-for-wbo-heavyweight-champions-next-world-title-defence",
-      "summary": "Joseph Parker is on a shortlist of potential opponents for WBO world heavyweight champion Daniel Dubois.",
-      "published": "2026-10-29T12:59:00+00:00",
-      "image": "https://e0.365dm.com/24/09/1920x1080/skysports-daniel-dubois-joseph-parker_6694816.jpg?20240923141617"
-    },
-    {
-      "source": "sky",
-      "title": "Inglis hits second Test ton as South Africa take narrow lead over Australia",
-      "link": "https://www.skysports.com/cricket/news/12040/13605295/south-africa-vs-australia-third-test-josh-inglis-hits-second-test-century-as-temba-bavumas-side-take-narrow-lead",
-      "summary": "Josh Inglis struck his second Test hundred as Australia took control on day three of the third Test, with South Africa holding a 40-run lead for the loss of four wickets in their second innings at Newlands.",
-      "published": "2026-10-29T11:53:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-josh-inglis_7390847.jpg?20261029122339"
     },
     {
       "source": "sky",
@@ -122,44 +146,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c699/live/0a9681f0-d37b-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "source": "sky",
-      "title": "County cricket ins and outs 2027",
-      "link": "https://www.skysports.com/cricket/news/12040/13604022/county-cricket-ins-and-outs-all-the-signings-departures-and-overseas-arrivals-ahead-of-the-2027-season",
-      "summary": "Keep up to speed with all the signings, departures and overseas players in county cricket for the 2027 season.",
-      "published": "2026-10-29T10:00:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-henry-crocombe-england-cricket-training_7374512.jpg?20261011184521"
-    },
-    {
-      "source": "sky",
-      "title": "WNBA Finals set to make history: Watch Game 6 live on Sky Sports",
-      "link": "https://www.skysports.com/basketball/news/12040/13605210/wnba-finals-game-6-live-on-sky-sports-thursday-at-4-30pm-as-golden-state-valkyries-vs-atlanta-dream-makes-history",
-      "summary": "On Thursday, either the Golden State Valkyries will win a WNBA championship in just their second year of existence, live on Sky Sports, or the Atlanta Dream will force the first Game 7 in league history.",
-      "published": "2026-10-29T08:23:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wnba-finals-burton_7390624.jpg?20261029084719"
-    },
-    {
-      "source": "sky",
-      "title": "Osaka stunned by 18-year-old Pohankova at Pan Pacific Open in Japan",
-      "link": "https://www.skysports.com/tennis/news/12040/13605209/pan-pacific-open-naomi-osaka-stunned-by-18-year-old-mia-pohankova-and-knocked-out-in-front-of-home-crowd-in-tokyo",
-      "summary": "Naomi Osaka, seeded No 7 and playing before home fans in Japan, was knocked out of the Pan Pacific Open on Thursday by teenager Mia Pohankova.",
-      "published": "2026-10-29T08:05:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-osaka-naomi-tennis_7390613.jpg?20261029081706"
-    },
-    {
       "source": "guardian",
       "title": "Post your questions for Charlie Nicholas",
       "link": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
       "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward?Ever wanted to ask Charlie Nicholas a question? Well, this is your chance. Whether you want to know about the season he scored 50 goals for Celtic, or the day he scored both goals as Arsenal beat Liverpool in the League Cup final, or his time on Soccer Saturday, let us know.Nicholas was a true character. Not ma",
       "published": "2026-10-29T08:00:26+00:00",
       "image": "https://i.guim.co.uk/img/media/e0e17f5d2ea03ff96178a76e302d5f7bb4086d1b/0_1596_4578_3663/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=fb1d2fc00f2658dc710f3e9b7b0bb7fc"
-    },
-    {
-      "source": "sky",
-      "title": "England's Hull two off early LPGA Tour lead in Malaysia",
-      "link": "https://www.skysports.com/golf/news/12040/13605176/maybank-championship-englands-charley-hull-two-shots-off-lead-after-opening-round-of-lpga-tour-event-in-malaysia",
-      "summary": "England's Charley Hull sits two shots off the lead after the opening round of the LPGA's Maybank Championship in Kuala Lumpur, Malaysia.&#160;",
-      "published": "2026-10-29T06:34:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-charley-hull-golf_7390561.jpg?20261029064304"
     },
     {
       "source": "bbc",
@@ -179,11 +171,11 @@
     },
     {
       "source": "sky",
-      "title": "Djokovic comes from set down to defeat Humbert in Basel",
-      "link": "https://www.skysports.com/watch/video/13605055/novak-djokovic-vs-ugo-humbert-swiss-indoor-basel-highlights",
-      "summary": "Highlights of the Swiss Indoor match between Novak Djokovic and Ugo Humbert.",
-      "published": "2026-10-28T21:23:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-tennis-djokovic_7390330.jpg?20261028213235"
+      "title": "EFL latest: O'Hare on Wrexham move and Sheff Utd return",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": "2026-10-28T18:02:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-callum-ohare-wrexham_7391126.jpg?20261029170904"
     },
     {
       "source": "guardian",
@@ -232,6 +224,14 @@
       "summary": "Max Dowman's dismissal in Arsenal's EFL Cup exit away to Fleetwood gives Mikel Arteta a selection problem, but was his reaction to the teenager's red card justified?",
       "published": "2026-10-28T10:52:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5178/live/6801b3f0-d2bd-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Ronaldo celebrates 'Ballon d'Or of All Time' with hat-trick",
+      "link": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "summary": "",
+      "published": "2026-10-28T09:39:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261012222844"
     },
     {
       "source": "bbc",
@@ -306,12 +306,28 @@
       "image": "https://i.guim.co.uk/img/media/9cfc4d0a492ef48b4171f872a2ff003316a38878/364_0_3429_2743/master/3429.jpg?width=140&quality=85&auto=format&fit=max&s=c42f65faed1febcf5fbd1a22191130df"
     },
     {
+      "source": "sky",
+      "title": "Dream send WNBA Finals to decider against Valkyries",
+      "link": "https://www.skysports.com/basketball/news/12040/13605487/wnba-finals-atlanta-dream-beat-golden-state-valkyries-to-force-decider",
+      "summary": "Atlanta Dream ensured the WNBA Finals would reach Game 7 for the first time in history as they beat Golden State&#160;Valkyries 80-69 to set up a decider.&#160;",
+      "published": "2026-10-27T08:00:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-atlanta-dream-angel-reese_7391365.jpg?20261029201542"
+    },
+    {
       "source": "bbc",
       "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine.",
       "published": "2026-10-27T07:22:04+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2d/live/b62c2930-d1d6-11f1-b98e-83cc843f0a81.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Everton see off Newcastle to reach Carabao Cup quarter-final LIVE!",
+      "link": "https://www.skysports.com/football/everton-vs-newcastle-united/live/578609",
+      "summary": "",
+      "published": "2026-10-26T16:18:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-everton-fc_7391373.jpg?20261029202613"
     },
     {
       "source": "bbc",
@@ -458,14 +474,6 @@
       "image": "https://i.guim.co.uk/img/media/c98d6dd5e9f44af2cdf076c43bf3fe36cac44231/250_0_2652_2121/master/2652.jpg?width=140&quality=85&auto=format&fit=max&s=e84e06ecad9a79b4f9a1e651ea7da8fb"
     },
     {
-      "source": "bbc",
-      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
-      "published": "2026-10-21T22:51:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Bayern Munich 2-2 Arsenal: Champions League – as it happened",
       "link": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
@@ -496,14 +504,6 @@
       "summary": "Goalkeeper brushes off criticism before Bayern clashKompany could miss game with virus affecting his legsDavid Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were only a “very small minority”.Arsenal made it 10 wins out of 11 in all competitions for the season when they beat Nottingham Forest 1-0 at the C",
       "published": "2026-10-20T20:00:37+00:00",
       "image": "https://i.guim.co.uk/img/media/ab45c6fbc6ce72b125d3c5663e2961beb69a2b43/327_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=6d5ea50ac15b6a22a778c2a255ef76f9"
-    },
-    {
-      "source": "guardian",
-      "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
-      "link": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
-      "summary": "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry KaneFor Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on Sunday. There were 93 minutes gone, Arsenal were 1-0 up and it was now or never for Forest. Konsa decreed that ",
-      "published": "2026-10-19T14:00:59+00:00",
-      "image": "https://i.guim.co.uk/img/media/92a83ae4e8aaee78642ec9941f975f9ebfa642bb/643_298_2253_1802/master/2253.jpg?width=140&quality=85&auto=format&fit=max&s=6320e392fa05029c57e41db0bae8f65c"
     },
     {
       "source": "sky",
