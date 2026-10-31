@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-31T01:21:23.560550+00:00",
+  "lastUpdated": "2026-10-31T07:53:34.624529+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Teen football photographer 'living the dream'",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwgjr0er14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tiego goes from photographing grassroots football and the National League to Champions League games.",
+      "published": "2026-10-31T06:36:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8677/live/038e9db0-d318-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Hadjar summoned to stewards for alleged 'misconduct' paddock incident",
+      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "summary": "",
+      "published": "2026-10-31T03:35:00+00:00",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-isack-hadjar-red-bull_7344444.jpg?20260907181133"
+    },
+    {
+      "source": "sky",
+      "title": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+      "link": "https://www.skysports.com/f1/news/12040/13605836/max-verstappen-liam-lawson-receive-grid-penalties-for-unacceptable-practice-collision-at-mexico-city-grand-prix",
+      "summary": "Max Verstappen and Liam Lawson have both received one-grid place penalties for an \"unacceptable\" collision in second practice at the Mexico City Grand Prix.",
+      "published": "2026-10-31T03:10:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7392430.jpg?20261031003711"
+    },
     {
       "source": "sky",
       "title": "Moloney-MacDonald stars as Red Roses return to winning ways with USA thrashing",
@@ -8,6 +32,14 @@
       "summary": "England's Red Roses responded to shock back-to-back defeats in Canada with a crushing 55-12 WXV Global Series victory over the USA in New Jersey, returning to winning ways.&#160;",
       "published": "2026-10-30T23:25:00+00:00",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-moloney-macdonald_7392357.jpg?20261030224055"
+    },
+    {
+      "source": "sky",
+      "title": "Mexico City Grand Prix | Practice highlights",
+      "link": "https://www.skysports.com/watch/video/13606000/mexico-city-gp-max-verstappen-collides-with-liam-lawson-as-lewis-hamilton-suffers-failure-during-practice",
+      "summary": "Highlights from Friday's practice sessions at the Mexico City Grand Prix.",
+      "published": "2026-10-30T23:10:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-motorsport-f1_7392399.jpg?20261030231249"
     },
     {
       "source": "sky",
@@ -32,6 +64,14 @@
       "summary": "Canelo Alvarez and Christian Mbilli both made the weight for their WBC super-middleweight world title fight on Saturday in Riyadh.",
       "published": "2026-10-30T22:45:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-canelo-alvarez-gennady-golovkin_7392351.jpg?20261030223639"
+    },
+    {
+      "source": "sky",
+      "title": "'Every weekend!' - Lawson fumes at Verstappen as pair clash during P2!",
+      "link": "https://www.skysports.com/watch/video/13605977/mexico-city-gp-liam-lawson-fumes-at-max-verstappen-as-pair-tussle-during-p2",
+      "summary": "Racing Bulls' Liam Lawson and Red Bull's Max Verstappen make contact during FP2 at the Mexico City GP.",
+      "published": "2026-10-30T22:19:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-liam-lawson_7392347.jpg?20261030222645"
     },
     {
       "source": "sky",
@@ -67,11 +107,11 @@
     },
     {
       "source": "sky",
-      "title": "Mexico City GP: Verstappen, Lawson summoned by stewards after collision LIVE!",
+      "title": "Hamilton 'praying' car is OK after Mexico technical issue",
       "link": "https://www.skysports.com/f1/live-blog/12040/13605426/f1-mexico-city-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend",
       "summary": "",
       "published": "2026-10-30T21:32:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-max-verstappen-liam_7392337.png?20261030221800"
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7392360.png?20261030224231"
     },
     {
       "source": "sky",
@@ -123,27 +163,11 @@
     },
     {
       "source": "sky",
-      "title": "Sheffield United 1-0 Wrexham highlights",
-      "link": "https://www.skysports.com/football/sheffield-united-vs-wrexham/live/560648",
-      "summary": "",
-      "published": "2026-10-30T19:00:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-sheff-utd-wrexham_7392259.jpg?20261030204147"
-    },
-    {
-      "source": "sky",
       "title": "Zverev repeats Wimbledon victory over Fery to reach Vienna semi-finals",
       "link": "https://www.skysports.com/tennis/news/12040/13605893/vienna-open-alexander-zverev-repeats-wimbledon-victory-over-arthur-fery-as-he-progresses-to-semi-finals",
       "summary": "Alexander Zverev repeated his Wimbledon victory over Britain's Arthur Fery in the quarter-finals of the Vienna Open.",
       "published": "2026-10-30T18:36:00+00:00",
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-arthur-fery-tennis_7338355.jpg?20260902042952"
-    },
-    {
-      "source": "sky",
-      "title": "Rickelton, Mulder hit tons as South Africa set Australia 288 to win decider",
-      "link": "https://www.skysports.com/cricket/news/12040/13605852/south-africa-vs-australia-third-test-centuries-by-ryan-rickelton-and-wiaan-mulder-lift-hosts-back-into-series-contention-in-newlands-decider",
-      "summary": "Ryan Rickelton and Wiaan Mulder struck centuries as South Africa were bowled out &#8204;for 387 to close day four of the decisive third Test against Australia, setting the touring &#8203;side a victory target of 288 on the final day.",
-      "published": "2026-10-30T17:40:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-wiaan-mulder-cricket_7392075.jpg?20261030173655"
     },
     {
       "source": "guardian",
@@ -152,30 +176,6 @@
       "summary": "Andoni Iraola’s team have shot up the table after a slow start but they are still not scoring enough goalsBy WhoScoredEvery Liverpool win this season seems to come with an asterisk. Yes, they beat Brentford, but Brentford had a man sent off. Yes they beat Villarreal, but they conceded three. On Sunday, against Brighton the asterisks finally ran out. Liverpool beat the Premier League’s top scorers ",
       "published": "2026-10-30T17:00:18+00:00",
       "image": "https://i.guim.co.uk/img/media/bf33eb585939df3601a55b014e4ca397c5f5de08/158_0_2467_1974/master/2467.jpg?width=140&quality=85&auto=format&fit=max&s=b6166fe3130a1675a709f6e468fd9478"
-    },
-    {
-      "source": "sky",
-      "title": "Bompastor: WSL rivals are too strong to allow Chelsea squad rotation",
-      "link": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "summary": "",
-      "published": "2026-10-30T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-chelsea-women-bompastor_7392074.jpg?20261030173639"
-    },
-    {
-      "source": "sky",
-      "title": "Carrick's last chance? The fixes Man Utd may need at Chelsea",
-      "link": "https://www.skysports.com/football/news/12040/13605448/michael-carrick-what-man-utd-boss-could-change-for-saturdays-premier-league-game-at-chelsea",
-      "summary": "You would be forgiven for wondering how much longer Michael Carrick will remain in the Manchester United dugout.",
-      "published": "2026-10-30T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-premier-league-manchester-united_7391721.jpg?20261030101520"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: The more we win, the better we'll become, says Iraola",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": "2026-10-30T17:00:00+00:00",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
     },
     {
       "source": "guardian",
@@ -410,6 +410,14 @@
       "image": "https://i.guim.co.uk/img/media/77fbb8e1cd30e0a7658082d9c88eb286d13fc2f2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=49454ca2f81c3d060d0ddc61675d4ed0"
     },
     {
+      "source": "sky",
+      "title": "How Antonelli can win world title at Mexico City GP on Sunday",
+      "link": "https://www.skysports.com/f1/news/12040/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+      "summary": "Kimi Antonelli was unable to seal the Formula 1 world championship at the first race where it was mathematically possible for him to do so, but the Italian has left himself with a great opportunity to make history this weekend in Mexico City.",
+      "published": "2026-10-26T01:00:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-kimi-antonelli_7387399.jpg?20261026004505"
+    },
+    {
       "source": "bbc",
       "title": "Who has made Troy's Premier League team of the week?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
@@ -480,14 +488,6 @@
       "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
       "published": "2026-10-23T14:09:36+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fd/live/22c475a0-cee1-11f1-bdca-23c64447299f.jpg"
-    },
-    {
-      "source": "bbc",
-      "title": "Ex-Arsenal chief Edu becomes Northampton advisor",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrky7n63l6po?at_medium=RSS&at_campaign=rss",
-      "summary": "Nottingham Forest's former global head of football Edu will serve as a senior advisor to the new owners of Northampton Town.",
-      "published": "2026-10-23T10:27:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0e/live/a2175d50-cec7-11f1-b9e0-e5f0da03dc7f.jpg"
     },
     {
       "source": "guardian",
