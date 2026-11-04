@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-11-04T16:45:05.826066+00:00",
+  "lastUpdated": "2026-11-04T22:20:42.002437+00:00",
   "articles": [
+    {
+      "source": "bbc",
+      "title": "Arsenal survive late Slavia scare for hard-fought win",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
+      "published": "2026-11-04T22:10:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "source": "guardian",
+      "title": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
+      "link": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
+      "summary": "Another away day, another victory for Arsenal. This time, the much-maligned Viktor Gyökeres stole the show as poor Slavia Prague matched the longest winless streak in European Cup and Champions League history despite a spirited late comeback. That now stands at 23, equalling the mark set by AEK Athens and FCSB – formerly known as Steaua Bucharest – while Arsenal are now unbeaten in their last 10 a",
+      "published": "2026-11-04T22:05:11+00:00",
+      "image": "https://i.guim.co.uk/img/media/c3aab73d6830365fdfe8bda9844fd83484bf6002/243_0_2845_2276/master/2845.jpg?width=140&quality=85&auto=format&fit=max&s=d41f301b351c181e8ce762c0346d1e77"
+    },
+    {
+      "source": "sky",
+      "title": "Arsenal survive second-half scare to beat Slavia Prague",
+      "link": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
+      "summary": "Arsenal survived a second-half onslaught from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
+      "published": "2026-11-04T22:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-arsenal-slavia_7397339.jpg?20261104204759"
+    },
+    {
+      "source": "sky",
+      "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+      "link": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666",
+      "summary": "Erling Haaland haunted RB Leipzig again to earn Manchester City a thrilling 3-2 victory in the Champions League.",
+      "published": "2026-11-04T22:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-erling-haaland-man-city_7397445.jpg?20261104221134"
+    },
+    {
+      "source": "sky",
+      "title": "Boro struggle without Lankshear as Wrexham beat Championship leaders",
+      "link": "https://www.skysports.com/football/wrexham-vs-middlesbrough/report/560665",
+      "summary": "Championship leaders Middlesbrough suffered only their second league defeat of the season as Wrexham eased the pressure on Phil Parkinson with a much-needed 2-0 win.",
+      "published": "2026-11-04T21:15:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-wrexham-fc_7397418.jpg?20261104214358"
+    },
+    {
+      "source": "sky",
+      "title": "Wolves hit back to beat Bristol City after late Neave double",
+      "link": "https://www.skysports.com/football/bristol-city-vs-wolverhampton-wanderers/report/560662",
+      "summary": "Substitute Sean Neave scored a late brace as Wolves came from behind to secure a 2-1 Sky Bet Championship win over Bristol City at Ashton Gate.",
+      "published": "2026-11-04T21:15:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sean-neave-wolves_7397432.jpg?20261104215544"
+    },
+    {
+      "source": "sky",
+      "title": "Oxford Utd 2-0 Reading",
+      "link": "https://www.skysports.com/football/oxford-united-vs-reading/report/561633",
+      "summary": "Substitutes Gatlin O'Donkor and Mo Missanga struck twice in eight minutes to earn Oxford a 2-0 victory over local rivals Reading and a first Thames Valley derby win since 1999.",
+      "published": "2026-11-04T21:15:00+00:00",
+      "image": "https://e1.365dm.com/23/01/1920x1080/skysports-efl-league-one-gholam_6025969.jpg?20230116150021"
+    },
+    {
+      "source": "sky",
+      "title": "West Ham fight back from 3-0 down at Cardiff in Parker's first game",
+      "link": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/report/560663",
+      "summary": "Scott Parker saw his West Ham side recover from three goals down to draw 3-3 at Cardiff in a thrilling first game in charge.",
+      "published": "2026-11-04T21:15:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-cardiff_7397415.jpg?20261104214334"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
+      "link": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
+      "summary": "Liverpool's perfect start to their Champions League campaign came to a sudden halt as they lost two leads in a 3-2 defeat to Fenerbahce in Istanbul.",
+      "published": "2026-11-04T19:40:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-liverpool-fenerbahce_7397293.jpg?20261104195615"
+    },
+    {
+      "source": "sky",
+      "title": "Humphries recovers from food poisoning to win Players Championship title",
+      "link": "https://www.skysports.com/darts/news/12040/13608002/players-championship-33-luke-humphries-beats-niels-zonneveld-in-final-as-raymond-van-barneveld-closes-in-on-world-championship",
+      "summary": "Luke Humphries revealed he lost over a stone due to food poisoning but still stormed to his fourth Players Championship title of 2026 with an 8-4 victory over Niels Zonneveld as Dutch legend Raymond van Barneveld took a huge step towards world championship qualification.",
+      "published": "2026-11-04T19:39:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-world-grand-prix-darts_7366111.jpg?20261001222459"
+    },
+    {
+      "source": "sky",
+      "title": "Lions' Campbell has full movement in lower body after neck injury",
+      "link": "https://www.skysports.com/nfl/news/12040/13608069/nfl-detroit-lions-jack-campbell-has-full-movement-in-lower-body-after-neck-injury-suffered-in-win-over-the-minnesota-vikings",
+      "summary": "Detroit Lions linebacker&#160;Jack Campbell says he has full movement in his lower body after he was taken to hospital with a neck injury during Sunday's&#160;NFL win over the Minnesota Vikings.",
+      "published": "2026-11-04T18:45:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jack-campbell-detroit-lions_7394991.jpg?20261102150440"
+    },
+    {
+      "source": "sky",
+      "title": "Cardiff City 3-3 West Ham highlights",
+      "link": "https://www.skysports.com/football/cardiff-city-vs-west-ham-united/live/560663",
+      "summary": "",
+      "published": "2026-11-04T18:45:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-cardiff-west-ham_7397375.jpg?20261104211541"
+    },
+    {
+      "source": "sky",
+      "title": "Buatsi 'open' to potential world title rematch with Parker",
+      "link": "https://www.skysports.com/boxing/news/12040/13608064/joshua-buatsi-open-to-potential-world-title-rematch-with-zach-parker-if-he-beats-dangerous-puncher-umar-dzambekov",
+      "summary": "Zach Parker hopes victory over Umar Dzambekov on Saturday can lead him to a rematch with Joshua Buatsi, potentially for a world title.",
+      "published": "2026-11-04T17:58:00+00:00",
+      "image": "https://e0.365dm.com/25/11/1920x1080/skysports-joshua-buatsi-zach_7069370.jpg?20251102082056"
+    },
+    {
+      "source": "sky",
+      "title": "Djokovic out of ATP Finals race after shock Paris exit along with No 1 Zverev",
+      "link": "https://www.skysports.com/tennis/news/12040/13607999/atp-paris-masters-novak-djokovic-eliminated-from-atp-finals-race-as-world-no-1-alexander-zverev-also-suffers-shock-exit",
+      "summary": "For just the second time in 20 seasons, Novak Djokovic has failed to qualify for the season-ending ATP Finals after a shock defeat in the second round of the Rolex Paris Masters.",
+      "published": "2026-11-04T17:43:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-novak-djokovic-tennis_7397144.jpg?20261104174736"
+    },
+    {
+      "source": "sky",
+      "title": "England 'pretty optimistic' Smith will  be fit to face Australia",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13608052/fin-smith-england-pretty-optimistic-fly-half-will-be-fit-for-australia-match-at-twickenham-in-nations-championship",
+      "summary": "",
+      "published": "2026-11-04T17:30:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-fin-smith-england_7397163.jpg?20261104172512"
+    },
+    {
+      "source": "sky",
+      "title": "Brady returns to Patriots as commentator for first time",
+      "link": "https://www.skysports.com/nfl/news/12040/13608003/tom-brady-seven-time-super-bowl-champion-returns-to-new-england-patriots-as-broadcaster-for-first-time-at-foxboro",
+      "summary": "Tom Brady will make an emotional homecoming this weekend when he returns to New England as a broadcaster for the first time since retiring from football.",
+      "published": "2026-11-04T16:50:00+00:00",
+      "image": "https://e1.365dm.com/23/05/1920x1080/skysports-tom-brady-new-england-patriots_6152374.jpg?20230511200130"
+    },
     {
       "source": "sky",
       "title": "Cadillac's Herta handed Brazil practice outing to secure F1 super licence",
@@ -8,14 +136,6 @@
       "summary": "",
       "published": "2026-11-04T16:20:00+00:00",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-colton-herta_7392206.jpg?20261030195306"
-    },
-    {
-      "source": "sky",
-      "title": "Isak, Wirtz benched for Liverpool vs Fenerbahce LIVE!",
-      "link": "https://www.skysports.com/football/fenerbahce-vs-liverpool/live/577663",
-      "summary": "",
-      "published": "2026-11-04T16:15:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-liverpool-chelsea_7390278.jpg?20261028205303"
     },
     {
       "source": "bbc",
@@ -27,27 +147,11 @@
     },
     {
       "source": "sky",
-      "title": "Keeper defended after De Miguel's death - 'He would never intend to hurt anyone'",
-      "link": "https://www.skysports.com/football/news/12040/13608001/jesus-de-miguel-goalkeeper-jesus-owono-defended-by-fc-andorra-team-mate-after-tenerife-forwards-death",
-      "summary": "Jesus Owono's team-mate has insisted the FC Andorra goalkeeper would never intend to hurt a fellow player following the death of Jesus de Miguel.",
-      "published": "2026-11-04T15:35:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104154812"
-    },
-    {
-      "source": "sky",
-      "title": "Leicestershire's relegation confirmed as points deduction for 'poor' pitch stands",
+      "title": "Leicestershire's relegation stands as points deduction for 'poor' pitch upheld",
       "link": "https://www.skysports.com/cricket/news/12040/13607997/leicestershires-county-championship-relegation-confirmed-as-points-deduction-for-poor-pitch-upheld",
       "summary": "Leicestershire's relegation to County Championship Division Two has been confirmed after the club's points deduction for breaching pitch regulations was upheld.",
       "published": "2026-11-04T15:30:00+00:00",
       "image": "https://e1.365dm.com/26/09/1920x1080/skysports-leicestershire-cricket_7354095.png?20260916223225"
-    },
-    {
-      "source": "sky",
-      "title": "Chelli signs with Zuffa Boxing: 'I'm ready to fight anyone, anywhere'",
-      "link": "https://www.skysports.com/boxing/news/12040/13607917/zak-chelli-to-fight-on-sky-sports-from-classroom-to-the-ring-the-supply-teacher-ready-for-zuffa-boxing-bow",
-      "summary": "Zak Chelli has signed with Zuffa Boxing and will fight on Sky Sports.",
-      "published": "2026-11-04T15:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-zak-chelli-zuffa-boxing_7396833.jpg?20261104123909"
     },
     {
       "source": "sky",
@@ -67,14 +171,6 @@
     },
     {
       "source": "sky",
-      "title": "Wilder to fight Opetaia on Fury vs Joshua undercard",
-      "link": "https://www.skysports.com/boxing/news/12040/13607985/fury-vs-joshua-undercard-deontay-wilder-to-fight-jai-opetaia-in-heavyweight-bout-on-december-11-principality-stadium-bill",
-      "summary": "Deontay Wilder will fight Jai Opetaia on the undercard of Tyson Fury vs Anthony Joshua at the Principality Stadium in Cardiff on December 11.",
-      "published": "2026-11-04T15:10:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-deontay-wilder-jai-opetaia_7397024.jpg?20261104151944"
-    },
-    {
-      "source": "sky",
       "title": "Atherton: Lancashire did not handle Anderson release badly",
       "link": "https://www.skysports.com/cricket/news/12040/13607930/james-anderson-michael-atherton-says-lancashire-did-not-handle-bowlers-release-badly-but-should-they-have-extended-his-contract",
       "summary": "Michael Atherton sees no issue with Lancashire's handling of James Anderson's release from the county - but would have been tempted to hand the veteran seam bowler a new contract.",
@@ -83,83 +179,11 @@
     },
     {
       "source": "sky",
-      "title": "‘What a way to seal it!’ - British teen claims first WTA Tour win!",
-      "link": "https://www.skysports.com/watch/video/13607934/british-17-year-old-mika-stojsavljevic-claims-first-wta-tour-win",
-      "summary": "British 17-year-old Mika Stojsavljevic claimed her first WTA Tour win, after defeating former Australian Open winner Sofia Kenin.",
-      "published": "2026-11-04T13:05:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-stojsavljevic-mika_7396890.jpg?20261104131856"
-    },
-    {
-      "source": "sky",
-      "title": "McIlroy backs claims LIV wanted to 'destroy' DP World Tour",
-      "link": "https://www.skysports.com/watch/video/13607931/rory-mcilroy-backs-ceo-guy-kennings-claims-liv-golf-wanted-to-destroy-dp-world-tour",
-      "summary": "Rory McIlroy backs DP World Tour CEO Guy Kinnings' comments saying that LIV Golf started with the intention of 'destroying' the former, as he welcomes a reset in men's golf.",
-      "published": "2026-11-04T13:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-golf-dp-world-tour_7396873.jpg?20261104130613"
-    },
-    {
-      "source": "sky",
-      "title": "Leclerc to arrive late to Brazil after birth of child",
-      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "title": "Haaland nets Man City winner in five-goal thriller at RB Leipzig LIVE!",
+      "link": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/live/577666",
       "summary": "",
-      "published": "2026-11-04T12:50:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-charles-leclerc_7396842.jpg?20261104124351"
-    },
-    {
-      "source": "sky",
-      "title": "Liverpool latest: Riise's thunderbolt revisited 25 years on",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": "2026-11-04T12:38:00+00:00",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "source": "sky",
-      "title": "Do Ferrari need to impose repercussions after latest Hamilton-Leclerc clash?",
-      "link": "https://www.skysports.com/f1/news/12040/13607857/sao-paulo-gp-do-ferrari-need-to-impose-repercussions-after-latest-lewis-hamilton-charles-leclerc-incident",
-      "summary": "Sky Sports F1's Bernie Collins has suggested Ferrari should introduce repercussions rule to the team after Lewis Hamilton and Charles Leclerc's contentious incident in Mexico.",
-      "published": "2026-11-04T12:30:00+00:00",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-charles-leclerc-lewis-hamilton_7263572.jpg?20260602111826"
-    },
-    {
-      "source": "sky",
-      "title": "British teenager Stojsavljevic earns first WTA Tour win after late inclusion",
-      "link": "https://www.skysports.com/tennis/news/12040/13607909/mika-stojsavljevic-british-teenager-earns-first-wta-tour-win-beating-sofia-kenin-in-hong-kong-after-only-an-hours-notice",
-      "summary": "British teenager Mika Stojsavljevic upset 2020 Australian Open champion Sofia Kenin for her first win on the main WTA Tour - despite only finding out she was playing an hour before.",
-      "published": "2026-11-04T12:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mika-stojsavljevic_7396806.jpg?20261104122708"
-    },
-    {
-      "source": "sky",
-      "title": "Nadal appointed to Real Madrid board",
-      "link": "https://www.skysports.com/tennis/news/12040/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
-      "summary": "Real Madrid have appointed Rafael Nadal to the club's board of directors.",
-      "published": "2026-11-04T12:06:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rafael-nadal_7396792.jpg?20261104121218"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd latest: Baleba injured, Lacey in? Pick your team to face Aston Villa",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": "2026-11-04T11:55:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
-    },
-    {
-      "source": "sky",
-      "title": "Can Parker roll back the years and be a success at West Ham?",
-      "link": "https://www.skysports.com/football/news/12040/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again",
-      "summary": "As soon as news of Nuno Espirito Santo's departure was announced, only one name seemed to make sense for West Ham.",
-      "published": "2026-11-04T09:40:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-parker-west-ham_7395895.jpg?20261103152611"
-    },
-    {
-      "source": "sky",
-      "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-      "link": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-      "summary": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
-      "published": "2026-11-04T09:28:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-jj-gabriel-man-utd_7369112.jpg?20261005182930"
+      "published": "2026-11-04T09:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-erling-haaland_7397346.jpg?20261104205221"
     },
     {
       "source": "bbc",
@@ -458,14 +482,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9b/live/25a3cf10-d2d7-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "source": "guardian",
-      "title": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
-      "link": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
-      "summary": "Teenager was maybe harshly sent off in the Carabao Cup tie but his reaction was a mistake he will learn from, while his manager might also have regretsMikel Arteta’s reaction said it all. As Max Dowman trudged towards the touchline after becoming the youngest player sent off in a League Cup match at 16 years and 300 days, the Arsenal manager could not help himself.Arms folded across his chest like",
-      "published": "2026-10-28T13:16:53+00:00",
-      "image": "https://i.guim.co.uk/img/media/ba1aa4092faeca168aa594bc752930fbba81d1db/312_0_3551_2841/master/3551.jpg?width=140&quality=85&auto=format&fit=max&s=b37dfc3c4e30da4615da0ed24f6862e9"
-    },
-    {
       "source": "bbc",
       "title": "Arsenal to appeal against Dowman red card",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
@@ -496,22 +512,6 @@
       "summary": "Fleetwood Town manager Matt Lawlor was delighted after knocking Arsenal out of the EFL Cup.",
       "published": "2026-10-28T08:58:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaff/live/783006d0-d2ab-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "source": "bbc",
-      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
-      "published": "2026-10-28T00:34:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a4/live/09aca6f0-d2a6-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "Prendergast fit for Ireland's clash with Argentina on Friday",
-      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13604349/nations-championship-2026-latest-news-and-video-from-northern-hemisphere-series-with-england-ireland-scotland-wales-in-action",
-      "summary": "",
-      "published": "2026-10-27T12:07:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sam-prendergast_7396549.jpg?20261104071059"
     }
   ]
 }
