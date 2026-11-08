@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-11-08T03:55:17.275164+00:00",
+  "lastUpdated": "2026-11-08T10:59:20.352192+00:00",
   "articles": [
+    {
+      "source": "sky",
+      "title": "McIlroy, Hatton chasing Rahm in Abu Dhabi thriller LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13609616/abu-dhabi-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-jon-rahm-tyrrell-hatton-chase-victory",
+      "summary": "",
+      "published": "2026-11-08T10:30:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-golf-rory-mcilroy_7400752.jpg?20261108095847"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Carrick given no assurances over future beyond Villa match",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-08T10:24:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "English hopes fade as Pelaez hits hole-in-one en route to title in China",
+      "link": "https://www.skysports.com/golf/news/12040/13609617/aramco-china-championship-mimi-rhodes-and-fellow-english-players-miss-out-on-title-as-spains-ana-pelaez-storms-to-victory",
+      "summary": "England's Mimi Rhodes, Charlotte Heath and Annabell Fuller saw their hopes fade on the last day of the Aramco China Championship as Spain's Ana Pelaez stormed to her second Ladies European Tour title with a nine-under round that included a hole-in-one.",
+      "published": "2026-11-08T09:30:00+00:00",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mimi-rhodes-golf_7310082.jpg?20261108092512"
+    },
+    {
+      "source": "sky",
+      "title": "Man City latest:  Maresca hopeful international break can help ailing City",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-08T09:07:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+    },
+    {
+      "source": "sky",
+      "title": "Seventeen-year-old shows off INCREDIBLE fielding during WBBL game!",
+      "link": "https://www.skysports.com/watch/video/13609649/seventeen-year-old-caoimhe-bray-shows-off-incredible-fielding-during-wbbl-game",
+      "summary": "Sydney Sixers' 17-year old Caoimhe Bray produced an incredible piece of fielding during her side's WBBL match against Sydney Thunder.",
+      "published": "2026-11-08T09:01:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-g-d_7400738.jpg?20261108090934"
+    },
+    {
+      "source": "sky",
+      "title": "Australia set up fifth straight final vs New Zealand after overcoming Fiji",
+      "link": "https://www.skysports.com/rugby-league/australia-vs-fiji-women/report/64248",
+      "summary": "Defending champions Australia set up a fifth consecutive Women's Rugby League World Cup final against New Zealand after coming from behind to beat a spirited Fiji in Sydney.",
+      "published": "2026-11-08T08:40:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-abbi-church-australia-women_7400730.jpg?20261108082441"
+    },
+    {
+      "source": "sky",
+      "title": "Khawaja: I haven't 'thrown anyone under the bus' with 'Sandpapergate' claims",
+      "link": "https://www.skysports.com/cricket/news/12040/13609615/australia-cricket-usman-khawaja-says-he-has-not-thrown-anyone-under-the-bus-with-claims-about-ball-tampering-scandal",
+      "summary": "Usman Khawaja insists he has not \"thrown anyone under the bus\" after excerpts from his autobiography claimed the entire Australia team were aware of the ball-tampering scheme on the tour of South Africa in 2018.",
+      "published": "2026-11-08T07:00:00+00:00",
+      "image": "https://e0.365dm.com/25/06/1920x1080/skysports-usman-khawaja-australia_6939077.jpg?20250626073038"
+    },
+    {
+      "source": "sky",
+      "title": "White: Billam-Smith was stopped too soon",
+      "link": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke",
+      "summary": "Chris Billam-Smith finished the fight on his feet, shaking his head in protest, when referee Lee Every halted him in the seventh round against Cheavon Clarke.",
+      "published": "2026-11-08T07:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400666.jpg?20261108004022"
+    },
+    {
+      "source": "sky",
+      "title": "Ali and Nicolson on a collision course?",
+      "link": "https://www.skysports.com/boxing/news/12040/13609513/ramla-ali-and-skye-nicolson-could-be-on-a-collision-course-if-they-win-their-world-title-fights-in-texas",
+      "summary": "Ramla Ali and Skye Nicolson could meet in a unification contest early next year if they both win their title fights, live on Sky Sports in the early hours of Monday morning.",
+      "published": "2026-11-08T07:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ramla-ali-mikiah-kreps_7400179.jpg?20261107165640"
+    },
     {
       "source": "bbc",
       "title": "Arsenal should have been awarded penalty against Hull - Cann",
@@ -27,14 +99,6 @@
     },
     {
       "source": "sky",
-      "title": "Bentley floors Mosley Jr and wins classy points victory",
-      "link": "https://www.skysports.com/watch/video/13609591/denzel-bentley-floors-shane-mosley-jr-and-wins-classy-points-victory",
-      "summary": "Denzel Bentley landed a big right hand to floor Shane Mosley Jr in the second round before boxing to an impressive points victory.",
-      "published": "2026-11-07T22:29:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-bentley-mosley-jr_7400629.jpg?20261107224839"
-    },
-    {
-      "source": "sky",
       "title": "'Very disappointed' Russell says Mercedes error cost him Sao Paulo GP pole",
       "link": "https://www.skysports.com/f1/news/12040/13609204/george-russell-very-disappointed-mercedes-driver-says-team-error-cost-him-sao-paulo-gp-pole-in-chaotic-wet-qualifying",
       "summary": "George Russell said he was \"really disappointed\" as he insisted a \"misjudgement\" by his Mercedes team had cost him pole position for the Sao Paulo Grand Prix.",
@@ -43,75 +107,11 @@
     },
     {
       "source": "sky",
-      "title": "'We squashed it' - Hamilton reveals details of talks with Leclerc after fall out",
-      "link": "https://www.skysports.com/f1/news/12040/13609569/lewis-hamilton-reveals-details-of-talks-with-ferrari-team-mate-charles-leclerc-in-brazil-after-mexico-fall-out",
-      "summary": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" their incident at the Mexico City Grand Prix after holding talks in Brazil.",
-      "published": "2026-11-07T22:10:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-lewis-hamilton_7400579.jpg?20261107220135"
-    },
-    {
-      "source": "sky",
-      "title": "Clarke hands Billam-Smith first stoppage loss in stunning upset win",
+      "title": "Clarke claims stunning upset win over Billam-Smith",
       "link": "https://www.skysports.com/boxing/news/12040/13609448/cheavon-clarke-hands-chris-billam-smith-a-first-stoppage-loss-for-a-stunning-upset-win-over-former-world-champion",
       "summary": "Cheavon Clarke scored a stunning stoppage win over Chris Billam-Smith at the Copper Box Arena in London.",
       "published": "2026-11-07T22:00:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400641.jpg?20261107230117"
-    },
-    {
-      "source": "sky",
-      "title": "Rangers end winless away run with comfortable victory at St Mirren",
-      "link": "https://www.skysports.com/football/st-mirren-vs-rangers/report/558409",
-      "summary": "Rangers moved one point behind Scottish Premiership leaders Celtic thanks to goals from Ryan Naderi and Dan Neil in a 2-0 win over St Mirren.",
-      "published": "2026-11-07T21:50:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rangers-naderi-scottish-premiership_7400583.jpg?20261107220209"
-    },
-    {
-      "source": "sky",
-      "title": "Three HUGE knockdowns! Vanhouter floors Balaz inside two minutes",
-      "link": "https://www.skysports.com/watch/video/13609567/three-huge-knockdowns-damazion-vanhouter-floors-ivan-balaz-inside-two-minutes",
-      "summary": "Da'Mazion Vanhouter floors Ivan Balaz inside two minutes at Zuffa Boxing 12.",
-      "published": "2026-11-07T21:26:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-damazion-vanhoute_7400563.jpg?20261107212925"
-    },
-    {
-      "source": "sky",
-      "title": "'I expect a battle with Kimi' - Elated Norris ready for a clash with Merc!",
-      "link": "https://www.skysports.com/watch/video/13609565/sao-paulo-i-expect-a-battle-with-kimi-antonelli-elated-lano-norris-ready-for-a-clash-with-mercedes",
-      "summary": "Lando Norris reacted to claiming pole position for the Sao Paulo Grand Prix.",
-      "published": "2026-11-07T21:16:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-formula-one-lando-norris_7400564.jpg?20261107213015"
-    },
-    {
-      "source": "sky",
-      "title": "Sao Paulo Grand Prix - Qualifying Highlights",
-      "link": "https://www.skysports.com/watch/video/13609562/sao-paulo-grand-prix-qualifying-highlights",
-      "summary": "Highlights from qualifying for the 2026  Grand Prix.",
-      "published": "2026-11-07T21:10:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sao-paulo-f1_7400552.jpg?20261107211214"
-    },
-    {
-      "source": "sky",
-      "title": "Hickey stops Massenaux... but was it too soon?",
-      "link": "https://www.skysports.com/watch/video/13609560/sam-hickey-stops-amaury-massenaux-but-was-it-too-soon",
-      "summary": "Sam Hickey stopped Amaury Massenaux at Zuffa Boxing 12, but did the referee stop it too soon?",
-      "published": "2026-11-07T21:07:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-sam-hickey-boxing_7400547.jpg?20261107210925"
-    },
-    {
-      "source": "sky",
-      "title": "'A different Noni?' Madueke finding a new level for Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
-      "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull. His frustration continued to show even after the final whistle.",
-      "published": "2026-11-07T20:55:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-noni-madueke-arsenal_7400541.jpg?20261107205850"
-    },
-    {
-      "source": "sky",
-      "title": "Camara crashes on F1 debut, stopping Q2 session short!",
-      "link": "https://www.skysports.com/watch/video/13609538/sao-paulo-rafael-camara-crashes-on-f1-debut-stopping-q2-session-short",
-      "summary": "Rafael Camara ended his F1 debut in the barriers during Qualifying at the Sao Paulo Grand Prix.",
-      "published": "2026-11-07T20:09:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-formula-one-camara_7400496.jpg?20261107201518"
     },
     {
       "source": "bbc",
@@ -123,19 +123,11 @@
     },
     {
       "source": "sky",
-      "title": "Norris claims Sao Paulo GP pole after treacherous rain-hit qualifying",
+      "title": "Norris claims Sao Paulo GP pole",
       "link": "https://www.skysports.com/f1/news/12040/13609197/sao-paulo-gp-qualifying-lando-norris-claims-rain-hit-pole-in-wild-conditions-with-lewis-hamilton-max-verstappen-to-start-at-back",
       "summary": "Lando Norris claimed pole position after a hugely-challenging Sao Paulo Grand Prix qualifying in treacherous wet conditions, for a race that will see Lewis Hamilton and Max Verstappen start at the back of the grid.",
       "published": "2026-11-07T19:00:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7400534.jpg?20261107204756"
-    },
-    {
-      "source": "sky",
-      "title": "Bentley holds on for close decision win after fast start vs Mosley Jr",
-      "link": "https://www.skysports.com/boxing/news/12040/13609385/denzel-bentley-bowls-over-shane-mosley-jr-but-holds-on-for-close-but-unanimous-decision-victory-at-the-copper-box",
-      "summary": "Denzel Bentley knocked Shane Mosley Jr down heavily early, before being made to eke out a unanimous decision win at the Copper Box Arena.",
-      "published": "2026-11-07T19:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-denzel-bentley-shane-mosley-jr_7400589.jpg?20261107221404"
     },
     {
       "source": "bbc",
@@ -144,30 +136,6 @@
       "summary": "Arsenal fan Watson praises Hull City's stubbornness in the 1-0 win at the Emirates to move further clear at the top of the Premier League table.",
       "published": "2026-11-07T18:32:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e3b/live/4e7d7800-dad9-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "A SICKENER! Dzambekov KOs Parker with vicious body shot",
-      "link": "https://www.skysports.com/watch/video/13609505/a-sickener-umar-dzambekov-kos-zach-parker-with-vicious-body-shot",
-      "summary": "Umar Dzambekov sent a warning to the light heavyweight division as he chopped down Zach Parker with a body shot in the fourth round.",
-      "published": "2026-11-07T18:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-zach-parker-boxing_7400415.jpg?20261107184450"
-    },
-    {
-      "source": "sky",
-      "title": "Heavy rain causes chaos before Qualifying is red flagged in Sao Paulo!",
-      "link": "https://www.skysports.com/watch/video/13609498/sao-paulo-gp-heavy-rain-red-flags-qualifying-session",
-      "summary": "Torrential rain brings out the red flag a minute after the Qualifying session begins in Sao Paulo.",
-      "published": "2026-11-07T18:20:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-formula-one-brazil_7400392.jpg?20261107182903"
-    },
-    {
-      "source": "sky",
-      "title": "Alcaraz sets up US Open rematch with Shelton at Paris Masters",
-      "link": "https://www.skysports.com/tennis/news/12040/13609492/carlos-alcaraz-storms-to-atp-paris-masters-final-to-set-up-us-open-rematch-with-ben-shelton",
-      "summary": "Carlos Alcaraz cruised through to his first ATP Paris Masters final, defeating Casper Ruud in two sets.",
-      "published": "2026-11-07T18:11:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-paris-masters_7400395.jpg?20261107182948"
     },
     {
       "source": "bbc",
@@ -195,11 +163,11 @@
     },
     {
       "source": "sky",
-      "title": "Billam-Smith calls for fourth Clarke fight after shock loss",
-      "link": "https://www.skysports.com/boxing/live-blog/12040/13609321/chris-billam-smith-vs-cheavon-clarke-boxing-fight-night-updates-results-stream-and-highlights-from-london",
-      "summary": "",
-      "published": "2026-11-07T16:11:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400634.jpg?20261107225415"
+      "title": "What's gone so wrong so quickly at Crystal Palace?",
+      "link": "https://www.skysports.com/football/news/12040/13607192/pierre-sage-under-pressure-how-crystal-palace-and-last-seasons-ligue-1-manager-of-the-year-are-both-suffering",
+      "summary": "As Pierre Sage waited to receive the Coupe de France trophy as the victorious manager of RC Lens last May, he turned to his staff and said: \"Do you realise where we are?\"",
+      "published": "2026-11-07T08:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7395914.jpg?20261103154515"
     },
     {
       "source": "guardian",
@@ -208,6 +176,30 @@
       "summary": "The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
       "published": "2026-11-06T23:09:22+00:00",
       "image": "https://i.guim.co.uk/img/media/dc0e13580f340b16850cb2a86796c3da7f4e42d0/395_325_2118_1693/master/2118.jpg?width=140&quality=85&auto=format&fit=max&s=3777b8d245daa83d72e50aff37d71245"
+    },
+    {
+      "source": "sky",
+      "title": "Madrid set for 'best in the world' as NFL returns to Spain",
+      "link": "https://www.skysports.com/nfl/news/12040/13608982/nfl-madrid-cincinnati-bengals-head-coach-zac-taylor-on-joe-burrow-jamarr-chase-tee-higgins-and-bijan-robinson",
+      "summary": "The 'best passer in the world' might be coming to a Madrid museum near you this weekend. That, of course, is according to Cincinnati Bengals head coach Zac Taylor.&#160;",
+      "published": "2026-11-06T19:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-joe-burrow-cincinnati-bengals_7399361.jpg?20261106182404"
+    },
+    {
+      "source": "sky",
+      "title": "Who will win season-ending WTA Finals in Indian Wells?",
+      "link": "https://www.skysports.com/tennis/news/12040/13608789/wta-finals-in-indian-wells-whos-winning-the-end-of-year-extravaganza-elena-rybakina-aryna-sabalenka-and-coco-gauff-are-all-in-the-frame",
+      "summary": "Marion Bartoli, Madison Keys and Laura Robson give their predictions ahead of the season-ending WTA Finals in Indian Wells.",
+      "published": "2026-11-06T13:23:00+00:00",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-coco-gauff-tennis_7346548.jpg?20261108075346"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd's next generation can rescue Carrick",
+      "link": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
+      "summary": "Being at Old Trafford on Tuesday night was quite incredible.",
+      "published": "2026-11-06T09:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-reporter-notebook_7398217.jpg?20261105160829"
     },
     {
       "source": "guardian",
@@ -219,11 +211,11 @@
     },
     {
       "source": "sky",
-      "title": "West Ham latest: Parker 'bitterly disappointed' after Blackburn defeat",
-      "link": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "summary": "",
-      "published": "2026-11-05T15:45:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
+      "title": "PL Predictions: Emery's Villa to inflict more misery on Carrick and Man Utd",
+      "link": "https://www.skysports.com/football/news/12040/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
+      "published": "2026-11-05T17:40:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
     },
     {
       "source": "guardian",
@@ -280,6 +272,14 @@
       "summary": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
       "published": "2026-11-03T15:07:49+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b088/live/3590cf00-d7ae-11f1-9092-abeae3cab3b1.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Liverpool's unwanted record highlights creativity issue",
+      "link": "https://www.skysports.com/football/news/12040/13607467/liverpools-unwanted-record-against-arsenal-shows-creativity-problem-under-andoni-iraola-between-the-lines",
+      "summary": "Liverpool set an unwanted record against Arsenal as they failed to register a shot on target for the first time in 442 Premier League home games, dating back to when records began in 2003.",
+      "published": "2026-11-03T12:55:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-florian-wirtz-liverpool_7395735.png?20261103125846"
     },
     {
       "source": "bbc",
