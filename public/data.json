@@ -1,13 +1,125 @@
 {
-  "lastUpdated": "2026-11-08T10:59:20.352192+00:00",
+  "lastUpdated": "2026-11-08T16:58:10.651409+00:00",
   "articles": [
     {
       "source": "sky",
-      "title": "McIlroy, Hatton chasing Rahm in Abu Dhabi thriller LIVE!",
-      "link": "https://www.skysports.com/golf/live-blog/12040/13609616/abu-dhabi-championship-live-latest-scores-updates-highlights-as-rory-mcilroy-jon-rahm-tyrrell-hatton-chase-victory",
+      "title": "Alcaraz exacts revenge on Shelton to win Paris Masters",
+      "link": "https://www.skysports.com/tennis/news/12040/13609753/atp-paris-masters-carlos-alcaraz-beats-ben-shelton-to-claim-fifth-title-of-2026-after-avenging-us-open-defeat",
+      "summary": "Carlos Alcaraz avenged his US Open defeat to Ben Shelton with a 7-6(7-5) 7-5 victory, claiming his maiden Paris Masters title in straight sets.",
+      "published": "2026-11-08T16:33:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-alcaraz-shelton_7401039.jpg?20261108153739"
+    },
+    {
+      "source": "sky",
+      "title": "Bournemouth claim eighth win in a row despite late Ipswich scare",
+      "link": "https://www.skysports.com/watch/video/13609784/ipswich-town-1-2-bournemouth-premier-league-highlights",
+      "summary": "FREE TO WATCH: Highlights from Ipswich Town&#8217;s match against Bournemouth in the Premier League.",
+      "published": "2026-11-08T16:06:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ipswich-hlts_7401097.jpg?20261108160923"
+    },
+    {
+      "source": "sky",
+      "title": "Bournemouth win at Ipswich to record eight straight victories",
+      "link": "https://www.skysports.com/football/ipswich-town-vs-bournemouth/report/559539",
+      "summary": "Bournemouth made it eight wins in a row in all competitions as they continued their charge up the Premier League table with a 2-1 win at Ipswich.",
+      "published": "2026-11-08T16:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-evanilson-bournemouth_7400911.jpg?20261108141439"
+    },
+    {
+      "source": "sky",
+      "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
+      "link": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
+      "summary": "Chelsea put in a tepid performance as Sunderland lifted themselves off the bottom of the Premier League table with a 1-0 win that eases the pressure on under-fire manager Regis Le Bris.",
+      "published": "2026-11-08T16:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-enzo-le-fee-sunderland_7400955.jpg?20261108144350"
+    },
+    {
+      "source": "sky",
+      "title": "Brighton beat 10-man Brentford to leapfrog Man City into second",
+      "link": "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/report/559535",
+      "summary": "Brighton leapfrogged Man City into second place in the Premier League table with a 2-0 win over 10-man Brentford.",
+      "published": "2026-11-08T16:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-maxim-de-cuyper_7400969.jpg?20261108145113"
+    },
+    {
+      "source": "sky",
+      "title": "Sage in big trouble as Palace hit rock-bottom after defeat to Liverpool",
+      "link": "https://www.skysports.com/football/crystal-palace-vs-liverpool/report/559536",
+      "summary": "Liverpool beat Crystal Palace 3-1 at Selhurst Park to inflict a fourth consecutive Premier League defeat on the hosts and leave Pierre Sage in a perilous position with his side bottom of the table.",
+      "published": "2026-11-08T15:50:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-alexander-isak-liverpool_7401069.jpg?20261108160204"
+    },
+    {
+      "source": "sky",
+      "title": "Sao Paulo GP: Antonelli survives big scare ahead of 5pm start LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13608639/f1-sao-paulo-gp-live-race-updates-results-stream-and-highlights-from-20th-round-of-2026-formula-1-season-in-brazil-at-interlagos",
+      "summary": "Follow live updates and watch the best video from the Sao Paulo Grand Prix in Brazil. Watch live on Sky Sports F1",
+      "published": "2026-11-08T15:20:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-grass_7401136.png?20261108162539"
+    },
+    {
+      "source": "sky",
+      "title": "Wirtz ends 12-game PL goal drought to double Liverpool’s lead over Palace",
+      "link": "https://www.skysports.com/watch/video/13609757/goal-f-wirtz-54-crystal-palace-0-2-liverpool",
+      "summary": "Wirtz ends 12-game PL goal drought to double Liverpool&#8217;s lead over Palace.",
+      "published": "2026-11-08T15:19:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-wirtz-goal_7401014.jpg?20261108152234"
+    },
+    {
+      "source": "sky",
+      "title": "Russo shines at Anfield, United snatch late win - WSL round-up",
+      "link": "https://www.skysports.com/football/news/12040/13608979/wsl-liverpool-1-2-arsenal-aston-villa-0-1-man-utd-8211-alessia-russo-double-inspires-gunners-as-julia-zigiotti-olme-earns-late-united-win",
+      "summary": "Arsenal claimed a hard-fought 2-1 victory over Liverpool at Anfield as Alessia Russo's double secured three important points for Renee Slegers' side, while Manchester United left it late to beat Aston Villa 1-0",
+      "published": "2026-11-08T15:07:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alessia-russo-arsenal_7400827.jpg?20261108150936"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd respond after Aston Villa score TWICE in first four mins LIVE!",
+      "link": "https://www.skysports.com/football/manchester-united-vs-aston-villa/live/559541",
       "summary": "",
-      "published": "2026-11-08T10:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-golf-rory-mcilroy_7400752.jpg?20261108095847"
+      "published": "2026-11-08T15:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alysson-aston-villa_7401165.jpg?20261108163754"
+    },
+    {
+      "source": "sky",
+      "title": "Mac Allister heads home Szoboszlai's free kick to give Liverpool opener",
+      "link": "https://www.skysports.com/watch/video/13609739/goal-a-mac-allister-crystal-palace-0-1-liverpool",
+      "summary": "Mac Allister heads home Szoboszlai's free kick to give Liverpool opener.",
+      "published": "2026-11-08T14:46:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-goal-liverpool_7400965.jpg?20261108144949"
+    },
+    {
+      "source": "sky",
+      "title": "Scales puts Celtic ahead after early opener vs Kilmarnock ruled out LIVE!",
+      "link": "https://www.skysports.com/football/celtic-vs-kilmarnock/live/558406",
+      "summary": "",
+      "published": "2026-11-08T14:30:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-celtic-liam-scales_7401154.jpg?20261108163116"
+    },
+    {
+      "source": "sky",
+      "title": "Scot Prem latest: Aberdeen won't rush Robinson decision",
+      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "summary": "",
+      "published": "2026-11-08T12:00:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-robinson-stephen_7390881.jpg?20261029130023"
+    },
+    {
+      "source": "sky",
+      "title": "Australia reach World Cup final as Samoa fume at decisions",
+      "link": "https://www.skysports.com/rugby-league/australia-vs-samoa/report/63154",
+      "summary": "Australia are one win away from a record-extending 13th men's Rugby League World Cup title after beating Samoa 44-12 in a fractious clash to secure a showdown with New Zealand in next weekend's Brisbane final.",
+      "published": "2026-11-08T11:30:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-australia-mens-2026_7400767.jpg?20261108111505"
+    },
+    {
+      "source": "sky",
+      "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-08T10:55:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
     },
     {
       "source": "sky",
@@ -18,116 +130,12 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
     },
     {
-      "source": "sky",
-      "title": "English hopes fade as Pelaez hits hole-in-one en route to title in China",
-      "link": "https://www.skysports.com/golf/news/12040/13609617/aramco-china-championship-mimi-rhodes-and-fellow-english-players-miss-out-on-title-as-spains-ana-pelaez-storms-to-victory",
-      "summary": "England's Mimi Rhodes, Charlotte Heath and Annabell Fuller saw their hopes fade on the last day of the Aramco China Championship as Spain's Ana Pelaez stormed to her second Ladies European Tour title with a nine-under round that included a hole-in-one.",
-      "published": "2026-11-08T09:30:00+00:00",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-mimi-rhodes-golf_7310082.jpg?20261108092512"
-    },
-    {
-      "source": "sky",
-      "title": "Man City latest:  Maresca hopeful international break can help ailing City",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": "2026-11-08T09:07:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-    },
-    {
-      "source": "sky",
-      "title": "Seventeen-year-old shows off INCREDIBLE fielding during WBBL game!",
-      "link": "https://www.skysports.com/watch/video/13609649/seventeen-year-old-caoimhe-bray-shows-off-incredible-fielding-during-wbbl-game",
-      "summary": "Sydney Sixers' 17-year old Caoimhe Bray produced an incredible piece of fielding during her side's WBBL match against Sydney Thunder.",
-      "published": "2026-11-08T09:01:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-g-d_7400738.jpg?20261108090934"
-    },
-    {
-      "source": "sky",
-      "title": "Australia set up fifth straight final vs New Zealand after overcoming Fiji",
-      "link": "https://www.skysports.com/rugby-league/australia-vs-fiji-women/report/64248",
-      "summary": "Defending champions Australia set up a fifth consecutive Women's Rugby League World Cup final against New Zealand after coming from behind to beat a spirited Fiji in Sydney.",
-      "published": "2026-11-08T08:40:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-abbi-church-australia-women_7400730.jpg?20261108082441"
-    },
-    {
-      "source": "sky",
-      "title": "Khawaja: I haven't 'thrown anyone under the bus' with 'Sandpapergate' claims",
-      "link": "https://www.skysports.com/cricket/news/12040/13609615/australia-cricket-usman-khawaja-says-he-has-not-thrown-anyone-under-the-bus-with-claims-about-ball-tampering-scandal",
-      "summary": "Usman Khawaja insists he has not \"thrown anyone under the bus\" after excerpts from his autobiography claimed the entire Australia team were aware of the ball-tampering scheme on the tour of South Africa in 2018.",
-      "published": "2026-11-08T07:00:00+00:00",
-      "image": "https://e0.365dm.com/25/06/1920x1080/skysports-usman-khawaja-australia_6939077.jpg?20250626073038"
-    },
-    {
-      "source": "sky",
-      "title": "White: Billam-Smith was stopped too soon",
-      "link": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke",
-      "summary": "Chris Billam-Smith finished the fight on his feet, shaking his head in protest, when referee Lee Every halted him in the seventh round against Cheavon Clarke.",
-      "published": "2026-11-08T07:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400666.jpg?20261108004022"
-    },
-    {
-      "source": "sky",
-      "title": "Ali and Nicolson on a collision course?",
-      "link": "https://www.skysports.com/boxing/news/12040/13609513/ramla-ali-and-skye-nicolson-could-be-on-a-collision-course-if-they-win-their-world-title-fights-in-texas",
-      "summary": "Ramla Ali and Skye Nicolson could meet in a unification contest early next year if they both win their title fights, live on Sky Sports in the early hours of Monday morning.",
-      "published": "2026-11-08T07:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ramla-ali-mikiah-kreps_7400179.jpg?20261107165640"
-    },
-    {
-      "source": "bbc",
-      "title": "Arsenal should have been awarded penalty against Hull - Cann",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1-0 win over Hull City.",
-      "published": "2026-11-08T00:00:09+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/81888e60-dafc-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "Can Verstappen, Hamilton come from the back in Sao Paulo 'reverse grid' race?",
-      "link": "https://www.skysports.com/f1/news/12040/13609205/sao-paulo-gp-can-max-verstappen-lewis-hamilton-come-from-the-back-again-as-lando-norris-hopes-for-rain-to-fight-kimi-antonelli",
-      "summary": "A mixed up grid and rain on the forecast has set up the prospect of a thrilling Sao Paulo Grand Prix on Sunday.",
-      "published": "2026-11-07T23:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7400616.jpg?20261107223042"
-    },
-    {
-      "source": "sky",
-      "title": "Clarke STUNS Billam-Smith with sensational seventh-round stoppage",
-      "link": "https://www.skysports.com/watch/video/13609602/chev-clarke-stuns-chris-billam-smith-with-sensational-seventh-round-stoppage",
-      "summary": "Highlights of the Zuffa Boxing 12 cruiserweight main event between Chev Clarke and Chris Billam-Smith.",
-      "published": "2026-11-07T23:05:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400647.jpg?20261107231452"
-    },
-    {
-      "source": "sky",
-      "title": "'Very disappointed' Russell says Mercedes error cost him Sao Paulo GP pole",
-      "link": "https://www.skysports.com/f1/news/12040/13609204/george-russell-very-disappointed-mercedes-driver-says-team-error-cost-him-sao-paulo-gp-pole-in-chaotic-wet-qualifying",
-      "summary": "George Russell said he was \"really disappointed\" as he insisted a \"misjudgement\" by his Mercedes team had cost him pole position for the Sao Paulo Grand Prix.",
-      "published": "2026-11-07T22:20:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-george-russell-mercedes_7400598.jpg?20261107221827"
-    },
-    {
-      "source": "sky",
-      "title": "Clarke claims stunning upset win over Billam-Smith",
-      "link": "https://www.skysports.com/boxing/news/12040/13609448/cheavon-clarke-hands-chris-billam-smith-a-first-stoppage-loss-for-a-stunning-upset-win-over-former-world-champion",
-      "summary": "Cheavon Clarke scored a stunning stoppage win over Chris Billam-Smith at the Copper Box Arena in London.",
-      "published": "2026-11-07T22:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-chris-billam-smith_7400641.jpg?20261107230117"
-    },
-    {
       "source": "bbc",
       "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
       "published": "2026-11-07T19:34:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "Norris claims Sao Paulo GP pole",
-      "link": "https://www.skysports.com/f1/news/12040/13609197/sao-paulo-gp-qualifying-lando-norris-claims-rain-hit-pole-in-wild-conditions-with-lewis-hamilton-max-verstappen-to-start-at-back",
-      "summary": "Lando Norris claimed pole position after a hugely-challenging Sao Paulo Grand Prix qualifying in treacherous wet conditions, for a race that will see Lewis Hamilton and Max Verstappen start at the back of the grid.",
-      "published": "2026-11-07T19:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-lando-norris-mclaren_7400534.jpg?20261107204756"
     },
     {
       "source": "bbc",
@@ -138,12 +146,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e3b/live/4e7d7800-dad9-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "source": "sky",
+      "title": "England vs Australia LIVE! Pollock onto the WING to score twice for hosts",
+      "link": "https://www.skysports.com/rugby-union/live-blog/12040/13609499/england-vs-australia-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+      "summary": "",
+      "published": "2026-11-07T18:21:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pollock-england-rugby_7401161.jpg?20261108163611"
+    },
+    {
       "source": "bbc",
       "title": "Arsenal 1-0 Hull analysis: Win means penalty drama can be overlooked",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx24wz84no?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal showed their champion mentality on Saturday to keep coming at Hull despite initially struggling to create chances.",
       "published": "2026-11-07T17:39:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7597/live/114ef2d0-dad2-11f1-bda8-29fb69dbc026.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fd/live/6f8106b0-db66-11f1-a701-fddedf244c16.jpg"
     },
     {
       "source": "guardian",
@@ -179,27 +195,11 @@
     },
     {
       "source": "sky",
-      "title": "Madrid set for 'best in the world' as NFL returns to Spain",
-      "link": "https://www.skysports.com/nfl/news/12040/13608982/nfl-madrid-cincinnati-bengals-head-coach-zac-taylor-on-joe-burrow-jamarr-chase-tee-higgins-and-bijan-robinson",
-      "summary": "The 'best passer in the world' might be coming to a Madrid museum near you this weekend. That, of course, is according to Cincinnati Bengals head coach Zac Taylor.&#160;",
-      "published": "2026-11-06T19:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-joe-burrow-cincinnati-bengals_7399361.jpg?20261106182404"
-    },
-    {
-      "source": "sky",
-      "title": "Who will win season-ending WTA Finals in Indian Wells?",
-      "link": "https://www.skysports.com/tennis/news/12040/13608789/wta-finals-in-indian-wells-whos-winning-the-end-of-year-extravaganza-elena-rybakina-aryna-sabalenka-and-coco-gauff-are-all-in-the-frame",
-      "summary": "Marion Bartoli, Madison Keys and Laura Robson give their predictions ahead of the season-ending WTA Finals in Indian Wells.",
-      "published": "2026-11-06T13:23:00+00:00",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-coco-gauff-tennis_7346548.jpg?20261108075346"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd's next generation can rescue Carrick",
-      "link": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
-      "summary": "Being at Old Trafford on Tuesday night was quite incredible.",
-      "published": "2026-11-06T09:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-reporter-notebook_7398217.jpg?20261105160829"
+      "title": "WSL reaction as Russo double secures Arsenal win while Man Utd edge past Villa",
+      "link": "https://www.skysports.com/football/live-blog/12040/13608974/wsl-live-arsenal-man-utd-and-london-city-lionesses-score-updates-news-prediction-lineups-and-how-to-watch-or-stream",
+      "summary": "",
+      "published": "2026-11-06T17:14:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alessia-russo-arsenal_7400827.jpg?20261108150936"
     },
     {
       "source": "guardian",
@@ -208,14 +208,6 @@
       "summary": "Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v EmeryPremier League top scorersNothing better encapsulates the dysfunction that was Everton under Farhad Moshiri than the idea that an unknown vandal with a can of spray paint could influence the club’s managerial direction. “Pereira out, Lampard in” they daubed on a wall at Goodison Park",
       "published": "2026-11-06T00:01:37+00:00",
       "image": "https://i.guim.co.uk/img/media/ee7c2b03da707865b8025e1eacefffd085a6e9a1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ba9faaa1ea6a2f22c9760fc34d684fab"
-    },
-    {
-      "source": "sky",
-      "title": "PL Predictions: Emery's Villa to inflict more misery on Carrick and Man Utd",
-      "link": "https://www.skysports.com/football/news/12040/13607998/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
-      "published": "2026-11-05T17:40:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
     },
     {
       "source": "guardian",
@@ -512,6 +504,14 @@
       "summary": "Fleetwood Town beat Premier League champions Arsenal on penalties on Tuesday in the EFL Cup.",
       "published": "2026-10-28T21:35:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5946/live/7a6055b0-d2ea-11f1-8d86-83eebc838351.jpg"
+    },
+    {
+      "source": "bbc",
+      "title": "Max Dowman's 'harsh' red card a learning curve",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cr2ke3g3wp2wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal fan Watson believes Max Dowman shouldn't have been sent off during the Gunners' shock Carabao Cup defeat to Fleetwood Town.",
+      "published": "2026-10-28T13:57:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9b/live/25a3cf10-d2d7-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
