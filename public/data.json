@@ -1,17 +1,89 @@
 {
-  "lastUpdated": "2026-11-12T01:14:58.295018+00:00",
+  "lastUpdated": "2026-11-12T09:06:32.213598+00:00",
   "articles": [
     {
       "source": "sky",
-      "title": "Svitolina produces incredible comeback to edge Muchova",
-      "link": "https://www.skysports.com/watch/video/13611247/elina-svitolina-vs-karolina-muchova-wta-finals-highlights",
-      "summary": "Highlights of Elina Svitolina against Karolina Muchova from the WTA Finals.",
-      "published": "2026-11-11T22:40:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tennis-highlights_7404437.jpg?20261111224314"
+      "title": "Explained: How McIlroy can win the Race to Dubai",
+      "link": "https://www.skysports.com/watch/video/13611316/explained-how-rory-mcilroy-can-win-the-race-to-dubai",
+      "summary": "Sky Sports' Jamie Weir explains how Rory McIlroy can win the DP World Tour's Race to Dubai for a record-equalling eighth time.",
+      "published": "2026-11-12T08:36:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-golf-explaine_7404598.jpg?20261112083932"
     },
     {
       "source": "sky",
-      "title": "Porter: PL darts format 'solid' as 'fresh concepts' loom and Smith enters the mix",
+      "title": "Hatton makes fast start as McIlroy chases Race to Dubai win LIVE!",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13611295/dp-world-tour-championship-first-round-live-latest-scores-highlights-as-rory-mcilroy-chases-race-to-dubai-title",
+      "summary": "",
+      "published": "2026-11-12T08:00:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7333094.jpg?20260827203403"
+    },
+    {
+      "source": "sky",
+      "title": "Why have Man Utd only had two 'successful' managers?",
+      "link": "https://www.skysports.com/football/story-telling/12040/13610897/why-have-man-utd-only-had-two-successful-managers",
+      "summary": "",
+      "published": "2026-11-12T08:00:00+00:00",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-manchester-united_7236055.jpg?20261102093921"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd latest: Carrick reports for work as Wilcox & Berrada return from Monaco",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-12T08:00:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "source": "sky",
+      "title": "Age-old rivalry bookends RLWC but will it end 18 years of supremacy?",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13610091/australia-vs-new-zealand-age-old-rivalry-bookends-rugby-league-world-cup-but-will-it-end-18-years-of-supremacy",
+      "summary": "An age-old rivalry will bookend the Rugby League World Cup 2026 in the latest symbol that rugby league worldwide has grown but, ultimately, the contenders are still just contenders and the favourites remain just that.",
+      "published": "2026-11-12T07:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rugby-league-rugby-league-world-cup_7402009.jpg?20261111161013"
+    },
+    {
+      "source": "sky",
+      "title": "Darts star Sheldon on brilliant Beau and the Littler effect hitting Ireland",
+      "link": "https://www.skysports.com/darts/news/12040/13605780/darts-player-katie-sheldon-irish-ace-on-brilliant-beau-greaves-and-how-littler-littler-has-inspired-a-boom-in-ireland",
+      "summary": "Katie Sheldon - nicknamed 'The Dublin Diamond' - is a pioneer of women's darts in Ireland at the tender age of 22.",
+      "published": "2026-11-12T07:00:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-katie-sheldon-darts_7392055.jpg?20261030170738"
+    },
+    {
+      "source": "sky",
+      "title": "Cummins to address Khawaja 'Sandpapergate' claims on Friday",
+      "link": "https://www.skysports.com/cricket/news/12040/13611274/sandpapergate-australia-captain-pat-cummins-to-address-usman-khawaja-claims-on-friday",
+      "summary": "Australia captain Pat Cummins has called a press conference for Friday to have his say on 'Sandpapergate' after former team-mate Usman Khawaja's explosive claims that the entire dressing room knew about the ball-tampering scheme that took place on the tour of South Africa in 2018.",
+      "published": "2026-11-12T07:00:00+00:00",
+      "image": "https://e0.365dm.com/24/07/1920x1080/skysports-pat-cummins-australia_6626552.jpg?20261112065507"
+    },
+    {
+      "source": "sky",
+      "title": "Has Lawson saved his 2027 F1 seat with Brazil brilliance?",
+      "link": "https://www.skysports.com/f1/news/12040/13610200/liam-lawson-did-racing-bulls-driver-save-his-2027-f1-seat-with-superb-weekend-at-sao-paulo-gp-in-brazil",
+      "summary": "After a superb weekend at the Sao Paulo Grand Prix, Liam Lawson may have grabbed back control of his Racing Bulls seat.",
+      "published": "2026-11-12T06:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-liam-lawson-racing-bulls_7402180.jpg?20261109135243"
+    },
+    {
+      "source": "sky",
+      "title": "Hereford hosts six-race card",
+      "link": "https://www.skysports.com/racing/news/12040/13610641/today-on-sky-sports-racing-hereford-hosts-six-race-card",
+      "summary": "Don't miss six races from Hereford on Tuesday, live on Sky Sports Racing.",
+      "published": "2026-11-12T06:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-hereford-racing_7403685.png?20261111095132"
+    },
+    {
+      "source": "sky",
+      "title": "PDC chief reveals who we might see at Premier League Darts in 2027",
+      "link": "https://www.skysports.com/watch/video/13611250/smith-is-one-of-the-best-in-the-world-who-can-we-expect-to-see-at-pl-of-darts",
+      "summary": "Matt Porter updates darts fans on who they can expect to see in the new season of the Premier League of Darts.",
+      "published": "2026-11-11T22:47:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-d-s_7404453.jpg?20261111225417"
+    },
+    {
+      "source": "sky",
+      "title": "PDC to introduce 'fresh concepts' for Premier League Darts",
       "link": "https://www.skysports.com/darts/news/12040/13611224/premier-league-darts-pdcs-matt-porter-backs-solid-format-but-hints-at-fresh-concepts-as-ross-smith-enters-the-conversation",
       "summary": "The current Premier League Darts format is \"solid\" but \"fresh concepts\" are coming soon, says PDC chief executive Matt Porter.",
       "published": "2026-11-11T22:19:00+00:00",
@@ -35,27 +107,11 @@
     },
     {
       "source": "sky",
-      "title": "Man Utd latest: Pochettino set to remain in charge for USA's next two games",
-      "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "summary": "",
-      "published": "2026-11-11T21:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-    },
-    {
-      "source": "sky",
       "title": "Bakole and Vanhouter added to Fury vs Joshua undercard",
       "link": "https://www.skysports.com/boxing/live-blog/12040/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
       "summary": "",
       "published": "2026-11-11T20:58:00+00:00",
       "image": "https://e1.365dm.com/25/02/1920x1080/skysports-martin-bakole-joseph-parker_6835625.jpg?20250221141936"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton urges Israel to 'let the aid trucks in' to Gaza after Rafah border visit",
-      "link": "https://www.skysports.com/f1/news/12040/13611222/lewis-hamilton-ferraris-seven-time-f1-world-champion-urges-israel-to-let-the-aid-trucks-in-to-gaza-after-visit-to-rafah-border",
-      "summary": "Lewis Hamilton urged Israel to \"let the aid trucks in\" to Gaza after visiting the Rafah border.",
-      "published": "2026-11-11T20:48:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-gaza_7404385.jpg?20261111210852"
     },
     {
       "source": "sky",
@@ -67,59 +123,11 @@
     },
     {
       "source": "sky",
-      "title": "English duo Lewis, Schmidt, Scotland's Lumsden earn DP World Tour cards",
-      "link": "https://www.skysports.com/golf/news/12040/13611199/dp-world-tour-qualifying-school-englands-tom-lewis-and-ben-schmidt-and-scotlands-ryan-lumsden-earn-tour-cards",
-      "summary": "English duo Tom Lewis and&#160;Ben Schmidt,&#160;Ryder Cup Europe vice captain Edoardo Molinari and Scotland's&#160;Ryan Lumsden are among the 20 players to have secured DP World Tour cards for 2027 via Q-School.&#160;",
-      "published": "2026-11-11T19:25:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-tom-lewis-golf_7404345.jpg?20261111194353"
-    },
-    {
-      "source": "sky",
-      "title": "Australia dredge up past blunders as England learn from theirs",
-      "link": "https://www.skysports.com/cricket/news/12040/13610678/england-learn-from-ashes-mistakes-ahead-of-odis-vs-australia-side-engulfed-by-usman-khawaja-sandpapergate-claims",
-      "summary": "As Australia dredge up the past, England seem determined to learn from theirs.",
-      "published": "2026-11-11T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-jofra-archer-harry-brook_7403640.jpg?20261111084805"
-    },
-    {
-      "source": "sky",
-      "title": "Man Utd strike Pochettino agreement with Carrick set to depart",
-      "link": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
-      "summary": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to take over as head coach.",
-      "published": "2026-11-11T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7403861.png?20261111123427"
-    },
-    {
-      "source": "sky",
-      "title": "Kildunne: It's 'harsh' to say England dropped me - 'My role just changed'",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13611181/ellie-kildunne-its-harsh-to-say-england-dropped-me-after-canada-defeat-my-role-just-changed",
-      "summary": "England Red Roses World Cup winner Ellie Kildunne has said it is \"harsh\" to say she was dropped during their recent tour of North America, claiming she was just given a \"different role.\"",
-      "published": "2026-11-11T16:48:00+00:00",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-ellie-kildunne-england_7347029.jpg?20260910132235"
-    },
-    {
-      "source": "sky",
-      "title": "Jones: Japan aiming to 'make Twickenham sky fall in on distracted England'",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13611167/eddie-jones-former-england-coach-says-japan-aiming-to-make-twickenham-sky-fall-in-on-steve-borthwicks-distracted-charges",
-      "summary": "Former England head coach Eddie Jones has said his Japan side are aiming to \"make the Twickenham sky fall in on\" Steve Borthwick's \"distracted\" charges in Saturday's Nations Championship Test.",
-      "published": "2026-11-11T16:48:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-eddie-jones-rugby_7404255.jpg?20261111170829"
-    },
-    {
-      "source": "sky",
       "title": "WTA Finals: Sabalenka stunned by Andreeva as Svitolina battles back vs Muchova",
       "link": "https://www.skysports.com/tennis/news/12040/13611153/wta-finals-aryna-sabalenka-stunned-by-mirra-andreeva-as-elina-svitolina-battles-back-vs-karolina-muchova-at-indian-wells",
       "summary": "World No 3&#160;Mirra Andreeva booked her place &#8204;in the semi-finals of the WTA Finals with a stunning 6-4 6-0 win over Aryna &#8204;Sabalenka on Wednesday, while Elina Svitolina battled back to beat Karolina &#8203;Muchova and keep her hopes alive.",
       "published": "2026-11-11T16:01:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sabalenka-tennis_7404470.jpg?20261111235130"
-    },
-    {
-      "source": "sky",
-      "title": "'I didn't believe it!' - Dobey reveals playing online darts with Inter star",
-      "link": "https://www.skysports.com/watch/video/13611047/love-the-darts-podcast-dobey-reveals-playing-online-darts-with-inter-star",
-      "summary": "Speaking on Love The Darts, Chris Dobey discusses playing online darts with Marcelo Brozovic!",
-      "published": "2026-11-11T14:23:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-dobey-brozovic_7404050.jpg?20261111150630"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-sabalenka-tennis_7404470.jpg?20261112065215"
     },
     {
       "source": "sky",
@@ -130,28 +138,20 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
     },
     {
-      "source": "sky",
-      "title": "Hussain calls 'Sandpapergate' affair a 'complete mess'",
-      "link": "https://www.skysports.com/cricket/news/12040/13610871/sandpapergate-nasser-hussain-calls-australia-ball-tampering-scandal-a-complete-mess-after-usman-khawaja-claims",
-      "summary": "Sky Sports' Nasser Hussain has called the Australia 'Sandpapergate' affair and its subsequent explosive fallout a \"complete mess\".",
-      "published": "2026-11-11T12:15:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pat-cummins-usman-khawaja_7403826.jpg?20261111120407"
-    },
-    {
-      "source": "sky",
-      "title": "Alcaraz and Zverev headline the ATP Finals in Turin - live on Sky Sports",
-      "link": "https://www.skysports.com/tennis/news/12040/13610540/atp-finals-in-turin-format-players-schedule-prize-money-and-draw-as-carlos-alcaraz-leads-the-field-at-end-of-season-event",
-      "summary": "The climax to the 2025 ATP Tour season is upon us again with the season-ending ATP Finals set for Turin, live on Sky Sports Tennis.",
-      "published": "2026-11-11T12:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tennis-atp-finals_7403219.jpg?20261110150748"
-    },
-    {
       "source": "bbc",
       "title": "Shirt pull on Isak should have been penalty - panel",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
       "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
       "published": "2026-11-11T10:23:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+    },
+    {
+      "source": "sky",
+      "title": "Watch McIlroy's hilarious attempt at hitting the world's longest driver!",
+      "link": "https://www.skysports.com/watch/video/13610743/rory-mcilroys-hilarious-attempt-at-hitting-the-worlds-longest-driver",
+      "summary": "Watch Rory McIlroy's hilarious attempt at hitting the world's longest driver! Credit: @GOLF_com",
+      "published": "2026-11-10T18:29:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-golf-mcilroy_7403374.jpg?20261110183812"
     },
     {
       "source": "bbc",
