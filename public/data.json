@@ -1,13 +1,173 @@
 {
-  "lastUpdated": "2026-11-19T08:19:44.263161+00:00",
+  "lastUpdated": "2026-11-19T17:54:36.113475+00:00",
   "articles": [
     {
+      "source": "bbc",
+      "title": "'I tried my best' - Jaissle on attempt to keep Guimaraes",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy8ep46zgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Newcastle United manager Matthias Jaissle says he \"tried his best\" to keep Bruno Guimaraes at the club as the Brazilian returns to St James' Park on Saturday in an Arsenal shirt.",
+      "published": "2026-11-19T17:44:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e7/live/13329270-e43f-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "source": "sky",
-      "title": "Premier League Talking Points: Trial by Anfield as Poch begins Man Utd tenure",
-      "link": "https://www.skysports.com/football/news/12040/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
-      "summary": "The Premier League is back after the recent international break and the Sky Sports football writers dissect all the major talking points ahead of another busy weekend's action.",
-      "published": "2026-11-19T08:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league_7408877.jpg?20261117153906"
+      "title": "Brighton latest: Hurzeler not leaving for a long time, says Bloom",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": "2026-11-19T17:23:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "source": "sky",
+      "title": "Spurs latest: 'You only know a tenth of the truth,' says Frank",
+      "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-19T17:20:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+    },
+    {
+      "source": "sky",
+      "title": "Palace latest: Frank outlines three key areas of improvement ahead of first game",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": "2026-11-19T17:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
+    },
+    {
+      "source": "sky",
+      "title": "Woods given 'special opportunity' to design new course in Northern Ireland",
+      "link": "https://www.skysports.com/golf/news/12040/13614051/tiger-woods-former-world-no-1-hails-special-opportunity-to-design-new-course-in-northern-ireland-with-tgr-design",
+      "summary": "Tiger Woods has revealed he will design the first championship-standard links golf course built in Northern Ireland for more than 100 years, describing the project as a \"special opportunity\".",
+      "published": "2026-11-19T16:30:00+00:00",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-tiger-woods-golf_7201577.jpg?20260324061158"
+    },
+    {
+      "source": "sky",
+      "title": "Draper hires new coach to work alongside Murray for upcoming season",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis",
+      "summary": "",
+      "published": "2026-11-19T16:30:00+00:00",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-jack-draper-indian-wells-tennis-2026_7186560.jpg?20260309055553"
+    },
+    {
+      "source": "sky",
+      "title": "Golf leaderboards: LPGA Tour's CME Group Tour Championship and more",
+      "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "summary": "Latest golf scores and results from around the world, including the DP World Tour Championship, PGA Tour, LPGA Tour and more.",
+      "published": "2026-11-19T16:00:00+00:00",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-nelly-korda-golf_7311457.jpg?20260731193057"
+    },
+    {
+      "source": "sky",
+      "title": "WBC open door for Canelo to fight Hutchinson for light-heavy title",
+      "link": "https://www.skysports.com/boxing/news/12040/13613969/wbc-open-door-for-canelo-alvarez-to-challenge-britains-willy-hutchinson-for-light-heavyweight-world-championship",
+      "summary": "The door is open for Canelo Alvarez to move back to light-heavyweight and challenge new world champion Willy Hutchinson.",
+      "published": "2026-11-19T16:00:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-boxing-canelo_7393563.jpg?20261031232124"
+    },
+    {
+      "source": "sky",
+      "title": "Rose says Scott will start one of next three games - but not drawn on transfer links",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "summary": "",
+      "published": "2026-11-19T15:55:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020"
+    },
+    {
+      "source": "sky",
+      "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+      "link": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+      "summary": "Premier League clubs have voted to cover the legal costs of their five board members if they are sued individually by Manchester City's sponsors.",
+      "published": "2026-11-19T15:26:00+00:00",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954"
+    },
+    {
+      "source": "sky",
+      "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
+      "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "summary": "",
+      "published": "2026-11-19T15:20:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+    },
+    {
+      "source": "sky",
+      "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
+      "link": "https://www.skysports.com/football/news/12040/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
+      "summary": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
+      "published": "2026-11-19T15:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7410719.jpg?20261119164048"
+    },
+    {
+      "source": "sky",
+      "title": "Jones: Erasmus overstepped the mark with officials comments",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13614004/rassie-erasmus-eddie-jones-says-south-africa-coach-overstepped-the-mark-with-criticism-of-match-officials",
+      "summary": "Eddie Jones believes Rassie Erasmus \"overstepped the mark\" with his extraordinary criticisms of match officials that saw the South Africa coach receive a six-game ban.",
+      "published": "2026-11-19T14:54:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rugby-union-south-africa_7410657.jpg?20261119154005"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd announce financial results as revenue and wages rise",
+      "link": "https://www.skysports.com/football/news/12040/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
+      "summary": "Manchester United have released their latest financial results, with revenue and wages increasing.",
+      "published": "2026-11-19T14:35:00+00:00",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ratcliffe-berrada_7359340.jpg?20260923124639"
+    },
+    {
+      "source": "sky",
+      "title": "Joseph retains place as England change nine for All Blacks and drop Pollock",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13613915/nations-championship-will-joseph-retains-england-place-vs-new-zealands-all-blacks-as-henry-pollock-dropped-amid-nine-changes",
+      "summary": "Will Joseph has retained his place on the wing for England's Nations Championship Test against New Zealand on Saturday, with Fin Smith among those restored and Henry Pollock dropped to the bench.&#160;",
+      "published": "2026-11-19T14:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-will-joseph-england_7406606.jpg?20261115145321"
+    },
+    {
+      "source": "sky",
+      "title": "Nicholls breaks record for Jumps wins with Warwick triumph",
+      "link": "https://www.skysports.com/racing/news/12040/13613988/paul-nicholls-breaks-record-for-national-hunt-wins-after-surpassing-martin-pipes-all-time-tally-with-warwick-triumph",
+      "summary": "Paul Nicholls reflected on a &#8220;fantastic journey&#8221; after rewriting the record books by surpassing Martin Pipe&#8217;s all-time National Hunt tally for winners by a British trainer.",
+      "published": "2026-11-19T13:50:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-nicholls-racing_7410539.jpg?20261119140305"
+    },
+    {
+      "source": "sky",
+      "title": "Euro latest: Tchouameni pens new deal at Real Madrid",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "summary": "",
+      "published": "2026-11-19T12:30:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-aurelien-tchouameni_7410419.jpg?20261119124818"
+    },
+    {
+      "source": "sky",
+      "title": "Athers: Cummins won't resign as Australia Test captain",
+      "link": "https://www.skysports.com/cricket/news/12040/13613951/sandpapergate-michael-atherton-believes-pat-cummins-wont-resign-as-australia-captain-despite-cameron-bancrofts-explosive-claims",
+      "summary": "Michael Atherton does not believe Pat Cummins will resign as Australia's Test cricket captain \"immediately\" in the wake of Cameron Bancroft's explosive Sandpapergate revelations.",
+      "published": "2026-11-19T12:25:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-pat-cummins_7410551.jpg?20261119153032"
+    },
+    {
+      "source": "sky",
+      "title": "EFL latest: Evatt sacked hours after Happy Birthday message from Blackpool",
+      "link": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "summary": "",
+      "published": "2026-11-19T11:48:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ian-evatt-blackpool_7410754.jpg?20261119172041"
+    },
+    {
+      "source": "sky",
+      "title": "Harmer stars as South Africa beat Bangladesh",
+      "link": "https://www.skysports.com/cricket/news/12040/13613920/south-africa-vs-bangladesh-simon-harmer-stars-as-proteas-seal-nine-wicket-first-test-win",
+      "summary": "Simon Harmer ran through Bangladesh's tail and South Africa knocked off the 12 runs required to win the first Test by nine wickets on Thursday, taking a 1-0 lead in the teams' two-match series.",
+      "published": "2026-11-19T11:23:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-simon-harmer_7410362.jpg?20261119115656"
+    },
+    {
+      "source": "sky",
+      "title": "Sheehan starts at No 8 for Ireland vs Springboks as Prendergast plays",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13613908/nations-championship-dan-sheehan-starts-at-no-8-for-ireland-vs-south-africa-and-sam-prendergast-plays-after-avoiding-ban",
+      "summary": "Andy Farrell has named Dan Sheehan out of position at No 8 for Ireland's crunch Nations Championship Test against South Africa in Dublin on Saturday.&#160;",
+      "published": "2026-11-19T11:04:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-dan-sheehan-ireland_7410394.jpg?20261119122806"
     },
     {
       "source": "bbc",
@@ -18,164 +178,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c612/live/1f6a6e00-e291-11f1-b166-176de21e2352.jpg"
     },
     {
-      "source": "sky",
-      "title": "'No excuses' - Bearman 'disappointed' with Haas contract saga",
-      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
-      "summary": "",
-      "published": "2026-11-19T07:35:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-oliver-bearman_7410114.jpg?20261119072523"
-    },
-    {
-      "source": "sky",
-      "title": "'I feel very free' - Bancroft finds 'his own peace' after Sandpapergate claims",
-      "link": "https://www.skysports.com/cricket/news/12040/13613817/cameron-bancroft-former-australia-batter-says-he-feels-very-free-after-telling-the-truth-with-sandpapergate-claims",
-      "summary": "Cameron Bancroft says he feels \"very free\" following his explosive claims about the Sandpapergate scandal.",
-      "published": "2026-11-19T06:43:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cameron-bancroft_7409368.jpg?20261118105349"
-    },
-    {
-      "source": "sky",
-      "title": "F1 drivers back return of 'very cool' V8 engines in the future",
-      "link": "https://www.skysports.com/f1/news/12040/13613632/formula-1-drivers-back-return-of-very-cool-v8-engines-in-the-future-ahead-of-las-vegas-grand-prix",
-      "summary": "Formula 1's drivers appear to be unanimous with the prospect of V8 engine returning to the sport in the 2030s.",
-      "published": "2026-11-19T06:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-max-verstappen_7410054.jpg?20261119061436"
-    },
-    {
-      "source": "sky",
-      "title": "Price hopes undisputed history could lead her to Shields showdown",
-      "link": "https://www.skysports.com/boxing/news/12040/13613679/lauren-price-hopes-making-undisputed-history-could-lead-her-to-claressa-shields-showdown-i-want-the-big-fights",
-      "summary": "Lauren Price believes becoming an undisputed champion could lead her to a showdown with American star Claressa Shields.",
-      "published": "2026-11-19T06:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-price-price_7409760.jpg?20261118173503"
-    },
-    {
-      "source": "sky",
-      "title": "Hamilton denies lack of trust with Ferrari after strategy issues",
-      "link": "https://www.skysports.com/f1/news/12040/13613635/lewis-hamilton-denies-lack-of-trust-with-ferrari-after-ignoring-instructions-from-pit-wall-twice-in-recent-races",
-      "summary": "Lewis Hamilton has insisted there is no lack of trust between himself and his Ferrari team despite having overridden orders from the pit wall twice in recent races.",
-      "published": "2026-11-19T06:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-hamilton-ferrari_7410051.jpg?20261119055554"
-    },
-    {
-      "source": "sky",
-      "title": "Van Gerwen: I need my A-game to beat Wade at Grand Slam",
-      "link": "https://www.skysports.com/darts/news/12040/13613671/michael-van-gerwen-targets-a-game-for-james-wade-meeting-in-last-16-clash-of-grand-slam-of-darts",
-      "summary": "Michael van Gerwen believes James Wade is \"in some of the best form of his life\" and says he'll need to bring his \"A-game\" in order to win their second-round meeting at the Grand Slam of Darts.",
-      "published": "2026-11-18T23:40:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-darts-grand-slam-of-darts_7409408.jpg?20261118103131"
-    },
-    {
-      "source": "sky",
-      "title": "Wattimena wins hearts with win vs Littler: 'Beat him, the crowd loves you'",
-      "link": "https://www.skysports.com/darts/news/12040/13613686/jermaine-wattimena-wins-wolverhampton-hearts-with-victory-over-luke-littler-you-beat-him-the-crowd-loves-you",
-      "summary": "Jermaine Wattimena was visibly emotional following his massive 10-8 win over Luke Littler in the last 16 at the Grand Slam of Darts, taking in the moment as the Wolverhampton crowd sang his name.",
-      "published": "2026-11-18T23:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jermaine-wattimena_7409946.jpg?20261118221324"
-    },
-    {
-      "source": "sky",
-      "title": "Mardle: Doets-Wattimena friendship will take a back seat in quarter-finals",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13613592/grand-slam-of-darts-live-commentary-updates-scores-analysis-with-luke-littler-gerwyn-price-rob-cross-in-action",
-      "summary": "",
-      "published": "2026-11-18T23:00:00+00:00",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kevin-doets-darts_7245082.jpg?20260510210715"
-    },
-    {
-      "source": "sky",
-      "title": "SHOCK! Littler knocked out of Grand Slam by Wattimena",
-      "link": "https://www.skysports.com/watch/video/13613759/luke-littler-vs-jermaine-wattimena-grand-slam-of-darts-highlights",
-      "summary": "Highlights of the second-round match between Luke Littler and Jermaine Wattimena at the Grand Slam of Darts.",
-      "published": "2026-11-18T22:12:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-littler-wattimena_7409963.png?20261118224101"
-    },
-    {
-      "source": "sky",
-      "title": "Chelsea snatch late winner vs PSG to move top of WCL table",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-paris-saint-germain-women/report/578268",
-      "summary": "Veerle Buurman's late winner snatched a late 1-0 win for Chelsea against Paris Saint-Germain to move them to the top of the Champions League table.",
-      "published": "2026-11-18T22:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-buurman-chelsea-veerle_7409927.jpg?20261118215413"
-    },
-    {
-      "source": "sky",
-      "title": "Littler stunned by Wattimena at Grand Slam of Darts",
-      "link": "https://www.skysports.com/darts/news/12040/13613598/luke-littler-stunned-by-jermaine-wattimena-in-last-16-at-grand-slam-of-darts-as-title-defence-ends",
-      "summary": "Luke Littler's title defence at the Grand Slam of Darts is over after he suffered a 10-8 loss to Jermaine Wattimena in the last 16 in Wolverhampton.",
-      "published": "2026-11-18T22:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-luke-littler-darts_7409923.jpg?20261118215101"
-    },
-    {
-      "source": "sky",
-      "title": "Cadillac confirm Bottas to stay with team for 2027",
-      "link": "https://www.skysports.com/f1/news/12040/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
-      "summary": "Cadillac have confirmed Valtteri Bottas will stay on at the team for the 2027 Formula 1 season, ending speculation about the Finnish driver's future.",
-      "published": "2026-11-18T20:11:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-valtteri-bottas_7409855.jpg?20261118202516"
-    },
-    {
-      "source": "sky",
-      "title": "Koepka 'disappointed' with PGA Tour season but 'beyond happy' to be back",
-      "link": "https://www.skysports.com/golf/news/12040/13613712/brooks-koepka-american-labels-his-2026-pga-tour-season-a-disappointment-and-targets-2027-ryder-cup-spot",
-      "summary": "Brooks Koepka has dubbed his 2026 season a \"a disappointment\" but insists he is hungry to secure a spot on Team USA's 2027 Ryder Cup squad.",
-      "published": "2026-11-18T19:43:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-brooks-koepka_7409839.jpg?20261118195826"
-    },
-    {
-      "source": "sky",
-      "title": "Scottish football latest: Dumbarton appoint youngest manager in SPFL history",
-      "link": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-      "summary": "",
-      "published": "2026-11-18T19:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-fellowes-dumbarton_7409758.png?20261118171956"
-    },
-    {
-      "source": "sky",
-      "title": "FREE STREAM: Watch 'Unfinished Business' Transfer Show on Sky Sports News",
-      "link": "https://www.skysports.com/football/news/12040/13613662/free-stream-watch-special-unfinished-business-transfer-show-on-sky-sports-news-with-guest-alan-pardew",
-      "summary": "",
-      "published": "2026-11-18T18:55:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-unfinished-business_7409038.png?20261117194703"
-    },
-    {
-      "source": "sky",
-      "title": "CME Group Tour Championship: Can Hull and Woad stop Korda?",
-      "link": "https://www.skysports.com/golf/news/12040/13613433/cme-group-tour-championship-field-format-prize-money-as-nelly-korda-charley-hull-lottie-woad-battle-for-win-at-lpga-finale",
-      "summary": "Who will be crowned the LPGA Tour&#8217;s Race to the CME Globe Champion? Who can stop Nelly Korda from winning? Can Brits Charley Hull and Lottie Woad claim victory? We get you up to speed ahead of this week&#8217;s LPGA Tour 2026 season finale, live on Sky Sports.",
-      "published": "2026-11-18T16:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-cme-group-tour-championship_7409167.jpg?20261117235339"
-    },
-    {
-      "source": "sky",
-      "title": "Sober Glory storms to victory over Old Park Star on chase debut",
-      "link": "https://www.skysports.com/racing/news/12040/13613649/sober-glory-storms-to-victory-over-old-park-star-on-chase-debut",
-      "summary": "Sober Glory turned the tables on Supreme Novices&#8217; Hurdle conqueror Old Park Star to make a faultless chasing bow in the Golwg Gwendraeth Beginners&#8217; Chase at Ffos Las.",
-      "published": "2026-11-18T15:25:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-sober-glory-newbury_7409696.jpg?20261118152601"
-    },
-    {
-      "source": "sky",
-      "title": "WATCH: Sober Glory slams rivals on chase debut",
-      "link": "https://www.skysports.com/watch/video/13613622/watch-sober-glory-slams-rivals-on-chase-debut-at-ffos-las",
-      "summary": "A much-anticipated rematch between the Supreme 1-2 ended with Sober Glory running out an emphatic winner at Ffos Las",
-      "published": "2026-11-18T14:40:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sober-glory-ffos-las_7409695.jpg?20261118152354"
-    },
-    {
       "source": "guardian",
       "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
       "link": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
       "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the positionBy Opta AnalystOverlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved dramatically. Once a defensive-first position that provided some auxiliary attacking support, the role has developed into something far more multifaceted.Just ask right-back Ben White,",
       "published": "2026-11-18T08:00:35+00:00",
       "image": "https://i.guim.co.uk/img/media/cddb452cd8ee7fd6ace9700d98796771abd3a4f0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=92a4b103c38eea93c2aa9a7e0c7db3c3"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Pochettino could help Man Utd's pursuit of Paz",
-      "link": "https://www.skysports.com/football/news/12040/13613766/manchester-united-pursuit-of-nico-paz-boosted-by-mauricio-pochettino-arrival-paper-talk",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "published": "2026-11-17T22:58:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "bbc",
@@ -448,14 +456,6 @@
       "summary": "Credit to Arsenal for restricting opportunities at Anfield but Iraola will need his side to learn to unpick low backlinesLiverpool did not have a shot on target in their 1-0 defeat by Arsenal on Sunday, according to Opta, the first time they have drawn this type of blank in a Premier League game at Anfield since records began in 2003-04. They did not find the target in a goalless draw at the Emira",
       "published": "2026-11-02T18:50:00+00:00",
       "image": "https://i.guim.co.uk/img/media/c55b88097451a26693122eb9b6fa70219efa7ffa/284_79_2445_1955/master/2445.jpg?width=140&quality=85&auto=format&fit=max&s=c43f99921dd128570074b3b461e78814"
-    },
-    {
-      "source": "bbc",
-      "title": "Go BTS with MOTD at Anfield",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cr1ex1ngw90jo?at_medium=RSS&at_campaign=rss",
-      "summary": "",
-      "published": "2026-11-02T16:32:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ee/live/83c16420-d6da-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "source": "guardian",
