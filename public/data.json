@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-11-20T22:55:14.610610+00:00",
+  "lastUpdated": "2026-11-21T03:42:30.133002+00:00",
   "articles": [
+    {
+      "source": "sky",
+      "title": "Larsen holds off Palmowski to win opening Las Vegas race",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "summary": "",
+      "published": "2026-11-21T03:00:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alba-larsen_7386332.jpg?20261025013436"
+    },
+    {
+      "source": "sky",
+      "title": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
+      "link": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
+      "summary": "George Russell and Max Verstappen collided with one another during final practice at the Las Vegas Grand Prix.",
+      "published": "2026-11-21T01:30:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-motorsport-f1-russell_7411947.jpg?20261121013641"
+    },
+    {
+      "source": "sky",
+      "title": "Smith named in squad for domestic return amid Sandpapergate silence",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13613502/australian-cricket-sandpapergate-latest-live-reaction-to-cameron-bancrofts-explosive-interview-telling-all-of-2018-ball-tampering",
+      "summary": "",
+      "published": "2026-11-20T23:40:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-steve-smith-new-south-wales_7411925.jpg?20261120234010"
+    },
+    {
+      "source": "sky",
+      "title": "Las Vegas GP: Russell, Verstappen collide ahead of qualifying LIVE!",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
+      "summary": "",
+      "published": "2026-11-20T23:30:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-george-russell_7411940.jpg?20261121012044"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Osimhen ready to listen to Man Utd offers",
+      "link": "https://www.skysports.com/football/news/12040/13614555/x-paper-talk",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "published": "2026-11-20T23:30:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "source": "sky",
+      "title": "Kim leads LPGA Tour finale after sensational hole-in-one",
+      "link": "https://www.skysports.com/watch/video/13614571/cme-group-tour-championship-day-two-highlights",
+      "summary": "Highlights from day Two of the CME Group Tour Championship at Tibur&#243;n Golf Club, Florida.",
+      "published": "2026-11-20T23:17:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cme-group-tour-golf_7411923.jpg?20261120232602"
+    },
+    {
+      "source": "sky",
+      "title": "Kim leads LPGA Tour finale after amazing ace as Hull and Korda chase",
+      "link": "https://www.skysports.com/golf/news/12040/13614418/lpga-tour-charley-hull-in-cme-group-tour-championship-contention-as-a-lim-kim-fires-hole-in-one-to-grab-halfway-lead",
+      "summary": "A Lim Kim fired a hole-in-one on her way to grabbing the halfway lead at the LPGA Tour's season-ending CME Group Tour Championship, where Charley Hull remains in contention.",
+      "published": "2026-11-20T22:44:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-a-lim-kim-golf-cme-group-tour-cham_7411900.jpg?20261120224227"
+    },
+    {
+      "source": "sky",
+      "title": "Price makes undisputed history as she shuts out Kotaskova",
+      "link": "https://www.skysports.com/boxing/news/12040/13614565/lauren-price-makes-boxing-history-for-wales-with-first-undisputed-championship-win-as-she-shuts-out-michaela-kotaskova",
+      "summary": "Lauren Price made history for Welsh boxing when she beat Michaela Kotaskova to become the undisputed welterweight world champion.",
+      "published": "2026-11-20T22:32:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lauren-price-michaela-kotaskova_7411909.jpg?20261120225857"
+    },
+    {
+      "source": "sky",
+      "title": "Penge tied at the top in tight leaderboard at RSM Classic",
+      "link": "https://www.skysports.com/watch/video/13614564/rsm-classic-day-two-highlights",
+      "summary": "Highlights from day two of the RSM Classic at the Sea Island Seaside Course, Georgia.",
+      "published": "2026-11-20T22:28:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-rsm-classic-day-2_7411907.jpg?20261120225537"
+    },
     {
       "source": "sky",
       "title": "Kane set to miss three months with ankle injury",
@@ -15,7 +87,15 @@
       "link": "https://www.skysports.com/cricket/news/12040/13614531/josh-hazlewood-defends-pat-cummins-over-sandpapergate-and-backs-australias-test-captain-to-continue-after-pile-on",
       "summary": "Josh Hazlewood has defended Pat Cummins over a &#8220;pile-on&#8221; around Sandpapergate and refused to rule out boycotting the Test team if he is made to step down as captain.",
       "published": "2026-11-20T22:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-pat-cummins-josh-hazlewood_7411838.jpg?20261120213001"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-pat-cummins-cricket_7411908.jpg?20261120225715"
+    },
+    {
+      "source": "sky",
+      "title": "'Unreal....how about that!' - Leader Kim sinks wonderful ace in Florida",
+      "link": "https://www.skysports.com/watch/video/13614529/unreal-how-about-that-a-lim-kim-sinks-wonderful-ace-at-2026-cme-group-tour-championship-in-florida",
+      "summary": "Take a look as A Lim Kim sunk a wonderful ace during her second round at the 2026 CME Group Tour Championship in Florida.",
+      "published": "2026-11-20T21:23:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-golf-sky-sports_7411845.jpg?20261120213457"
     },
     {
       "source": "sky",
@@ -74,14 +154,6 @@
       "image": "https://e2.365dm.com/26/04/1920x1080/skysports-andy-murray-tennis_7225638.jpg?20260420195809"
     },
     {
-      "source": "sky",
-      "title": "Brighton latest: In-form midfielder signs new contract",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "summary": "",
-      "published": "2026-11-20T17:30:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
       "source": "bbc",
       "title": "Arteta warns Arsenal players over FPL team news leak",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmvg2171293yo?at_medium=RSS&at_campaign=rss",
@@ -98,52 +170,12 @@
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-james-anderson-cricket_7382950.jpg?20261024092442"
     },
     {
-      "source": "sky",
-      "title": "Clarke: 'I am world class, I was just waiting for the world to see'",
-      "link": "https://www.skysports.com/boxing/news/12040/13614327/cheavon-clarke-ive-always-been-world-class-i-was-just-waiting-for-the-world-to-catch-up-and-see-it",
-      "summary": "Cheavon Clarke catapulted himself into the top tier of the cruiserweight division with his stunning stoppage victory over Chris Billam-Smith.",
-      "published": "2026-11-20T17:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-cheavon-clarke-clarke_7411341.jpg?20261120114413"
-    },
-    {
       "source": "guardian",
       "title": "Fresh injury blow for Arsenal as Zohran Mamdani is sidelined with achilles tear",
       "link": "https://www.theguardian.com/football/2026/nov/20/fresh-injury-blow-for-arsenal-as-zohran-mamdani-is-sidelined-with-achilles-tear",
       "summary": "New York City major hurt in friendly with press corpsLifelong Gunner set to be out of action for nine monthsArsenal have suffered a further injury blow after it was revealed that one of their most famous supporters, New York City mayor Zohran Mamdani, tore his achilles while playing in a friendly soccer match on Thursday and is out of action until next summer.Not long after Mikel Arteta confirmed ",
       "published": "2026-11-20T16:54:28+00:00",
       "image": "https://i.guim.co.uk/img/media/9d65bd86496e778b1c3e104c78ee13664de2e444/203_27_1670_1336/master/1670.jpg?width=140&quality=85&auto=format&fit=max&s=af0d0b3a4d486b1cf46162aeb64bbc09"
-    },
-    {
-      "source": "sky",
-      "title": "Celtic suffer Baur injury blow",
-      "link": "https://www.skysports.com/football/news/12040/13614395/mika-baur-celtic-midfielder-ruled-out-for-considerable-period-with-ankle-ligament-damage",
-      "summary": "Celtic midfielder Mika Baur faces a lengthy period on the sidelines with an ankle injury.",
-      "published": "2026-11-20T15:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mika-baur-celtic_7401363.jpg?20261108182820"
-    },
-    {
-      "source": "sky",
-      "title": "Alcaraz beats Cobolli despite fitness issues as Medvedev reaches SFs",
-      "link": "https://www.skysports.com/tennis/news/12040/13614397/atp-finals-carlos-alcaraz-shrugs-off-fitness-issues-to-ease-past-flavio-cobolli-and-complete-flawless-group-stage-record",
-      "summary": "Carlos Alcaraz didn't appear bothered by his various fitness issues as he extended his winning streak to 12 matches after beating debutant Flavio Cobolli 6-4 6-1 at the ATP Finals on Friday in just 65 minutes.",
-      "published": "2026-11-20T15:10:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz_7411530.jpg?20261120151340"
-    },
-    {
-      "source": "sky",
-      "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
-      "link": "https://www.skysports.com/football/news/12040/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
-      "summary": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
-      "published": "2026-11-20T14:36:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7411463.jpg?20261120140859"
-    },
-    {
-      "source": "sky",
-      "title": "Price survives last-leg thriller against Springer to set up Doets semi-final",
-      "link": "https://www.skysports.com/darts/news/12040/13614373/gerwyn-price-wins-last-leg-thriller-against-niko-springer-at-grand-slam-of-darts-to-set-up-semi-final-against-kevin-doets",
-      "summary": "Gerwyn Price survived a dramatic last-leg thriller against Niko Springer for a 16-15 victory at the Grand Slam of Darts to reach the semi-finals.",
-      "published": "2026-11-20T14:10:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-darts-grand-slam-of-darts_7411842.jpg?20261120213428"
     },
     {
       "source": "bbc",
@@ -154,36 +186,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/ba1c8130-e4e5-11f1-b039-c1944465024e.jpg"
     },
     {
-      "source": "sky",
-      "title": "Miami Magic fancied for Newbury gold as ante-post selections revealed",
-      "link": "https://www.skysports.com/racing/news/12040/13614284/racing-tips-miami-magic-fancied-for-newbury-gold-as-ante-post-selections-revealed-on-weekend-winners",
-      "summary": "On the latest episode of Weekend Winners, the panel reveal their top ante-post bets for the upcoming winter months.",
-      "published": "2026-11-20T13:30:00+00:00",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-weekend-winners-racing_7347813.png?20260911103256"
-    },
-    {
-      "source": "sky",
-      "title": "San Francisco 49ers training at altitude ahead of Mexico game",
-      "link": "https://www.skysports.com/nfl/news/12040/13614330/san-francisco-49ers-kyle-shanahans-side-training-at-altitude-in-colorado-ahead-of-minnesota-vikings-clash-in-mexico-city",
-      "summary": "San Francisco 49ers are preparing for their upcoming clash against Minnesota Vikings at Mexico City's Estadio Azteca by training 7,258 feet above sea level in Colorado.",
-      "published": "2026-11-20T11:53:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-christian-mccafferey_7411353.jpg?20261120115814"
-    },
-    {
       "source": "bbc",
       "title": "Arteta plays Deal or No Deal over new Arsenal contracts",
       "link": "https://www.bbc.co.uk/sport/football/videos/cw8r7k1x1xy3o?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal manager Mikel Arteta plays a game of Deal or No Deal when asked about new contracts for Declan Rice, David Raya, Jurrien Timber and Piero Hincapie.",
       "published": "2026-11-20T11:32:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a1/live/e020e2c0-e4d3-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "James Bowen latest jockey to reveal death threat incident",
-      "link": "https://www.skysports.com/racing/news/12040/13614321/james-bowen-received-death-threat-from-disgruntled-punter-as-jockey-speaks-out-following-similar-nico-de-boinville-incident",
-      "summary": "James Bowen has become the latest jockey to reveal he has been subjected to death threats from disgruntled punters, with the 25-year-old disclosing that he and champion jockey brother Sean required security protection following an incident last year.",
-      "published": "2026-11-20T11:29:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-james-bowen-jockey_7411342.jpg?20261120114442"
     },
     {
       "source": "guardian",
@@ -200,14 +208,6 @@
       "summary": "Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and Manchester City face favourite whipping boysAfter three Premier League defeats on the spin, Manchester City need something or someone to come along and put some pep in their step, and Fulham look like just the thing – after all, in the past 15 years these teams have played 20 times in all competitions, an",
       "published": "2026-11-20T00:00:15+00:00",
       "image": "https://i.guim.co.uk/img/media/697a5b5e6adf5ec4ae93d2b6aa2ddcbf11b935ce/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=de767372805865151ec7e49f74f96e68"
-    },
-    {
-      "source": "sky",
-      "title": "Tennis scores: Alcaraz to face Shelton in ATP Finals last four on Saturday",
-      "link": "https://www.skysports.com/tennis/scores-schedule",
-      "summary": "",
-      "published": "2026-11-19T21:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-atp-finals-tennis-2026_7411382.jpg?20261120124208"
     },
     {
       "source": "bbc",
