@@ -1,117 +1,189 @@
 {
-  "lastUpdated": "2026-11-24T06:40:39.636718+00:00",
+  "lastUpdated": "2026-11-24T18:33:39.941725+00:00",
   "articles": [
     {
-      "source": "sky",
-      "title": "Commanders upset Burrow's Bengals after last-second winner",
-      "link": "https://www.skysports.com/nfl/news/12040/13615867/nfl-washington-commanders-beat-joe-burrows-cincinnati-bengals-in-upset-after-last-second-field-goal-from-drew-stevens",
-      "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens' 26-yard field goal as time expired as the Washington Commanders stunned Joe Burrow and the Cincinnati Bengals 22-20 on Monday night.",
-      "published": "2026-11-24T06:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-drew-stevens-washington-commanders_7414987.jpg?20261124061804"
+      "source": "guardian",
+      "title": "Arsenal v Borussia Dortmund: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+      "summary": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off⚽️ Nwaneri risks becoming forgotten teenager at Dortmund⚽ Live scores | League phase standings | Email ScottThe champions and runaway leaders of the Premier League meet the leaders of the Bundesliga. That’s quite a sexy sell, even if it’s almost totally Jeopardy Lite™ (the official caveat of the Uefa Champions League Swiss System). Arsenal are o",
+      "published": "2026-11-24T18:30:52+00:00",
+      "image": "https://i.guim.co.uk/img/media/03348190fc5a658f10105084a601af2bd4da515f/0_234_2799_2239/master/2799.jpg?width=140&quality=85&auto=format&fit=max&s=889af72d6cbd8174766d8524756612d4"
     },
     {
       "source": "sky",
-      "title": "Smith: Paths align better for Stevenson unification than Azim fight",
-      "link": "https://www.skysports.com/boxing/news/12040/13615634/dalton-smith-paths-align-better-for-shakur-stevenson-unification-than-adam-azim-fight",
-      "summary": "Dalton Smith, the WBC super-lightweight champion, thinks he's more likely to fight Shakur Stevenson next than Adam Azim.",
-      "published": "2026-11-24T06:00:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-dalton-smith-alberto-puello_7386251.jpg?20261024223141"
-    },
-    {
-      "source": "sky",
-      "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
-      "link": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "published": "2026-11-23T22:40:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
-      "source": "sky",
-      "title": "Five-time Solheim Cup player Khang secures LPGA Tour card for 2027",
-      "link": "https://www.skysports.com/golf/news/12040/13615841/lpga-tour-q-series-megan-khang-secures-tour-card-for-2027-as-megha-ganne-wins-final-qualifying-stage",
-      "summary": "Megha Ganne won the 2026 LPGA Q-Series final qualifying stage as 27 tour cards were claimed for the 2027 season, with five-time USA Solheim Cup team member Megan Khang among those successful.",
-      "published": "2026-11-23T22:26:00+00:00",
-      "image": "https://e1.365dm.com/24/09/1920x1080/skysports-megan-khang-golf_6686863.jpg?20240915183508"
-    },
-    {
-      "source": "sky",
-      "title": "Patten ends Grand Slam-winning doubles pairing to partner fellow Brit Skupski",
-      "link": "https://www.skysports.com/tennis/news/12040/13615831/henry-patten-ends-partnership-with-harri-heliovaara-to-team-up-with-fellow-briton-neal-skupski",
-      "summary": "Henry Patten has ended his world No 1 doubles partnership with Harri Heliovaara in shock fashion in favour of teaming up with British compatriot Neal Skupski for 2027.",
-      "published": "2026-11-23T22:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-henry-patten-tennis_7408082.jpg?20261117075550"
-    },
-    {
-      "source": "sky",
-      "title": "WHAT A STRIKE! Janelt rifles rocket for Brentford’s third",
-      "link": "https://www.skysports.com/watch/video/13615825/goal-v-janelt-67-brentford-3-0-everton",
-      "summary": "Janelt rifles rocket for Brentford&#8217;s third against Everton in the Premier League",
-      "published": "2026-11-23T21:41:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-goal-brentford_7414883.jpg?20261123214545"
-    },
-    {
-      "source": "sky",
-      "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
-      "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-      "summary": "Keane Lewis-Potter&#8217;s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
-      "published": "2026-11-23T21:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353"
-    },
-    {
-      "source": "sky",
-      "title": "RED CARD! VAR controversy as Tarkowski sent off after review",
-      "link": "https://www.skysports.com/watch/video/13615787/off-j-tarkowski-40-brentford-2-0-everton",
-      "summary": "VAR controversy as Tarkowski sent off after review during Everton's Premier League match against Brentford.",
-      "published": "2026-11-23T20:46:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-everton_7414788.jpg?20261123204745"
-    },
-    {
-      "source": "sky",
-      "title": "Are Man Utd genuinely in a relegation battle?",
-      "link": "https://www.skysports.com/football/news/12040/13615552/are-manchester-united-in-a-relegation-battle-gary-neville-and-jamie-carragher-assess-their-survival-chances",
-      "summary": "What started as a blip has become a problem far more systemic for Man Utd.",
-      "published": "2026-11-23T19:45:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-manchester-united_7414626.jpg?20261123164222"
-    },
-    {
-      "source": "sky",
-      "title": "Carra: Chelsea must sign centre-back or achieve nothing",
-      "link": "https://www.skysports.com/football/news/12040/13615767/chelsea-must-sign-centre-back-or-will-achieve-nothing-with-levi-colwill-and-wesley-fofana-says-jamie-carragher",
-      "summary": "Jamie Carragher believes Chelsea must sign a dominant centre-back or they will have \"no chance of achieving anything\".",
-      "published": "2026-11-23T19:37:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7414745.jpg?20261123193045"
-    },
-    {
-      "source": "sky",
-      "title": "Penge claims stunning maiden PGA Tour win at RSM Classic",
-      "link": "https://www.skysports.com/golf/news/12040/13615763/marco-penge-claims-maiden-pga-tour-win-englishman-triumphs-from-four-way-playoff-at-rsm-classic",
-      "summary": "English golfer Marco Penge claimed a stunning maiden win on the PGA Tour as he  emerged victorious from a four-way playoff at the season-ending RSM Classic.",
-      "published": "2026-11-23T18:37:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-marco-penge-golf_7414755.jpg?20261123195744"
-    },
-    {
-      "source": "sky",
-      "title": "Has Verstappen feud reignited at wrong time for Russell?",
-      "link": "https://www.skysports.com/f1/news/12040/13615702/max-verstappen-and-george-russell-has-feud-reignited-at-wrong-time-for-mercedes-driver-after-difficult-2026-f1-season",
-      "summary": "The reignition of the long-running feud between George Russell and Max Verstappen has added an entertaining twist to the end of the 2026 Formula 1 season, but it may not be what the Mercedes driver needed at this moment.",
-      "published": "2026-11-23T18:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-george-russell-max_7414699.jpg?20261123181713"
-    },
-    {
-      "source": "sky",
-      "title": "Metcalf denies poking DeJean in the eyes as NFL rules out suspension",
-      "link": "https://www.skysports.com/nfl/news/12040/13615745/dk-metcalf-denies-poking-cooper-dejean-in-the-eyes-after-ejection-from-pittsburgh-steelers-philadelphia-eagles-game",
-      "summary": "Pittsburgh Steelers wide receiver DK Metcalf will not be suspended by the NFL for appearing to poke Philadelphia Eagles defensive back Cooper DeJean in the eyes but he could still be fined, according to sources.",
-      "published": "2026-11-23T17:41:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-dk-metcalf-pittsburgh-steelers_7414686.jpg?20261123175053"
-    },
-    {
-      "source": "sky",
-      "title": "Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract",
-      "link": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "title": "Arsenal vs Borussia Dortmund LIVE!",
+      "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
       "summary": "",
-      "published": "2026-11-23T17:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-luca-williams-barnett_7412400.jpg?20261121152456"
+      "published": "2026-11-24T18:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400173.jpg?20261107164646"
+    },
+    {
+      "source": "sky",
+      "title": "Sinner surgery casts doubt over Australian Open appearance",
+      "link": "https://www.skysports.com/tennis/news/12040/13615618/jannik-sinner-former-world-no-1-undergoes-surgery-on-his-right-knee-casting-doubt-over-australian-open-participation",
+      "summary": "Former world No 1 Jannik Sinner has undergone surgery on his troublesome knee, casting doubt over his hopes of playing at the Australian Open.",
+      "published": "2026-11-24T17:44:00+00:00",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-jannik-sinner-tennis_7289178.jpg?20260703210956"
+    },
+    {
+      "source": "sky",
+      "title": "Humphries hoping to make Players Championship despite shoulder injury",
+      "link": "https://www.skysports.com/darts/news/12040/13616056/luke-humphriess-hopeful-of-playing-in-players-championship-after-suffering-shoulder-injury",
+      "summary": "Luke Humphries is hopeful of playing in this week's Players Championship, Sky Sports News understands.",
+      "published": "2026-11-24T17:30:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-luke-humphries-world-grand-prix-darts_7368359.jpg?20261004230344"
+    },
+    {
+      "source": "sky",
+      "title": "Man Utd's Yoro red card appeal process explained",
+      "link": "https://www.skysports.com/watch/video/13616062/explained-how-did-manchester-united-successfully-appeal-leny-yoros-red-card-picked-up-against-liverpool",
+      "summary": "Sky Sports News&#8217; Kaveh Solhekol explains Manchester United's appeal successful appeal process for Leny Yoro's red card, that the defender had picked up against Liverpool.",
+      "published": "2026-11-24T17:16:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-utd-yoro_7415510.jpg?20261124171942"
+    },
+    {
+      "source": "sky",
+      "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
+      "link": "https://www.skysports.com/football/news/12040/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+      "summary": "Referees&#8217; chief Howard Webb admitted it was a &#8220;quick check&#8221; by VAR for Arsenal defender Jurrien Timber&#8217;s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners&#8217; win at Anfield.",
+      "published": "2026-11-24T17:13:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
+    },
+    {
+      "source": "sky",
+      "title": "White wins gold at European Under 23 Championships",
+      "link": "https://www.skysports.com/boxing/news/12040/13616059/ruby-white-wins-flyweight-gold-at-european-under-23-championships-while-two-british-team-mates-also-collected-medals",
+      "summary": "Ruby White won the flyweight gold medal at the European Under 23 Championships.",
+      "published": "2026-11-24T17:07:00+00:00",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-ruby-else-white-boxing_7188811.jpg?20260311103902"
+    },
+    {
+      "source": "sky",
+      "title": "Ref chief Webb backs process around Yoro sending off despite successful appeal",
+      "link": "https://www.skysports.com/football/news/12040/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
+      "summary": "Referees' chief Howard Webb has backed the process of the officials who sent off Manchester United defender Leny Yoro at Liverpool - despite the red card being overturned on appeal.",
+      "published": "2026-11-24T17:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102"
+    },
+    {
+      "source": "sky",
+      "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
+      "link": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
+      "summary": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
+      "published": "2026-11-24T17:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655"
+    },
+    {
+      "source": "sky",
+      "title": "'All fine' - Listen to 'quick' VAR check on Timber's Isak shirt-pull",
+      "link": "https://www.skysports.com/watch/video/13616037/match-officials-micd-up-listen-to-quick-var-check-on-jurrien-timbers-alexander-isak-shirt-pull",
+      "summary": "Speaking on Match Officials Mic'd Up Howard Webb and Michael Owen review the key incident between Jurrien Timber and Alexander Isak at Anfield earlier in November.",
+      "published": "2026-11-24T17:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-micd-up-timber-isak_7415446.jpg?20261124161916"
+    },
+    {
+      "source": "sky",
+      "title": "Yoro red card overturned after successful Man Utd appeal",
+      "link": "https://www.skysports.com/football/news/12040/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
+      "summary": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
+      "published": "2026-11-24T17:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441"
+    },
+    {
+      "source": "sky",
+      "title": "O'Sullivan: Snooker players need more mental health support",
+      "link": "https://www.skysports.com/snooker/news/12040/13616047/ronnie-osullivan-says-snooker-players-need-more-mental-health-support-in-wake-of-mark-allens-struggles",
+      "summary": "Ronnie O'Sullivan has called for more resources to support professional snooker players' mental health.",
+      "published": "2026-11-24T16:42:00+00:00",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-ronnie-osullivan_7308025.jpg?20260727182431"
+    },
+    {
+      "source": "sky",
+      "title": "Aston Villa goalless at Galatasaray LIVE!",
+      "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
+      "summary": "",
+      "published": "2026-11-24T16:15:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ian-maatsen-aston-villa_7415552.jpg?20261124182322"
+    },
+    {
+      "source": "sky",
+      "title": "Players Championship Finals schedule: Price eyes back-to-back major titles",
+      "link": "https://www.skysports.com/darts/news/12040/13616018/players-championship-finals-2026-schedule-and-order-of-play-as-gerwyn-price-eyes-another-major-title-in-minehead",
+      "summary": "The 2026 Ladbrokes Players Championship Finals sees 64 players competing to win the PDC's last major event before the World Darts Championship gets under way in December.",
+      "published": "2026-11-24T15:16:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7413652.jpg?20261123080752"
+    },
+    {
+      "source": "sky",
+      "title": "Senegal confirmed AFCON 2025 champions after appeal",
+      "link": "https://www.skysports.com/football/news/12040/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal",
+      "summary": "The Court of Arbitration for Sport (CAS) has announced Senegal as the winners of the 2025 Africa Cup of Nations (AFCON).",
+      "published": "2026-11-24T14:20:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sadio-mane_7415365.jpg?20261124145012"
+    },
+    {
+      "source": "sky",
+      "title": "Millwall first club hit with partial closure over discriminatory chants",
+      "link": "https://www.skysports.com/football/news/12040/13615754/millwall-forced-to-partially-close-the-den-after-commission-proves-fa-charges-of-discriminatory-chanting",
+      "summary": "Millwall have become the first club in the top four divisions of English football to be punished with a partial stadium closure for discriminatory chanting after a regulatory commission proved two FA charges.",
+      "published": "2026-11-24T14:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-the-den-millwall_7414741.jpg?20261123192207"
+    },
+    {
+      "source": "sky",
+      "title": "Robinson signs for Nottinghamshire on three-year deal",
+      "link": "https://www.skysports.com/cricket/news/12040/13615966/ollie-robinson-signs-for-nottinghamshire-on-three-year-all-format-contract-as-england-bowler-ends-11-year-spell-at-sussex",
+      "summary": "Nottinghamshire have announced the signing of England bowler Ollie Robinson on a three-year all-format deal.",
+      "published": "2026-11-24T13:00:00+00:00",
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ollie-robinson-sussex_7260957.jpg?20260529111847"
+    },
+    {
+      "source": "sky",
+      "title": "Khelif still set for pro bout in Paris despite opponent withdrawal",
+      "link": "https://www.skysports.com/boxing/news/12040/13615976/imane-khelif-still-set-for-professional-contest-in-paris-on-december-15-despite-withdrawal-of-original-opponent",
+      "summary": "Imane Khelif is still set to box for the first time since the Olympic Games even though her scheduled opponent has withdrawn.",
+      "published": "2026-11-24T12:47:00+00:00",
+      "image": "https://e2.365dm.com/24/08/1920x1080/skysports-khelif-boxing-olympics_6657880.jpg?20240816123251"
+    },
+    {
+      "source": "sky",
+      "title": "Stella 'liked' Piastri's fiery response to McLaren 'be careful' warnings",
+      "link": "https://www.skysports.com/f1/news/12040/13615667/oscar-piastri-mclaren-team-boss-andrea-stella-says-he-liked-drivers-fiery-radio-response-to-warnings-to-be-careful-of-lando-norris",
+      "summary": "McLaren team principal Andrea Stella says he liked Oscar Piastri's fiery response to radio messages warning the Australian to \"be careful\" battling his team-mate Lando Norris during the Las Vegas Grand Prix. &#160;",
+      "published": "2026-11-24T12:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-oscar-piastri-mclaren_7414497.jpg?20261123141807"
+    },
+    {
+      "source": "sky",
+      "title": "Price casts doubt over accepting Premier League Darts spot",
+      "link": "https://www.skysports.com/darts/news/12040/13615574/gerwyn-price-four-time-grand-slam-champion-casts-doubt-over-accepting-premier-league-darts-spot",
+      "summary": "Gerwyn Price has cast doubt over accepting a Premier League Darts spot in 2027.",
+      "published": "2026-11-24T12:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7414693.jpg?20261123180057"
+    },
+    {
+      "source": "guardian",
+      "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
+      "link": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
+      "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga clubEthan Nwaneri has one record Max Dowman can never break. It is more than four years since he became the youngest player to appear in the Premier League, with Dowman, his fellow Hale End academy graduate, older by 54 days when he made his highly anticipated debut. But after a week when Arsen",
+      "published": "2026-11-24T08:00:11+00:00",
+      "image": "https://i.guim.co.uk/img/media/b93b7729718a26b83d329975503223430a55d865/0_0_6254_5004/master/6254.jpg?width=140&quality=85&auto=format&fit=max&s=a2e130717346e294e93a23e77e81aaf8"
+    },
+    {
+      "source": "sky",
+      "title": "Dubai Darts Masters returns to PDC calendar in 2027",
+      "link": "https://www.skysports.com/darts/news/12040/13615893/world-series-of-darts-dubai-darts-masters-will-to-return-to-pdc-calendar-in-2027-after-10-year-absence",
+      "summary": "The World Series of Darts will return to Dubai in 2027, with the Dubai Darts Masters set to be played for the first time in 10 years.",
+      "published": "2026-11-24T08:00:00+00:00",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-ross-smith-world-series-of-darts_7357509.jpg?20260920222021"
+    },
+    {
+      "source": "bbc",
+      "title": "Two goals in 15 games - what's going on with Gyokeres?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+      "published": "2026-11-24T06:45:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg"
     },
     {
       "source": "bbc",
@@ -138,60 +210,12 @@
       "image": "https://i.guim.co.uk/img/media/4ef21402dd1e8fd333a3f3481a00a7b5f63ed696/0_0_1957_1565/master/1957.jpg?width=140&quality=85&auto=format&fit=max&s=78cb0b721a466e40fae217280b58db1c"
     },
     {
-      "source": "sky",
-      "title": "UK confirmed as  2035 Women's World Cup hosts - which stadiums will be used?",
-      "link": "https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
-      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
-      "published": "2026-11-23T15:05:00+00:00",
-      "image": "https://e0.365dm.com/25/04/1920x1080/skysports-women-world-cup-england_6874715.jpg?20250403093156"
-    },
-    {
-      "source": "sky",
-      "title": "Henman: While Sinner is out of equation, Alcaraz is best in the world",
-      "link": "https://www.skysports.com/tennis/news/12040/13615606/carlos-alcaraz-spaniard-is-toughest-player-to-play-against-right-now-with-jannik-sinner-out-of-the-equation-says-tim-henman",
-      "summary": "Carlos Alcaraz is the \"toughest player to play against\" right now with Jannik Sinner out of the equation, says Tim Henman.",
-      "published": "2026-11-23T15:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-carlos-alcaraz-tennis_7414496.jpg?20261123141701"
-    },
-    {
       "source": "bbc",
       "title": "'You have to congratulate mum and dad' - Arteta on Bellingham brothers",
       "link": "https://www.bbc.co.uk/sport/football/videos/ck5y1ev0z011o?at_medium=RSS&at_campaign=rss",
       "summary": "Arsenal head coach Mikel Arteta said Jobe and Jude Bellingham's parents deserve credit when asked about facing the brothers in the Champions League.",
       "published": "2026-11-23T14:57:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6637/live/04e858b0-e74d-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "source": "sky",
-      "title": "Bakole steps in for Opetaia to fight Wilder on Fury-AJ undercard",
-      "link": "https://www.skysports.com/boxing/news/12040/13615668/fury-vs-joshua-undercard-martin-bakole-steps-in-for-jai-opetaia-to-fight-former-heavyweight-world-champion-deontay-wilder",
-      "summary": "Martin Bakole will fight Deontay Wilder on the undercard of Tyson Fury vs Anthony Joshua on December 11.",
-      "published": "2026-11-23T14:10:00+00:00",
-      "image": "https://e2.365dm.com/25/02/1920x1080/skysports-martin-bakole-boxing_6838083.jpg?20250224162953"
-    },
-    {
-      "source": "sky",
-      "title": "Raya injury 'not too serious' says relieved Arteta",
-      "link": "https://www.skysports.com/football/news/12040/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta",
-      "summary": "Mikel Arteta has revealed that David Raya's shoulder injury is not as bad as first feared, but is unsure when the Arsenal goalkeeper will return to action.",
-      "published": "2026-11-23T14:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-david-raya-arsenal_7412827.jpg?20261121190915"
-    },
-    {
-      "source": "sky",
-      "title": "Sinner set to undergo knee surgery and doubt for Australian Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13615609/jannik-sinner-former-world-no-1-to-undergo-knee-surgery-in-finland-and-doubt-for-australian-open-in-january",
-      "summary": "Former world No 1 Jannik Sinner is set to undergo surgery on his troublesome knee which is likely to see him miss the Australian Open in January, according to Sky in Italy.",
-      "published": "2026-11-23T13:00:00+00:00",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-tennis-jannik-sinner_7294862.jpg?20260710182746"
-    },
-    {
-      "source": "sky",
-      "title": "Moody: I felt ready to play after receiving Haka",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13615608/england-lewis-moody-says-he-felt-ready-to-play-after-former-captain-joined-england-to-face-new-zealands-haka",
-      "summary": "Lewis Moody says he \"felt ready to play\" after he joined England to receive New Zealand's Haka, ahead of Maro Itoje's side's 37-12 victory over the All Blacks on Saturday.",
-      "published": "2026-11-23T12:26:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-moody_7414408.jpg?20261123153314"
     },
     {
       "source": "guardian",
@@ -442,14 +466,6 @@
       "image": "https://i.guim.co.uk/img/media/57cfc5f46ac89a85759f5f4c1495da03a497df06/0_1_5000_3998/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eb911f23ebd12d9433ac49de44608287"
     },
     {
-      "source": "bbc",
-      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-      "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-      "published": "2026-11-08T19:24:36+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg"
-    },
-    {
       "source": "guardian",
       "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
       "link": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
@@ -496,22 +512,6 @@
       "summary": "Defender travelled with squad after long injury absence‘I have clips’: Arteta hits back after Liverpool complaintsMikel Arteta is confident that William Saliba is ready to make his first appearance of the season for Arsenal after he played 45 minutes of a match behind closed doors last week.The France defender started training on his own last month after the back injury he sustained at the World C",
       "published": "2026-11-03T20:31:58+00:00",
       "image": "https://i.guim.co.uk/img/media/73d0a1d0c981981a58ad0d478fcd54b0656d4f86/142_55_1335_1067/master/1335.jpg?width=140&quality=85&auto=format&fit=max&s=24738cde6de4b328d2174fe447136203"
-    },
-    {
-      "source": "guardian",
-      "title": "Andy Madley and VAR should take credit – they got major Anfield calls right | Chris Foy",
-      "link": "https://www.theguardian.com/football/2026/nov/02/andy-madley-var-major-anfield-calls-right-arsenal-premier-league",
-      "summary": "Timber’s shirt pull on Isak was not a penalty on review, and Madueke’s clash with Mac Allister was clearly not violent conductThere was one incident that got everyone talking at the weekend, and that was the decision not to award Liverpool a penalty in their match against Arsenal after Alexander Isak had his shirt pulled by Jurriën Timber as he tried to get his head to a Bradley&nbsp;Barcola cross",
-      "published": "2026-11-02T19:15:12+00:00",
-      "image": "https://i.guim.co.uk/img/media/1cc2a695ffaa57c953ed04825d7a811390b29700/392_262_3172_2538/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=0c70c5996aa346d330bd50ff2834c9eb"
-    },
-    {
-      "source": "guardian",
-      "title": "Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley",
-      "link": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
-      "summary": "Credit to Arsenal for restricting opportunities at Anfield but Iraola will need his side to learn to unpick low backlinesLiverpool did not have a shot on target in their 1-0 defeat by Arsenal on Sunday, according to Opta, the first time they have drawn this type of blank in a Premier League game at Anfield since records began in 2003-04. They did not find the target in a goalless draw at the Emira",
-      "published": "2026-11-02T18:50:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/c55b88097451a26693122eb9b6fa70219efa7ffa/284_79_2445_1955/master/2445.jpg?width=140&quality=85&auto=format&fit=max&s=c43f99921dd128570074b3b461e78814"
     }
   ]
 }
