@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-27T23:08:51.469302+00:00",
+  "lastUpdated": "2026-11-28T05:55:16.468694+00:00",
   "articles": [
+    {
+      "source": "sky",
+      "title": "What went wrong for Alonso's Chelsea at Forest?",
+      "link": "https://www.skysports.com/football/news/12040/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
+      "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3-2 defeat at Nottingham Forest.",
+      "published": "2026-11-27T23:40:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418332.jpg?20261127231744"
+    },
+    {
+      "source": "sky",
+      "title": "No Rodgers, no problem! Steelers shock Broncos after dramatic week",
+      "link": "https://www.skysports.com/nfl/news/12040/13617341/nfl-pittsburgh-steelers-shock-denver-broncos-27-5-after-aaron-rodgers-drama-dominates-build-up-following-mike-mccarthy-claims",
+      "summary": "It had been a week clouded by Aaron Rodgers and his explosive claims regarding head coach Mike McCarthy, but the Pittsburgh Steelers swatted at the storm to claim a shock 27-5 win over the Super Bowl-contending Denver Broncos on Black Friday.",
+      "published": "2026-11-27T23:25:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-pittsburgh-steelers_7418315.jpg?20261127222738"
+    },
     {
       "source": "sky",
       "title": "Price out in Players Championship Finals first round in night of upsets",
@@ -8,6 +24,14 @@
       "summary": "Three of darts' biggest names were subject to shock upsets in the Players Championship Finals as Grand Slam champion Gerwyn Price, World No 2 Gian Van Veen, and No 1 seed Wessel Nijman were all knocked out in the first round at Minehead.",
       "published": "2026-11-27T23:00:00+00:00",
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-gerwyn-price-darts_7355843.jpg?20260918221555"
+    },
+    {
+      "source": "sky",
+      "title": "Papers: Man Utd in running for Paz, but Champions League key",
+      "link": "https://www.skysports.com/football/news/12040/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "published": "2026-11-27T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "source": "bbc",
@@ -19,9 +43,9 @@
     },
     {
       "source": "sky",
-      "title": "Lyon dropped by Australia for first Test vs New Zealand",
-      "link": "https://www.skysports.com/cricket/news/12040/13617351/nathan-lyon-dropped-by-australia-for-their-first-test-against-new-zealand",
-      "summary": "Nathan Lyon has been dropped by Australia for their upcoming Test series against New Zealand in Perth.",
+      "title": "Lyon dropped by Australia for Test series vs New Zealand",
+      "link": "https://www.skysports.com/cricket/news/12040/13617351/nathan-lyon-dropped-by-australia-for-their-test-series-against-new-zealand",
+      "summary": "Nathan Lyon has been dropped by Australia for their upcoming Test series against New Zealand.",
       "published": "2026-11-27T22:45:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-nathan-lyon_7418235.jpg?20261127212004"
     },
@@ -75,30 +99,6 @@
     },
     {
       "source": "sky",
-      "title": "Azaz does a full Adebayor to celebrate in front of Boro fans!",
-      "link": "https://www.skysports.com/watch/video/13617359/southampton-v-middlesbrough-saints-second-causes-chaos-after-azaz-goads-boro-fans",
-      "summary": "Finn Azaz does his best Emmanuel Adebayor impression to celebrate in front of Middlesbrough supporters after scoring for Southampton.",
-      "published": "2026-11-27T21:42:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-saints_7418259.jpg?20261127214518"
-    },
-    {
-      "source": "sky",
-      "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
-      "link": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
-      "summary": "Morgan Gibbs-White nets again to put Nottingham Forest within sight of victory over Chelsea.",
-      "published": "2026-11-27T21:34:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-gibbs-white-forest_7418250.jpg?20261127213617"
-    },
-    {
-      "source": "sky",
-      "title": "Lifeline for Chelsea! Emegha issues immediate response",
-      "link": "https://www.skysports.com/watch/video/13617352/goal-e-emegha-54-nottm-forest-2-1-chelsea",
-      "summary": "Emmanuel Emegha gets Chelsea back in it at Nottingham Forest.",
-      "published": "2026-11-27T21:16:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-emmanuel-emegha-chelsea_7418237.jpg?20261127212050"
-    },
-    {
-      "source": "sky",
       "title": "'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar",
       "link": "https://www.skysports.com/f1/news/12040/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix",
       "summary": "Charles Leclerc believes an &#8220;outlier&#8221; has given Mercedes a &#8220;massive&#8221; advantage at the Qatar Grand Prix, after Kimi Antonelli and George Russell dominated Friday&#8217;s practice sessions.",
@@ -115,7 +115,7 @@
     },
     {
       "source": "sky",
-      "title": "Rodgers-less Steelers beat sorry Broncos on NFL Black Friday LIVE!",
+      "title": "Rodgers-less Steelers beat sorry Broncos on Black Friday - as it happened",
       "link": "https://www.skysports.com/nfl/live-blog/12040/13617305/nfl-denver-broncos-at-pittsburgh-steelers-live-latest-updates-and-score-from-2026-black-friday-matchup",
       "summary": "",
       "published": "2026-11-27T19:30:00+00:00",
@@ -139,11 +139,11 @@
     },
     {
       "source": "sky",
-      "title": "Players Championship Finals LIVE! Price and Van Veen out in first round",
+      "title": "Coates, 20, knocks out No 1 seed Nijman at Minehead",
       "link": "https://www.skysports.com/darts/live-blog/12040/13617260/players-championship-finals-live-commentary-updates-scores-analysis-with-michael-van-gerwen-beau-greaves-gerwyn-price-in-action",
       "summary": "",
       "published": "2026-11-27T18:40:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-gerwyn-price-darts_7414693.jpg?20261123180057"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-coates-darts_7418334.jpg?20261128001438"
     },
     {
       "source": "sky",
